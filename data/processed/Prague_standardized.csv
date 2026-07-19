@@ -1,0 +1,1205 @@
+city,osm_id,geometry,name,street,house_number,postcode,address_city,amenity,bar,beer,beer_garden,brewery,drink_beer,microbrewery,website,phone,email,facebook,instagram,description,opening_hours,wheelchair,toilets_wheelchair,smoking,min_age,payment_methods_count
+Prague,relation/2327411,POINT (14.410456 50.028601),přírodní památka U Branického pivovaru,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,relation/4469371,POINT (14.425668 50.095994),Zahradní pivnice Letenské sady,Letenské sady,341,170 00,Praha,biergarten,,,,,,,http://www.letenskyzamecek.cz/,+420 233 378 200,,,,,,,,,,0
+Prague,way/4638038,POINT (14.408157 50.068031),Pivovarská,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,way/4641261,POINT (14.448336 50.105935),U Měšťanského pivovaru,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,way/4819716,POINT (14.47552 50.10989),U Libeňského pivovaru,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,way/4990902,POINT (14.501723 50.059529),Pivoňková,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,relation/6826330,POINT (14.407886 50.068432),Pivovar Staropramen,,,,,,,,,staropramen,,,,,,,,,,,,,,0
+Prague,way/8095510,POINT (14.50095 50.05915),Pivoňková,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,way/8103341,POINT (14.507406 50.108418),U Vysočanského pivovaru,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,relation/12397643,POINT (14.420027 50.123034),pivoňková louka,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,way/13882119,POINT (14.504202 50.108146),U Vysočanského pivovaru,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,relation/14981653,POINT (14.377402 50.130461),Pivnice JIH,,,,,,,,,,,,,,,,,Učebny JIH 008-568,,,,,,0
+Prague,relation/16308252,POINT (14.499206 50.0199),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,relation/17261848,POINT (14.532762 50.040222),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,way/22121153,POINT (14.475338 50.10934),Pivovarnická,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,way/22123333,POINT (14.478124 50.109247),Pivovarnická,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,way/25401466,POINT (14.423306 50.096332),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,way/27753989,POINT (14.418994 50.076708),Černý pivovar,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,way/35036719,POINT (14.604596 50.026888),Za Pivovarem,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,way/50111544,POINT (14.507138 50.117626),Restaurace a pension Školička,Klíčovská,11,,,restaurant,,,,,,yes,https://www.skolicka.cz/,+420286583299,,,,,Mo-Su 11:00-22:00,no,,,,5
+Prague,way/50969545,POINT (14.331382 50.067134),Pivovarský rybník,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,way/61697945,POINT (14.512996 50.057375),,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,way/62147117,POINT (14.466294 50.115313),Pivovar U Bulovky,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,way/62176341,POINT (14.476092 50.10753),Trilobit,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,way/75854013,POINT (14.471822 50.02129),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,way/100895271,POINT (14.413827 50.047731),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,way/113160349,POINT (14.605208 50.029446),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,way/116744861,POINT (14.393031 49.976608),pivovar,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,way/128930716,POINT (14.502944 50.058687),Pivoňková,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,way/128930717,POINT (14.502811 50.058036),Pivoňková,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/130239239,POINT (14.505123 50.139577),U Jeníka,Tupolevova,608,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,way/139743149,POINT (14.52002 50.031498),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,way/173596214,POINT (14.427677 50.093493),Bukanýr,,,,,pub,,,,,,,https://www.bukanyr.cz/,+420608973582,,,,,,no,,yes,,0
+Prague,way/182992693,POINT (14.456482 50.106242),Marina,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,way/209405482,POINT (14.506906 50.117575),Minipivovar Beznoska,,,,,,,,,,,yes,,,,,,,,,,no,,0
+Prague,way/224849704,POINT (14.413286 50.028348),Nad Branickým pivovarem,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/243075684,POINT (14.507543 50.134281),Minus,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/264494769,POINT (14.422183 50.063611),Na hradbách,,,,,pub,,,,Pilsner Urquell;Radegast,,,,+420 734 112 214,hospudkanahradbach@gmail.com,https://www.facebook.com/hospudkanahradbach/,,,Mo-Su 12:00-24:00,limited,,outside,,2
+Prague,way/266723593,POINT (14.416922 50.112693),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,node/267198809,POINT (14.509492 50.068325),Pivnice Skalka,,,,,pub,,,,,,,,,,,,,Mo-Fr 12:00-22:00; Sa 14:00-21:00,,,,,0
+Prague,node/282088403,POINT (14.413324 50.047853),Tančírna,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,way/289772710,POINT (14.416234 50.133391),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,node/290027600,POINT (14.423744 50.07543),Pivovarský dům Benedict,Ječná,15,12000,Praha 2,restaurant,,,,,,yes,https://www.pivo-dum.cz/,+420 296 216 666,benedict@pivo-dum.cz,Pivovarskydum,pivo_dum_benedict,,Mo-Su 11:00-23:30,limited,yes,no,,3
+Prague,node/292558838,POINT (14.506946 50.10856),Zubaři u pivovaru,U Vysočanského pivovaru,3,19000,Praha,dentist,,,,,,,,,,,,,,,,,,0
+Prague,way/293117389,POINT (14.456083 50.051447),Hadovka,,,,,pub,,,,,,,,,,,,,,no,,,,0
+Prague,node/296155831,POINT (14.65239 50.017736),,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/296454327,POINT (14.446464 50.08578),U Habásků,Husinecká,661/29,13000,Praha 3,pub,,,,,,,https://www.uhabasku-zizkov.cz/,+420 731 606 308,info@systems-group.info,,,,"Mo-Th 16:00-24:00, Fr,Sa 16:00-02:00, Su 16:00-23:00",,,,,0
+Prague,node/296456145,POINT (14.438509 50.078709),Savage Bar,Anny Letenské,936/18,12000,,bar,,,,,,,,,,,,,Mo-Th 17:00-01:00; Fr-Sa 17:00-02:00; Su 17:00-01:00,no,,,,3
+Prague,node/296460318,POINT (14.418234 50.080463),La Casa de la Havana vieja,Opatovická,1901/28,11000,,bar,,,,,,,,,,,,,Tu-Sa 17:00-01:00,,,,,0
+Prague,node/296467865,POINT (14.424376 50.089986),Moon Club,Dlouhá,709/26,11000,Praha 1,bar,,,,,,,https://moonclub.cz/,,,,,,Tu-Su 18:00-24:00,,,,18,0
+Prague,node/296486470,POINT (14.451084 50.08476),Pivoteka ŽižkOFF,Milíčova,470/6,13000,Praha 3,pub,,,,,,,http://www.praguebeeracademy.com/cz/pivni-klub.html,,,,,,,,,,,0
+Prague,node/296495035,POINT (14.431049 50.074746),Ber.lin Bar,Lublaňská,646/59,120 00,,bar,,,,,,,https://berlinbar.cz,,,,berlinbarpraha,,"Su, We-Fr 20:00-02:00; Sa 20:00-03:00",,,,,0
+Prague,node/296495446,POINT (14.416992 50.08535),U Kunstatu,Řetězová,222/3,110 00,Praha 1,bar,,,,,,,,,,,,,Mo-Su 14:00-23:00,,,,,0
+Prague,node/296498803,POINT (14.418523 50.084101),jazz republic,Jilská,527/2,11000,,pub,,,,,,,https://www.jazzrepublic.cz/,,,,jazzrepublic,,We-Mo 20:00-24:00,no,,,18,0
+Prague,node/296517625,POINT (14.436363 50.086701),Studio 54,,,,,bar,,,,,,,https://www.studio54.cz/,+420 774 446 854,info@studio54.cz,,,,"Th 04:00-10:00; Sa,Su 04:00-16:00",,,,,0
+Prague,node/296555731,POINT (14.451074 50.076198),Wombat Cafe,Slezská,1286/78,13000,Praha 3,bar,,,,,,,,+420 777 666 374,,https://www.facebook.com/666wombatcafe/,,,Mo-Sa 15:00-23:30,no,,,,0
+Prague,node/296570598,POINT (14.43352 50.076843),NUBEERBAR,Balbínova,529/1,120 00,,bar,,,,,,,https://www.nubeerbar.cz/,,,,,,Fr 16:00-24:00; Mo-Th 16:00-23:00; Sa 17:00-23:00; Su 17:00-22:00,no,,,,0
+Prague,node/296598785,POINT (14.457531 50.07747),Koala,Vinohradská,1756/114,13000,,,,,,,,,,,,,,,Mo-Fr 06:00-18:00; Sa 06:00-11:30,,,,,0
+Prague,node/296601430,POINT (14.444303 50.082488),Belzepub,U Rajské zahrady,809/14,13000,Praha 3,pub,,,,yes,,,https://www.belzepub.cz/,,,,,,We-Sa 12:00-22:00,,,,,0
+Prague,node/296608521,POINT (14.414228 50.08422),Café-Bar Duende,Karoliny Světlé,277/30,11000,,bar,,,,,,,,,,,,,,no,,,,0
+Prague,node/296679665,POINT (14.419348 50.087435),Absintherie Franz Kafka,U Radnice,13/8,110 00,Praha 1,bar,,,,no,,,https://www.absintherie.cz/en/absintherie-franz,+420 273 132 612,absintherie@absint.cz,,,,Mo-Su 12:00-24:00,,,,,0
+Prague,node/296680006,POINT (14.405884 50.080485),Craft Beer Spot,Plaská,623/5,15000,,bar,,,,,yes,,https://beerspotprague.cz,+420 257 219 855,beerspotprague@gmail.com,,,,"Mo-Su 11:30-23:00; Fr,Sa 11:30-24:00",no,,no,,0
+Prague,node/296690531,POINT (14.47372 50.06991),Turnovská pivnice,Vršovická,1220/80,10000,,restaurant,,,,yes;various,,,https://turnovskapivnice.cz/,+420 603 100 611,vrsovice@turnovskapivnice.cz,,,,Mo-Sa 11:00-23:00; Su 11:00-22:00,,,no,,0
+Prague,node/296700168,POINT (14.453452 50.079929),Necropolis,Velehradská,1436/18,13000,,bar,,,,yes,,,https://facebook.com/necropolisprague,,,,,,Mo-Su 18:00-01:00,,,,,0
+Prague,node/296710660,POINT (14.337878 50.058602),U Petrů,Jindrova,280/1,15500,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/296719679,POINT (14.664751 50.086564),U Smolíka,Staroklánovická,204,19016,,pub,,,,,,,,,,,,,"Su-Th 14:00-22:00, Sa,Su 14:00-23:00",,,,,0
+Prague,node/296720238,POINT (14.389548 50.072364),Kočárek,Erbenova,1030/6,15000,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/296721840,POINT (14.44828 50.071577),Patra,Krymská,286/17,10100,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/296726794,POINT (14.37125 50.083743),Hostinec Drinopol,Bělohorská,493/63,16900,Praha,pub,,,,,,,http://www.drinopol.cz/,+420 245 006 126,,,,,"Mo-Fr 10:30-23:00; Sa,Su 11:00-23:00",,,,,0
+Prague,node/296735618,POINT (14.595472 50.033745),U Velké Prahy,Přátelství,137/36,10400,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/296739352,POINT (14.530249 50.104875),Hospoda U Bočana,Poděbradská,597/67,19800,Praha,pub,,,,,,,,,,,,,Mo-Su 12:00-22:00,,,,,3
+Prague,node/296742613,POINT (14.446356 50.092435),U Sani,Karlínské náměstí,235/13,18600,,pub,,,,,,,,,,,,,Mo-Sa 11:00-23:00; Su 11:00-22:00,limited,no,,,0
+Prague,node/296760797,POINT (14.36074 50.036343),Pivovar Prokopák,Do Klukovic,305,15200,,restaurant,,,,,,,https://www.pivovar-prokopak.cz/,,,,,,Mo-Sa 11:00-21:30,,,outside,,2
+Prague,node/296768916,POINT (14.434619 50.103133),U Malého Berlína,Schnirchova,1450/21,17000,,pub,,,,Pilsner Urquell;Kozel,,,https://www.umalehoberlina.cz/,,,,,,Mo-Su 11:00-23:00,,,,,0
+Prague,node/296778915,POINT (14.604969 50.0297),Restaurant Pivovarská,K sokolovně,38/10,10400,,restaurant,,,,,,,https://restaurantpivovarska.cz,+420 267 711 949,,,,,Mo-Th 11:00-23:00; Fr-Sa 11:00-24:00; Su 11:00-23:00,,,,,0
+Prague,node/296782644,POINT (14.454196 50.105274),V Háji,V Háji,1070/28,17000,,pub,,,,,,,,,,,,,Mo-Fr 09:00-22:00; Sa-Su 10:00-21:00,,,,,0
+Prague,node/296783584,POINT (14.508002 50.070675),Hostinec V Rybníčkách,V Rybníčkách,865/35,10000,,pub,,,,yes;various,,,,+420 608 342 877,,,,,Mo-Su 12:00-22:00,,,,,0
+Prague,node/296785271,POINT (14.516443 50.137021),Empír steak Letňany,Beranových,39,19900,,pub,,,,,,,https://www.empirsteak.cz/,,,,,,,,,,,0
+Prague,node/296804168,POINT (14.370407 49.958493),U Járina,Jílovišťská,9,15531,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/296827496,POINT (14.393344 50.037031),Vinárna U Butona,V bokách III,877/1,15200,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/296832271,POINT (14.514053 50.13615),Sport Bar Chelsea,Beranových,125,19900,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/299776744,POINT (14.513054 50.138279),hospůdka U Karla,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,way/300042533,POINT (14.420202 50.095954),Na Bašte,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,node/304323786,POINT (14.488879 50.093589),Pivní bar Na Vrcholu,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/305079222,POINT (14.40468 50.08185),Pivnice U Švejků,Újezd,22,11800,Praha,restaurant,,,,,,,,,,,,,Mo-Su 11:00-22:00,yes,,,,0
+Prague,node/308365561,POINT (14.48906 50.092666),Sport bar Na Chmelnici,,,,,bar,,,,,,,,,,,,,Mo-Su 09:00-22:00,,,,,0
+Prague,node/308582119,POINT (14.497209 50.091692),Hospoda Jarov,,,,,restaurant,,,,,,,https://www.facebook.com/HospodaJAROV/,,,,,,Mo-Sa 10:00-22:00,,,,,0
+Prague,node/315124571,POINT (14.576201 50.08554),Bar NDR,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/316778801,POINT (14.419884 50.059091),Tobaco,Podolská,33,14700,Praha,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/330200829,POINT (14.372937 50.103724),Galerie vín,,,,,,,,,,,,,,,,,,,no,,,,0
+Prague,node/330643006,POINT (14.404428 50.077586),Pivnice U Dělového kříže,Štefánikova,48,15000,Praha,restaurant,,,,,,,http://www.udelovehokrize.eu/,+420 257 221 221,,,,,,,,,,0
+Prague,node/331950069,POINT (14.398284 50.103198),Hostinec staré zátiší,,,,,pub,,,,,,,,,,,,,Mo-Su 10:00-22:00,,,,,2
+Prague,node/331956703,POINT (14.413998 50.084945),Rivier,Smetanovo nábřeží,22,11000,Praha,bar,,,,,,,,,,,,,,no,,,,0
+Prague,node/331959659,POINT (14.416976 50.078898),U Fleků,Křemencova,1651/11,11000,Praha,restaurant,,,,yes,,yes,https://ufleku.cz/,+420 224 934 019,ufleku@ufleku.cz,,https://www.instagram.com/pivovar_u_fleku,,Mo-Su 10:00-23:00,,,,,2
+Prague,node/331960291,POINT (14.417227 50.07851),U Karla,Křemencova,186/7,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/331960299,POINT (14.417835 50.07765),Milá tchýně,Na Zbořenci,9,12000,Praha,pub,,,,,,,https://milatchyne.cz/,+420 602 955 486,,,,,Mo-Fr 15:00-03:00; Sa-Su 17:00-03:00,,,,,0
+Prague,node/331960300,POINT (14.417149 50.077244),U Žaludů,Na zbořenci,261/5,12000,Praha,pub,,,,,,,http://www.morlor.com/uzaludu/,+420 603 782 970,,,,,"Mo-Fr 10:30-23:00; Sa,Su 11:00-23:00",,,,,0
+Prague,node/331960684,POINT (14.404571 50.084233),Pivnice pod Petřínem,,,,,pub,,,,,,,http://www.pivnicepodpetrinem.cz/,+420 257 224 408,info@pivnicepodpetrinem.cz,,,3rd party app Qerko required for bitcoin payment,,no,,yes,,1
+Prague,node/331960888,POINT (14.384742 50.100672),Oáza,Mydlářka,2,16000,Praha,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/332224305,POINT (14.395206 50.109126),Šakalí šenk,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/332450286,POINT (14.376031 50.086847),"Hostinec ""u Anduly""",,,,,pub,,,,staropramen,,,,,,,,,,,,,,0
+Prague,node/339049781,POINT (14.441602 50.086256),District 3 Bar,,,,,bar,,,,Vinohadský_pivovar,,,https://facebook.com/zizkov3,+420777632094,radek.bartos@district3.cz,,,,Mo-Fr 16:00-22:00,limited,,,,0
+Prague,node/340024367,POINT (14.420971 50.080583),The Dutch Pub,Vladislavova,1390/17,11000,Praha,pub,,,,,,,https://www.dutchpub.cz/,+420 727 969 818,,,,,"Mo-Th 11:00-24:00, Fr 11:00-01:00, Sa 12:00-01:00, Su 12:00-23:00",,,,,0
+Prague,node/343683687,POINT (14.422047 50.08167),Jelínkova plzeňská pivnice,Charvátova,33/1,,,pub,,,,,,,,+420 224 948 486,,,,,Mo-Fr 10:00-22:00; Sa 10:00-18:00,,,,,0
+Prague,node/343804474,POINT (14.473291 50.090089),Vinařství Pfeffer,Biskupcova,1719/42,,,bar,,,,,,,,,,,,,"Mo,We,Fr 16:00-22:00",limited,,,,0
+Prague,node/344797516,POINT (14.487931 50.099935),Club Montana,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/346198673,POINT (14.323975 50.092448),Libocký pivovar - Hostinec nad Šárkou,Evropská,209,16100,Praha,restaurant,,,,,,yes,https://nadsarkou.cz/,+420 733 502 600,,,,,Mo-Sa 11:00-23:00; Su 11:00-22:00,,,outside,,0
+Prague,node/346909390,POINT (14.356808 49.986811),U Kestřánků,,,,,pub,,,,,,,,,,,,,Mo-Su,,,,,0
+Prague,node/350569091,POINT (14.470333 50.127036),Pivovar Cobolis,,,,,restaurant,,,,,,,https://www.cobolis.cz/,,,,,,"Mo-Th 11:00-23:00; Fr,Sa 11:00-23:30; Su 11:00-22:00",yes,yes,,,2
+Prague,node/352803371,POINT (14.558128 50.045367),Klec,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/355008175,POINT (14.416396 50.075879),Krčma U Parašutistů,Resslova,1939/7,12000,Praha,pub,,,,,,,https://www.uparasutistu.cz/,+420 737 670 278,,,,,Mo-Fr 11:00-22:00; Sa 12:00-23:00; Su 12:00-22:00,limited,,,,0
+Prague,node/355008183,POINT (14.416599 50.077285),Muzeum medoviny,Na Zderaze,260/14,12000,Praha,,,,,,,,https://www.muzeummedoviny.cz/,+420 775 633 077,,https://www.facebook.com/muzeummedoviny/,,,Tu-Fr 13:00-19:00,,,,,0
+Prague,node/355008194,POINT (14.418938 50.07809),Vínko Charlie,Myslíkova,30,12000,Praha,pub,,,,,,,,,vinko.charlie@gmail.com,,,,,,,,,2
+Prague,node/355278872,POINT (14.384495 50.08984),Burger Pub Na Hubálce,Za Hládkovem,975/2,16900,Praha,pub,,,,yes,,,,+420 604 562 941,burgerpub@nahubalce.cz,,,,Mo-Su 12:00-22:30,,,no,,0
+Prague,node/358488347,POINT (14.41532 50.079693),Propaganda,Pštrossova,29,11000,Praha,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/360039727,POINT (14.406491 50.098294),Krkonošská hospůdka,,,,,pub,,,,,,,https://www.krkonosskahospudka.cz/,,davidhousa@gmail.com,krkohospudka,,,Mo-Su 15:00-22:00,no,,,,0
+Prague,node/360183674,POINT (14.404458 50.101169),Pivovar Bubeneč,Bubenečská,321/33,160 00,,pub,,,,,,,https://pivovarbubenec.cz,+420 222 933 511,,,,,"Mo-Fr 15:00-23:00; Sa,Su 11:00-23:00",,,,,2
+Prague,node/360551865,POINT (14.497471 50.019725),Blanice,,,148 00,,pub,,,,,,,https://klubblanice.cz/,+420 737 243 547,,,,,Mo-Su 15:00-02:30,,,,,0
+Prague,node/360656908,POINT (14.369094 50.083854),Pivnice a bar u koně,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/361405420,POINT (14.448246 50.107577),Café Bar Zastávka,,,,,bar,,,,Stella Artois,,,,,,,,,,yes,,,,0
+Prague,node/366113036,POINT (14.56189 50.106481),Na Rajské,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/369379798,POINT (14.461296 50.070588),Aprés,,,,,bar,,,,,,,,,,,,,Mo-Fr 17:00-24:00,,,,,3
+Prague,node/370365654,POINT (14.40343 50.086954),Pivovar Mikulas,Karmelitská,373/25,,,pub,,,,,,yes,,,,,,,,,,outside,,3
+Prague,node/370945606,POINT (14.399602 50.098682),Bacchus,,,,,,,,,,,,,,,,,,Mo-Sa 12:00-24:00,,,,,0
+Prague,node/377126315,POINT (14.566522 50.10752),Hospoda na Chlumecké,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,way/379800530,POINT (14.410548 50.029702),Pivovar Braník,,,,,,,,,,,,,,,,,Výroba piva ukončena,,,,,,0
+Prague,node/384058618,POINT (14.487619 50.095916),Sportbar Tenis,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/389121387,POINT (14.322838 50.075309),Pivnice Darda,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/390543030,POINT (14.421342 50.067182),Billiard bar Albertov,Na Slupi,3,12800,Praha,bar,,,,,,,,,,,,,,,,,,0
+Prague,way/392930763,POINT (14.506594 50.10845),U Vysočanského pivovaru,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,way/392930764,POINT (14.50884 50.108373),U Vysočanského pivovaru,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/394820071,POINT (14.320694 50.099698),Dívčí skok,,,,,pub,,,,,,,https://www.divciskok.cz/,+420 606 760 647,divciskok@gmail.com,,,Otvírací doba se mění podle ročního období a počasí,"Mo-Fr 14:00-20:00; Sa,Su 10:00-20:00",,,outside,,0
+Prague,way/401345793,POINT (14.503095 50.107892),Hotel Pivovar,Freyova,1/12,19000,,,,,,,,,www.hotel-pivovar.cz,+420 283 892 150,contact@hotel-pivovar.cz,,,,,limited,,,,0
+Prague,node/411091229,POINT (14.600429 50.030242),Lidový dům,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/411613740,POINT (14.605618 50.030141),U Rosů,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/422694321,POINT (14.42025 50.06807),Bar Hidden,,,12800,Praha,bar,,,,,,,http://www.hidden.cz/,+420 777 207 584,,,,,Mo-Fr 15:00-23:00,,,,,0
+Prague,node/426162004,POINT (14.457825 50.088266),Bar Club K35A,Hartigova,35,,,bar,,,,,,,http://www.k35a.cz,,,,,,,,,,,0
+Prague,node/428930149,POINT (14.415761 50.070581),U plavců,,,,,pub,,,,,,,,,,,,,"Su-Th 17:00-23:00, Fr,Sa 17:00-24:00",,,,,0
+Prague,node/428930150,POINT (14.415904 50.070588),p. m.,,,,,bar,,,,,,,https://www.pmclub.net/,,,,,,,,,,,0
+Prague,node/429412703,POINT (14.400052 50.097231),Dejvická nádražka,Václavkova,169/1,16000,Praha,pub,,,,,,,http://nadrazka.cz/,+420 774 341 215,,,,Every year there's a big celebration on 25 January at 8:50 and again at 20:50.,Mo-Su 12:00-24:00,,,outside,,0
+Prague,node/429453909,POINT (14.416463 50.070837),U suchý dásně,Trojická,1912/11,12800,Praha,pub,,,,,,,https://www.suchadasen.cz/,+420 224 919 710,,,,,"Mo-Th 14:00-02:00, Fr 15:00-03:00, Sa 16:00-03:00, Su 16:00-01:00",,,,,0
+Prague,node/431093188,POINT (14.515167 50.024504),Snack bar Blesk,,,,,pub,,,,,,,,,,,,,Su-Fr 14:00-23:00; Sa 16:00-23:00,,,,,0
+Prague,node/431093189,POINT (14.51542 50.022462),Crash Cafe,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/434518184,POINT (14.417346 50.078332),Absinthe Time,Křemencova,5,,,bar,,,,,,,http://www.absinthe-time.cz/,,,,,,Mo-Su 17:00-00:00,,,,,0
+Prague,node/435137714,POINT (14.415567 50.084074),Pivovar Staré Město,U Dobřenských,3,11000,Praha,restaurant,,,,,,yes,https://www.pivovarstaremesto.cz/,+420 777 090 146,info@pivovarstaremesto.cz,,,,"Mo-Fr 16:30-22:30; Fr, Sa 16:30-23:00; Su 16:30-22:00",no,,,,0
+Prague,node/437250437,POINT (14.418968 50.07132),Vinárna Na Hrádku,,,,,bar,,,,,,,,,,,,,Mo-Fr 16:30-22:00,,,,,0
+Prague,node/445843603,POINT (14.468078 50.061326),Na Rychte,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/449703355,POINT (14.504148 50.101721),Na Poděbradské,U Harfy,229/14,19000,,pub,,,,,,,,,,,,,Mo-Fr 11:00-23:00,,,,,2
+Prague,node/450566320,POINT (14.455247 50.08608),Fatal Music Club,,,,,pub,,,,,,,https://fatalclub.cz/,,,,,,,limited,,outside,,0
+Prague,node/450566322,POINT (14.45783 50.078644),Černá/Black Swine,,,,,pub,,,,,,,,,,,,,"Mo-Th 16:00-24:00, Fr,Sa 16:00-01:00, Su 16:00-23:00",,,,,0
+Prague,node/457720011,POINT (14.476378 50.077936),Na Želvě,,,,,bar,,industrial,,Molson Cors,,,,,,,,,,,,,,0
+Prague,node/467846283,POINT (14.465808 50.089316),Bar 109,,,,,bar,,,,,,,,,,,,,,limited,,,,0
+Prague,node/473226958,POINT (14.420434 50.083564),U Dvou koček,,,,,restaurant,,,,,,yes,https://udvoukocek.cz/,+420 224 229 982,,,,,Mo-Su 11:00-23:00,no,,,,0
+Prague,node/474956727,POINT (14.492432 50.02527),Slunečnice,,,,,pub,,,,yes,,,,,,,,,,,,,,0
+Prague,node/475420172,POINT (14.324008 50.092341),Hostinec nad sarkou,Libocká,134/77,16100,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,way/483876254,POINT (14.550073 50.046201),Zahrada Pivovaru Hostivar,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/485606705,POINT (14.41401 50.03575),Hostinec U kohouta,Branická,65/147,14700,Praha 4,pub,,,,,,,,,,,,,Mo-Su 10:00-23:00,,,,,0
+Prague,way/485980904,POINT (14.426575 50.093492),Loď Pivovar,,,,,restaurant,,,,,,yes,,,,,,,"Fr,Sa 11:30-22:00,11:30-23:00",,,,,0
+Prague,way/491981367,POINT (14.485541 50.014094),,,,,,biergarten,,,,,,,,,,,,,,no,,,,0
+Prague,way/491983024,POINT (14.466303 50.024127),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,way/491983030,POINT (14.465758 50.024114),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,way/504462468,POINT (14.603676 50.026856),Za Pivovarem,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,way/504462470,POINT (14.605486 50.026868),Za Pivovarem,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/536286751,POINT (14.485009 50.104194),Pohádka,,,,,pub,,,,,,,,,,,,,Mo-Su 10:00-22:00,,,,,0
+Prague,way/545030229,POINT (14.475183 50.108158),U Libeňského pivovaru,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/552405058,POINT (14.414503 50.082561),Hostinec u Rotundy,Karoliny Světlé,1035/17,11000,Praha,pub,,,,,,,http://www.pivniceurotundy.cz/,+420 224 227 227,,https://www.facebook.com/HostinecURotundy/,,,Mo-Su 11:00-22:30,,,,,0
+Prague,node/566395679,POINT (14.488309 50.078923),U Kmotra,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/585175528,POINT (14.471003 50.107249),U Žabáka,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/585175539,POINT (14.472577 50.106175),Pivnice u Světa,Zenklova,465/31,18000,Praha 8,pub,,,,,,,,,,,,,Mo-Su 09:00-23:00,,,separated,,0
+Prague,node/585175558,POINT (14.471504 50.105505),U Horkých,Koželužská,595/8,18000,Praha,pub,,,,,,,https://www.uhorkych.cz/,,,https://www.facebook.com/uhorkych/,,,Mo-Fr 10:30-23:00; Sa-Su 11:00-23:00,limited,,,,2
+Prague,node/585182680,POINT (14.468769 50.099074),U chcípáka,Sokolovská,142,18000,Praha,pub,,,,,,,,,,,,,Mo-Su 11:00-23:00,yes,,,,0
+Prague,node/585182690,POINT (14.474356 50.105189),Vinárna U Hrabala,,,,,pub,,,,,,,,,,,,,Mo-Fr 15:00-22:00,,,,,0
+Prague,node/585205200,POINT (14.464873 50.10651),U Budyho,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/585219608,POINT (14.441446 50.090501),Pivovarský klub Benedict,Křižíkova,17,18600,Praha 8,restaurant,,,,,,,https://pivo-klub.cz/,+420 222 315 777,,,,,Mo-Sa 11:00-23:30; Su 12:00-22:00,no,,no,,3
+Prague,node/585335092,POINT (14.475313 50.106403),Na měsíci,,,,,bar,,,,,,,,,,,,,Mo-Su 17:00-22:00,,,,,0
+Prague,node/589970268,POINT (14.597585 50.112596),Na Růžku,,,,,pub,,,,,,,,,,,,,Mo-Th 14:00-22:00; Sa 13:00-23:00; Su 13:00-21:00; Fr 15:00-24:00,,,,,0
+Prague,node/606129935,POINT (14.33185 50.045253),Bunkr,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/611414004,POINT (14.361958 49.983017),Pivovar Horymír,Horymírovo náměstí,9,15300,Praha,restaurant,,,,,,,https://pivovarhorymir.cz/,,,,,,Mo-Su 11:00-22:00,,,,,0
+Prague,node/619481858,POINT (14.670653 50.097756),U Jonáše,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/625826253,POINT (14.43725 50.078966),Decentní Dýně,,,,,bar,,,,,,,https://dcdyne.com/,,,,,,Mo-Th 17:00-23:00; Fr 17:00-24:00; Sa 17:00-24:00,,,,,0
+Prague,node/634586354,POINT (14.337376 50.085248),U Holečků,Libocká,268/6,16200,Praha,pub,,,,yes;Pilsner_Urquell,,,http://www.uholecku.cz/,+420 731 791 969,,https://www.facebook.com/Restaurace-U-Holečků-1450895888464858/,,,"Mo-Su 11:00-24:00; Fr,Sa 00:00-01:00,11:00-24:00",,,outside,,0
+Prague,way/659276345,POINT (14.564427 50.112855),Pivoňská,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/674723309,POINT (14.361086 50.083682),U Kaštanu,,,,,biergarten,,,,,,,https://kastan.unijazz.cz/,,,,,letní zahrádka květen až září,,,,,,0
+Prague,node/677924404,POINT (14.418696 50.082912),U Medvídků,Na Perštýně,345/7,11000,Praha,restaurant,,,,,,yes,https://www.umedvidku.cz/,+420 224 211 916,info@umedvidku.cz,,,,Mo-Sa 11:30-23:00; Su 11:30-22:00,,,,,2
+Prague,node/678436132,POINT (14.479227 50.007674),Na Betáni,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,way/679349415,POINT (14.441655 50.112418),Altenburg 1964,,,,,bar,,,,,,,https://www.altenburg1964.cz/,,,,,,Apr-Oct: Mo-Su 17:00-01:00,,,,,0
+Prague,way/682103485,POINT (14.379975 50.112881),Fišerka,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/701301858,POINT (14.356137 50.029678),U Knotků,,,,,pub,,,,,,,,+420 251 681 944,,,,,Mo-Su 14:30-23:00,,,,,0
+Prague,node/702183418,POINT (14.472137 50.126986),Osma,,,,,bar,,,,,,,,,,,,,,no,,,,2
+Prague,node/704007494,POINT (14.41544 50.07078),Beer stop v Podskalské,Podskalská,20,12800,Praha,,,,,,yes,,,,info@beerstop.eu,https://www.facebook.com/TheBeerStopPodPetrinem,,,,,,,,0
+Prague,node/704693475,POINT (14.415413 50.069349),U Libuše,,,,,pub,,,,,,,,,,,,,Mo-Su 10:30-23:00,,,,,0
+Prague,node/704693476,POINT (14.415378 50.069506),Obchod Vínem,,,,,bar,,,,,,,,,,,,,Tu-Fr 11:30-20:00,,,,,0
+Prague,node/704693483,POINT (14.417563 50.068786),Výloha bar,Vyšehradská,12,12800,Praha,bar,,,,,,,https://vylohabar.cz,,,,,,Mo-Th 17:00-01:00; Fr-Sa 17:00-02:00; Su 17:00-24:00,limited,,yes,,0
+Prague,node/736793475,POINT (14.420159 50.051743),Čerstvé pivo,Vápencová,927/1a,14700,,pub,,,,,,,https://clubtimeout.cz/,,,,,,Mo-Su 16:00-21:00,,,,,0
+Prague,way/740682444,POINT (14.547661 50.130547),Kbelský pivovar,,,,,biergarten,,,,,,,,,,,,,Mo-Su 11:00-23:00,,,,,0
+Prague,way/740682445,POINT (14.470344 50.127143),Cobolis,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/766147478,POINT (14.463133 50.007373),Občerstvení U Bati,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/774055598,POINT (14.548233 50.038197),Music coctail bar La Chance,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/776032727,POINT (14.435126 50.04812),Restaurace Olympia,,,,,pub,,,,,,,https://www.olympierest.com/,+420 241733982,,,,,Mo-Su 10:00-23:00,,,,,0
+Prague,node/804876672,POINT (14.388362 49.96386),Na Kamínce,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/821161544,POINT (14.421052 50.083949),George and Dragon Prague,Rytířská,411,11000,Praha 1,bar,,,,Guinness,,,https://www.georgeanddragon.cz,,,,,,,limited,,,,0
+Prague,node/828136432,POINT (14.358438 49.974685),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,node/845434878,POINT (14.398992 50.066566),UFO Bar a restaurant,,,,,pub,,,,,,,,,,,,,,,,yes,,0
+Prague,node/854483148,POINT (14.439847 50.020073),U Sázelů,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,way/856695352,POINT (14.489034 50.069952),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,node/888551217,POINT (14.507719 50.084615),Malešický mikropivovar,,,,,restaurant,,,,self;various,,yes,https://www.malesickymikropivovar.cz/,+420 605 707 007,info@malesickymikropivovar.cz,,,,,,,outside,,0
+Prague,node/890463768,POINT (14.468069 50.048366),V Zápolí,,,,,pub,,,,,,,,,,,,,,no,,,,0
+Prague,node/895762285,POINT (14.479809 50.13288),Na konečné,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/895763724,POINT (14.470324 50.133481),Bar Kantáre,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/895766831,POINT (14.474466 50.128168),Zanzibar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/895771091,POINT (14.475646 50.128107),Satanka,,,,,pub,,,,,,,,,,,,,"Mo-Sa 14:00-02:00, Su 02:00-01:00",,,,,0
+Prague,node/895784731,POINT (14.432119 50.135783),Čimická kozlovna,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/895799253,POINT (14.456198 50.124188),Amarula,,,,,pub,,,,,,,,,,,,,Mo-Su 20:00-01:00,,,,,0
+Prague,way/913822289,POINT (14.424342 50.113327),,,,,,biergarten,,,,,draught,,,,,,,,,yes,,,,0
+Prague,node/920065581,POINT (14.450278 50.083429),Herba café,,,,,pub,,,,,,,,,,,,,,no,,,,0
+Prague,node/920065865,POINT (14.447532 50.082837),Morava,,,,,pub,,,,,,,,,,,,,"Mo-Th 11:00-23:00, Fr 11:00-24:00, Sa 12:00-24:00, Su 12:00-22:00",limited,,,,0
+Prague,node/920066044,POINT (14.451201 50.082162),Království,Kubelíkova,1215/36,,,pub,,,,,,,,,,,,,Mo-Su 17:00-24:00,,,,,0
+Prague,node/920066555,POINT (14.448594 50.083071),Bukowski's,,,,,bar,,,,,,,,,,share/16ysqPWm5P,bukowskisbar,,Mo-Su 19:00-03:00,no,,yes,,1
+Prague,node/920066899,POINT (14.448691 50.082872),Hospůdka Nad Viktorkou,Bořivojova,785/79,13000,Praha,pub,,,,,,,https://www.nadviktorkou.cz/,+420 604 278 074,,https://www.facebook.com/HospudkaNadViktorkou/,,,Mo-Fr 17:00-01:00; Sa-Su 19:00-01:00,no,,,,0
+Prague,node/920067303,POINT (14.446856 50.08336),Vlkova 26,Vlkova,26,,,bar,,,,,,,https://vlkova26.cz/,,,,,,,,,,,0
+Prague,node/920067467,POINT (14.446706 50.083546),Up Bar Žižkov,,,,,bar,,,,,,,http://www.upbar.cz/,,,,,,,,,,,0
+Prague,node/925178698,POINT (14.381106 50.13589),Sportbar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/925966931,POINT (14.499061 50.04162),Pivovarská прага,,,,,restaurant,,,,,,,https://www.tophotel.cz/cz/Restaurace/pivovarska-restaurace/,,,,,,Mo-Su 11:00-22:00,,,yes,,0
+Prague,node/925967019,POINT (14.497713 50.044386),U Petra a Markéty,Milínská,88,14900,Praha,biergarten,,,,,,,https://u-petra-a-markety.cz/,,,,,,Tu-Th 15:00-22:00; Fr 15:00-23:00; Sa 12:00-23:00; Su 12:00-22:00,,,,,0
+Prague,node/930164904,POINT (14.39816 50.067102),Vinařský dům U Nikolajky,U Nikolajky,16,15000,Praha 5,,,,,,,,https://www.facebook.com/vinarskydumunikolajky,,,,,,Mo-Th 10:00-20:00; Fr 10:00-22:00; Sa 13:00-21:00; Su 15:00-20:00,,,,,0
+Prague,way/930290076,POINT (14.456174 50.088878),Sport club Vitkov,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/941476951,POINT (14.517897 50.044842),Sykora,,,,,,,,,,,,http://www.vinovsudech.cz,+420 602 654 739,obchod@vinovsudech.cz,,,,Mo-Su 16:00-22:00,,,,,0
+Prague,way/953808437,POINT (14.430893 49.972871),,,,,,biergarten,,,,,,no,,,,,,,,,,,,0
+Prague,way/973603899,POINT (14.494292 50.060185),Pivní zahrada Kraft,,,,,biergarten,,,,yes;various,,,https://pivovarkraft.cz/pivni-zahrada/,,,,,,Mo-Su 16:00-22:00; Oct 15-Mar 15: Tu-Su 17:00-22:00,no,,separated,,0
+Prague,node/989045389,POINT (14.42185 50.089599),Kenton's New York Bar,V Kolkovně,3,11000,Praha 1,bar,,,,,,,http://www.tretters-bar.cz/,+420 224 811 165,,,,,Mo-Su 19:00-3:00,,,yes,,0
+Prague,node/995953393,POINT (14.403267 50.070322),Mark's pub,Stroupežnického,570/9,15000,Praha,pub,,craft_beer,,,,,https://www.facebook.com/markspubprague/,+420 739 123 663,,,,,Mo-Th 16:00-23:00; Fr-Sa 16:00-01:00; Su 16:00-22:00,yes,,,,0
+Prague,node/995953405,POINT (14.402194 50.067375),Dominec,,,,,,,,,,,,https://www.dominec.com/,+420 251566280,,,,,Mo-Fr 09:00-17:00,,,,,0
+Prague,node/997583480,POINT (14.436377 50.100698),Kavárna Liberál,Heřmanova,6,170 00,Praha,bar,,,,Únětice,,,,+420 732 355 445,,https://www.facebook.com/kavarnaliberal/,,,Mo-Fr 08:00-24:00; Sa-Su 10:00-24:00,no,,,,2
+Prague,node/1003126873,POINT (14.373275 50.125296),U Kapličky,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/1008212347,POINT (14.301133 50.065091),Krušovická Šalanda,Makovského,1397/27a,16300,Praha 6,pub,,,,Krušovice,,,https://www.restauracesalanda.cz/cs/salanda/repy,+420 775 682 038,,,,,Mo-Th 11:00-23:00; Fr 11:00-00:00; Sa 11:30-24:00; Su 11:30-22:00,,,,,0
+Prague,node/1008232226,POINT (14.30845 50.065082),,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,way/1040766361,POINT (14.477245 50.109683),Pivovarnická,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/1054447605,POINT (14.482431 50.108252),Pivovar Kilián,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/1054481737,POINT (14.520148 50.028354),Studio Severka,,,,,pub,,,,,,,,,,,,,"PH,Mo-Su 15:00-01:00",yes,,,,0
+Prague,node/1068488604,POINT (14.519861 50.031451),Jihoměstský pivovar,Podjavorinské,1602/11,14900,Praha 11,restaurant,,,,,,yes,http://www.jihomestskypivovar.cz/,+420607916919,jihomestskypivovar@seznam.cz,,,,Mo-We 16:00-22:00; Th-Sa 16:00-23:00; Su 16:00-22:00,,,no,,0
+Prague,node/1068905850,POINT (14.401998 50.088689),U Kocoura,Nerudova,205/2,11800,Praha,pub,,,,,draught,,,+420 257 530 107,,,,,Mo-Su 12:00-22:30,no,,no,,2
+Prague,node/1073584581,POINT (14.514643 50.136513),u Lahváče,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/1074889866,POINT (14.406307 50.068923),U Váhy,Nádražní,46/88,15000,Praha,pub,,,,,,,,,,,,,Mo-Fr 10:00-22:00; Sa 14:00-22:00,,,,,2
+Prague,way/1084115534,POINT (14.493013 50.073524),KD Barikádníků,,,,,biergarten,,,,,,no,,,,,,,Mo-Fr 16:00-22:00,,,,,0
+Prague,way/1090439468,POINT (14.334 50.036721),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,way/1090439472,POINT (14.333886 50.036861),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,node/1096063711,POINT (14.330204 50.066968),Starý pivovar,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/1116132384,POINT (14.48755 50.105813),Innuendo,Kurta Konráda,20,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/1117379014,POINT (14.42546 50.081364),Hospoda v Lucerně,Vodičkova,704/36,11000,Praha,restaurant,,,,,,,https://www.hospodalucerna.cz/,+420 724 337 187,,https://www.facebook.com/Hospoda-v-Lucerně-1448539472038125/,,,,no,no,,,0
+Prague,node/1129766950,POINT (14.45444 50.127186),Na Staré Cihelně,,,,,pub,,,,,,,,,,,,,,,,yes,,0
+Prague,node/1134171453,POINT (14.457328 50.126269),Vinný Loch,,,,,bar,,,,,,,,,,,,,Mo-Su 15:00-01:00,,,,,0
+Prague,node/1143014989,POINT (14.598551 50.075675),Na Korunce,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/1144290057,POINT (14.614986 50.079936),,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,way/1157705095,POINT (14.388616 50.085367),Klaster Monastery Beer Garden,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,way/1182770953,POINT (14.518422 50.05239),,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,way/1198734468,POINT (14.404088 50.031018),U Sparty,,,,,biergarten,,,,,,,http://www.spartastanek.cz/,+420 608 207 778,,,,otevřeno 11:00-20:30 a dle lidí a světla,Mo-Su 11:00-20:30,,,,,0
+Prague,node/1204747373,POINT (14.548383 50.132435),Vinotéka U soudku,,,,,,,,,,,,,,,,,,Mo-Fr 14:00-20:00,,,,,0
+Prague,way/1208812363,POINT (14.500217 50.032887),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,node/1209100090,POINT (14.409631 50.060221),Naše Hospoda na Růžku,Nádražní,24,,,pub,,,,Staropramen,,,https://www.naruzkusmichov.cz/,+420739042222,info@naruzkusmichov.cz,,,,Mo-Fr 07:30-24:00; Sa-Su 11:00-24:00,,,no,,2
+Prague,node/1218253628,POINT (14.418957 50.086192),,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/1226744002,POINT (14.423079 50.079542),Novoměstský pivovar,Vodičkova,20,11000,Praha,restaurant,,,,,,yes,,,,,,,,,,,,0
+Prague,node/1241323740,POINT (14.458189 50.084418),Parukářka,,,13000,Praha,biergarten,,,,Velkopopovický Kozel,,,https://www.parukarka.cz/,,,,,,,yes,,outside,,4
+Prague,node/1253195601,POINT (14.488158 50.12575),Bella,,,,,pub,,,,,,,https://www.restauracebella.cz/,+420 286 580 025,,,,,Mo-Sa 11:00-22:00,,,separated,,2
+Prague,way/1255277061,POINT (14.542399 50.037337),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,node/1257356292,POINT (14.417076 50.080255),Absinth Shop,,,,,,,,,,,,,,,,,,Mo-Su 10:00-23:59,,,,,2
+Prague,node/1258869794,POINT (14.418637 50.083994),Wine and food shop,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/1259568376,POINT (14.498396 50.11137),U Vinic,,,,,,,,,,,,,,,,,,"Mo-Fr 12:00-21:00; Sa,Su 15:00-21:00",,,,,0
+Prague,node/1260770101,POINT (14.4245 50.099387),Hostinec,Ovenecká,1022/15,17000,Praha 7,pub,,,,Klášter;various,,,,,,,,,Mo-Su 09:30-21:30,,,yes,,0
+Prague,node/1261026192,POINT (14.474852 50.103787),Metro,,,,,bar,,,,,,,,,,,,,"Mo-Fr 10:00-24:00; Sa,Su 14:00-24:00",,,,,0
+Prague,node/1261026229,POINT (14.486858 50.104064),,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/1261055274,POINT (14.470036 50.099524),Kačamba u města Rokycan,,,,,pub,,,,,,,,,,,,,"Mo-Fr 12:00-24:00, Sa 11:00-01:00, Su 15:00-24:00",no,,,,2
+Prague,node/1261055302,POINT (14.469116 50.099131),Styx,Sokolovská,144,18600,Praha,bar,,,,,,,https://clubstyx.cz/,,,,,,"Mo-Fr 16:00-01:00, Sa 18:00-02:00, Su 18:00-24:00",,,,,0
+Prague,way/1263730065,POINT (14.520184 50.028459),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,node/1270105045,POINT (14.601658 50.028764),,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/1270105057,POINT (14.605215 50.028433),,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/1270186367,POINT (14.600836 50.029761),Vinotéka,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/1270591806,POINT (14.625947 50.013564),U medvěda,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/1270591808,POINT (14.627652 50.010741),U Boudů,Mírová,21/66,10300,Praha - Kolovraty,pub,,,,,,,,,,,,Hospoda + Sál (KD U Boudů),,,,,,0
+Prague,node/1271002118,POINT (14.415958 50.081721),Vzorkovna (Dog bar),Národní,11,11000,Praha,pub,,,,,,,https://vzorkovna.biz,,,,,,Mo-Su 14:00-04:00,no,,yes,,0
+Prague,node/1272064729,POINT (14.428575 50.080148),Výtopna,Václavské náměstí,56,11000,Praha,restaurant,,,,Krušovice;Mušketýr;řezané,served,yes,https://www.vytopna.cz/cs/pobocky/praha-vaclavak/o-pobocce,+420 775 444 554,praha.vaclavak@vytopna.cz,Vytopna.restaurant.Praha,,,Mo-Su 11:00-00:00,no,no,,,4
+Prague,node/1272921548,POINT (14.433989 50.066908),Magister Kelley,Rejskova,3,12000,Praha,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/1276242990,POINT (14.467947 50.127453),Podkováň,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/1278488469,POINT (14.40395 50.109737),,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,way/1280617062,POINT (14.415662 50.034773),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,node/1281570265,POINT (14.511517 50.030337),Mikulovka,,,,,pub,,,,,,,,,,,,,Mo-Su 14:00-21:31,limited,,,,0
+Prague,way/1286215314,POINT (14.424307 50.109464),Džungle BKAO,,,,,bar,,,,,,,https://navystavisti.cz/udalosti/dzungle-bkao/,,,,,,,,,,,0
+Prague,node/1293802163,POINT (14.473982 50.104503),Casino Palmovka,,,,,bar,,,,,,,,,,,,,Mo-Su 00:00-24:00,,,,,0
+Prague,way/1304431377,POINT (14.4162 50.111824),Palouček,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,way/1317550154,POINT (14.493571 50.05752),Sport bar Petr,,,,,bar,,,,,,,,,,,,,Mo-Sa 10:00-22:00; Su 10:00-20:00,,,,,0
+Prague,way/1320034064,POINT (14.508369 50.056113),Bohemia sport bar,,,,,bar,,,,,,,,,,,,,Mo-Sa 15:00-23:00,,,,,0
+Prague,node/1322042433,POINT (14.421828 50.091788),Public interest,,,,Praha,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/1322873191,POINT (14.443759 50.075763),Kavarna Na Šumavě,Šumavská,991/31,12000,Praha,pub,,,,,,,https://www.kavarnanasumave.cz/,+420 775 688 180,,,,,Mo-Fr 16:00-22:00,,,,,0
+Prague,node/1322945790,POINT (14.403195 50.089188),U Hrocha,Thunovská,178/10,11800,Praha,pub,,,,,draught,,,+420 257 533 389,,,,,Mo-Su 12:00-23:00,,,,,0
+Prague,node/1322959740,POINT (14.391847 50.088148),U Černého vola,Loretánské náměstí,107/1,11800,Praha,pub,,,,Kozel,,,,,,https://www.facebook.com/ucernehovola,,,Mo-Su 10:00-22:00,limited,no,,,0
+Prague,node/1323934500,POINT (14.423303 50.089887),Bombay Cocktail Bar,Dlouhá,13,11000,Praha 1,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/1324022035,POINT (14.425461 50.090606),El Mojito,Dlouhá,732/31,11000,Praha 1,bar,,,,,,,https://www.elmojito.cz/,+420 776 872 989,elmojitocafe@yahoo.it,,,,,,,,,0
+Prague,node/1324060376,POINT (14.45539 50.07874),Hapu,Orlická,8,,,bar,,,,,,,https://www.facebook.com/Hapubar,,,,,,,,,,,0
+Prague,way/1324400500,POINT (14.489765 50.054917),Hospůdka u Kopeckých,,,,,pub,,,,pilsner_urquell;kozel,,,,,,,,,Mo-Th 11:00-23:00; Fr 11:00-24:00; Sa 10:00-24:00; Su 10:00-23:00,,,outside,,0
+Prague,way/1324402200,POINT (14.489873 50.055076),Spor bar Golem,,,,,bar,,,,radegast;pilsner_urquell;kozel,,,https://www.sportbargolem.cz/,+420 777 338 481,provozni@sportbargolem.cz,,,,Mo-Su 19:00-07:00,,,,,0
+Prague,node/1325078288,POINT (14.405406 50.087731),Blue Light,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/1325291691,POINT (14.420488 50.085925),Double Trouble,Melantrichova,17,11000,Praha,bar,,,,,,,https://www.doubletrouble.cz,,,,,,,,,,,0
+Prague,node/1325682043,POINT (14.441967 50.058762),U Klokočnika,,,,,pub,,Kácov,,,,,,,,,,,,yes,no,,,0
+Prague,node/1337025550,POINT (14.322619 50.050272),,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,way/1348041369,POINT (14.417703 50.067086),Pivovar Chříč - Podniková prodejna,,,,,,,,,Pivovar Chříč,bottled,,https://obchod.pivovarchric.cz,+420 737 147 231,obchod@pivovarchric.cz,,,,,,,,,5
+Prague,node/1369322783,POINT (14.309509 50.090767),Zelená můza,,,,,bar,,,,,,,,,,,,,"Mo-Fr 20:00-22:00; Sa,Su off",,,,,0
+Prague,node/1392184137,POINT (14.493941 50.12102),Vinotéka Naskok,,,,,,,,,,,,http://www.sudovevinoadestilaty.cz,+420 777 562 964,jirkadudak@centrum.cz,,,,Mo-Su 16:00-22:00,no,,,,0
+Prague,way/1396084871,POINT (14.524701 50.048384),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,node/1409474794,POINT (14.446852 50.147872),Na Hřišti,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/1425646287,POINT (14.395818 50.102621),Vinotéka R. Mrština,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/1427338969,POINT (14.358079 49.974674),Kiosek Říční lázně,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/1431740983,POINT (14.398056 50.098766),Pivní Jistota,,,,,pub,,,,,,,http://www.facebook.com/pivni.jistota,+420 725 569 704,pivni.jistota@gmail.com,pivni.jistota,,,Mo-Sa 15:00-23:30; Su 15:00-22:00,,,no,,0
+Prague,way/1435020421,POINT (14.437773 50.065168),Nuselský pivovar,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/1438166669,POINT (14.445005 50.055551),U Plevů,U Družstva Ideál,2,14000,Praha,pub,,,,,,,,,,,,,"Mo-Fr 13:00-22:00; Sa,Su 11:00-22:00",,,,,0
+Prague,way/1446604689,POINT (14.512749 50.085787),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,node/1456118656,POINT (14.40944 50.076716),WoodHouse Lounge Marina,,,,,bar,,,,,,,https://www.wood-house.cz/,+420 777 550 005,,,,,,no,,outside,,0
+Prague,way/1458320478,POINT (14.518374 50.052267),Zahrádky Hostivař,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,node/1480273940,POINT (14.38846 50.08686),Pivovar Strahov,Strahovské nádvoří,301/10,11800,Praha,restaurant,,,,,,yes,https://www.klasterni-pivovar.cz/,+420 734 852 382,kancelar@klasterni-pivovar.cz,https://www.facebook.com/Pivovar-Strahov-SvNorbert-255900158543/,,,Mo-Su 10:00-22:00,,,,,9
+Prague,node/1483568068,POINT (14.447707 50.069508),Sklep Grébovka,Havlíčkovy sady,,,Praha,bar,,,,,,,http://www.sklepgrebovka.cz/,+420 774 803 293,,https://www.facebook.com/Sklep-Grébovka-295561175377/,,,Fr 14:00-21:00,,,,,0
+Prague,way/1486277517,POINT (14.503055 50.05834),Pivoňková,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/1490377657,POINT (14.429944 50.100052),Bio Oko,Františka Křížka,460/15,17000,Praha,bar,,,,,,,https://www.biooko.net/,+420 776 622 940,,,,,"Mo-Fr 00:00-01:00,10:00-24:00; Sa,Su 00:00-01:00,11:00-24:00",,,no,,2
+Prague,node/1493298559,POINT (14.397476 50.098719),Dejvický vinný sklípek,Kafkova,346,160 00,,,,,,,,,https://www.facebook.com/pages/Dejvicky-Vinny-Sklipek/205489979478300?fref=ts,+420 724 734 743,,pages/Dejvicky-Vinny-Sklipek/205489979478300,,,Mo-Th 16:00-21:30; Fr 15:00-22:00,,,,,0
+Prague,node/1493298566,POINT (14.396756 50.098199),Global Wines & Spirits,,,,,,,,,,,,https://www.global-wines.cz/,,,,,,"Mo-Fr 10:00-20:00, Sa 09:00-13:00",,,,,0
+Prague,way/1520534510,POINT (14.506439 50.108446),U Vysočanského pivovaru,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/1529352793,POINT (14.402479 50.100744),Pálavská vinárna,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/1538110238,POINT (14.485653 50.05156),Hamerský sklípek,K Prádelně,,10600,Praha,pub,,,,,,,http://hamerskysklipek.cz/,,,,,,,,,,,2
+Prague,node/1555858844,POINT (14.528541 50.052121),U Jeníčka,,,,,pub,,,,,,,,,,,,,11:00-24:00,,,yes,,0
+Prague,node/1557970798,POINT (14.469467 50.114904),U Prcka,Zenklova,143,18000,Praha 8,pub,,,,pilsner_urquell;svijany;gambrinus,,,https://hospudka-uprcka0.webnode.cz/,,,https://www.facebook.com/Na-Korábě-U-Prcka,,,"Mo-Fr 11:00-23:00; Sa,Su 14:00-22:00",no,,outside,,3
+Prague,node/1557970956,POINT (14.458508 50.119952),Enjoy,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/1583333878,POINT (14.452487 50.079278),U posledního soudu,Jagellonská,8,,Praha 3,bar,,,,,,,,,,,,,"Mo-Fr 17:00-21:45; Su,PH 18:00-21:45",,,,,0
+Prague,node/1590856140,POINT (14.445438 50.130418),Na Zápraží,,,,,pub,,,,,,,,,,,,,Mo-Su 14:00-23:00,,,,,0
+Prague,node/1633669171,POINT (14.472798 50.126181),Pod hájem,,,,,pub,,,,Staropramen,,,,,,,,,"Mo-Fr 11:00-22:00; Sa,Su 14:00-21:00",,,outside,,0
+Prague,node/1680404567,POINT (14.403366 50.087631),Palliardi bar café,,,,,bar,,,,,,,,,,,,,Mo-Su 10:00-23:00,no,,yes,,2
+Prague,node/1682874334,POINT (14.45148 50.094383),Vinárna Křižík,,,,,bar,,,,,,,,,,,,,"Mo-Fr 12:00-23:30; Sa,Su 14:30-23:30",no,,,,0
+Prague,node/1690518527,POINT (14.472977 50.113744),U Jarolímků,Primátorská,40,18000,,pub,,,,,,,https://www.ujarolimku.com/,,,,,,"Mo-Th 11:00-22:00; Sa,Su 12:00-22:00; Fr 11:00-23:00",,,,,2
+Prague,node/1710005530,POINT (14.468748 50.067268),,,,,,,,,,,,,,,,,,,,yes,,,,0
+Prague,node/1710160438,POINT (14.558206 50.0405),Sport Bar Nonstop,Veronské Náměstí 403,,,,bar,,,,,,,,,,,,,24/7,,,,,0
+Prague,node/1711799892,POINT (14.558215 50.105786),Sparta,Cíglerova,,19800,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/1712556993,POINT (14.387251 50.043337),Na Cvičišti,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/1714579117,POINT (14.427836 50.098286),Bar Práce,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/1722092770,POINT (14.561218 50.031955),Jakobi Pivnice,Jakobiho,327,10900,,restaurant,,,,,,,http://www.obzerstvi.cz/,+420 774 879 697,obzerstvi@seznam.cz,,,,"Mo-Fr 00:00-01:00,11:30-24:00; Sa,Su 00:00-01:00,13:00-24:00",,,,,0
+Prague,node/1726496166,POINT (14.432117 50.099244),Cobra,Milady Horákové,688/8,170 00,,bar,,,,,,,https://barcobra.cz/,+420 777 355 876,,,,,"Mo 11:30-24:00, Tu-Th 11:30-01:00, Fr 11:30-02:00, Sa 10:00-02:00",no,,,,3
+Prague,node/1736152126,POINT (14.338607 49.94877),Tornádo,U Kazína,410,15531,Praha,pub,,,,Gambrinus,,,http://restauracetornado.cz/,,,,,"V sezoně otevíráme ve 12.00, o víkendech ještě dříve a zavíráme s posledním hostem",,,,,,0
+Prague,node/1757124595,POINT (14.575522 50.126427),U Ulrichů,,,,,pub,,,,,,,,,,,,,,,,yes,,0
+Prague,node/1758218285,POINT (14.436447 50.024968),U čtyř bernardýnů,,,,,pub,,,,,,,http://www.uctyrbernardynu.cz/,,,,,,,,,,,1
+Prague,node/1760786839,POINT (14.423072 50.072418),Mrtvá ryba,Benátská,1965/4,12800,Praha,pub,,,,,,,,+420 603 453 494,,https://www.facebook.com/pages/Mrtvá-ryba-187716801292837/,,Studentský klub Přírodovědecké fakulty UK,Mo-Th 09:00-00:30; Su 18:00-23:00; Fr 11:00-00:30,,,,,0
+Prague,node/1761229313,POINT (14.440477 50.076945),Vinárna U Venouše,,,,,bar,,,,,,,,,,,,,Mo-Fr 15:00-23:00; Sa 17:00-23:00; Su 17:00-21:00,,,,,0
+Prague,node/1766052588,POINT (14.404674 50.003478),Modřanský biograf,,,,,pub,,,,,,,,,,,,,,limited,,,,0
+Prague,node/1776247792,POINT (14.507114 50.083312),Herna & bar,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/1776248073,POINT (14.506342 50.083217),Oaza,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/1776333105,POINT (14.348006 50.064405),,,,,Praha,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/1776675668,POINT (14.441559 50.056784),Na Veselí,Na Veselí,738/34,14000,Praha,pub,,,,,,,,,,,,,Mo-Su 15:00-23:00,,,outside,,0
+Prague,node/1781426835,POINT (14.43393 50.0244),Novodvorská šipka,,,,,pub,,,,,,,,,,,,,Mo-Su 09:00-21:30,,,,,0
+Prague,node/1792376016,POINT (14.469775 50.057308),,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/1793692925,POINT (14.44585 50.061963),Kocour,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/1794974161,POINT (14.393919 50.04097),Club Bar S5,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/1796323018,POINT (14.444374 50.063372),,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/1797215116,POINT (14.493501 50.071579),Bistro minigolf,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/1803894998,POINT (14.403637 50.007236),Na Zastávce,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/1813612145,POINT (14.495986 50.031862),Stánek,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/1813842484,POINT (14.457464 50.067387),Milá tchýně,Minská,11,10100,Praha,bar,,,,,,,https://www.milatchyne.cz/,+420 723 675 950,,,,,Mo-Fr 12:00-00:00; Sa-Su 15:00-00:00,,,,,0
+Prague,node/1813843724,POINT (14.455423 50.066545),U Tří Soudků,,,,,pub,,,,,,,,,,,,,,limited,no,,,0
+Prague,node/1814665946,POINT (14.48767 50.022316),Hospůdka U mazané kačeny,,,,,pub,,,,,,,http://www.mazanakacena.cz/,+420 725 751 212,mazanakacena@seznam.cz,https://www.facebook.com/mazanakacena/,,,Mo-Su 11:00-23:00,,,separated,,10
+Prague,node/1814665947,POINT (14.487464 50.022096),U Zeleného ptáka,,,,,pub,,,,,,,,,,,,,Mo-Fr 14:00-02:00;Sa-Su 13:00-02:00,,,yes,,0
+Prague,node/1820288452,POINT (14.372221 49.985628),,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/1824638037,POINT (14.352048 50.076921),,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/1826764819,POINT (14.324678 50.075187),Bistro u Daltnů,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/1871859094,POINT (14.377098 50.130716),Klub Jih,,,,,pub,,,,,,,,,,,,,Mo-Th 14:00-24:00; Fr-Su 16:00-24:00,,,,,0
+Prague,node/1906541324,POINT (14.435402 50.074122),Vinotéka ve dvoře,,,,,,,,,,,,https://www.vinoteka-vedvore.cz/,,,,,,Mo-Th 10:00-18:00; Fr 10:00-17:00,,,,,0
+Prague,node/1909240010,POINT (14.398631 50.122962),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,node/1920012010,POINT (14.448488 50.086089),Pardubická pivnice U Járy,Dalimilova,577/1,13000,Praha,restaurant,,,,Pernštejn,,,https://www.pivniceujary.cz/,+420 222 521 109,,,,,Mo-Sa 11:00-23:00; Su 11:00-22:00,yes,,,,0
+Prague,node/1942387969,POINT (14.318338 50.074639),,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/1946542433,POINT (14.410008 50.088441),Malostranská pivnice,Cihelná,3,11800,Praha,restaurant,,,,,,,https://www.malostranskapivnice.cz/,+420 257 530 032;+420 776 330 853,,,,,"Mo-Su 11:00-24:00; Fr,Sa 00:00-01:00,11:00-24:00",,,,,0
+Prague,node/1946542628,POINT (14.413878 50.085459),Ice Pub,Smetanovo nábřeží,1,11000,Praha,bar,,,,,,,https://www.icepubprague.cz/,,,,,,12:00-21:00,,,,,0
+Prague,node/1947148280,POINT (14.422226 50.089488),James Dean,V Kolkovně,1,11000,Praha 1,bar,,,,,,,https://www.jamesdean.cz/en/home,+420 606 97 97 97,info@jamesdean.cz,,,,Mo-Fr 08:00-04:00;Sa-Su 09:00-04:00;kitchen untill 23:00,no,,,,0
+Prague,node/1948155696,POINT (14.421701 50.088346),Caffrey's Irish Bar,Staroměstské náměstí,10,11000,Praha,bar,,,,,,,https://www.caffreys.cz/,(+420) 224828031,,CaffreysIrishBarPrague,,,,no,,,,0
+Prague,node/1948155699,POINT (14.423976 50.090142),Le Bourgin,,,,,,,,,,,,,,,,,,,no,,,,0
+Prague,node/1948155707,POINT (14.419143 50.086561),Prague Coyotes,Malé náměstí,2,11000,Praha,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/1948155711,POINT (14.420049 50.08648),Black Angel's Bar,Staroměstské náměstí,29,11000,Praha,bar,,,,,,,,,,,,,Mo-Su 08:00-01:00,,,,,0
+Prague,node/1977821262,POINT (14.42117 50.08689),Music bar,,,,,bar,,,,,,,,,,,,,,limited,no,,,0
+Prague,node/1977833999,POINT (14.416386 50.084569),Cash Only Bar,Liliová,3,11000,Praha,bar,,,,,,,https://cashonlybar.cz/,+420 778 087 117,,,,,Mo-Su 18:00-02:00,no,,outside,,0
+Prague,node/1977834000,POINT (14.416438 50.085435),O'Che's bar,Liliová,14,11000,Praha,pub,,,,,,,,,,,,,,no,,,,0
+Prague,node/1986853161,POINT (14.418324 50.08559),U Tří růží,Husova,232/10,11000,Praha,restaurant,,,,,,yes,https://www.u3r.cz/,+420 601 588 281,rezervace@u3r.cz,,,,"Mo-Su 11:00-23:00; Fr,Sa 11:00-24:00",no,no,,,1
+Prague,node/1994167335,POINT (14.366732 50.126349),U Valentů,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/2047259015,POINT (14.47746 50.104587),Na Palmě,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/2057715258,POINT (14.44256 50.064733),Bowling v Továrně,Vlastislavova,11,14000,Praha,pub,,,,,,,https://bowlingvtovarne.cz/,+420724349929,,,,,"Mo-Th 15:00-01:00, Fr 15:00-02:00, Sa 14:00-02:00, Su 13:00-23:00",,,yes,,0
+Prague,node/2114797838,POINT (14.46632 50.11528),Pivovar u Bulovky,,,,,restaurant,,,,,,yes,,,,,,,Mo-Th 11:00-23:00; Fr 11:00-24:00; Sa 12:00-24:00; Su 12:00-23:00,,,,,0
+Prague,node/2122451767,POINT (14.404318 50.086778),Napa,,,,,bar,,,,,draught,,,,,,,,,,,,,0
+Prague,node/2142250289,POINT (14.440852 50.090654),U báby,,,,,pub,,,,,,,,,,,,,"Mo-Fr 10:00-22:00; Sa,Su 14:00-22:00",,,,,0
+Prague,node/2145208654,POINT (14.376195 50.128734),Kruháč Club,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/2149676180,POINT (14.486158 50.055231),Pivovarská restaurace,,,,,pub,,,,,,,,,,,,,"Mo-Fr 15:00-22:00; Sa,Su 16:00-22:00",,,,,0
+Prague,node/2154430920,POINT (14.405433 50.080712),Café bar 3+1,Plaská,10,15000,Praha,bar,,,,,,,https://www.3plus1.cz/,+420 257 313 633,,,,,Mo-Fr 13:00-22:00; Sa-Su 16:00-22:00,,,,,0
+Prague,node/2161935833,POINT (14.449572 50.087127),U Vystřelenýho voka,U božích bojovníků,606/3,13000,Praha,pub,,,,,,,http://www.uvoka.cz/,+420 222 540 465,,https://www.facebook.com/vystreleny.oko/,,,"Mo-Sa 00:00-01:00,16:30-24:00",,,outside,,0
+Prague,node/2167490020,POINT (14.315567 50.035008),U Lva,,,,,pub,,,,,,,,,,,,,Mo-Th 10:30-22:00; Fr 10:30-23:00; Sa 13:00-23:00; Su 13:00-21:00,,,,,0
+Prague,node/2174698120,POINT (14.529164 50.030905),Galerie národních vín a vinařství,,,,,bar,,,,,,,,,petr.krten@seznam.cz,,,,Mo-Fr 09:00-20:00; Sa 08:00-20:00; Su 14:00-20:00,,,,,0
+Prague,node/2180038271,POINT (14.493618 50.082617),,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/2184646698,POINT (14.487946 50.10866),Rugby bistro,,,,,biergarten,,,,,,,,,,,,,"""trenoví a zapasoví dny""",,,,,0
+Prague,node/2197104118,POINT (14.433902 50.076916),Balbínova poetická hospůdka,Balbínova,323/6,12000,Praha,pub,,,,,,,http://balbinka.cz/,+420 723 889 143,,,,,,,,,,0
+Prague,node/2209994024,POINT (14.451231 50.058881),U Potoka,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/2258947412,POINT (14.489671 50.104834),U Zdi,,,,,pub,,,,,,,,,,,,,"Mo-Fr 11:00-23:00; Sa,Su 10:00-22:00",,,,,0
+Prague,node/2260242105,POINT (14.456536 50.069033),U Sporťáka,Moskevská,45,10100,Praha 10,bar,,,,,,,,+420 775 699 424,,,,,Mo-Su 07:00-05:00,,,,,0
+Prague,node/2261816985,POINT (14.456179 50.093801),Bad Flash Bar Karlín,,,,,pub,,,,,yes,,https://www.badflash.cz/nase-podniky/bad-flash-bar-karlin/,,karlin@badflash.cz,https://www.facebook.com/BadFlashBarKarlin,,,"Mo-Fr 16:00-24:00; Sa,Su,PH 17:00-23:00",,,,,0
+Prague,node/2262363790,POINT (14.42399 50.088706),Týnská Bar and Books,,,,,bar,,,,,,,https://www.barandbooks.cz/,,,,,,,,,,,0
+Prague,node/2262367508,POINT (14.423229 50.088055),The Dubliner Prague,,,,,pub,,,,,,,https://www.aulddubliner.cz/,,,,,,Mo-Sa 11:00-02:30,,,,,0
+Prague,node/2266855614,POINT (14.423972 50.058139),Studnka,Sinkulova,22,14700,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/2267222412,POINT (14.4227 50.099181),Pivní klub 300,,,,,pub,,,,,,,https://www.facebook.com/pivniklub300?fref=ts,,petrsp7@gmail.com,,,,"Mo-Fr 17:00-22:00; Sa,Su 15:00-22:00",,,no,,0
+Prague,node/2267266429,POINT (14.3639 50.084458),"KLUB 66 ""Radost""",Břevnovská,1088/5,16900,Praha,pub,,,,Černá hora,,,https://www.klub66.cz/,+420 727 977 880,,https://www.facebook.com/klub66.cz/,,,"Mo-Th 00:00-01:00,14:00-24:00; Fr,Sa 00:00-02:00,14:00-24:00; Su 14:00-24:00",,,outside,,0
+Prague,node/2269086081,POINT (14.400135 50.067145),U Neostichů,U Nikolajky,,,Praha 5,pub,,,,Svijany;Gambrinus,,,,,,,,,,,,yes,,0
+Prague,node/2269096804,POINT (14.406821 50.07139),Pivnice Jamajka,Staropramenná,458/23,15000,Praha,pub,,,,Postřižiny,,,https://www.pivnicejamajka.cz/,+420 257 326 430,info@pivnicejamajka.cz,https://www.facebook.com/pivnicejamajka/,,,"Mo-Sa 00:00-01:00,17:00-24:00",,,yes,,0
+Prague,node/2276061204,POINT (14.399507 49.973442),U Posledního Kelta,Závist,1161,15600,Praha,biergarten,,,,,,,,+420 608 725 733,u-chladu@seznam.cz,uposlednihokelta,,,,,,,,5
+Prague,node/2276061211,POINT (14.398402 50.023947),,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/2278080555,POINT (14.493848 50.020083),Koley Excelent Urban Pub,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/2280121195,POINT (14.44127 50.047869),U Procházků,,,,,pub,,,,,,,,,,,,,Mo-Su 14:00-22:00,,,,,0
+Prague,node/2299229997,POINT (14.404642 50.076146),Pierre Paul Jacques Bar ā Vins,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/2302221846,POINT (14.356671 50.018656),Pyramida,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/2338683459,POINT (14.388516 50.098261),Klubovna,,,,,bar,,,,,,,https://klubovna.povalec.cz/,+420 739 834 056,,,,,"Mo-Th 13:00-02:00, Fr,Sa 13:00-04:00",,,,,2
+Prague,node/2374771419,POINT (14.493807 50.125147),Kafe Bar Jablonecká,Jablonecká,423/70,19000,Praha 9,bar,,,,,,,http://www.kafe-bar.cz,+420 728 015 320,,,,,"Su-Th 11:00-03:00, Fr,Sa 11:00-05:00",yes,,outside,,2
+Prague,node/2378848820,POINT (14.393894 50.121245),Útulna,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/2393704825,POINT (14.439482 50.093604),Cloud 9 Sky Bar & Lounge,Pobřežní,1,186 00,Praha 8,bar,,,,,,,http://www.cloud9.cz/,+420 224 842 999,info@cloud9.cz,https://www.facebook.com/cloud9prague?fref=ts,,,Mo-Sa 18:00-02:00,,,,,0
+Prague,node/2401706630,POINT (14.41364 50.075264),(A)viod cafe,,,,,bar,,,,,,,,,,,,,,limited,,,,0
+Prague,node/2407656724,POINT (14.434108 50.068311),Woodstock bar,Bělehradská,36,12000,Praha,pub,,,,,,,http://www.woodstock-bar.cz/,,,,,,,,,,,0
+Prague,node/2408146787,POINT (14.448081 50.079395),BeerGeek Pivotéka,,,,,,,,,,yes,,,,,,,,Mo-Fr 13:00-21:00; Sa 11:00-21:00; Su 15:00-20:00,no,,,,0
+Prague,node/2408146797,POINT (14.448198 50.078605),Noelka,,,,,,,,,,,,,,,,,,Mo-Fr 11:00-19:30; Sa 10:00-19:30; Su 14:00-20:00,no,,,,2
+Prague,node/2409213385,POINT (14.456063 50.079034),Hostinec v Lucemburské,,,,,pub,,,,,,,,,,,,,Mo-Su 10:30-22:30,,,,,0
+Prague,node/2409856190,POINT (14.448951 50.079086),Mini market,,,,,,,,,,,,,,,,,,"Mo-Th 10:00-01:00, Fr-Su 10:00-01:30",,,,,0
+Prague,node/2411559564,POINT (14.440376 50.075785),Little Havana,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/2418161165,POINT (14.376121 50.129984),Klub C,,,,,pub,,,,,,,http://klubc.cz,,,,,,Mo-Th 11:00-23:00; Fr 11:00-15:00,,,,,0
+Prague,node/2420223836,POINT (14.445739 50.078467),Na Schůdku,Polská,1532/48,12000,Praha,pub,,,,,,,,,,https://www.facebook.com/naschudku/,,,Mo-Su 11:00-22:00,,,,,0
+Prague,node/2420223847,POINT (14.443132 50.078326),Saints,,,,,bar,,,,,,,,,,,,,"Mo-Tu 20:00-24:00, We-Th 19:00-01:00, Fr-Sa 19:00-02:00, Su 20:00-24:00",no,no,,,0
+Prague,node/2441470042,POINT (14.456946 50.093907),Vinárna Veltlín,Křižíkova,115,18600,Praha,bar,,,,,,,https://www.veltlin.cz/,+420 777 082 316,,,,,Mo-Sa 17:00-23:00,,,,,0
+Prague,node/2442556324,POINT (14.454634 50.093134),cirkus,Křižíkova,58,18600,Praha,pub,,,,,,,,,,,,,"Mo-Fr 16:00-02:00, Sa,Su 18:00-24:00",,,,,0
+Prague,node/2454756636,POINT (14.453909 50.079745),The Cabin Bar,Jagellonská,17,13000,Praha 3-Vinohrady,bar,,,,,,,,,,,thecabin.prague,,We-Th 18:00-24:00; Fr-Sa 18:00-02:00,,,,,0
+Prague,node/2454756646,POINT (14.455441 50.079734),"Bar ""26""",,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/2466798624,POINT (14.414657 50.079494),Popocafepetl,Na Struze,4,11000,Praha,pub,,,,,,,http://www.popocafepetl.eu/,,,,,,,no,,,,0
+Prague,node/2475847830,POINT (14.444008 50.077443),Mánesova Bar and Books,,,,,bar,,,,,,,,,,,,,"Mo-Th 17:00-02:00, Fr,Sa 17:00-03:00, Su 17:00-01:00",,,,,0
+Prague,node/2475847862,POINT (14.441854 50.074826),V Budečské,Budečská,773/19,12000,Praha,bar,,,,,,,http://www.restauracevbudecske.cz/,+420 224 251 859,,,,,Mo 11:00-21:00; Tu-Fr 11:00-22:00,,,,,0
+Prague,node/2475847868,POINT (14.44184 50.075924),Vinotéka u Lachtana,Budečská,822/29,12000,Praha,,,,,,,,,,,,,,Mo-Fr 15:00-22:00; Sa 15:00-21:00,,,,,0
+Prague,node/2478509565,POINT (14.37287 50.14091),Starosuchdolská restaurace,,,,,restaurant,,,,,,yes,https://www.starosuchdolska.cz/,+420604256414,info@starosuchdolska.cz,,,,11:00-23:00,,,,,0
+Prague,node/2490841291,POINT (14.352796 50.088039),Do Větru,Za zahradou,1930/5,16200,Praha,pub,yes,,,Unětice,,,https://dovetru.info/,+420 608 839 184,kafedovetru@gmail.com,https://www.facebook.com/DoVetru/,,,Mo-We 17:00-24:00; Th-Su 15:00-24:00,,,no,,3
+Prague,node/2494868545,POINT (14.443188 50.077614),Vinotéka Labyrint,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/2504036068,POINT (14.418012 50.082487),Art Cafe - IMAGE Theatre Bar,Národní,25,11000,Praha,bar,,,,,,,,,,,,,17:00-01:00,yes,,no,,0
+Prague,node/2504447324,POINT (14.401486 50.08898),Krčma U Krále Brabantského,Thunovská,15,11800,Praha,pub,,,,,,,http://www.krcmabrabant.cz,+420 602 524 725,info@krcmabrabant.cz,,,,"Su-Th 11:00-23:00; Fr,Sa 11:00-24:00",,,dedicated,,0
+Prague,node/2560046107,POINT (14.414957 50.07966),Bar No. 7,Na Struze,7,11000,Praha,bar,,,,,,,,+420 720 659 586,,BarNumberSeven,,,,,,,,3
+Prague,node/2571913485,POINT (14.445032 50.056762),Herna Jezerka,,,,,bar,,,,,,,,,,,,,24/7,,,,,0
+Prague,node/2571913488,POINT (14.443964 50.056409),Pivnice U Rumlíka,Družstevní ochoz,1307/30,14000,Praha,pub,,,,,,,https://www.facebook.com/pages/Pivnice-U-Ruml%C3%ADka/897047703642025,,,,,,"Mo-Fr 15:00-22:00; Su,PH 16:00-22:00",,,separated,,0
+Prague,node/2575444665,POINT (14.421876 50.131212),,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/2576657621,POINT (14.450223 50.124393),U Zlaté palmy,,,,,pub,,,,,,,,,,,,,,no,,,,0
+Prague,node/2601149571,POINT (14.441476 50.064831),Casino Magic Planet,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/2605824558,POINT (14.458333 50.123123),,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/2606229679,POINT (14.374851 50.107864),Bar U Hřebíka,Na Pískách,1185/92,16000,Praha,bar,,,yes,,,,http://www.bar-uhrebika.cz/,,,,,,,no,,outside,,0
+Prague,node/2614956474,POINT (14.375676 50.14287),Palpost,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/2623350834,POINT (14.430934 50.064915),Tvrdej dopad,Jaromírova,50,12800,Praha,pub,,,,,,,,,,,,,15:00-02:00,,,,,0
+Prague,node/2657328992,POINT (14.420184 50.101364),Těsně vedle Burundi,,,,,pub,,,,,,,http://www.burundi.cz,,,,,,,,,,,0
+Prague,node/2657575731,POINT (14.439594 50.077569),Pivní bar Blanická 28,Blanická,1008/28,12000,Praha 2,pub,,,,,,,https://www.abc.cz/firma/pivni-bar-blanicka-praha/,+420 603 378 681,pivnibar@blanicka28.cz,,,,"Mo-Fr 16:00-01:00, Sa,Su 17:00-01:00",,,,,0
+Prague,node/2682086523,POINT (14.461059 50.118771),U Špačka,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/2709963362,POINT (14.531345 50.152853),U Herčíků,Vyhlídkova,313,19600,,pub,,,,,,,https://uherciku.cz/,,,,,,"Mo-Su,PH 11:00-23:00",,,,,0
+Prague,node/2718026171,POINT (14.282424 50.044187),Gusta,,,,,restaurant,,,,,,yes,https://www.pivovartrebonice.com/,+420 775 660 728,mydas@volny.cz,,,,,,,,,0
+Prague,node/2719404653,POINT (14.473866 50.069936),House Mouse,,,,,bar,,,,,,,http://www.house-mouse.cz/,+420272740753,house-mouse@house-mouse.cz,,,,Mo-Su 17:00-01:00; Fr-Sa 17:00-02:00,,,yes,,0
+Prague,node/2737439867,POINT (14.436395 50.074486),Prague Beer Museum,Americká,43,12000,Praha,pub,,,,,,,http://www.praguebeermuseum.com/,+420 774 994 698,info@praguebeermuseum.com,,,,Mo-Su 15:00-01:00,,,,,0
+Prague,node/2737907490,POINT (14.424689 50.087796),Pivnice Štupartská,Malá Štupartská,9,,,pub,,,,,,,https://www.pivnicestupartska.cz/,,,,,,Mo-Sa 11:00-00:00; Su 11:00-24:00,limited,,yes,,0
+Prague,node/2740467179,POINT (14.448383 50.071389),Café v lese,Krymská,273/12,10100,Praha,bar,,,,,,,https://cafevlese.cz/,+420 731 413 964,,,,,"Mo-Su 00:00-02:00,18:00-24:00",no,,,,0
+Prague,node/2740467211,POINT (14.404354 50.012834),U Jeffa,,,,,pub,,,,Kout,,,https://cyklisticky-klub-u-jeffa.webnode.cz/,,,,,,,,,,,0
+Prague,node/2747790890,POINT (14.426997 50.079192),Rock n Beer Bar,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/2757557215,POINT (14.475722 50.130134),Las Vegas BAR-HERNA,Chabařovická,1796/13a,18200,,bar,,,,,,,,,,,,,24/7,,,yes,,0
+Prague,node/2758510161,POINT (14.438009 50.072231),Sbohemrozume,Záhřebská,153/32,12000,Praha,bar,,,,,,,http://www.sbohemrozume.cz/,+420 604 456 666,bar@sbohemrozume.cz,,,,Mo-Fr 16:00-24:00; Sa 18:00-24:00,,,,,0
+Prague,node/2796265428,POINT (14.451827 50.085052),Behind the Courtain,Štítného,30,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/2796265430,POINT (14.452894 50.087773),Bajkazyl,Tachovské náměstí,3,13000,Praha 3,bar,,,,,,,,,,,,,,,,outside,,0
+Prague,node/2810514035,POINT (14.571733 50.124991),U Dášeny,K Nádraží,104/20,19015,Praha 9 Satalice,pub,,,,,,,,+420 608 253 325,petr.juraczko@gmail.com,,,"Provozujeme hospodu s nabídkou pokrmů teplé i studené kuchyně i alkoholických a nealkoholických nápojů. Točíme piva Gambrinus, Kozel a Plzeň, prodáváme bílá, červená i šumivá vína, likéry i tvrdý alkohol. Zaměřujeme se na česká a maďarská sezónní jídla.",Su-Th 17:00-01:00; Fr-Sa 17:00-02:00,,,yes,,0
+Prague,node/2822238729,POINT (14.518621 50.095128),BŘEŽANKA,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/2858014134,POINT (14.641794 50.082928),U Čížků,Nadějovská,1466,19016,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/2917391678,POINT (14.56914 50.084348),Občerstvení,,,,,pub,,,,,,,,,,,,,,no,,yes,,0
+Prague,node/2917399305,POINT (14.406923 50.06984),Brouk,Vltavská,533/22,15000,Praha,pub,,,,,,,,+420 736 671 479,,https://www.facebook.com/Hospoda-Brouk-83009662377/,,,"Su-Th 16:00-24:00, Fr,Sa 16:00-02:00",no,,,,0
+Prague,node/2918048202,POINT (14.428297 50.07615),The PUB,Hálkova,1631/6,12000,Praha,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/2924307186,POINT (14.467604 50.113254),Beach club,,,,,pub,,,,,,,,,,,,,Mo-Su 11:00-22:00,,,,,2
+Prague,node/2933140802,POINT (14.416146 50.133243),Weranda,Bohnická,260/71,18100,Praha 8,pub,,,,,,,http://www.restauracezahradka.cz,+420608770379,restaurace.zahradka@email.cz,,,,Mo-Sa 11:00-22:00; Su 11:00-22:00,,,,,1
+Prague,node/2972995124,POINT (14.432118 50.05611),Pivnice Tunel,Dačického,2,14000,Praha,pub,,industrial,,,,,,,,,,,"PH,Mo-Su 14:00-23:00",no,,,,0
+Prague,node/2994597330,POINT (14.423726 50.083704),Becherovka,Václavské náměstí,4,11000,Praha,bar,,,,,,,,,,,,,Mo-Su 10:00-00:00,,,,,0
+Prague,node/2999513464,POINT (14.428583 50.080091),Golden Eye,Václavské náměstí,56,11000,Praha 1,bar,,,,,,,https://goldeneye.cz/,+420732232333,,,,,Tu-We 17:00-02:00; Th 17:00-03:00; Fr-Sa 17:00-05:00,,,,,0
+Prague,node/3007149346,POINT (14.516519 50.003573),Vinotéka – bistro,K Šeberovu,,,,bar,,,,,,,,,,,,,"10:00-20:00 ""letní zahrádka""",,,separated,,4
+Prague,node/3019724721,POINT (14.422073 50.078939),U Sudu,Vodičkova,677/10,11000,Praha,pub,,,,,,,http://www.usudu.cz/,+420 222 232 207,,usudu,,,Mo-Th 09:00-04:00; Fr 09:00-05:00; Sa 10:00-05:00; Su 11:00-04:00,,,,,0
+Prague,node/3051766528,POINT (14.404004 50.004978),Pomeranč,,,,,bar,,,,,,,,,,,,,24/7,,,yes,,0
+Prague,node/3082106132,POINT (14.454836 50.085404),Alien Music bar,Sabinova,2,130 00,Praha 3,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/3104120230,POINT (14.46928 50.088568),Bernard Pub,Jeseniova,93,13000,Praha,pub,,,,,,,https://bernardpub.cz/,+420 720 446 944,,,,,Mo-Su 14:00-02:00,,,,,0
+Prague,node/3152261150,POINT (14.31903 50.07257),Kulturáček na Bílé Hoře,,,,,pub,,,,,,,http://www.kulturacek.cz/,+420 777 320 390,,,,,"Mo-Su,PH 14:00-22:00",,,,,0
+Prague,node/3154280217,POINT (14.407892 50.087746),Vinograf Wine Bar,Míšeňská,8,11800,Praha,pub,,,,,,,https://vinograf.cz/,,,,,,,,,,,0
+Prague,node/3155494586,POINT (14.412003 50.038518),Kulovna,,,,,bar,,,,,,,,,,,,,Mo-Su 16:00-24:00,yes,,no,,0
+Prague,node/3156984581,POINT (14.457423 50.075312),Vinohradský pivovar,Korunní,2506/106,101 00,Praha,restaurant,,,,,,yes,https://www.vinohradskypivovar.cz/,+420 222 760 080,,,,,Mo-Su 11:00-24:00,no,,,,0
+Prague,node/3166218274,POINT (14.42287 50.077539),SPA BEER LAND,,,,,,,,,,yes,,,,,,,,,,,,,0
+Prague,node/3171969863,POINT (14.422626 50.075002),Salmovská literární kavárna,Salmovská,2003/16,12000,Praha,pub,,,,,,,https://www.salmovska.cz/,+420 604 645 624,,https://www.facebook.com/salmovskaliterarnikavarna/,,,Mo-Fr 17:00-23:30,,,,,0
+Prague,node/3188225065,POINT (14.450326 50.087067),Cíl 2.0,,,,,bar,,,,,,,,,,,,,"Tu-Th 18:00-01:00, Fr,Sa 18:00-02:00",,,,,0
+Prague,node/3204170012,POINT (14.42324 50.091093),James Joyce,U Obecního dvora,4,11000,Praha,pub,,,,,,,https://www.jamesjoyceprague.cz/,+420 224 818 851,jamesjoyceprague@gmail.com,,,,"Su-Th 11:00-00:30, Fr,Sa 11:00-02:00",,,,,0
+Prague,node/3206107088,POINT (14.415116 50.117687),Vinotéka sv. Kláry,Pod Havránkou,34/7,17100,Praha,,,,,,,,https://www.botanicka.cz/,+420 234 148 153,,https://www.facebook.com/vinotekasvklara/,,,"Mo-Fr 13:00-19:00; Sa,Su 11:00-19:00",,,,,0
+Prague,node/3209189461,POINT (14.45011 50.071127),Malér bar,Krymská,440/26,10100,Praha 10,bar,,,,,,,,,,,,,,,,outside,,0
+Prague,node/3219897044,POINT (14.451271 50.122155),Vinotéka Separé,,,,,,,,,,,,http://www.vinotekasepare.wz.cz,,,,,,"Mo-Fr 11:00-22:00, Su 17:00-22:00",limited,,,,0
+Prague,node/3230050665,POINT (14.440091 50.086423),Final Art Music Club,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/3231023147,POINT (14.490754 50.073281),Výčep Jihomoravských Vín,,,,,bar,,,,,,,,,,,,,"Mo-Fr 12:00-20:00; Sa,Su 15:00-20:00",,,yes,,0
+Prague,node/3237674273,POINT (14.434154 50.072147),Reset,Bruselská,4,12000,Praha 2,bar,,,,,,,https://www.facebook.com/ResetBarVinohrady,+420731973689,resetbarbruselska@gmail.com,,,,Mo-Fr 14:00-24:00; Sa 15:00-24:00; Su 15:00-23:00,,,,,0
+Prague,node/3237674274,POINT (14.43431 50.072457),Vínečko,Bruselská,5,12000,Praha 2,bar,,,,,,,http://www.vineckopraha.cz/,+420 222 511 035,,,,,"Mo-Fr 13:00-22:00, Sa-Su 15:00-22:00",limited,no,,,0
+Prague,node/3237974418,POINT (14.519342 50.149097),,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/3242491136,POINT (14.505998 50.107057),"Svatyně Krista Krále, Vysočanský pivovar, Lidový dům",,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/3243128388,POINT (14.42339 50.08795),Bonaguil Spirits,Týn,640/2,11000,Praha,bar,,,,,,,,,,,,Botanicus II,Mo-Sa 16:00-00:00; Su 16:00-24:00,limited,,,,0
+Prague,node/3245718961,POINT (14.488066 50.074708),Na Struze,U Nových vil,23,10000,,pub,,,,,,,https://restaurace-nastruze.cz/,+420 603 445 008,restauracenastruze@gmail.com,restauracenastruze,restaurace_na_struze,,Mo-Su 11:00-23:00,no,,,,0
+Prague,node/3247900661,POINT (14.493127 50.073463),KD Barikádníků,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/3248697361,POINT (14.415324 50.034891),Vinotéka u Miloše,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/3251890450,POINT (14.45266 50.063885),Pivní bar Zubatý pes,K Botiči,409/2,10100,Praha,bar,,,,,,,http://www.zubatypes.cz/,+420 775638737,,,,,"Tu-Sa 17:00-23:59; Su,Mo 17:00-23:00",,,isolated,,0
+Prague,node/3258118073,POINT (14.446277 50.014066),,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/3273054738,POINT (14.446009 50.0738),Pivnice V Chodské,Chodská,1416/10,12000,Praha,pub,,,,,,,,,,,,,,no,,,,0
+Prague,node/3273179339,POINT (14.448159 50.072556),Bar Klokan,Slovenská,2205/2,10100,Praha,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/3276685325,POINT (14.446103 50.099667),Moravská Banka vín,Bubenské nábřeží,306/13,17000,Praha 7,,,,,,,,https://www.bankavin.cz/,+420 602 110 000,,,,,Mo-Fr 10:00-20:00; Sa 09:00-17:00,,,,,3
+Prague,node/3276871304,POINT (14.45599 50.064292),,Sportovní,1380,10100,Praha,pub,,,,,,,,,,,,,,,,outside,,0
+Prague,node/3278080262,POINT (14.454802 50.075542),Pivotéka Pivo a párek,Korunní,1075/105,13000,Praha,,,,,,,,,+420 734 201 195,,https://www.facebook.com/Pivo-a-párek-127715427424908/,,,Mo-Sa 15:30-22:00,,,,,0
+Prague,node/3285422367,POINT (14.44882 50.086848),Pivovar Victor,Husitská,72/35,13000,Praha,restaurant,,,,,,yes,https://pivovarvictor.cz/,+420 601 577 477,info@pivovarvictor.cz,,,,Mo-Su 12:00-23:00,,,,,0
+Prague,node/3291884145,POINT (14.450846 50.070586),Galerie Piva,Krymská,138/36,10100,Praha,,,,,,yes,,https://www.galeriepiva.cz/,+420 702 400 573,,,,,Mo-Su 14:30-21:00; Fr 12:00-21:00; Sa off,limited,,,,0
+Prague,node/3298497725,POINT (14.397868 50.087596),U Magistra Kelly,Šporkova,521/5,11800,Praha,pub,,,,,,,https://www.umagistrakelly.cz/,+420 257 217 770,info@umagistrakelly.cz,https://www.facebook.com/UMagistraKelly/,,"kuchyně do 22:00, zahrádka do 21:00",Mo-Su 12:00-23:00,,,,,0
+Prague,node/3304741249,POINT (14.377567 50.084687),MajkL'Atmosphere,Bělohorská,15,16900,Praha 6,bar,,,,,,,https://cs-cz.facebook.com/MajklAtmosphere/,+420 777 887 167,,,,,Mo-Su 17:00+,,,,,0
+Prague,node/3327235329,POINT (14.508997 50.083437),Vinárna Aura,Počernická,632,10800,,,,,,,,,,,,,,,,,,,,0
+Prague,node/3339996117,POINT (14.422259 50.100664),Tendance,Šmeralova,130/5,17000,Praha 7,bar,,,,yes;various,,,https://www.tendance.cz/,,hello@tendance.cz,,,,"Tu-Th 17:00-01:00, Fr,Sa 17:00-02:00",,,,,0
+Prague,node/3340244228,POINT (14.426237 50.10259),Stromoffka,Gerstnerova,9,17000,,bar,,,,,,,https://www.stromoffka.cz/,,,,,,Tu-Sa 18:00-02:00,,,,,0
+Prague,node/3389150767,POINT (14.49466 50.014379),U Studánky,,,,,pub,,regional,,more,,,,,,,,,daily 16.30-?,,,,,0
+Prague,node/3391113980,POINT (14.431665 50.06609),Rockberry,Sekaninova,56,12800,Praha,bar,,,,yes;březňák,,,,,,,,,,,,,,0
+Prague,node/3391113981,POINT (14.42999 50.065823),Sport Bar Time,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/3391154815,POINT (14.4289 50.064856),vinotéka,Jaromírova,34,12800,Praha,bar,,,,,,,,,,,,,,limited,,,,0
+Prague,node/3391739807,POINT (14.440988 50.06616),Play House,Otakarova,15,14000,Praha,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/3392320173,POINT (14.448918 50.066641),Vršovická vinotéka,U Vršovického nádraží,16,10100,Praha,,,,,,,,,,,,,,,,,,,0
+Prague,node/3392414586,POINT (14.423016 50.057115),U Dragouna,Levá,21,14700,Praha,pub,,,,,,,,,,,,,"Mo-Fr 10:00-23:00; Sa,Su 11:00-23:00",,,,,0
+Prague,node/3393514475,POINT (14.3505 50.095545),Vinotéka,Africká,29,16000,Praha,,,,,,,,https://www.vinostavek.cz/,,,,,,Mo-Fr 14:00-20:00,,,,,0
+Prague,node/3393593685,POINT (14.402144 50.088726),Pivo & Basilico,Zámecká,2,11800,Praha,restaurant,,,,,,,,,,,,,,,,,,0
+Prague,node/3423925779,POINT (14.523598 50.034437),U Rychlé Želvy,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/3468140934,POINT (14.642759 50.063129),,,,,,bar,,,,,yes,,,,,,,,,,,outside,,0
+Prague,node/3470944134,POINT (14.425626 50.08171),Vinotéka u Sherlocka Holmese,Vodičkova,38,11000,Praha,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/3472633635,POINT (14.542301 50.051905),Pivní bar Palma (byvala Formanka),Horolezecká,,10200,,pub,,,,,,,,,,,,,Mo-Su 10:00-22:00,,,,,0
+Prague,node/3475173893,POINT (14.428372 50.07729),Blah Blah,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/3488917262,POINT (14.349509 50.088656),Plzeňská pivnice Petřiny,Šantrochova,1883/16,16200,Praha,pub,,,,,,,,+420 723 450 221,,https://www.facebook.com/Plzeňská-Pivnice-Petřiny-1726026474346986/,,,,,,outside,,0
+Prague,node/3499750542,POINT (14.558279 50.045734),nonstop,,,,,bar,,,,,,,,,,,,,24/7,,,,,0
+Prague,node/3530690947,POINT (14.416324 50.079875),Bar 23,Křemencova,23,11000,Praha,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/3530983954,POINT (14.449972 50.077044),BeerGeek Bar,Vinohradská,62,13000,Praha,bar,,,,,,,https://beergeek.cz/,+420 776 827 068,,,,,Mo-Su 15:00-02:00,no,,no,,0
+Prague,node/3535207216,POINT (14.41857 50.08202),Reduta Jazz Club,Národní,20,11000,Praha,bar,,,,,,,,+420 224 933 487,,,,,,,,,,0
+Prague,node/3544358940,POINT (14.442984 50.077109),Dno Pytle,,,,,pub,,,,,,no,http://www.dnopytle.cz/,+420702058007,,dnopytle,,,"Mo 16:00-23:00, Sa 18:00-01:00, Tu-Fr 16:00-01:00, Su 18:00-23:00",,,no,,2
+Prague,node/3549266066,POINT (14.452998 50.08377),Základna,,,,,pub,,,,,,,,,,,,,,no,,,,0
+Prague,node/3556279670,POINT (14.445941 50.103325),U gólmana,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/3593969104,POINT (14.453879 50.105985),Bzenecký dvůr,,,,,,,,,,,,,+420 603 219 658,,,,,"Mo-Fr 16:00-22:00; Sa-Su off ""call us""",,,,,0
+Prague,node/3598457744,POINT (14.394505 50.105378),U Švejka,Jugoslávských partyzánů,1425/9,16000,Praha,pub,,,,gambrinus,,,,+420 233 330 762,,,,,Mo-Su 10:00-22:00,,,no,,2
+Prague,node/3602354367,POINT (14.403031 50.069727),Sejmor,Stroupežnického,570/9,15000,Praha,pub,,,,,,,https://sejmor.cz/,+420 608 455 222,,,,,Mo-Sa 11:00-23:00; Su 11:00-22:00,yes,,,,0
+Prague,node/3605587284,POINT (14.487778 50.070895),Bar Vesna,Na Hroudě,61,10000,Praha,pub,,,,Hubertus,,,,,,,,,"Mo-Th 16:00-22:00, Fr 16:00-24:00, Sa 17:00-23:59, Su 18:00-22:00",,,,,0
+Prague,node/3614601172,POINT (14.554389 50.087556),Morfeus,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/3615474280,POINT (14.419097 50.066165),Víno Handl,Vratislavova,26,12800,Praha,,,,,,,,,,,,,,,,,,,0
+Prague,node/3620445220,POINT (14.419292 50.087329),Pivnice U Kata,U Radnice,6,11000,Praha,pub,,,,,,,,,,https://www.facebook.com/Pivnice-U-Kata-1437679749861139/,,,"Mo-Su 00:00-00:30,12:00-24:00",,,,,0
+Prague,node/3620482763,POINT (14.420688 50.084884),Pivnice U Zlatého slona,Havelská,,11000,Praha,restaurant,,,,,,,https://www.uzlatehoslona.cz/,+420 224 222 046,,https://www.facebook.com/U-Zlatého-Slona-387497441354984/,,,Mo-Su 10:00-23:00,yes,,,,1
+Prague,node/3621362829,POINT (14.41432 50.08401),Hemingway Bar,Karoliny Světlé,26,11000,Praha,bar,,,,,,,,+420 773 974 764,,,,,,,,,,0
+Prague,node/3621809583,POINT (14.417679 50.083167),Konvice,Bartolomějská,11,11000,Praha,bar,,,,,,,http://www.barkonvice.com/,+420 224 240 588,,,,,Mo-Su 19:30-05:30,,,,,0
+Prague,node/3623343325,POINT (14.430518 50.064884),Retro Bar,Jaromírova,46,12800,Praha,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/3625292408,POINT (14.418265 50.068138),Type,Svobodova,1,12800,Praha,bar,,,,,,,,,,,,,Mo-Su 08:00-23:00,yes,,,,2
+Prague,node/3646666797,POINT (14.423089 50.080343),Bouvard & Pécuchet,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/3647992253,POINT (14.437304 50.073772),Tečka,Americká,416/34,12000,Praha,bar,,,,,,,,,,,,,"Su-Th 17:00-02:00, Fr,Sa 17:00-03:00",,,,,2
+Prague,node/3647992254,POINT (14.437362 50.07333),Bar Black Sheep,Americká,430/29,12000,Praha,bar,,,,,,,https://www.barblacksheep.cz/,+420 608 381 799,,,,,"Mo-Th 00:00-04:00,18:00-24:00; Fr-Su 00:00-05:00,18:00-24:00",,,,,0
+Prague,node/3653958477,POINT (14.495865 50.074891),V Zátiší,Brigádníků,1967/1a,10000,Praha,pub,,,,,,,,,,,,,,,,yes,,0
+Prague,node/3656208381,POINT (14.445899 50.07752),Vinotéka V Peřinách,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/3674846600,POINT (14.367276 50.083918),Víno & delikatesy,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/3674964901,POINT (14.365817 50.084157),Vinotéka Šestka,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/3675042134,POINT (14.364494 50.083982),Vinotéka z radosti,Bělohorská,1690/128,16900,Praha 6,,,,,,,,,,,,,,Mo-Fr 10:00-19:00,,,,,0
+Prague,node/3676788385,POINT (14.424263 50.076512),Bar Nota,Štěpánská,539/9,12000,Praha,bar,,,,,,,https://barnota.cz/,+420 775 396 456,barnota@barnota.cz,https://www.facebook.com/notabar/,https://www.instagram.com/bar_nota_prague/,,"Mo-Th 16:00-02:00; Fr 16:00-03:00; Sa 19:00-03:00; Su,PH off",,,,,3
+Prague,node/3676788386,POINT (14.423301 50.074462),ZOO Bar,Salmovská,1693/6,12000,Praha,bar,,,,,,,http://www.barzoo.cz/,,,,,,,,,,,0
+Prague,node/3680305547,POINT (14.439829 50.090143),Panda,Křižíkova,329/3,18600,Praha,pub,,,,,,,,,,,,,Mo-Su 10:00-20:30,no,,,,0
+Prague,node/3687702175,POINT (14.455837 50.068092),U Bohemky,Orelská,685/2,10100,Praha,pub,,,,,,,,,,,,,Mo-Su 11:00-23:00,,,,,0
+Prague,node/3689567202,POINT (14.419852 50.084737),Vinný Bar Blatnička,Michalská,431/5,11000,Praha,bar,,,,,,,https://www.vinoblatel.cz/,+420224225836,blatnice02@seznam.cz,,,,Mo-Fr 11:00-21:00,,,,,0
+Prague,node/3691121415,POINT (14.443527 50.072234),B 52,Francouzská,55/52,10100,Praha,bar,,,,,,,https://www.barb52.cz/,+420 736 480 305,,,,,"Mo-Su 00:00-02:00,19:00-24:00",,,,,0
+Prague,node/3691121417,POINT (14.432225 50.070921),Již Brzy,Lublaňská,4,12000,Praha,bar,,,,,,,https://bucibar.cz/,+420 222 515 585,,,,,"Mo-Su 00:00-02:00,14:00-24:00",,,,,0
+Prague,node/3691128597,POINT (14.371836 50.083747),VINI Italia,Bělohorská,250/59,169 00,,,,,,,,,https://vini-italia.cz/,+420 603 433 381,info@vini-italia.cz,,,,Mo-Th 13:00-18:00; Fr 10:00-15:30,,,,,0
+Prague,node/3693139634,POINT (14.49138 50.074798),Hospůdka U pošty – Doma,,,,,pub,,industrial,,,,,,,,,,,,,,,,0
+Prague,node/3693235785,POINT (14.383038 50.085303),,,,,,pub,,,,,,,,,,,,,,,,yes,,0
+Prague,node/3695883459,POINT (14.428079 50.087536),Americký bar,náměstí Republiky,1090/5,11000,Praha,bar,,,,,,,http://www.americkybar.cz/,+420 222 002 786,,https://www.facebook.com/Americký-bar-Obecní-dům-216665865179974/,,,Mo-Su 11:30-23:00,,,,,0
+Prague,node/3707597490,POINT (14.447254 50.085017),Vincaffe,,,,,bar,,,,,,,,,,,,,,no,,,,0
+Prague,node/3707599476,POINT (14.452108 50.08312),Vinotéka Žižkov,,,,,bar,,,,,,,https://www.vinoteka-zizkov.cz/,,,,,,,,,,,0
+Prague,node/3710179081,POINT (14.461212 50.071645),Ferdinand,Bulharská,734/28,10100,Praha,pub,,,,,,,https://www.pivovarferdinand.cz/,+420 732 224 224,,https://www.facebook.com/Pivnice-Ferdinand-732344060191365/,,,closed,,,,,0
+Prague,node/3721327552,POINT (14.424858 50.065519),Restart Bar,,,,,bar,,,,,,,https://www.facebook.com/Restart-Pub-161212500915196/,,,,,,11:00-02:00,,,separated,,0
+Prague,node/3721365074,POINT (14.404553 50.070266),Knoflík,Bozděchova,3,15000,Praha,pub,,,,,,,,,,,,,Mo-Fr 14:00-02:00; Sa 15:00-02:00; Su 15:00-24:00,,,,,0
+Prague,node/3721365078,POINT (14.405155 50.069922),Music bar Netopýr,Nádražní,19,15000,Praha,bar,,,,,,,,,,,,,Mo-Su 19:00-06:00,,,,,0
+Prague,node/3721417004,POINT (14.403454 50.072664),Anděl Music Club,Štefánikova,7,15000,Praha,bar,,,,,,,,,,,,,Mo-Sa 18:00+,,,,,0
+Prague,node/3721417007,POINT (14.403502 50.074666),Uhelna Club,Štefánikova,25,15000,Praha,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/3721417018,POINT (14.40524 50.077194),V Koutku,Elišky Peškové,322/3,15000,Praha,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/3721473738,POINT (14.406053 50.077038),Time 2 Café,Pavla Švandy ze Semčic,16,15000,Praha,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/3721473744,POINT (14.404377 50.079948),Le Mirage,Újezd,5,15000,Praha,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/3721473747,POINT (14.407172 50.080656),Vineyards,Zborovská,66,15000,Praha,bar,,,,,,,,,,,,,Mo-Fr 07:30-20:00; Sa 09:00-20:00; Su 09:00-18:00,,,,,0
+Prague,node/3722035939,POINT (14.405947 50.070567),Bar Coming soon,Jindřicha Plachty,28,15000,Praha 5,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/3722035941,POINT (14.408568 50.072632),Brother's bar & cafe,Lidická,12,15000,Praha 5,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/3722044208,POINT (14.407867 50.071405),Hospůdka Sokol,Na Chodbě,125/2b,16300,Praha 5,pub,,,,,,,https://www.restauracesokol.cz/jidelni-a-napojovy-listek/,+420235322836,info@restauracesokol.cz,,,,Mo-Fr 10:00-00:00; Sa-Su 11:00-00:00,,,,,0
+Prague,node/3722044212,POINT (14.40566 50.071508),Hells Bells,Na Bělidle,27,15000,Praha 5,pub,,,,,,,https://www.hellsbells.cz,,,,,,"Mo 17:00-24:00; Tu-Su 00:00-03:00,17:00-24:00",no,,,,1
+Prague,node/3722044213,POINT (14.408342 50.073386),Vinotéka U Lachtana,Zborovská,8,15000,Praha 5,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/3722044217,POINT (14.405048 50.07168),Pekelnej Bar,Na Bělidle,38,15000,Praha 5,bar,,,,,,,,,,,,,"We,Th 20:00-03:00, Fr,Sa 20:00-04:00",,,,,0
+Prague,node/3722044219,POINT (14.405998 50.071577),Vinotéka Na Bělidle,Na Bělidle,25,15000,Praha 5,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/3722044222,POINT (14.405405 50.071727),Pivnice u Mejly,Na Bělidle,297/36,15000,Praha,pub,,,,,,,https://www.pivniceumejly.cz/,+420 720 485 057,,https://www.facebook.com/MejlaSportBar/,,,24/7,,,,,0
+Prague,node/3722734865,POINT (14.425972 50.090728),Café bar NoD,,,,,bar,,,,,,,https://www.nod.roxy.cz/cafe/,,,,,,,,,,,0
+Prague,node/3722734874,POINT (14.421693 50.089629),Steampunk,V Kolkovně,5,11000,Praha 1,pub,,,,,,,https://www.steampunkprague.cz,+420 734 202 505,,,,,,,,,,0
+Prague,node/3722751367,POINT (14.426514 50.090848),Druhé patro,Dlouhá,37,11000,Praha 1,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/3722751368,POINT (14.423136 50.089433),M1 Lounge,Masná,1,11000,Praha 1,bar,,,,,,,https://www.m1lounge.com/,+420 227 195 235,,,,,,no,,,,0
+Prague,node/3722751371,POINT (14.425321 50.09128),Orange Bar,Haštalská,15,11000,Praha,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/3722785856,POINT (14.426785 50.09107),Vinotéka U Mouřenína,Dlouhá,39,110 00,Praha 1,bar,,,,,,,https://vinotekaumourenina.cz/,+420 601 666 650,,,,,Mo-Sa 11:00-22:00; Su 15:00-22:00,no,,,,0
+Prague,node/3722785859,POINT (14.426194 50.089557),Atelier club,Rybná,16,11000,Praha 1,bar,,,,,,,,,,,,,"Mo-Su,PH 00:00-00:00",,,,,0
+Prague,node/3722785860,POINT (14.425902 50.089419),Repete,Rybná,17,11000,Praha 1,bar,,,,,,,,,,,,,"Mo-Th 17:00-02:30, Fr,Sa 17:00-03:30, Su 18:00-02:30",,,,,0
+Prague,node/3722785862,POINT (14.426517 50.090791),Sport bar Pohoda,Dlouhá,729/37,11000,Praha,pub,,,,,,,,,,https://www.facebook.com/Sport-bar-pohoda-166248760074839/,,,Mo-Sa 10:00-22:00; Su 10:00-21:00,,,,,0
+Prague,node/3722785863,POINT (14.42566 50.089592),Bauman Café - Bar,Masná,686/20,11000,Praha,bar,,,,,,,http://www.baumanbakery.cz/,,,,,,,,,,,0
+Prague,node/3722785867,POINT (14.426344 50.090786),La Casa del Habano,Dlouhá,35,11000,Praha 1,bar,,,,,,,http://www.lacasadelhabano.cz/en/,,,,,,Mo-Sa 11:00-22:00; Su 11:00-19:00,,,,,0
+Prague,node/3722825071,POINT (14.433365 50.070829),Merlin,Bělehradská,68a,12000,Praha,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/3722825073,POINT (14.435309 50.068377),Vinotéka Bacco,Bělehradská,28,12000,Praha,,,,,,,,,,,,,,,,,,,0
+Prague,node/3724799386,POINT (14.431059 50.074562),Waid,Lublaňská,57,12000,Praha,pub,,,,,,,,,,,,,,no,,,,0
+Prague,node/3724799387,POINT (14.431444 50.074518),U Nemožných,Lublaňská,46,12000,Praha 2,bar,,,,,,,,,,,,,Mo-Su 17:00-01:00,,,,,0
+Prague,node/3724799388,POINT (14.432285 50.075982),NERD,Bělehradská,122,12000,Praha,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/3724806184,POINT (14.431542 50.076482),Placebo,Mikovcova,12,12000,Praha,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/3724861527,POINT (14.431492 50.076168),Upgrade,Vocelova,9,12000,Praha,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/3724867257,POINT (14.432749 50.076236),Ne-vinný suterén,Londýnská,75,12000,Praha 2,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/3724879369,POINT (14.433228 50.070163),Víno u Zvonařky,Bělehradská,62,12000,Praha 2,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/3724879370,POINT (14.432802 50.073281),Čarodějnický Klub,Bělehradská,73,12000,Praha 2,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/3726709833,POINT (14.429422 50.076804),,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/3726736982,POINT (14.416367 50.07697),Aida Club,Na Zderaze,266/11,12000,Praha,bar,,,,,,,https://www.aidabar.cz/,+420 608 121 323,,,,,Tu-Su 15:00-01:00; Mo off,,,,,0
+Prague,node/3726736985,POINT (14.416468 50.077931),Bassotto,Pštrossova,4,11000,Praha,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/3726743656,POINT (14.415161 50.081265),Pivovar Národní,Národní,8,11000,Praha,restaurant,,,,,,,https://www.pivovarnarodni.cz/,+420 222 544 932,,,,,"Tu-Th 11:00-23:00; Fr,Sa 11:00-24:00; Su,Mo 11:00-22:00",no,,outside,,3
+Prague,node/3731379526,POINT (14.455273 50.094147),Vinotéka Karlín,,,,,bar,,,,,,,,,,,,,"Mo-Sa 11:30-22:00; Su,PH 14:30-22:00",,,,,0
+Prague,node/3740683728,POINT (14.45164 50.083701),Pivo a Párek,,,,,restaurant,,,,,,,,,,,,,Mo-Fr 15:00-23:00; Sa 16:00-23:00; Su 16:00-22:00,no,,,,0
+Prague,node/3741518938,POINT (14.44469 50.125337),Pivnice Šutka,,,,,pub,,,,,,,https://www.sutka.cz/,,,,,,,,,,,0
+Prague,node/3742737713,POINT (14.516601 50.023371),U Kajmana,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/3743375649,POINT (14.426848 50.078247),Illegal Beer,Ve Smečkách,16,,Praha,pub,,,,,,,https://www.facebook.com/illegalbeer,,,,,,Mo-Sa 17:00-00:00,no,,,,0
+Prague,node/3743383005,POINT (14.427288 50.07732),Cafe Arte,Žitná,37,,Praha,bar,,,,,,,https://www.facebook.com/Cafe-Arte-371220975362,,,,,,,,,,,0
+Prague,node/3750116065,POINT (14.448182 50.043767),Pivotéka DBK,,,,,,,,,,yes,,https://www.pivoteka-dbk.cz,,info@pivoteka-dbk.cz,,,,"Mo-Fr 09:00-20:00; Sa,Su 09:00-19:00",,,,,0
+Prague,node/3751377587,POINT (14.394115 50.108423),Marpek Whisky,,,,,,,,,,,,marpek-whiskey.cz,+420207362029820076,,,,,Mo-Fr 14:00-21:00; Sa 12:00-21:00; Su off,,,,,0
+Prague,node/3761143840,POINT (14.430696 50.098981),Pivnice u Pivoje,,,,,restaurant,,,,,,,http://upivoje.cz,,,,,,"Mo-Fr 11:00-23:00; Sa,Su 12:00-23:00",,,outside,,0
+Prague,node/3766864268,POINT (14.393341 50.073284),Smíchovská krčma,Na Čečeličce,402/12,15000,Praha,pub,,,,,,,http://smichovska-krcma.cz/,+420 774 065 573,,https://www.facebook.com/Smíchovská-Krčma-381277195571889/,,,Mo-Su 10:00-23:00,,,,,0
+Prague,node/3797818489,POINT (14.45109 50.083472),Bohužel bar,Bořivojova,491/61,13000,Praha,pub,,,,,,,,+420 777 835 905,,https://www.facebook.com/Bohužel-Bar-116674691802559/,,,"Mo-Su 00:00-05:00,18:00-24:00",limited,,,,0
+Prague,node/3821661887,POINT (14.560105 50.042043),Vinotéka Noster,,,,,,,,,,,,,,,,,,Mo-Su 15:00-22:00; Sa off,,,,,0
+Prague,node/3838734846,POINT (14.543865 50.107067),Sportbar,,,,,bar,,,,,,,,,,,,,24/7,,,,,0
+Prague,node/3895838581,POINT (14.394173 50.073693),Rock bar Gorila,,,,,pub,,,,,,,https://rock-bar-gorila.business.site/,+420 604 822 279,,https://www.facebook.com/lvlasakova/,,,"Mo-Fr 00:00-02:00,16:00-24:00; Sa,Su 00:00-02:00,17:00-24:00",,,,,0
+Prague,node/3899572131,POINT (14.420037 50.085198),AnonymouS Bar,Michalská,12,11000,Praha,bar,,,,,,,https://www.anonymousbar.cz/,+420 608 280 069,,,,,Mo-Th 17:00-02:00; Fr-Sa 17:00-03:00; Su 17:00-02:00,,,,,0
+Prague,node/3899572133,POINT (14.426058 50.088246),Buddha Bar,Jakubská,8,110 00,Praha,pub,,,,,,,https://www.buddha-bar.cz/,+420 725 069 213,hostess@buddhabarprague.cz,,,,,,,,,0
+Prague,node/3899572134,POINT (14.431498 50.088074),The Bourbon Bar,V Celnici,8,11000,Praha,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/3899636827,POINT (14.405545 50.089158),The Refectory Bar,,,11800,Praha,bar,,,,,,,https://www.augustinehotel.com/,,,,,,,,,,,0
+Prague,node/3899846900,POINT (14.431521 50.085465),Velký Vinograf,Senovážné náměstí,23,11000,Praha,bar,,,,,,,https://vinograf.cz/,+420 214 214 681,,,,,Mo-Fr 11:30-24:00; Sa 17:00-24:00,,,,,0
+Prague,node/3899846901,POINT (14.415221 50.068307),Na břehu Rhôny,Na Hrobci,1,12800,Praha,bar,,,,,,,,+420 733 785 377,,,,,Mo-Fr 13:00-24:00; Sa 10:00-24:00; Su 15:00-24:00,,,outside,,2
+Prague,node/3900293198,POINT (14.505201 50.039884),Pivnice u bazénu,Mírového hnutí,2137/7,14900,Praha,restaurant,,,,,,,http://www.pivniceubazenu.cz/,+420 602 659 257,napivo@pivniceubazenu.cz,,,,,,,,,0
+Prague,node/3945221476,POINT (14.493906 50.082709),,,,,,bar,,,,,,,,,,,,,,,,separated,,0
+Prague,node/3973379058,POINT (14.401336 50.088693),Vinárna U Laury,Nerudova,10,11800,Praha,bar,,,,,,,,,,,,,,no,,,,0
+Prague,node/3974223616,POINT (14.40101 50.061778),Nevinná vinárna,Radlická,94,15000,Praha,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/3974715537,POINT (14.438996 50.065984),České vinařské závody,,,,,,,,,,,,https://www.cvz.cz/,,,,,,,,,,,0
+Prague,node/3974715541,POINT (14.439432 50.065465),Hospoda Pohoda,Bělehradská,238/9,14000,Praha,pub,,,,,,,http://www.hospodapohoda.cz/,+420 777 847 372,,,,,Mo-Fr 16:00-02:00; Sa 17:30-02:00; Su off,,,outside,,4
+Prague,node/3977668835,POINT (14.460398 50.067672),Drahokam,Moskevská,59,10100,Praha,bar,,,,,,,,+420 733 132 030,,,,,Mo-Su 10:00-21:00,,,,,0
+Prague,node/3978266810,POINT (14.450902 50.071029),Lya Beer Café,Krymská,39,10100,Praha 10,pub,,,,craft_beer,,,https://www.lyabeercafe.cz/,,,,,,"Mo 16:00-22:00; Tu-Th,Su 16:00-23:00; Fr-Sa 16:00-24:00",,,no,,0
+Prague,node/3999437159,POINT (14.456094 50.089337),Kabina bistro & bar,,,13000,Praha,pub,,,,,,,https://grillfreaks.cz/kabina-bistro-bar/,+420 739 263 567,,,,,Mo-Fr 14:00-22:00; Sa-Su 12:00-22:00,,,,,0
+Prague,node/4011476202,POINT (14.493086 50.025776),Magic Planet,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4050164651,POINT (14.426679 50.09084),Vinárna Bokovka,Dlouhá,37,11000,Praha,bar,,,,,,,https://www.bokovka.com/,+420 731 492 046,,,,,Mo-Sa 15:00-01:00,,,,,0
+Prague,node/4146989496,POINT (14.469862 50.06952),U Stadionu,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/4157030089,POINT (14.453796 50.087487),Fakt dobrý víno,Hartigova,3,,,,,,,,,,www.faktdobryvino.cz,+420 737 112 703,,,,,24/7,limited,,,,0
+Prague,node/4163036857,POINT (14.487769 50.022183),U dvou přátel,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4167187922,POINT (14.434366 50.065082),vinotéka,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/4167187926,POINT (14.4317 50.065312),Bar Club Pitstop,Spytihněvova,2,12800,Praha,bar,,,,,,,http://clubpitstop.wix.com/pitstop,+420 777 357 931,,,,,,,,,,0
+Prague,node/4167932790,POINT (14.418415 50.080986),Nevinný bar,Mikulandská,2,,,bar,,,,,,,,,,,,,"Mo-Sa 14:00-03:00, Su 14:00-00:00",,,no,,0
+Prague,node/4167956489,POINT (14.415815 50.085467),Konírna,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4171015385,POINT (14.44277 50.09864),Borneo,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4171154139,POINT (14.444024 50.085272),Night Club Victory,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4184392617,POINT (14.451384 50.066168),Vacuum Art Bar,,,,,bar,,,,,,,,,,,,,,,,,,4
+Prague,node/4184392626,POINT (14.456024 50.066272),Bistro Panda,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/4184396947,POINT (14.428803 50.065189),Plzeňský Anny Bar,Jaromírova,33,12800,Praha,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/4184471423,POINT (14.42449 50.078692),Rodeo Oldies Bar,Školská,16,11000,Praha,bar,,,,,,,https://www.rodeopraha.cz/,+420 722 252 252,,,,,We-Sa 20:00-05:00,,,,,0
+Prague,node/4184471426,POINT (14.426027 50.079522),Rocky O' Reillys,Štěpánská,32,11000,Praha,pub,,,,,,,https://www.rockyoreillys.cz/,+420 222 231 060,,,,,Mo-Su 10:00-02:00,,,isolated,,0
+Prague,node/4188207889,POINT (14.443342 50.071835),Vinotéka U Grébovky,,,,,,,,,,,,,,,,,,Tu-Th 16:00-19:30; Fr 15:30-19:30,,,,,0
+Prague,node/4188207898,POINT (14.438877 50.074035),Bar Ginger,,,,,bar,,,,,,,,,,,,,"Tu,Th 19:00-01:00, Fr,Sa 19:00-02:00, Su 19:00-24:00",,,,,2
+Prague,node/4188239773,POINT (14.43612 50.074447),Movies Bar,náměstí Míru,16,12000,Praha 2,bar,,,,,,,,,,,,,"Mo-Fr 19:00-03:00, Fr,Sa 19:00-05:00",,,,,0
+Prague,node/4188239775,POINT (14.434067 50.074484),Přátelé Wine Friends,,,,,bar,,,,,,,,,,,,,Mo-Sa 16:00-24:00; Su 16:00-23:00,,,,,0
+Prague,node/4188239777,POINT (14.433434 50.07404),Sklípek U Zlatého hroznu,Rumunská,24,12000,Praha,bar,,,,,,,https://www.uzlatehohroznu.cz/,+420 222 511 877,,,,,Mo-Fr 14:30-23:30; Sa 17:30-23:30,,,isolated,,0
+Prague,node/4188239781,POINT (14.437673 50.076368),U Vávrů,Šubertova,4,12000,Praha 2,pub,,,,,,,http://vinarna-uvavru.cz/,+420 222 518 459,,,,,Tu-Fr 11:30-22:00; Mo 15:00-22:00,no,,isolated,,0
+Prague,node/4188272836,POINT (14.432369 50.077499),Ka Sha Fé,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4192320626,POINT (14.398578 50.08806),Kellyxír - alchymistická hospůdka,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/4192336066,POINT (14.421906 50.077312),Midnight Bar,Žitná,4,12000,Praha,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4192370521,POINT (14.423619 50.077492),Chillout Bar,Žitná,17,11000,Praha,bar,,,,,,,,,,,,,24/7,,,,,0
+Prague,node/4192553552,POINT (14.429386 50.080512),Da Capo,Václavské náměstí,51,11000,Praha,bar,,,,,,,http://www.da-capo.cz/,+420 222 240 695,,,,,Mo-Su 08:00-02:00,,,,,0
+Prague,node/4196094499,POINT (14.431857 50.085568),Vínograf,,,,,bar,,,,,,,https://www.vinograf.cz/cs/,+420 739 653 153,senovazne@vinograf.cz,,,,Mo-Sa 11:30-24:00,,,,,2
+Prague,node/4197006861,POINT (14.423911 50.080251),Branická Formanka,Vodičkova,696/26,11000,Praha,pub,,,,,,,,,,,,,"Mo-Fr 08:00-21:00; Sa,Su 09:00-21:00",,,,,0
+Prague,node/4197633728,POINT (14.431418 50.082289),Bar Pohoda,Opletalova,28,11000,Praha,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4197633729,POINT (14.430841 50.081666),Moskyt,Politických vězňů,18,11000,Praha,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4201893122,POINT (14.616776 50.081248),KARLOS Bar,,,,,bar,,,,yes,,,,,,,,,,,,,,0
+Prague,node/4201893717,POINT (14.616789 50.081701),Kobra Bar,,,,,bar,,,,yes,,,,,,,,,,,,,,0
+Prague,node/4202085587,POINT (14.398765 50.067172),Vinný sklep U Stárků,U Nikolajky,12,15000,Praha 5,,,,,,,,https://www.ustarku.cz/,+420 251 565 174,vinny.sklep@ustarku.cz,,,,Tu-Th 14:00-21:30; Fr 13:30-19:00,,,,,0
+Prague,node/4209668074,POINT (14.419534 50.080608),Slámovka,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4209679907,POINT (14.419978 50.083324),Café Bar Flirt,Martinská,5,11000,Praha,bar,,,,,,,,,,,,,"Mo-Th 14:00-02:00, Fr,Sa 14:00-03:00, Su 14:00-24:00",no,,no,,0
+Prague,node/4209679908,POINT (14.420719 50.083719),,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4214263327,POINT (14.424951 50.086808),Nemo Cabaret Club,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4214303189,POINT (14.502759 50.057408),Restaurace v Malinové,,,,,pub,,,,yes;pilsner_urquell;gambrinus;velkopopovický_kozel,,no,,,,,,,Mo-Su 11:00-22:30,limited,,separated,,0
+Prague,node/4214305895,POINT (14.424064 50.090824),Café Bar Fano,Haštalská,750/10,11000,Praha,bar,,,,,,,https://www.bar-fano.cz/,+420 222 329 323,,https://www.facebook.com/hastalska10/,,,"Mo-Su 00:00-09:00,11:00-24:00",,,outside,,0
+Prague,node/4215366997,POINT (14.474107 50.109206),U Králů,Pivovarnická,1022/1,18000,Praha,pub,,,,,,,,+420 736 134 820,,https://www.facebook.com/pohodaUKralu/,,,Mo-Fr 11:00-24:00; Sa 13:00-24:00; Su 13:00-22:00,,,,,0
+Prague,node/4223405689,POINT (14.429266 50.087336),Nemesis,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4223416954,POINT (14.431472 50.089505),Chapter Bar,Na Poříčí,7,110 00,Praha,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4225654476,POINT (14.401854 50.088178),bufet HAMU,,,,,bar,,,,,,,,,,,,,Mo-Fr 08:00-20:00,,,,,0
+Prague,node/4243300486,POINT (14.357603 50.084102),Břevnovský klášterní pivovar svatého Vojtěcha,,,,,,,,,,,,https://brevnovskypivovar.cz/,,,Brevnovskypivovar,,"Lahvová piva lze koupit i v infocentru, točená i v Břevnovském výčepu v areálu kláštera","Mo-We,Fr 09:00-17:00; Th 09:00-19:00",,,,,0
+Prague,node/4248794095,POINT (14.415467 50.077211),Klub Buben,Myslíkova,6,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/4248815589,POINT (14.415424 50.077346),Naturel bistro,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4254265558,POINT (14.365494 49.990369),Pivní Sanatorium,Štěrková,15,15300,Praha 5 - Radotín,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/4257560092,POINT (14.4171 50.112684),Hospoda Konrad,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/4261131120,POINT (14.450426 50.092485),Antony,,,,,bar,,,,,,,,,,,,,,no,,,,0
+Prague,node/4273048489,POINT (14.4307 50.076959),Club Strelec,Anglická,,,,bar,,,,,,,,,,,,,Mo-Su 18:00-01:00,,,,,0
+Prague,node/4276427792,POINT (14.425225 50.096189),Beer Garden,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4278039449,POINT (14.428398 50.0907),Sibeeria,Soukenická,4,11000,Praha 1,bar,,,,,,,,,,,,,"Mo-Su,PH 15:00-02:00",,,,,0
+Prague,node/4278550113,POINT (14.43272 50.092156),Vinný sklep Rugantino II.,Klimentská,40,11000,Praha 1,bar,,,,,,,https://www.klimentska.rugantino.cz,+420 224 815 192,,,,,Mo-Sa 11:00-23:00; Su 12:00-23:00,,,,,0
+Prague,node/4297099519,POINT (14.403377 50.087234),J.J. Murphy's,Tržiště,266/4,11800,Praha,pub,,,,,,,http://www.bestirishbarprague.com/,+420 257 535 575,,https://www.facebook.com/jjmurphysprague/,,Irish pub,"Mo-Su 10:00-24:00; Th-Sa 00:00-01:00,10:00-24:00",,,,,0
+Prague,node/4300805502,POINT (14.442861 50.149649),U Míšků,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/4310145549,POINT (14.491057 50.123588),Boleslavka,,,,,pub,,,,,,,,,,,,,"Mo-Su,PH 10:00-24:00",limited,,outside,,0
+Prague,node/4314173700,POINT (14.432248 50.12675),Víno Wine,,,,,bar,,,,,,,,,,,,,Tu-Sa 16:00-22:00,yes,,,,0
+Prague,node/4317349294,POINT (14.453705 50.076886),Vinny Restaurant U Perouna,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/4318215341,POINT (14.43413 50.089721),Porto Vino,,,,,bar,,,,,,,,,,,,,Mo-Fr 15:00-23:00; Sa 15:00-24:00,,,,,0
+Prague,node/4323509295,POINT (14.547389 50.134996),L Bar,,,,,bar,,,,,,,,,,,,,Mo-Su 15:00-04:00,,,no,,0
+Prague,node/4323521297,POINT (14.545965 50.132659),Spartak,,,,,pub,,,,,,,,,,,,,"Mo-Fr 16:00-22:00; Sa,Su 10:00-22:00",,,,,0
+Prague,node/4326565996,POINT (14.446014 50.081908),Barrande,Ježkova,1054/ 10,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4326615089,POINT (14.445554 50.082172),Vape House Prague,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/4336034600,POINT (14.447046 50.071577),Bad Flash Bar,,,,,pub,,,,Bad Flash,,,http://www.badflash.cz,+420 273 134 609,,,,,Su-Th 17:00-01:00; Fr-Sa 17:00-02:00,,,,,0
+Prague,node/4338850189,POINT (14.436592 50.07872),Smokehouse,,,,,bar,,,,,,,,,,,,,"Mo-Th 15:00-24:00, Fr-Sa 15:00-01:00, Su 15:00-24:00",,,,,0
+Prague,node/4360560440,POINT (14.513286 50.136857),restaurace u Králů,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/4364714093,POINT (14.418962 50.085282),Absintherie Jilská,Jilská,235/7,110 00,Praha 1,bar,,,,,,,https://www.absintherie.cz/en/absintherie-jilska,+420 774 229 172,absintherie@absint.cz,,,,"Mo-Th 15:00-24:00, Fr,Sa 13:00-01:00, Su 13:00-24:00",,,,,0
+Prague,node/4368535240,POINT (14.493532 50.121364),Žerno,,,,,pub,,,,,,,,,,,,,Mo-Su 14:00-22:00,yes,,,,0
+Prague,node/4377340695,POINT (14.415899 50.082419),Al Capone's,Bartolomějská,3,,,bar,,,,,,,,,,,,,"Mo-Th 18:00-02:00, Fr,Sa 18:00-03:30, Su 18:00-24:00",no,,,,0
+Prague,node/4377393692,POINT (14.42809 50.078714),Parlour,Krakovská,15,,,bar,,,,,,,,,,,,,,no,,,,0
+Prague,node/4384453730,POINT (14.442923 50.017517),pivnice Braník,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,node/4393342897,POINT (14.416182 50.08795),Hany Bany,Veleslavínova,5,,,bar,,,,,,,https://www.hanybany.cz,+420 222 327 602,cafe@hanybany.cz,,,,"Mo-Su,PH 14:00-24:00",no,,,,0
+Prague,node/4398106790,POINT (14.423152 50.088325),Cathedral Cafè,Týnská,611/11,,,bar,,,,,,,http://cathedral-cafe-lounge-restaurant.com/,+420 605 585 545,info@cathedral-cafe-lounge-restaurant.com,,,,09:00-22:00,,,,,0
+Prague,node/4398601653,POINT (14.476004 50.077884),První vinohradská vinotéka,,,,,,,,,,,,,,,,,,Mo-Sa 14:00-22:00,,,,,0
+Prague,node/4398945089,POINT (14.418156 50.084788),Il Palazzo,Husova,5,,,bar,,,,,,,http://www.ilpalazzo.cz/,+420 222 233 945,,,,,Mo-Su 11:30-23:00,no,,outside,,0
+Prague,node/4407138688,POINT (14.405645 50.087282),Pub & Coctail Legend 13,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/4423295313,POINT (14.418187 50.084422),Winehaeven,Husova,351/1,11000,Praha,,,,,,,,,,,,,,Mo-Su 10:00-24:00,no,,,,2
+Prague,node/4438779796,POINT (14.389801 50.042007),Hurdálkova chýše jedová,K Dalejím,,15200,Praha,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/4443392163,POINT (14.425947 50.081116),Cellarius,Štěpánská,704/61,11000,Praha,,,,,,,,https://www.cellarius.cz/,+420 224 210 979,,,,,,,,,,0
+Prague,node/4447189566,POINT (14.449866 50.071828),U Starejch hadrů,Francouzská,164/108,10100,Praha,pub,,,,,,,http://www.zachlastat.kvalitne.cz/,,,,,,"Mo-Sa 00:00-02:00,17:00-24:00; Su 17:00-23:00",,,,,0
+Prague,node/4451906435,POINT (14.424658 50.08807),Chapeau Rouge,Jakubská,647/2,11000,Praha,bar,,,,,,,https://www.chapeaurouge.cz/,+420 222 316 328,,,,,"Mo-Th 00:00-03:00,12:00-24:00; Fr 00:00-04:00,12:00-24:00; Sa 00:00-04:00,16:00-24:00; Su 00:00-02:00,16:00-24:00",,,,,0
+Prague,node/4451906438,POINT (14.404904 50.088296),Malostranská beseda,Malostranské náměstí,35/21,11800,Praha,pub,,,,,draught,,https://www.malostranska-beseda.cz/,+420 257 409 104,,,,,Mo-Su 16:00-01:00,yes,,,,0
+Prague,node/4451906440,POINT (14.448961 50.082304),Palác Akropolis,Kubelíkova,1548/27,13000,Praha,bar,,,,,,,https://www.palacakropolis.cz/,,,https://www.facebook.com/Palac.Akropolis.klub/,,,"Mo-Su 00:00-05:00,22:00-24:00",no,,,,0
+Prague,node/4454488293,POINT (14.453668 50.07025),U Standy,,,10100,Praha,pub,,,,,,,,,,https://www.facebook.com/Hospůdka-U-Standy-116509091702525/,,,,,,,,0
+Prague,node/4455108254,POINT (14.447825 50.08515),U Pižďucha,Blahníkova,657/6,13000,Praha,pub,,,,,,,https://www.upizducha.cz/,+420 721 660 012,,,,,"Mo-Fr 00:00-01:00,11:00-24:00; Sa,Su 00:00-01:00,14:00-24:00",,,,,0
+Prague,node/4460745474,POINT (14.417605 50.078291),Funky Bee,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4460745475,POINT (14.417424 50.078583),Nebe,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4460745476,POINT (14.417366 50.078675),Bendy's,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4460823914,POINT (14.420587 50.084341),,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4460955049,POINT (14.42359 50.088707),Bar&Books,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4460955050,POINT (14.423637 50.088594),Freemasonic Club,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/4460955052,POINT (14.424444 50.087956),Industry,,,,,bar,,,,,,,,,,,,,"Tu-Th 18:00-02:00, Fr-Su 18:00-04:00",,,,,0
+Prague,node/4460955057,POINT (14.423802 50.087878),Tunel,Týn,6,11000,Praha,bar,,,,,,,,,,,,,Mo-Fr 08:00-23:00; Sa 10:00-23:00; Su 10:00-21:00,,,,,0
+Prague,node/4470227676,POINT (14.449376 50.084423),Simply U Kravaty 2,Seifertova,28,130 00,Praha 3,bar,,,,,,,https://www.facebook.com/Simply-U-Kravaty-2-867253483359571/,+420 773 591 599,,,,,Tu-We 17:00-24:00; Th-Sa 17:00-02:00; Su 17:00-23:00,,,,,0
+Prague,node/4472006877,POINT (14.402352 50.088638),Mini Market,Malostranské náměstí,203/14,11800,Praha,,,,,,,,,,,,,,,no,,,,0
+Prague,node/4493890014,POINT (14.436665 50.074201),Bottega del Vino,,,,,,,,,,,,,,,,,,Mo-Fr 15:00-19:00,,,,,0
+Prague,node/4515217790,POINT (14.505902 50.124344),U Huberta,,,,,pub,,,,Staropramen,,,,,,,,,Mo-Su 10:00-23:00,,,outside,,2
+Prague,node/4532482290,POINT (14.456532 50.106179),Marina Pivovar,Jankovcova,12,,,bar,,,,,,,https://www.pivovarmarina.cz/,,,,,,,,,,,0
+Prague,node/4586922093,POINT (14.617411 50.111915),Hospůdka U Bobra,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/4586999291,POINT (14.613447 50.115297),U Džonyho,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/4587023791,POINT (14.600224 50.110065),Sportovní hospoda,,,,,pub,,,,,,,https://www.sportovnihospoda.cz/,,,,,,,,,,,0
+Prague,node/4590640591,POINT (14.423531 50.0899),Bars,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4602875906,POINT (14.44748 50.126185),Poctivej výčep,,,,,pub,,,,Slavkov,,,https://poctivejvycep.webnode.cz/,,radekfuksa@centrum.cz,,,,Mo-Fr 17:00-23:00,,,,,0
+Prague,node/4609894852,POINT (14.423385 50.078662),Craft House,Navrátilova,11,,,bar,,,,,yes,,https://www.crafthouse.cz/,,bar@crafthouse.cz,,,,Mo-Su 17:00-24:00,,,,,6
+Prague,node/4623915980,POINT (14.457941 50.082748),VinVin,,,,,bar,,,,,,,https://www.vinvin.cz/,+420 267 092 234,info@vinvin.cz,,,,Mo-Sa 16:00-24:00,,,,,0
+Prague,node/4637351206,POINT (14.420873 50.091708),Drunken Monkey,,,,Praha,pub,,,,,,,,+420775411417,,https://www.facebook.com/pg/drunkenmonkeycz/,,,24/7,no,,,,0
+Prague,node/4642107789,POINT (14.419992 50.085426),,Michalská,438/15,,,bar,,,,,,,,+420 224282023,,,,,Mo-Su 11:00-23:00,,,,,0
+Prague,node/4676407389,POINT (14.450006 50.085648),Grow Bar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4679035601,POINT (14.474139 50.108963),Bistro u Rokytky,Na Rokytce,20,,,bar,,,,,,,,,,,,,Mo-Su 10:00-23:00,,,,,0
+Prague,node/4705107890,POINT (14.427562 50.100993),Barré,,,,,bar,,,,,,,,,,,,,Mo-Su 17:00-24:00,,,,,0
+Prague,node/4705330070,POINT (14.432394 50.071949),ALVA,Koubkova,10,120 00,Praha 2,bar,,,,,,,,,alva.praha@gmail.com,,,,19:00 - 23:00,,,no,,0
+Prague,node/4706346002,POINT (14.475389 50.10878),Dřevona,U Libeňského pivovaru,1613/14,18000,Praha,pub,,,,,,,,,,,,,"Mo,Tu 14:00-21:30",,,,,2
+Prague,node/4729088989,POINT (14.458491 50.071458),Joker Bar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4741817990,POINT (14.453356 50.078962),Fermé,Lucemburská,11,130 00,Praha 3,bar,,,,,,,https://ferme.cz/praha,+420 777 755 241,,,,,Mo-Su 17:00-02:00,,,,,0
+Prague,node/4741976026,POINT (14.38067 50.111033),iSmoke Embassy,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4747835998,POINT (14.440026 50.063837),Vinný šenk,Sezimova,15,14000,Praha,bar,,,,,,,,,,,,,"Mo-Fr 12:00-22:00, Sa,Su 15:00-22:00",no,,,,0
+Prague,node/4747854349,POINT (14.438298 50.061828),Sport Bar Gallo,náměstí Generála Kutlvašra,6,14000,Praha,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/4747882001,POINT (14.441866 50.062706),La Grapperia,Táborská,44,14000,Praha,,,,,,,,,,,,,,,no,,,,0
+Prague,node/4747882012,POINT (14.443394 50.063281),Star Arena,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4747882014,POINT (14.442665 50.063767),Pyrát,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/4753148623,POINT (14.433241 50.068367),Galerka,Bělehradská,44,12000,,pub,,,,,,,http://valaskovi.cz/galerka/,+420 602 662 600,,,,,Mo-Sa 17:00-23:00,,,outside,,0
+Prague,node/4759371145,POINT (14.434689 50.074508),Sklípek U Adama,,,,,bar,,,,,,,,,,,,,Tu-Sa 14:00-22:00; Su 16:00-22:00,,,,,0
+Prague,node/4759399980,POINT (14.43186 50.074947),Shawarma Bar,,,,,bar,,,,,,,,,,,,,"Mo-We 11:00-24:00, Th-Su 11:00-02:00",,,,,0
+Prague,node/4762030667,POINT (14.507413 50.027968),Lucaffé,,,,,biergarten,,,,,,,,,,,,,Mo-Fr 10:00-23:00; Sa-Su 10:00-22:00,yes,,,,0
+Prague,node/4770165554,POINT (14.423146 50.075428),Left Field Bar,Ječná,509/12,12000,Praha,bar,,,,,,,,+420 775 549 696,leftfield_bar@seznam.cz,,https://www.instagram.com/leftfield_bar,,"Mo-Th 18:00-03:00; Fr,Sa 18:00-04:00; Su 18:00-02:00",,,,,1
+Prague,node/4770253651,POINT (14.428676 50.084312),Comebuy,Jindřišská,19,11000,Praha,bar,,,,,,,,+420 777 880 890,,,,,Mo-Su 11:00-20:00,,,,,0
+Prague,node/4774552816,POINT (14.420239 50.08314),BiBoVíno,,,,,,,,,,,,,,,,,,,limited,,,,0
+Prague,node/4781068524,POINT (14.471719 50.090368),Kino Aero,Biskupcova,87/31a,13000,Praha,bar,,,,,,,https://www.kinoaero.cz/,,,,,,"Mo-Fr 10:00-24:00; Sa,Su 11:30-24:00",limited,,,,2
+Prague,node/4781897274,POINT (14.417694 50.083562),Champagneria,Průchodní,2,11000,Praha,bar,,,,,,,https://www.champagneria.cz/,+420 735 025 482,,,,,,,,,,0
+Prague,node/4786842157,POINT (14.4229 50.08916),Pípa beer story,,,,,pub,,draught,,,,,https://foodstory.cz,+420 777445473,dlouha@foodstory.cz,,,,Mo-Su 11:00-22:00,,,,,0
+Prague,node/4793862697,POINT (14.417243 50.063073),Citadela,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,node/4796281479,POINT (14.414304 50.08537),Ciao Bella,,,,,bar,,,,,,,,+420 777755035,,,,,"We,Th,Su 21:00-04:00, Fr,Sa 21:00-05:00",,,,,0
+Prague,node/4799923430,POINT (14.405065 50.089669),Waldštejnská hospoda,,,,,restaurant,,,,,,,,,,,,,Mo-Su 11:00-22:00,,,,,0
+Prague,node/4801786246,POINT (14.417593 50.101292),La Vineria,Korunovační,21,17000,Praha 7,,,,,,,,"http://www.valledongiulio.cz/shop.php?la-vineria,28",,,,,,Mo-Su 11:00-21:00,,,,,0
+Prague,node/4805855105,POINT (14.386058 50.071025),Geekárna,Starokošířská,9,15500,Praha 5,bar,,,,,,,http://www.geekarna.cz/,+420 728 017 020,info.geekarna@gmail.com,,,,Mo-Fr 14:00-24:00; Sa-Su 16:00-24:00,no,,no,,3
+Prague,node/4808061424,POINT (14.481053 50.092434),Café bar Lampičky,,,,,bar,,,,,,,,,,,,,Mo-Su 11:00-23:00,,,,,0
+Prague,node/4818773147,POINT (14.546896 50.048824),Hospoda Na Pahorku,,,,,pub,,,,,,,,,,,,,Sa-Su 15:00-22:00,,,,,0
+Prague,node/4820910064,POINT (14.422817 50.077894),Čekárna,,,,,bar,,,,,,,,+420 733197173,,,,,"Mo-Fr 09:00-02:00, 09:00-18:00; Sa, Su 15:00-02:00",,,,,0
+Prague,node/4822265051,POINT (14.433912 50.071008),OneTwo Bar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4822399980,POINT (14.432814 50.073642),Vinotéka U Eduarda,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/4829452782,POINT (14.487013 50.022381),Hospůdka Na Růžku,,,,,pub,,,,kozel,,,,,,,,,Mo-Su 12:00-21:30,,,,,0
+Prague,node/4834139404,POINT (14.444043 50.091077),Rapid bar 65,Křižíkova,163/33,18600,Praha,pub,,,,,,,http://www.rapidbar65.firemni-web.cz/,+420 722 702 820,,,,,"Mo-Su 00:00-02:00,14:00-24:00",,,outside,,5
+Prague,node/4843874357,POINT (14.444524 50.062704),Máme žízeň.cz,,,,,,,,,,,,www.mamezizen.cz,,,,,,Mo-Su 16:00-04:00,,,,,0
+Prague,node/4844267821,POINT (14.474201 50.091679),Bar na větvi,,,,,bar,,,,,,,https://bar-na-vetvi3.webnode.cz/,,,,,,Mo-Sa 19:00-04:00,yes,,,,0
+Prague,node/4897194935,POINT (14.628627 50.115988),Vinárna Na Statku,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4912117513,POINT (14.439399 50.075957),Snack bar U Dandů,Slezská,552/4,12000,Praha,pub,,,,,,,,,,,,,Mo-Fr 11:00-23:00,,,outside,,0
+Prague,node/4923909755,POINT (14.416226 50.083507),Sad man's Tongue Bar and Bistro,,,,,bar,,,,,,,http://www.sadmanstongue.net/,,contact@sadmanstongue.com,https://www.facebook.com/SadMansTongue/,,,We-Su 11:00-05:00,no,,,,6
+Prague,node/4925625822,POINT (14.424878 50.091037),the bankers bar,,,,,bar,,,,,,,,,,,,,"Tu-Sa 17:00-01:00, Su,Mo 17:00-24:00",,,,,0
+Prague,node/4934951943,POINT (14.580663 50.088434),Počernický pivovar,,,,,pub,,,,,,yes,https://www.pddp.cz/pocernicky-pivovar/,,,,,,"Mo-Th 11:00-24:00, Fr,Sa 11:00-01:00, Su 11:00-22:00",,,,,0
+Prague,node/4945956128,POINT (14.43565 50.039114),Šenkýrna Na Ledárnách,Točitá,274/46,14000,,pub,,,,,,,https://www.senkyrna.cz/senkyrna-na-ledarnach,,,,,,,,,,,1
+Prague,node/4950769404,POINT (14.474677 50.077272),Pivnice u Hollara,Soběslavská,25,13000,Praha 3,pub,,,,,,,,,,,,,"Mo-Fr 14:00-22:00; Sa,Su 16:00-22:00",,,,,2
+Prague,node/4958181423,POINT (14.423517 50.084015),Crazy Daisy,Václavské náměstí,4,110 00,Praha,bar,,,,,,,https://crazydaisy.cz/,,,,,,,,,,,0
+Prague,node/4966193826,POINT (14.426705 50.083636),Na skleničku,,,,,bar,,,,,,,https://www.nasklenicku.com/,,,,,,"Mo-Fr 13:00-23:00; Sa, Su 15:00-23:00",yes,,outside,,0
+Prague,node/4977737927,POINT (14.392132 50.072322),Max Laser Game and Bar,Plzeňská,56,,,bar,,,,,,,https://www.maxlasergame.cz/,+420 774454656,,,,,,,,,,0
+Prague,node/4980427220,POINT (14.448967 50.060664),V Pasti,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/4997619927,POINT (14.409716 50.087651),Vinárna Čertovka,,,,,bar,,,,,,,,,,,,,,no,,,,0
+Prague,node/4997770201,POINT (14.417963 50.083336),Zázemí,Bartolomějská,13,11000,Praha,bar,,,,,,,https://www.facebook.com/klubovnaZAZEMI,+420 776 693 326,klubovna.zazemi@gmail.com,,,,"Mo-Sa 15:00-02:00, Su 15:00-23:00",no,,,,0
+Prague,node/4999195055,POINT (14.466074 50.089817),Vohrada Pub,,,,,pub,,,,,,,,,,,,,"Mo-Su,PH 13:30-23:00",limited,,,,0
+Prague,node/4999295850,POINT (14.453884 50.094734),Warehouse#1,,,,,,,,,,,,,,,,,,Mo-Fr 10:00-19:00,,,,,0
+Prague,node/4999295858,POINT (14.449959 50.093606),U Bartoše,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/5007341207,POINT (14.451505 50.075244),Pivní Mozaika,Korunní,1209/76,101 00,Praha,bar,,,,,,,http://www.pivnimozaika.cz,+420 284 680 661,,,,,"PH,Mo-Su 11:30-19:30",,,,,0
+Prague,node/5010970674,POINT (14.443937 50.090353),Kasárna Karlín,Prvního pluku,20/2,186 00,Praha,bar,,,,,,,https://kasarnakarlin.cz/,,info@kasarnakarlin.cz,kasarnakarlin,,,Mo-Fr 13:00-23:30; Sa-Su 10:00-23:30,yes,,,,3
+Prague,node/5053279894,POINT (14.422659 50.090777),Vino Markuzzi,,,,,,,,,,,,https://markuzzi.cz/,,,,,,Mo-Fr 09:00-19:00,limited,,,,0
+Prague,node/5064979619,POINT (14.427946 50.077103),Dungie's,Žitná,573/38,,,pub,,,,,,,http://dungies.cz,,,,,,,,,,,0
+Prague,node/5116818696,POINT (14.457419 50.048084),Turnovská pivnice,,,,,restaurant,,,,,,,https://turnovskapivnice.cz/nase-podniky/brumlovka,+420 273 130 776,,,,,Mo-Sa 11:00-23:00; Su 11:00-22:00,yes,,,,1
+Prague,node/5119305596,POINT (14.452539 50.069038),Obchod s vínem,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/5126546041,POINT (14.445628 50.074566),Bullerbyn,Chodská,1123/17,120 00,,bar,,,,,,,https://www.bullerbyn.cz/,+420 702 093 992,,,,,Mo-Su 11:00-01:00,,,,,0
+Prague,node/5133565375,POINT (14.552172 50.046212),Nejmenší vinárnička u středně velké vrtule,,,,,pub,,,,,,,https://vrtule.majestat.cz/,,,,,,Tu-Sa 18:00-22:00,,,,,0
+Prague,node/5142511625,POINT (14.451261 50.086231),Tiky taky,Cimburkova,22,13000,,bar,,,,,,,https://praguetikibar.com/,,,,,,Su-Th 19:00-03:00; Fr-Sa 19:00-05:00,no,,,,0
+Prague,node/5145005021,POINT (14.450665 50.078652),Café Plecnik,,,,,bar,,,,,,,,,,,,,Mo-Sa 09:00-22:00; Su 10:00-22:00,no,,,,0
+Prague,node/5147996421,POINT (14.414004 50.085072),Prague Beer Museum,Smetanovo nábřeží,205/22,11000,,pub,,,,,,,https://praguebeermuseum.cz/en/,,,,,,Mo-Su 10:00-03:00,,,,,0
+Prague,node/5161974905,POINT (14.45729 50.068336),Royal Lumbiny,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/5171999718,POINT (14.441277 50.085401),Play House,,,,,bar,,,,,,,,,,,,,24/7,,,,,0
+Prague,node/5171999729,POINT (14.444177 50.085415),Vinotéka,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/5176055307,POINT (14.447344 50.085077),Deep Down,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/5176055310,POINT (14.448028 50.084618),Tiki Taky Cocktail Bar,Seifertova,,13000,Praha 3,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/5177941613,POINT (14.45088 50.084451),Pivní lokál Ostrý,,,,,pub,,,,,,,,+420 606 213 052,,,,,Mo-Fr 16:00-24:00,limited,,,,0
+Prague,node/5177941620,POINT (14.451982 50.084119),,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/5181640829,POINT (14.409711 49.990834),Комоřanská pivnice,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/5185664160,POINT (14.473652 50.091582),Pivní rozmanitost,,,,,pub,,,,,yes,,http://pivni-rozmanitost.cz,,obchod@pivni-rozmanitost.cz,https://www.facebook.com/pivotekapivnirozmanitost,,,Mo-Th 15:00-22:00; Fr 14:00-23:00; Sa 15:00-23:00,limited,,,,0
+Prague,node/5188088446,POINT (14.467653 50.089132),Bar U Čtyřky,,,,,bar,,,,,,,,,,,,,Mo-Fr 16:00-23:30; Su 18:00-22:00,no,,,,0
+Prague,node/5199945370,POINT (14.436592 50.090675),Bottles WineBar,,,,,bar,,,,,,,http://www.bottles-winebar.cz,+420 273 134 050,info@bottles-winebar.cz,,,,Mo-Fr 13:00-23:00; Sa-Su 15:00-23:00,,,,,0
+Prague,node/5213860818,POINT (14.355912 50.084029),Břevnovský výčep,,,16900,Praha,pub,,,,,,,https://www.brevnov.cz/,+420 220 406 112,,,,,"Mo-Fr 14:00-20:00; Sa,Su 10:00-20:00",,,outside,,2
+Prague,node/5244515894,POINT (14.393143 50.106779),Dejvická divadelní kavárna,Zelená,15,,,bar,,,,,,,,,,,,,Mo-Fr 11:30-23:00,,,outside,,0
+Prague,node/5264604426,POINT (14.414942 50.076952),Vinárna Náplavní,Náplavní,9,12000,Praha,bar,,,,,,,https://www.vinarna-naplavni.cz/,+420 241 416 546,,,,,Mo-Sa 12:30-23:00; Su 14:30-22:00,,,,,0
+Prague,node/5310713941,POINT (14.428198 50.1),U velblouda,Haškova,123/3,170 00,Praha 7,pub,,,,,,,,+420 608 527 475,,,,,Mo-Sa 17:00-02:00 || Su 17:00-24:00,,,no,,0
+Prague,node/5318818158,POINT (14.380405 50.095215),Stará Ořechovka,,,,,pub,,industrial,,AB InBev,,,https://www.staraorechovka.cz/,+420 734 736 175,,,,,,,,,,0
+Prague,node/5348047703,POINT (14.431642 50.143856),Chmeloun,Čimická,218/189,18100,,pub,,,,,,,https://m.facebook.com/pivnibarchmeloun/&ved=2ahUKEwjF7vi2yYSOAxVSVvEDHd7JPMQQjjh6BAhrEAE&usg=AOvVaw3XsET3IRYq9UgkV4YlYfRj,604231533,,,,,Mo-Sa 16:00-22:00; Su 16:00-21:00,,,outside,,0
+Prague,node/5402587425,POINT (14.504133 50.055148),Pivni Bar Zvonkova,Zvonková,2,10600,Praha,pub,,,,yes,,,http://www.pivnibarzvonkova.cz/,,,,,,Mo-Su 10:00-22:00,,,no,,0
+Prague,node/5403533121,POINT (14.430049 50.085087),Jindřišská věž,,,,,bar,,,,,,,https://whiskeria.cz/,+420 734 417 207,info@whiskeria.cz,,,,Mo-Sa 15:00-00:00,,,,,0
+Prague,node/5463915812,POINT (14.382002 50.086028),Glentyn(e),Na Malovance,724/6,16900,Praha 6,,,,,,,,,,,,,,,,,,,0
+Prague,node/5474313615,POINT (14.442217 50.074729),Once upon a beer,,,,,pub,,,,,,,https://www.facebook.com/ouabeer/,,,,,,,,,,,0
+Prague,node/5474931921,POINT (14.4183 50.085611),Pivovar Zlatá růže,,,,,bar,,,,,,,,,,,,,Mo-Su 11:00-02:00,no,,,,0
+Prague,node/5508982943,POINT (14.390797 50.080227),Good bar,,,,,pub,,,,,,,,,,,,,Su-Fr 18:00-01:30; Sa off,limited,,,,0
+Prague,node/5508982944,POINT (14.395615 50.079759),Desítka,,,,,pub,,,,,,,,,,,,,"Mo-Su,PH 19:00-02:00",,,,,6
+Prague,node/5508982945,POINT (14.393193 50.081169),Recharging bar,,,,,pub,,,,,,,,,,,,,"Mo-Th 18:00-01:00, Fr,Sa 18:00-03:00, Su 18:00-24:00",limited,,,,6
+Prague,node/5510287971,POINT (14.471433 50.089785),Gunners Pub,,,,,pub,,,,,,,,,,,,,,no,,,,0
+Prague,node/5520649421,POINT (14.416382 50.079289),Indigo Ale Bar,Opatovická,1737/3,110 00,,bar,,,,,,,,+420 604 569 033,,,,,Mo-Su 16:00-01:00,,,,,0
+Prague,node/5539788281,POINT (14.470848 50.089908),Restaurace Bambini,,,,,pub,,,,,,,,,,,,,11:30-24:00,no,,,,0
+Prague,node/5567031215,POINT (14.500664 50.031251),,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/5579065364,POINT (14.430838 50.08785),Nebe Cocktail & Music Bar Celnice,V Celnici,4,11000,Praha,bar,,,,,,,http://www.nebepraha.cz/cz/celnice,+420 776 406 400,,,,,"Tu-Sa 17:00-22:00, Mo 18:00-01:00",,,,,2
+Prague,node/5589170424,POINT (14.426909 50.076868),Faust,V Tůních,14,,,bar,,,,,,,https://faustbar.cz/,+420 773 222 732,info@faustbar.cz,,,,"Mo-Fr 16:00-01:00; Sa, Su 16:00-03:00",,,,,0
+Prague,node/5591733517,POINT (14.459426 50.132076),Na Svorností,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/5594830512,POINT (14.474732 50.103308),Verona,Novákových,7,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/5612300923,POINT (14.490408 50.10405),Beer Station,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,node/5612300990,POINT (14.490194 50.10375),Kajot Sportbar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/5615751230,POINT (14.42004 50.088974),Buggsy's Bar,Pařížská,10,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/5636218621,POINT (14.453375 50.087255),Vinotéka pod Vítkovem,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/5649349113,POINT (14.422047 50.078898),U Sudu,,,,,bar,,,,,,,,,,,,,"Mo-Th 09:00-04:00, Fr 09:00-05:00, Sa 10:00-05:00, Su 11:00-04:00",yes,,,,0
+Prague,node/5692990062,POINT (14.487464 50.106154),Výčep Fialka,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/5702007631,POINT (14.279892 50.04526),U Beránků,,,,,pub,,,,,,,,,,,,,"Su-Th 15:00-21:00; Fr,Sa 15:00-22:00",,,,,0
+Prague,node/5727997821,POINT (14.416184 50.077417),Pula Shisha & Lounge Bar,,,,,bar,,,,,,,,,,,,,"Mo-Su 16:00-24:00, Sa,Su 00:00-01:00",,,,,0
+Prague,node/5760151413,POINT (14.40578 50.075795),,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/5763271286,POINT (14.448558 50.128243),Víno Fermata,Třeboradická,1111/29,18200,,,,,,,,,,,,,,,Mo-Fr 16:00-21:00,,,,,3
+Prague,node/5791792486,POINT (14.486478 50.105256),Kolčavka,,,,,pub,,,,,,yes,,,,,,,"Mo-Sa 16:30-01:00, Su 15:00-23:00",,,,,2
+Prague,node/5851871527,POINT (14.437266 50.07698),YoCafe,Anny Letenské,1204/1,12000,Praha 2,bar,,,,,,,http://yocafe.cz,+420 776 006 929,info@yocafe.cz,,,,Mo-Fr 16:00-22:00,no,no,,,6
+Prague,node/5899813185,POINT (14.414194 50.075449),Glass bar,Rašínovo nábřeží,80,12000,Praha,bar,,,,,,,,,,,,,Mo-Su 09:00-19:00,,,,,0
+Prague,node/5911846885,POINT (14.424366 50.131552),Šedivák,,,,,bar,,,,,,,http://pivovarsedivak.cz,,,https://www.facebook.com/PivovarSedivak,,,Mo-Su 11:00-23:00,,,,,2
+Prague,node/5941067133,POINT (14.449764 50.085233),Poke bowls & Sushi bar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/5969421582,POINT (14.494876 50.116824),Bar On Bar,,,,,bar,,,,Svijany,,,,,,,,,Mo-Fr 09:00-17:00,yes,,no,,2
+Prague,node/5996532329,POINT (14.43862 50.076643),Pivovar a Restaurace Římská,Římská,45,12000,Praha 2,restaurant,,,,,,,https://rimska.cz/,+420 603 264 390,restaurace@rimska.cz,,,,Mo-Su 11:00-23:00,,,,,0
+Prague,node/5998301256,POINT (14.48022 50.092341),Rebels,Hartigova,165,13000,,bar,,,,,,,http://www.facebook.com/rebels165,+420722957472,chiroza@seznam.cz,,,,Mo-Sa 16:00-02:00,,,,,0
+Prague,node/6045919586,POINT (14.457514 50.091664),Pivo Karlín,,,,,pub,,,,,,yes,https://www.pivokarlin.cz/,+420602211525,info@pivokarlin.cz,,,,Mo-Sa 11:00-24:00; Su 11:00-23:00,yes,,,,1
+Prague,node/6063751885,POINT (14.60817 50.112806),U Voháků,Rožnovská,737,19300,,biergarten,,,,,,,http://restauraceuvohaku.cz,+420 728607652,,,,,Mo-Su 11:00-23:00,,,,,0
+Prague,node/6068290776,POINT (14.409425 50.062471),U Smolíků,Nádražní,894/44,,,pub,,,,,,,,,,,,,"Mo-Fr 11:00-22:00; Sa,Su 15:00-22:00",,,,,0
+Prague,node/6069171386,POINT (14.42086 50.100252),Kyklop,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/6126277746,POINT (14.416754 50.077512),Prosekárna,,,,,bar,,,,,,,https://www.prosekarna.cz/,,,,,,Mo-Sa 12:00-22:00; Su 12:00-20:00,,,,,0
+Prague,node/6132446861,POINT (14.452385 50.076392),Puerto Rico,Řipská,19,,Praha,bar,,,,Staropramen,,,https://www.puertobar.cz/,+420 222 512 993,,https://www.facebook.com/puertoricobar.puertorico/,,,"Mo-Fr 00:00-02:00,16:00-24:00; Sa,Su 00:00-02:00,18:00-24:00",no,,outside,,0
+Prague,node/6178361465,POINT (14.388306 50.086808),Klášterní pivovar Strahov,,,,,,,,,,,yes,https://www.klasterni-pivovar.cz/,+420 233 353 155,zuzana@klasterni-pivovar.cz,https://www.facebook.com/Pivovar-Strahov-SvNorbert-255900158543/,,,Mo-Su 10:00-22:00,,,,,3
+Prague,node/6178361466,POINT (14.450129 50.083232),Music pub woodoo,,,,,pub,,,,,,,http://www.bamboopub.cz/o-woodoo,+420 733 413 479;+420 777 266 735,,https://www.facebook.com/woodoopub.cz/,,,"Mo-Su 00:00-02:00,16:00-24:00; Fr,Sa 00:00-04:00,16:00-24:00",no,,outside,,2
+Prague,node/6204992532,POINT (14.429393 50.07732),ALIBI,,,,,bar,,,,,,,https://www.alibi-bar.cz/,,,,,,"We 18:00-02:00, Th-Sa 18:00-04:00",,,,,0
+Prague,node/6204997142,POINT (14.433457 50.057892),Global Wines & Spirits,,,,,,,,,,,,https://www.global-wines.cz/,,,,,,"Mo-Fr 10:00-20:00, Sa 09:00-13:00",,,,,0
+Prague,node/6208659325,POINT (14.485723 50.104017),BalabenkaBar,Českomoravská,1308/1,19000,Praha 9,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/6251237585,POINT (14.446819 50.093494),Dva Kohouti,Sokolovská,81/55,18600,Praha,bar,,,,,,yes,https://www.dvakohouti.cz/,,,,,,"Mo-Fr 15:00-01:00, Sa 12:00-01:00, Su 12:00-22:00, PH 12:00-22:00",no,,outside,,7
+Prague,node/6251438786,POINT (14.405987 50.072325),Andělský Pivovar,Lidická,337/30,15000,,restaurant,,,,,,yes,https://www.andelskypivovar.cz/,,,,,,Mo-Sa 11:00-24:00; Su 11:00-23:30,,,outside,,2
+Prague,node/6306151357,POINT (14.396934 50.071237),Red Bar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/6316789129,POINT (14.409686 50.059998),Sklepní pivnice Smíchoff,,,,,pub,,,,Gambrinus,,,,,,,,,24/7,no,,,,0
+Prague,node/6357245380,POINT (14.67115 50.087691),Hospoda U lesa,Habrovská,89,19014,Praha 9 - Klánovice,pub,,,,Konrád,,,,+420602257882,,,,,"Mo-Fr 16:00-21:00; Sa,Su 13:00-23:00",,,,,0
+Prague,node/6410423085,POINT (14.422879 50.088052),U Budovce,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/6413322686,POINT (14.487516 50.105846),Magic Rock Bar Illusion,Kurta Konráda,,,,bar,,,,,,,,,,,,,Mo 17:00-01:00; Tu-Sa 18:00-03:00,,,,,0
+Prague,node/6415582985,POINT (14.405133 50.077524),,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/6433144785,POINT (14.404561 50.078131),the Spot,,,,,bar,,,,,,,,,,,,,"Mo-Fr 08:00-19:00; Sa,Su 08:30-19:00",,,,,0
+Prague,node/6440700394,POINT (14.424726 50.077726),Londoners,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/6466509813,POINT (14.444959 50.108091),Stáčené vino,,,,,,,,,,,,stacenevino.cz,,,,,,Mo-Fr 13:00-19:00,,,,,0
+Prague,node/6501232363,POINT (14.457377 50.065649),Billiard klub Harlequin,,,,,pub,,,,,,,https://www.harlequinpraha.cz/,,,,,,,,,,,0
+Prague,node/6504459486,POINT (14.453226 50.080497),,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/6507865751,POINT (14.449101 50.101943),Bondy bar,,,,,bar,,,,,,,,,,,,,"We-Mo 20:00-03:00, Tu 17:00-03:00",,,,,0
+Prague,node/6509564190,POINT (14.489191 50.069922),Publikum,Průběžná,9/18,10000,,pub,,,,,,,https://publikum.business.site,+420 602 365 932,,,,,Mo-Su 15:00-03:00,,,,,0
+Prague,node/6509564192,POINT (14.488349 50.070193),Puma bar,Gutova,1240/17,10000,,pub,,,,Branik,,,,,,,,,,,,,,0
+Prague,node/6509564193,POINT (14.484306 50.07138),Beer Knír,V Olšinách,1025/29,100 00,Praha 10,bar,,,,yes;various,yes,,https://beerknir.cz/,+420 725 163 015,jakub@beerknir.cz,Beerknir,beerknir,,Mo-Sa 16:00-23:00; Su 16:00-22:00,,,,,3
+Prague,node/6509564195,POINT (14.481995 50.071255),V Olšinách,V olšinách,795/13,10000,,pub,,,,Březňák,,,,,,,,,Mo-Su 13:00-01:00,,,,,0
+Prague,node/6509564196,POINT (14.44682 50.093171),Letní bar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/6516177085,POINT (14.547867 50.130628),Kbelsky Pivovar,Mladoboleslavská,1122,19700,,restaurant,,,,,,yes,https://kbelskypivovar.cz/,+420773099455,provoz@kbelskypivovar.cz,,,,Mo-Su 11:00-23:00,,,outside,,2
+Prague,node/6527765313,POINT (14.439687 50.062869),Pivovar Bašta,,,,,pub,,,,,,yes,https://www.ubansethu.cz/pivovar/,,,,,,Mo-Su 11:00-24:00,limited,,,,0
+Prague,node/6554636898,POINT (14.396912 50.066265),Šedý Pes,,,,,pub,,,,,,,https://www.sedypes.cz/,+420 777 080 111,,https://www.facebook.com/sedypes/,,,"Mo-Su 00:00-02:00,17:00-24:00",no,,,,0
+Prague,node/6573344586,POINT (14.407018 50.072696),,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/6575476436,POINT (14.465715 50.078373),Bomoni,,,,,bar,,,,,,,,,,,,,"Su-Th 10:00-23:00; Fr,Sa 10:00-24:00",yes,,,,0
+Prague,node/6592264385,POINT (14.423123 50.089273),,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/6593339885,POINT (14.421503 50.087051),,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/6622281477,POINT (14.48244 50.108306),Pivovar Kilián,Nad Kolčavkou,8,18000,Praha,,,,,,,,https://www.pivovarkilian.cz/,+420 739 623 633,,,,,Mo-Su 11:00-23:00,no,,,,1
+Prague,node/6704044586,POINT (14.431189 50.091308),Gulden Draak Bierhuis,Soukenická,34,11000,Praha 1,pub,,,,,,,https://www.guldendraak.cz/,+420 724 105 800,info@guldendraak.cz,,,,Su-Mo 16:00-0:00; Tu-Sa 16:00-02:00,,,,,2
+Prague,node/6708477187,POINT (14.502246 50.069789),TJ Solidarita,,,,,biergarten,,,,yes,,no,,,,,,,,,,,,0
+Prague,node/6708477204,POINT (14.505777 50.066173),Hospoda Na padesátém,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/6708477205,POINT (14.500564 50.069734),Restaurace Hřiště,Pod Strání,,10000,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,node/6723181285,POINT (14.413589 50.07283),,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/6741894785,POINT (14.438248 50.041101),Havran bar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/6741992485,POINT (14.426132 50.079862),,Štěpánská,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/6746280285,POINT (14.422374 50.088182),Sport Bar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/6750570597,POINT (14.417388 50.067266),,,,,,bar,,,,,,,,,,,,,Mo-Su 18:00-03:00,,,,,0
+Prague,node/6757947785,POINT (14.404764 50.071247),BEERTIME,Nádražní,61/116,15000,Praha,pub,,,,various,yes,,https://www.beertime.pub/,+420 257 326 167,info@beertime.pub,https://www.facebook.com/beertime.pub,,,Mo-We 11:00-23:30; Su 12:00-22:00; Sa 12:00-23:30,yes,,outside,,3
+Prague,node/6773092585,POINT (14.449118 50.082794),Shotgun,,,,,bar,,,,,,,,,,,,,Mo-Su 12:00-24:00,no,,,,0
+Prague,node/6793901153,POINT (14.378046 49.967625),U Bláhů,Lipenecká,6,15600,Praha 5 - Zbraslav,pub,,,,yes;various,,,,,,,,,Mo-Su 15:00-22:00,,,,,0
+Prague,node/6814474087,POINT (14.534363 50.036116),Kantýna FC Háje,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/6873628485,POINT (14.421048 50.08533),Maxim Bar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/6873628585,POINT (14.423926 50.088819),Freemasons Pub,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/6873628586,POINT (14.412842 50.086052),Karlův Most,,,,,bar,,,,,,,,,,,,,,limited,,,,0
+Prague,node/6876114285,POINT (14.418678 50.082974),Pivni Beer Bar,,,,,bar,,,,,,,,,,,,,Mo-Su 16:00-00:00; Mo-Fr 00:00-01:00,,,,,0
+Prague,node/6924755785,POINT (14.612735 50.116157),Pivovar Počerňák,Libuňská,631/2,19300,,restaurant,,,,,,,https://pivovarpocernak.cz/,+420723409098,restauracepocernak@gmail.com,,,,Mo-Th 11:00-23:00; Fr-Sa 11:00-24:00; Su 11:00-22:00,,,,,1
+Prague,node/6925115285,POINT (14.432633 50.088976),Minirest,Havlíčkova,6,11000,,bar,,,,,,,,,,,,,Mo-Fr 15:00-24:00,,,,,0
+Prague,node/6942536586,POINT (14.400886 50.087418),Národní banka vín,Tržiště,17,11800,,bar,,,,,,,,+420606483087,,,,,Mo-Sa 14:00-22:00; Su 14:00-20:00,,,,,0
+Prague,node/7017141535,POINT (14.472514 50.115286),Vrtule,,,,,pub,,,,Březňák,,,,,,,,,Mo-Su 13:00-23:00,,,,,0
+Prague,node/7042015085,POINT (14.31281 50.03344),Restaurace Pivovar Řeporyje,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/7052894686,POINT (14.446886 50.07136),Café Bar Pilotů,Donská,168/19,101 00,,bar,,,,,,,,+420 739 765 694,cafebarpilotu@gmail.com,,,,Su-Th 18:00-01:00; Fr-Sa 18:00-02:00,,,,,0
+Prague,node/7102061556,POINT (14.420289 50.085989),My People Bar,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/7102061558,POINT (14.420289 50.085349),AnonymouS,Michalská,12,11000,,bar,,,,,,,,+420 608 280 069,,,,,,,,,,0
+Prague,node/7116196387,POINT (14.422962 50.079599),Bohemia Goose,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/7117550286,POINT (14.406466 50.098535),Pivotéka Base Camp Store,Muchova,241/4,16000,,,,,,,yes,,https://pifko.info/,+420 773 260 707,objednavky.basecamp@gmail.com,https://www.facebook.com/pivotekabasecamp,https://www.instagram.com/pivotekabasecamp/,,"Mo-Su 14:00-24:00; 2025 Sep 24-27,2025 Oct 13-20,2025 Nov 22-28, 2026 Jan 26-2026 Feb 14 off",no,,,,2
+Prague,node/7151700401,POINT (14.452835 50.091101),Yondu,,,,,bar,,,,,,,,,,,,,"Mo-Fr 16:00-24:00; Sa,Su 18:00-24:00",,,,,2
+Prague,node/7151700900,POINT (14.457325 50.092064),Karlínská pivnice,,,,,pub,,,,,,,,,,,,,Mo-Su 15:00-01:00,,,,,0
+Prague,node/7195715598,POINT (14.513518 50.013261),U Sumečka na půdě,,,,,bar,,,,yes,,,,,usumecka@seznam.cz,https://m.facebook.com/347393614711/,,,Mo-Fr 11:00-22:00; Sa 16:00-22:00; Su 11:00-22:00,,,,,0
+Prague,node/7203075385,POINT (14.43218 50.097938),KoVadlina.U lázní,,,,,bar,,,,,,,https://www.facebook.com/kovadlinaulazni/,,,,,,Mo-Su 15:00-22:00,,,,,0
+Prague,node/7260665585,POINT (14.42256 50.099168),,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/7261369455,POINT (14.387049 50.072009),Paddy's bar,Mahenova,177/11,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/7266721697,POINT (14.580649 50.106849),Sýkorka,Bryksova,774/43,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/7298535386,POINT (14.419236 50.087351),,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/7298535685,POINT (14.4079 50.087843),Wine Bar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/7323104785,POINT (14.429448 50.078672),Interactive beer point,,,,,bar,,,,,,,,,,,,,,limited,,,,0
+Prague,node/7373311501,POINT (14.547421 50.130398),Kbelský pivovar,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/7412701685,POINT (14.423909 50.082974),U Pinkasů,Jungmannovo nám.,16,110 00,Praha,biergarten,,,,,,,http://www.upinkasu.cz/,,,,,,,,,,,0
+Prague,node/7549443685,POINT (14.433291 50.068314),Galerka pivní bar,,,,,bar,,,,,,,,,,,,,Mo-Fr 17:00-23:00,,,,,0
+Prague,node/7627445986,POINT (14.432087 50.077253),Lavish Lounge,Anglická,42/7,120 00,,bar,,,,,,,https://lavish-lounge.cz/,,,,,,We-Sa 19:00-02:00,,,,,0
+Prague,node/7658187546,POINT (14.406112 50.069116),Pauwel Kwak Bierhuis,Nádražní,90/47,150 00,Praha 5,bar,,,,,,,https://www.pauwelkwak.cz/,+420 722918815,info@pauwelkwak.cz,,,,Mo 16:00-24:00; Tu-Sa 15:00-01:00; Su 16:00-24:00,no,,,,4
+Prague,node/7680187381,POINT (14.360652 50.036529),Pivovar Prokopák,Do Klukovic,305,15200,Praha,pub,,,,yes;Pivovar_Prokopák,,yes,,,,,,,Mo-Su 11:00-21:30,limited,,outside,,2
+Prague,node/7738959022,POINT (14.427044 50.100339),Na sekyrce,Kamenická,813/31,,,pub,,,,,,,,,,,,,Mo-Su 15:00-23:00,,,,,0
+Prague,node/7809598187,POINT (14.41819 50.08095),separé,Mikulandská,133,110 00,Praha 1,bar,,,,,,,https://separe-mikulandska.cz,+420 722 339 488,,,separe_mikulandska,,Mo-Fr 17:00-00:00; Sa 17:00-00:00,,,no,,0
+Prague,node/7833239785,POINT (14.410152 50.089742),,,,,,bar,,,,,,,,,,,,,Mo-Su 11:00-20:00,,,,,0
+Prague,node/7835629785,POINT (14.432916 50.091188),Screenshot,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/7876665285,POINT (14.41446 50.077005),Wine Not,Masarykovo nábřeží,8,120 00,,bar,,,,,,,,,,,,,Mo-Su 15:00-01:00,,,,,0
+Prague,node/7981930421,POINT (14.404455 50.080043),Nightmare Horror Bar,Újezd,5,150 00,Praha,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/8001057545,POINT (14.578936 50.143496),U Kačera,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/8010318244,POINT (14.372008 50.056143),Turnovská pivnice Waltrovka,Walterovo náměstí,329/2,15800,Praha 5,restaurant,,,,,,,https://turnovskapivnice.cz/nase-podniky/waltrovka#denni-menu,+420 273 130 776,sales@turnovskapivnice.cz,,,,Mo-Fr 11:00-23:00; Sa 12:00-23:00; Su 12:00-22:00; PH 12:00-22:00,,,,,0
+Prague,node/8044105212,POINT (14.452877 50.052417),Balabuška,,,,,bar,,,,yes,,,,,,,,,,,,,,0
+Prague,node/8048970750,POINT (14.578928 50.106568),Sport Bar U Broučka,,,,,bar,,,,,,,https://www.bar-ubroucka.cz/,+420606486806,,,,,,,,,,0
+Prague,node/8051798674,POINT (14.578487 50.106169),Club U Vitamína,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/8093765177,POINT (14.4855 50.072642),malý pivo,Mrštíkova,2450/1,10000,Praha,pub,,,,yes;various,yes,,https://malypivo.cz/,,malypivo2450@gmail.com,https://www.facebook.com/people/mal%C3%BD-pivo/61550737590859/,,,16:00-23:00,,,no,,0
+Prague,node/8117100290,POINT (14.506167 50.083366),Bamboo,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/8157899798,POINT (14.54713 50.13057),Kbelský pivovar,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/8355558330,POINT (14.515293 50.025631),Hospoda 213,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/8435282597,POINT (14.332128 50.067334),Pivovarský rybník,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/8441299137,POINT (14.511981 50.108887),Permanent Pragovka,Kolbenova,923,19000,Praha 9,pub,,,,budvar;maisel's._weisse,,,https://www.pbfest.cz/permanent,+420602366306,robek.pavel@seznam.cz,,,,,,,yes,,3
+Prague,node/8518947875,POINT (14.442315 50.095609),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,node/8528463062,POINT (14.512601 50.112348),Siberia,Kolbenova,438/7,19000,,,,,,,,,https://sibeeria.cz,+420 773 338 177,info@sibeeria.cz,,,,Mo-Fr 10:00-17:00,,,,,0
+Prague,node/8592995272,POINT (14.424297 50.076638),Gossip Bar,Štěpánská,538/11,,,pub,,,,,,,https://www.gossipbar.cz/,+420773685510,,,,"Sports, Barbecue, Beer, Cocktails","PH,Mo-Su 15:00-23:00",,,,,0
+Prague,node/8705904617,POINT (14.41116 50.069589),Dílna,,,,,bar,,,,,,,,,,,,,Mo-Su 14:00-22:00,,,,,0
+Prague,node/8708648316,POINT (14.476821 50.102482),Beershop.cz,Sokolovská,1464/188,18000,Praha,,,,,,,,https://www.beershop.cz/,+420 607 056 512,,,,,"Mo-Fr 10:00-19:00, Sa 10:00-16:00",,,,,2
+Prague,node/8767433186,POINT (14.462434 50.11909),Zetko pub,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/8828045864,POINT (14.431092 49.972853),,,,,,pub,,,,various,,,,,,,,,,,,,,0
+Prague,node/8873226485,POINT (14.581054 50.08848),Bývalý pivovar - kulturní památka,,,,,,,,,,,,,,,,,NS Dolní Počernice,,,,,,0
+Prague,node/8873226491,POINT (14.580458 50.087982),Kulturní centrum pivovar,,,,,,,,,,,,,,,,,NS Dolní Počernice,,,,,,0
+Prague,node/8893041924,POINT (14.413845 50.072327),Kobka 6,,,,,bar,,,,Rychtář,,,,,,,,,,,,outside,,6
+Prague,node/8893041925,POINT (14.413796 50.072792),BIKE7,,,,,bar,,,,Únětice,,,,,,,,,,,,,,0
+Prague,node/8904727694,POINT (14.436695 50.074168),2 deci,,,,,bar,,,,,,,https://2decivinohrady.cz/,+420 602 664 302,2decivinohrady@bonmedia.cz,2decivinohrady,2deci_vinohrady,,Mo-Su 16:00-23:00,,,,,0
+Prague,node/8918354053,POINT (14.412951 50.082535),Kristian Marco riverside cafe,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,node/8958069887,POINT (14.368722 50.030048),Club bar Korlin,Voskovcova,1033/18,15200,Praha,bar,,,,yes,,,https://clubbarkorlin.cz,,,,,,,,,,,0
+Prague,node/8999622617,POINT (14.443181 50.0803),,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/8999622717,POINT (14.442624 50.08041),,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/9008695949,POINT (14.503342 50.107495),Hospoda V parku,Freyova,12,19000,Praha 9,restaurant,yes,,,yes,,,https://praha9vparku.cz,+420777308348,,,,,,yes,,,,0
+Prague,node/9014334129,POINT (14.414698 50.066486),Kayak,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/9043835804,POINT (14.424073 50.088244),Green Devil's Absinth bar,,,,,bar,,,,,,,,,,,,,Mo-Sa 12:00-01:00,no,,,,0
+Prague,node/9062490616,POINT (14.459464 50.077561),Kopa Cafe Bar,Vinohradská,2136/126,,,bar,,,,,,,,,,,,,Mo-Fr 07:30-23:00; Sa 10:00-23:00; Su 10:00-22:00,,,,,0
+Prague,node/9077204138,POINT (14.410832 50.114933),Art&Food Zoona,,,,,bar,,,,,,,https://www.afzoona.cz/,,,,,,,,,,,0
+Prague,node/9095343859,POINT (14.411106 50.069795),9ítka,,,,,bar,,,,yes;various,,,,+420 774 324 357,,,,,14:00-22:00,,,outside,,4
+Prague,node/9095343860,POINT (14.411088 50.069876),Ko8ka,,,,,bar,,,,yes;various,,,,,,,,,,,,,,4
+Prague,node/9096950118,POINT (14.435913 50.095597),Vila Štvanice,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/9105102936,POINT (14.414118 50.073536),Pivní Přístav,Rašínovo nábřeží,1781/64,12000,Praha 2,pub,,,,yes,,,https://www.pivnipristav.cz/,,,,,,,,,outside,,0
+Prague,node/9168967619,POINT (14.422775 50.078666),Bar 69,Navrátilova,666/7,11000,Praha,bar,,,,kozel;pilsener_urquell,,,,+420 736 780 795,,,,,,,,no,,0
+Prague,node/9174284761,POINT (14.473884 50.101845),Bohemia boards &brews,Sokolovská,890/125,180 00,Praha 8,pub,,,,,,,,,,,,,Mo-Fr 09:30-22:00; Sa 12:00-23:00; Su 16:00-22:00,,,,,2
+Prague,node/9202253753,POINT (14.482142 50.032448),Nemám čas,,,,,pub,,,,,,,https://www.facebook.com/tz456,+420 723 036 784,,,,,Mo-Su 11:00-23:00,,,,,0
+Prague,node/9241868817,POINT (14.416356 50.08597),The Irish Times Bar,,,,,bar,,,,,,,https://irishtimesbar.cz,+420 778 017 088,,,,Restaurant and bar,,limited,,,,0
+Prague,node/9244635317,POINT (14.42087 50.085616),,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/9316250199,POINT (14.443198 50.126075),Výčepní pivo,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/9327643422,POINT (14.3441 50.047196),Hospůdka u Pařezu,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/9445331953,POINT (14.499412 50.080692),Asti,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/9493811517,POINT (14.416436 50.084587),Beyond the bar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/9506643350,POINT (14.430568 50.088176),Pult,V Celnici,1031/4,11000,Praha,pub,,,,,,,https://www.pult.ambi.cz,,,,,,Mo-Su 15:00-01:00,,,,,0
+Prague,node/9537197574,POINT (14.449914 50.08319),Chocobamba,Bořivojova,1068/69,13000,Praha,bar,,,,,,,,,,https://www.facebook.com/chocobamba/,,,"Mo,Tu,Fr 13:00-22:00, We,Th 13:00-02:00, Sa,Su 14:00-22:00",,,,,0
+Prague,node/9554849117,POINT (14.420381 50.090326),Hangar,,,,,bar,,,,,,,https://hangarpraha.cz/,,,,,,,,,,,0
+Prague,node/9588140468,POINT (14.416284 50.005286),Drink & Wine,,,,,,,,,,yes,,https://www.drinkandwine.cz/,,info@drinkandwine.cz,,,,Mo-Fr 09:00-21:00; Sa 11:00-21:00; Su 11:00-20:00,,,,,0
+Prague,node/9592713962,POINT (14.359526 50.020352),Primawine shop,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/9605940998,POINT (14.41937 50.081484),London Underground,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/9605988438,POINT (14.420072 50.084556),Blatnička,,,,,bar,,,,,,,,,,,,,Mo-Sa 11:00-23:00; Su 11:00-22:00,,,,,0
+Prague,node/9621135082,POINT (14.417845 50.081432),U Rarášků,,,,,bar,,,,,,,,,,,,,"Mo-Sa 15:00-02:00, Su 15:00-00:00",,,,,0
+Prague,node/9621153064,POINT (14.418166 50.081348),Balbi,,,,,bar,,,,,,,,,,,,,Tu-Sa 16:00-02:00,,,,,0
+Prague,node/9621176023,POINT (14.418688 50.086062),Fat Cat,,,,,pub,,,,,,,https://www.fat-cat.cz,+420 735 751 751,,,,,"Mo-Su 07:00-10:00, 11:00-23:00",,,,,0
+Prague,node/9666520893,POINT (14.446427 50.071766),Czech inn Bar,Francouzská,240,10100,Praha,bar,,,,yes,,,https://www.czech-inn.com/,,,,,,Mo-Su 19:00 - 00:00,,,,18,1
+Prague,node/9694928996,POINT (14.427768 50.073239),Kaviár,Na Bojišti,1989/8,12000,,bar,,,,,,,https://kaviarprague.com/,+420 608 714 582,info@kaviarprague.com,,,,"Mo-Th, Su 08:00-01:00, Fr, Sa 08:00-02:00",,,,,0
+Prague,node/9714371907,POINT (14.426805 50.082295),Duplex,,,,,bar,,,,,,,,+420 732 221 111,,,,,"Mo-Su 22:00-05:00 open ""Club"" || Mo-Su 17:00-02:00 open ""Lounge""",,,,,0
+Prague,node/9714385579,POINT (14.423556 50.084423),Duplex Pup Up Bar,,,,,bar,,,,,,,,,,,,,"Mo-Th, Su 11:30-02:00, Fr, Sa 11:30-04:00",,,,,0
+Prague,node/9718870317,POINT (14.418925 50.084371),Faraon,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/9726162679,POINT (14.422232 50.080407),Bulletproof Bar,Jungmannova,11,11000,Praha,bar,,,,,,,https://www.bulletproofbar.cz/en,+420 608 280 220,,,,,Mo-Su 17:00-01:00,,,,,0
+Prague,node/9726178174,POINT (14.423636 50.083663),Crazy Daisy,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/9726197553,POINT (14.423178 50.083193),Balcony Bar,,,,,bar,,,,,,,,,,,,,Mo-Sa 17:00-01:00,,,,,0
+Prague,node/9726219926,POINT (14.422257 50.080645),Moving World,,,,,pub,,,,,,,,,,,,,"""see website""",,,,,0
+Prague,node/9727501736,POINT (14.430142 50.073901),Legenda,,,,,bar,,,,,,,,,,,,,"Mo, Su 17:00-00:30, Tu 17:00-02:00, We, Th 17:00-03:00, Fr, Sa 17:00-04:00",,,,,0
+Prague,node/9786856489,POINT (14.680944 50.072215),Dřevák 2,,,,,pub,,,,,,no,,+420 608 878 672,jitkanajmoska@seznam.cz,,,,Mo-Th 15:00-22:00; Fr 15:00-00:00; Sa 14:00-00:00; Su 11:00-20:00,no,,,,0
+Prague,node/9790416097,POINT (14.489614 50.066025),Eshop Vinotéka Praha,,,,,,,,,,,,https://www.vinoteka-praha.cz/,,,,,,,,,,,0
+Prague,node/9821323642,POINT (14.451605 50.092487),the oat bar,,,,,bar,,,,,,,,,,,,,Mo-Su 07:00-19:00,,,,,0
+Prague,node/9873923324,POINT (14.475811 50.093452),Bistro Pražanda,,,,,pub,,,,,,,https://prazacka.cz/grill-park,,,,,,Mo-Su 15:00-21:00,,,,,0
+Prague,node/9891181520,POINT (14.515555 50.032613),,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/9920798519,POINT (14.424506 50.0757),U Tří kočiček,Ječná,1255/25,,,pub,,,,,,,,,,,,,Mo-Fr 10:00-03:00; Sa 12:00-03:00; Su 12:00-22:00,no,,,,3
+Prague,node/9931303618,POINT (14.4999 50.081538),The Vinotéka,,,,,bar,,,,,,,https://www.thevinoteka.cz/,,,,,,,,,,,0
+Prague,node/9964026220,POINT (14.360391 50.052539),Nová Hospoda,Butovická,24/64,15800,,,,,,,,,,,,,,,,,,outside,,0
+Prague,node/9964026221,POINT (14.360348 50.052463),Nová Hospoda,Butovická,24/64,15800,,restaurant,,,,,,,https://www.novahospoda.eu/,+420 777 826 112,hotel@novahospoda.eu,,,,Mo-Fr 10:30-23:00; Sa 11:00-23:00; Su 11:00-22:00,,,,,0
+Prague,node/10053308387,POINT (14.396939 50.060731),Dům portského vína,,,,,,,,,,,,https://www.portske.cz/,,,,,,,,,,,0
+Prague,node/10093138658,POINT (14.375158 50.070584),Míle,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/10098201819,POINT (14.423613 50.087754),House Party,,,,,pub,,,,,,,,+420 721 694 836,,,,,Mo-Sa 13:00-01:00,no,,,,0
+Prague,node/10098201821,POINT (14.424297 50.087744),Delije,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/10147767213,POINT (14.494828 50.067565),U Káji Špulíka,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/10173613755,POINT (14.456811 50.124307),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,node/10224983049,POINT (14.475503 50.112032),Vodka bar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/10244621273,POINT (14.46042 50.077934),Pivní bar,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/10671869690,POINT (14.419122 50.083874),Myslíš?,Skořepka,354/3,11000,Praha,bar,,,,yes;various,,,,+420 774 444 249,salplachtovai@gmail.com,https://m.facebook.com/100063774841224/,,,Mo-Su 17:00-00:00,,,,,0
+Prague,node/10716138160,POINT (14.551502 50.046925),Hostivařský pivovar,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/10716138161,POINT (14.549622 50.046509),Hostivařský pivovar,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/10729352006,POINT (14.453664 50.076951),Primator,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/10731378239,POINT (14.498722 50.07806),,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/10732956647,POINT (14.433472 50.099277),"0,75 Wine Bar",Dukelských hrdinů,975/14,,,bar,,,,,,,https://www.075.cz/,+420 607 677 164,,,,,Mo-Su 16:00-23:00,,,,,0
+Prague,node/10733540007,POINT (14.489574 50.076126),Bowling,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/10741341292,POINT (14.472988 50.103879),elpíčko,,,,,bar,,,,,,,https://www.elpicko.cz/,+420 799 553 013,elpicko@elpicko.cz,,,,Mo-Sa 16:00-01:00; Su 16:00-23:00,,,,,2
+Prague,node/10759052905,POINT (14.407406 50.07697),Reload,Zborovská,30,150 00,,bar,,,,,,,https://www.reloadbar.gg,+420702015003,reload@reloadbar.gg,,,,"Mo 15:00-22:00, Tu-Th 16:00-24:00, Fr 15:00-01:00, Sa 15:00-02:00, Su 16:00-12:00",,,,,0
+Prague,node/10807183686,POINT (14.47303 50.104061),Bar Napalmě,,,,,pub,,,,yes;various,,,https://www.napalme.cz/,+420605283520,barnapalme@email.cz,,,,"Mo-Fr 16:00-24:00, Sa,Su 17:00-24:00",,,,,2
+Prague,node/10829447834,POINT (14.448096 50.071807),BeerMeca,Francouzská,283/92,10100,Praha 10,bar,,,,yes;various,,,https://www.beermeca.cz/,+420 732 853 810,info@beermeca.cz,https://www.facebook.com/BeerMECA,https://www.instagram.com/beermeca/,,Mo-Su 16:00-22:00,,,,,0
+Prague,node/10830867443,POINT (14.43112 50.091287),Irony vs. Satyr Bar,Soukenická,1756/34,11000,Praha 1,bar,,,,no,,,https://irony-vs-satyr.business.site/?utm_source=gmb&utm_medium=referral,777 087 973,kodatskikodatski@gmail.com,,,,Mo-Su 16:00-02:00,,,,21,12
+Prague,node/10862401828,POINT (14.48108 50.130228),Radost,,,,,bar,,,,,,,,,,,,,Mo-Su 17:00-02:00,,,,,0
+Prague,node/10862770154,POINT (14.442294 50.112348),Move bar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/10877387754,POINT (14.360852 50.062948),,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/10896611205,POINT (14.431056 50.091272),Irony vs. Satyr,Soukenická,1756/34,110 00,Praha 1,bar,,,,no,,,https://irony-vs-satyr.business.site/?utm_source=gmb&utm_medium=referral,+420 777087973,kodatskikodatski@gmail.com,,,,Mo-Su 16:00-02:00,,,separated,21,10
+Prague,node/11030840305,POINT (14.416558 50.068393),Special Pub U Bráchy,Na Hrobci,,,,pub,,,,,,,,,,,,,"Mo-Su,PH 16:00-24:00",,,,,0
+Prague,node/11037596577,POINT (14.423066 50.084559),The Alchemist Bar,Provaznická,1,,,bar,,,,,,,https://www.thealchemistbar.cz,+420251510940,,,,,,,,,,0
+Prague,node/11038060122,POINT (14.470635 50.115625),Butterfly zone,Pod Čertovou skalou,834/3,180 00,Praha 8,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/11039801778,POINT (14.422612 50.081133),Jéčko,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/11039851463,POINT (14.450787 50.056501),Michelská pivnice,,,,,restaurant,,,,,,,,,,,,,,,,,,0
+Prague,node/11053580406,POINT (14.430622 50.092015),Smokehouse (lounge and bar),Klimentská,26,11000,,bar,,,,,,,http://smokehouseshop.cz,+420601123860,,,,,Mo-Su 15:00-00:00,,,,,0
+Prague,node/11054335466,POINT (14.472872 50.115506),zahrada libeň,,,,,pub,,,,,,,,,,,,,"""soukromá města""",,,,,0
+Prague,node/11076978602,POINT (14.456484 50.072274),London Bar,Ruská,614/42,,,bar,,,,yes,,,,+420 602 334 408,,,,Hookah / Shisha bar,17:00-02:00,,,dedicated,,0
+Prague,node/11077024638,POINT (14.451126 50.071799),Vršovická ARÉNA,Moskevská,415/1,,,bar,,,,yes,,,https://www.vrsovickaarena.cz,+420 212249479,rezervace@vrsovickaarena.cz,vrsovickaarena,vrsovickaarena,,Tu-Th 17:00-02:00; Fr-Sa 17:00-03:00,,,,,0
+Prague,node/11088823534,POINT (14.450338 50.086875),Pivovar Viktor,,,,,restaurant,,,,,,yes,,,,,,,"Mo-Th,Su 17:00-23:00; Fr-Sa 17:00-01:00",,,,,0
+Prague,node/11091171877,POINT (14.499351 50.081404),česká pojištovna,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/11132383402,POINT (14.39903 50.002441),,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/11200658638,POINT (14.428252 50.085513),Garders,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/11200678438,POINT (14.428157 50.085577),Advivum,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/11204939938,POINT (14.424336 50.087091),U Supa,,,,,restaurant,,,,,,yes,https://www.pivovarusupa.cz/,+420 733 534 383,,,,,Mo-Su 11:30-24:00,yes,designated,,,0
+Prague,node/11252364768,POINT (14.612522 50.040171),Hospodařství v Netlukách,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/11252364769,POINT (14.612513 50.040152),Hospodaření v Uhříněvsi,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/11269073767,POINT (14.464544 50.103015),Rohan beer garden,Štorchova,,18000,Praha 8,pub,,,,,,,https://rohanbg.cz/,,info@rohanbg.cz,,,,,,,,,0
+Prague,node/11297780483,POINT (14.404276 50.098045),Automat Matuška,Dejvická,4,16000,,restaurant,,,,,,yes,https://www.automatmatuska.cz/,+420 608 265 343,info@automatmatuska.cz,,,,Mo-Fr 11:00-24:00; Sa 12:00-24:00; Su 12:00-22:00,no,yes,,,3
+Prague,node/11307805018,POINT (14.338397 50.037798),Lihovárek.cz,Prusíkova,2577/16,15500,Praha 5,,,,,,,,https://www.lihovarek.cz/,+420 266 710 403,info@lihovarek.cz,https://www.facebook.com/lihovarek,,,Mo-Fr 09:00-18:00,yes,,,18,6
+Prague,node/11455407979,POINT (14.505507 50.15081),V&D,,,,,,,,,,,,,,,,,,"Mo-Su 09:00-13:00,13:30-20:00",,,,,2
+Prague,node/11470444370,POINT (14.421164 50.084041),Tek'ila Tek'ila,,,,,bar,,,,,,,https://www.tekila.cz/,+420 702 036 284,info@tekila.cz,,,,"Mo-We,Su 12:00-01:00; Th-Sa 12:00-04:00",,,,,3
+Prague,node/11488276766,POINT (14.566751 50.101986),,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/11512039774,POINT (14.476637 50.102465),sudove pivo,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/11677888303,POINT (14.405047 50.086525),Monk,,,,,bar,,,,,,,https://bistromonk.cz/,,,,,,Mo-Th 08:30-16:00; Fr-Su 08:30-17:00,,,,,0
+Prague,node/11685721369,POINT (14.440691 50.075912),Dobrotéka,Sázavská,748/24,,,bar,,,,,,,,,,,,,Mo-Fr 16:00-23:00,,,,,0
+Prague,node/11750440369,POINT (14.44913 50.084087),Chartreuse Bar,,,,,bar,,,,,,,,,,,,,Mo-Su 10:00-23:00,,,,,0
+Prague,node/11800115999,POINT (14.452337 50.083455),EUROPA,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/11825855384,POINT (14.42233 50.078545),Kontakt,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/11832944994,POINT (14.479124 50.087943),Vino Fino,,,,,bar,,,,,,,https://vinofino.cz/,,,,,,Mo-Sa 17:00-22:00,,,,,0
+Prague,node/11878732605,POINT (14.42496 50.101644),Nabubliny,,,,,bar,,,,,,,,,,,,,15:00 -23:00,,,,,3
+Prague,node/11898272599,POINT (14.414477 50.071154),"Drinkøtéka craft beer bar & Bottle Shop, Prague",Rašínovo nábřeží,56,12800,Praha,bar,,,,arpus;nozib;falkon;chroust;matuška;zichovec,yes,,https://drinkoteka.cz/,,info@drinkoteka.cz,,,,Mo-Sa 15:00-22:00,,,,,0
+Prague,node/11930261269,POINT (14.425172 50.098564),Večernice,Ovenecká,6,17000,,bar,,,,,,,,,,,,,"Mo-Sa 17:00-27:00; Sa, Su 17:00-25:00",,,,,0
+Prague,node/11936540091,POINT (14.31334 50.003384),Pivo v potoce,,,,,,,,,,,,https://www.horosvaz.cz/skaly-cesta-59866/,,,,,,,,,,,0
+Prague,node/11986922606,POINT (14.421578 50.084282),McCarthy's,,,,,pub,,,,,,,https://www.mccarthys.cz,+420 606 775 853,info@mccarthys.cz,https://www.facebook.com/McCarthysIrishBarPrague/,https://www.instagram.com/mccarthys_prague/,,"Su-Th 10:00-01:00, Fr,Sa 10:00-02:00",,,,,0
+Prague,node/12006205369,POINT (14.447683 50.061997),U Džbánu,V Horkách,1389/11,,,pub,,,,,,,https://www.u-dzbanu.cz/,,,,,,,,,,,0
+Prague,node/12012652644,POINT (14.439916 50.084618),Turnovská pivnice,,,,,pub,,,,,,no,https://turnovskapivnice.cz/,,churchill@turnovskapivnice.cz,,,,Mo-Sa 11:00-23:00; Su 11:00-22:00,yes,,,,0
+Prague,node/12053895429,POINT (14.444058 50.06295),NOSTULA,,,,,bar,,,,,,,,,,,,,,yes,,,,0
+Prague,node/12063167571,POINT (14.297828 50.117058),"Dvůr, kde žili a hospodařili Jezuité",,,,,,,,,,,,,,,,,Naučná stezka Přední Kopaninou a okolím,,,,,,0
+Prague,node/12066942824,POINT (14.594979 50.029434),Why not wine,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/12078989269,POINT (14.440093 50.089949),Denní Bar Florenc,,,,,bar,,,,,,,,,,,,,Mo-Su 09:00-00:00,,,,,0
+Prague,node/12088464755,POINT (14.56082 50.05795),Pivnice U Tomáše,,,,,restaurant,,,,,,,,,,,,,,,,,,0
+Prague,node/12111026454,POINT (14.455523 50.07177),Benjamin,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/12151513135,POINT (14.529284 50.031034),Hájenka,,,,,bar,,,,Pilsner Urquell;Kozel,,,,,,,,,09:00-22:00,,,,,0
+Prague,node/12155175352,POINT (14.531599 50.031257),Na Pavlači,,,,,pub,,,,Gambrinus,,,,,,,,,Mo-Su 10:00-22:00,limited,,no,,0
+Prague,node/12160979501,POINT (14.584013 50.042571),La-Vin,Přátelství,1258/7,104 00,,,,,,,,,http://la-vin.czs,+420 602 645 610,info@la-vin.cz,,,,Mo-Fr 08:00-18:00; Sa 08:00-14:00,,,,,2
+Prague,node/12219087765,POINT (14.473298 50.026052),Na rozcestí (Hospodaření v lese),,,,,,,,,,,,,,,,,NS Kunratickým lesem,,,,,,0
+Prague,node/12219117470,POINT (14.474127 50.029628),Pod atlánem (Historické hospodaření v lesích),,,,,,,,,,,,,,,,,NS Kunratickým lesem,,,,,,0
+Prague,node/12291867539,POINT (14.393435 49.97566),U mě,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/12334391465,POINT (14.628521 50.050888),Hájecká hospůdka,,,,,pub,,,,,,,https://www.hajecka.cz/,,,,,,,,,,,0
+Prague,node/12387235406,POINT (14.427407 50.088429),Since Bar,Králodvorská,12,,,bar,,,,,,,https://www.instagram.com/since_bar_praha/,+420776404016,,,,,"Mo-Sa 18:00-02:00, Su 18:00-24:00",,,,,0
+Prague,node/12437255569,POINT (14.44528 50.098401),Burza #4,Bubenské nábřeží,13,17000,Praha 7,bar,,,,,,,https://burza4.com/,+420733587511,,https://www.facebook.com/burzaburza4,https://www.instagram.com/burza_4/,,Su-Tu 16:00-24:00; We 16:00-02:00; Th 16:00-01:00; Fr-Sa 16:00-03:00,,,,,3
+Prague,node/12440470601,POINT (14.418896 50.085967),Fat Cat Beerhouse,,,,,pub,,,,,,,,,,,,,Mo-Su 07:00-23:00,,,,,0
+Prague,node/12477813601,POINT (14.420791 50.086443),Golden Kettle,,,,,pub,,,,,,,,,,,,,Mo-Th 07:00-21:00; Fr-Su 07:00-21:30,no,,,,3
+Prague,node/12479231101,POINT (14.433416 50.101182),Hostinec U houbaře,Dukelských hrdinů,573/30,17000,,pub,,,,,,,,,,,,,Mo-Sa 11:00-23:00; Su 11:00-23:00,,,,,0
+Prague,node/12479383995,POINT (14.404898 50.07103),Nudle,,,,,pub,,,,pilsner_urquell,,,,,,,,,24/7,,,,,0
+Prague,node/12516794807,POINT (14.40656 50.068597),Music bar PHENOMEN,,,,,bar,,,,,,,https://www.phenomen.cz/,,,,,,,,,,,0
+Prague,node/12628314819,POINT (14.377766 50.133198),Bar Sever,Brandejsovo náměstí,764/2,,,bar,,,,,,,,,,,,,"Mo-Fr 13:00-22:00; Sa, Su 14:00-22:00",,,,,0
+Prague,node/12642932819,POINT (14.428654 50.077282),Ryba Bar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/12643944052,POINT (14.445512 50.094964),Revír Karlín,Karolinská,707/7,18600,Praha,bar,,,,,,,https://www.revirkarlin.cz,,,,,,Tu-We 17:00-00:00; Th-Fr 17:00-02:00; Sa 18:00-02:00,,,,,0
+Prague,node/12652552279,POINT (14.664509 50.075299),Billiard Svět,,,,,pub,,,,,,,,,,,,,"Mo 18:00-01:00, Tu-Th 18:00-02:00, Fr,Sa 18:00-03:00, Su 17:00-24:00",,,,,0
+Prague,node/12709729295,POINT (14.301353 50.065173),Pivnice u Průhonu,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/12749712980,POINT (14.388593 50.087022),Pivovar SV. Norbert,Strahovské nádvoří,301/10,,,restaurant,,,,,,yes,https://www.klasterni-pivovar.cz/,+420 734 852 382,kancelar@klasterni-pivovar.cz,,,,Mo-Su 10:00-22:00,limited,,,,3
+Prague,node/12750018858,POINT (14.422565 50.08088),Atlas,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/12756785601,POINT (14.42539 50.102147),The Jam Letna,Malířská,227/14,17000,,bar,,,,,,,https://www.thejamletna.cz,+420735178483,ahoj@thejamletna.cz,thejamletna,thejamletna,,Tu-Th 17:00-00:00; Fr 17:00-02:00; Sa 17:00-01:00,,,,,0
+Prague,node/12791524035,POINT (14.269 50.110221),Orijinal Restaurant,,,,,bar,,,,,,,,,,,,,08:00-22:00,yes,,,,3
+Prague,node/12820981941,POINT (14.393356 49.972688),Prodejna piva u Černých,,,,,,,,,,yes,,,,pivoucernych@centrum.cz,https://www.facebook.com/prodejnapivaucernych,,,"Mo-Fr 16:00-19:00; Sa 09:00-12:00,14:00-17:00",,,,,0
+Prague,node/12826187311,POINT (14.359379 50.098398),Formanka 1968,,,,,pub,,,,,,,,,,,,,Mo-Fr 11:00-23:00; Sa-Su 12:00-23:00;,,,,,0
+Prague,node/12837636644,POINT (14.461791 50.070972),Pivní zastávka,,,,,,,,,,yes,,https://pivnizastavka.cz/,,,https://www.facebook.com/people/Pivn%C3%AD-zast%C3%A1vka/100048729833640/,,,Mo-Fr 15:00-22:00,,,,,0
+Prague,node/12847488343,POINT (14.447938 50.093387),sedm°,,,,,pub,,,,,yes,,https://www.sedmstupnu.cz/,,vycep@sedmstupnu.cz,https://www.facebook.com/Sedmstupnu/,https://www.instagram.com/sedm_stupnu,,Mo-Fr 17:00-24:00,,,,,0
+Prague,node/12849565397,POINT (14.548125 50.13308),,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/12851550467,POINT (14.427088 50.053986),Studentský Bar U Dna,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/12851874632,POINT (14.473122 50.092306),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,node/12856232114,POINT (14.449488 50.05995),Pivo Grando,,,,,pub,,,,,yes,,https://pivogrando.cz/,,kancelar@pivogrando.cz,https://www.facebook.com/pivogrando/,https://www.instagram.com/pivogrando/,,Mo-Su 13:00-22:00,,,,,2
+Prague,node/12857208766,POINT (14.347441 50.04999),Pohoda hospoda & bar,Seydlerova,2149/7,158 00,Praha 5,pub,,,,,,,https://www.facebook.com/pohodahospodabar,+420 725 760 958,jakubwow7@seznam.cz,https://www.facebook.com/pohodahospodabar,,Stylová klimatizovaná pivnice kde se můžete těšit na pěkně načepované a výborně orosené pivo.,"Mo-Fr 13:00-22:00; Sa,Su,PH 14:00-22:00",,,,,0
+Prague,node/12866640553,POINT (14.439591 50.094069),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,node/12873798802,POINT (14.315712 50.091614),Sport bar Radík,,,,,bar,,,,,,,,,,,,,14:00-22:00,,,,,0
+Prague,node/12874195101,POINT (14.416298 50.079275),Hemingway Bar Prague,Opatovická,1737/3,110 00,,bar,,,,,,,,,,,,,"Su-Th 17:00-01:00, Fr,Sa 17:00-02:00",,,,,0
+Prague,node/12876568001,POINT (14.561125 50.049497),Hostivar  2 venkovní stánek,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/12876579146,POINT (14.447465 50.070585),Zasek,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/12920772501,POINT (14.302624 50.065484),Vinotéka na Blatinách,Makovského,1223,16300,,,,,,,,,,,,,,,Mo-Su 14:00-20:00,,,,,0
+Prague,node/12947501404,POINT (14.434899 50.088451),Fuze,Na Florenci,2139/2,11000,Praha 1,restaurant,,,,,,yes,https://www.fuzepraha.cz/,+420 734 889 633,info@fuzepraha.cz,,,,Mo-Fr 11:00-23:30; Sa 12:00-23:30; Su 12:00-22:30,,,,,0
+Prague,node/12950247943,POINT (14.402032 50.102146),Za školou,,,,,pub,,,,,,,https://zaskolou.com/,,rezervacezaskolou@gmail.com,,,,Mo-Fr 16:30-23:00,,,,,0
+Prague,node/12950247945,POINT (14.402686 50.102384),Na břehu Rhôny,,,,,bar,,,,,,,https://www.nabrehurhony.cz/nase-brehy/na-brehu-rhony---vinny-bar-bubenec/,,,,,,Mo-Sa 16:00-22:00,,,,,0
+Prague,node/12950247947,POINT (14.403758 50.103235),Santé!,,,,,bar,,,,,,,,,,,,,Mo-We 14:00-20:00; Th-Sa 14:00-22:00,,,,,0
+Prague,node/12956266490,POINT (14.405358 50.071085),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Prague,node/12960604701,POINT (14.451541 50.026125),Pivnice Pipkin,Štúrova,1284/20,14200,,pub,,,,,,,https://pipkin.webnode.cz,+420 774 138 140,fanypodoli@seznam.cz,,,,Mo-Su 13:00-23:00,,,,,0
+Prague,node/12997232447,POINT (14.488482 50.078635),Obývák,,,,,pub,,,,yes,,yes,https://www.tvujpivnibar.cz,,,,,,16:00-23:00,no,,no,,0
+Prague,node/13011245901,POINT (14.431759 50.065182),Midgard,Jaromírova,53,128 00,,bar,,,,,,,,+420 775 703 309,info@midgardbar.cz,midgardbarpraha,,,Mo-Th 17:00-00:00; Fr-Sa 17:00-03:00,,,,,0
+Prague,node/13013839901,POINT (14.420349 50.085988),My People Bar,Michalská,970/20,11000,,bar,,,,,,,https://mypeople.cz/,+420737176333,,bar1401,gastrobar1401,,Mo-Th 09:00-01:00; Fr-Su 09:00-03:00,,,,,0
+Prague,node/13019587256,POINT (14.442546 50.084393),Střecha Radost,,,,,bar,,,,,,,https://www.strecharadost.cz/,,,,,,Mo-Su 13:00-00:00,,,,,0
+Prague,node/13019755008,POINT (14.449459 50.112036),Prazelenina,,,,,biergarten,,,,,,,,,,,,,"Tu-Fr,Su 17:00-21:00",yes,,,,0
+Prague,node/13020622862,POINT (14.394348 49.954204),Puerto Boro,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/13041979481,POINT (14.262109 50.106948),,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/13058783303,POINT (14.452632 50.091456),Vrátnice,,,,,pub,,,,,,,,,,,,,Mo-Su 15:00-23:00,,,,,0
+Prague,node/13060760043,POINT (14.426697 50.077827),Ježkovy voči,,,,,pub,,,,,,,https://www.jezkovyvocibar.cz,,jezkovyvocibar@seznam.cz,,,,"Mo-Fr 15:30-00:00; Sa 00:00-01:00, 17:00-00:00; Su 00:00-01:00",,,,,0
+Prague,node/13076580869,POINT (14.597442 50.04571),Molo bar,,,,,bar,,,,,,,https://molowakebar.cz/,,,,,,Mo-Fr 12:00-22:00; Sa-Su 10:00-22:00,,,,,0
+Prague,node/13094248382,POINT (14.414049 50.069715),Divadelní loď Tajemství,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/13110386554,POINT (14.29411 50.067351),Klubovna Sokol Řepy,,,,,bar,,,,,,no,,,,,,,,,,,,4
+Prague,node/13115244512,POINT (14.418799 50.088132),Cipís's Liquor Store,,,,,,,,,,,,,,,,,,Mo-Su 09:00-02:00,,,,,0
+Prague,node/13147876958,POINT (14.446442 50.082566),Vsíti Síti,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/13274425867,POINT (14.479852 50.104021),Metal Bar ERROR,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/13289539038,POINT (14.45664 50.093591),My Dear Watson,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/13299183776,POINT (14.436921 50.072032),Boudoir u sta vran,,,,,bar,,,,,,,https://www.boudoir.cz/,,,boudoirustaran,,,"Mo-Th,Sa-Su 17:00-24:00; Fr 17:00-01:00",,,,,0
+Prague,node/13324936008,POINT (14.392379 49.972349),Vinárna,,,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/13339277331,POINT (14.332116 50.043594),Sladovna Lužiny,Archeologická,2256/1,15500,Praha 13,pub,,,,cvikov,,,https://restauracesladovna.cz,+420 770 320 076,luziny@pivovarcvikov.cz,,,,"Mo-Sa 11:00-23:00, Su 11:00 - 22:00",,,no,,0
+Prague,node/13369640681,POINT (14.45597 50.0949),Diego pivní bar,Sokolovská,467/114,186 00,Prague,pub,,,,various,,,http://www.diegopivnibar.cz/,,,,,,Mo-Fr 11:00-24:00; Sa 16:30-24:00; Su 16:30-22:00,no,,no,,0
+Prague,node/13371849570,POINT (14.375102 50.12856),Suchdolský Jeník,,,,,,,,,,,,https://pivovar.czu.cz/cs,,,,,,,,,,,0
+Prague,node/13372872075,POINT (14.520303 50.052255),Hospůdka na hřišti,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/13423839001,POINT (14.542938 50.057705),Pivovar Vik,U Továren,999/31,10200,,,,,,,,,https://www.pivovarvik.cz,+420737317969,info@pivovarvik.cz,,,,Mo-Fr 11:00-17:00,,,,,0
+Prague,node/13435036495,POINT (14.406921 50.089168),Pivnice U sv. Tomáše,,,,,restaurant,,,,,,,,,,,,,,,,,,0
+Prague,node/13439719407,POINT (14.406163 50.072162),FOXX,Lidická,29,,,bar,,,,,,,,,,,,,Su-Th 12:00-02:00; Fr-Sa 12:00-05:00,,,,,0
+Prague,node/13441856882,POINT (14.440413 50.080135),Mlíkárna,,,,,biergarten,,,,,,,,,,,,,11:00-23:00,,,,,0
+Prague,node/13446573601,POINT (14.442501 50.091974),RESPEKTO - BAR Primator,Sokolovská,111/36,186 00,,bar,,,,,,,https://respekto-bar.cz/,,,,,,Mo-Su 16:00-00:00,,,,,0
+Prague,node/13452865501,POINT (14.441624 50.076893),The Down Under,Vinohradská,48,120 00,Praha,pub,,,,,,,https://downunder.cz/,603 839 349,info@downunder.cz,,,,Mo off; Tu-Th 16:00-23:00; Fr 16:00-24:00; Sa 12:00-24:00; Su 12:00-23:00,,,no,,0
+Prague,node/13508899622,POINT (14.42557 50.081273),Valhalla Beer Pub,pasáž Lucerna,,,,pub,,,,,,,https://www.valhalla-beer.cz/,,Lucerna@valhalla-beer.cz,,,Scandinavian craft beer pub,Mo-Su 11:00-02:00,,,,,0
+Prague,node/13541563702,POINT (14.42276 50.083955),Pilsner Urquell Shop,,,,,,,,,,,,,,,,,,Su-We 11:00-22:00; Th-Sa 09:30-22:00,,,,,0
+Prague,node/13577338501,POINT (14.414604 50.079586),Popo Cafe Petl,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/13580323200,POINT (14.42966 50.079064),Cafe Alternatif Mezibranská,,,,,pub,,,,,,,,,,,,,"Mo-Fr 16:00+, Sa 18:00-01:00, Su 18:00-12:00",,,,,0
+Prague,node/13594161249,POINT (14.414824 50.075862),,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/13594161250,POINT (14.40748 50.0723),STATION,,,,,bar,,,,,,,,,,,,,Mo-Su 11:00-23:00,,,,,0
+Prague,node/13595671942,POINT (14.383136 50.136486),Na Hřišti,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/13606721358,POINT (14.479196 50.103136),Deskohub,,,,,pub,,,,,,,https://www.deskohub.cz/,+420 777 060 478,info@deskohub.cz,https://www.facebook.com/profile.php?id=61573597011510,https://www.instagram.com/deskohub/,,"Mo-Fr 17:00-23:00; Sa,Su 12:00-23:00",,,,,0
+Prague,node/13653818501,POINT (14.423047 50.079589),Bohemia Goose,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/13680086605,POINT (14.422419 50.08313),Tretter's & Kovarik's Brasserie,,,,,bar,,,,,,,https://www.tretters-brasserie.cz/,+420 607 448 779,brasserie@tretters.cz,,https://www.instagram.com/tretterskovariksbrasserie/,,Mo-Su 09:00-24:00,,,,,0
+Prague,node/13681379687,POINT (14.456711 50.066778),To si vypiješ,Minská,1002/1,10100,Praha 10,bar,,,,,,,,,,,,,Mo-Su 14:00-22:00,,,,18,0
+Prague,node/13683943849,POINT (14.454395 50.087455),Žižkovská Tančírna,,,,,bar,,,,,,,,,,,,,Mo-Su 13:00-21:00,,,,,0
+Prague,node/13685109253,POINT (14.449275 50.103028),Polepšovna,,,,,pub,,,,,,,,,,,,,,yes,,outside,,3
+Prague,node/13735442231,POINT (14.453719 50.087239),B.T.C,,,,,bar,,,,,,,,,,,,,"We-Mo 12:00-15:00, We-Mo 17:00-22:00",,,,,0
+Prague,node/13738258053,POINT (14.47322 50.092215),Bar Camp Žižkov,,,,,bar,,,,,,,,,,,,,Mo-Su 13:00-22:00,,,,,2
+Prague,node/13745273301,POINT (14.449456 50.102668),Garage22,Tusarova,31,,,,,,,,,,https://www.garage22.cz,,,,,,Mo-Fr 12:00-17:00; Sa 12:00-18:00,,,,,0
+Prague,node/13787014302,POINT (14.43024 50.091258),Hostomice Pivovar,Soukenická,1192,,,,,,,,,,,,,,,,,,,,,0
+Prague,node/13798443267,POINT (14.455496 50.080789),Red grill & Bar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Prague,node/13818799077,POINT (14.454096 50.083364),Smad,,,,,pub,,,,,,,,,,,,,Mo-Su 17:00-22:00,,,,,0
+Prague,node/13936547589,POINT (14.456881 50.095115),bar M.A.S.H,,,,,bar,,,,,,,,,,,,,"Su-Th 07:00-23:00; Fr,Sa 07:00-24:00",,,,,0
+Prague,node/13947785073,POINT (14.422626 50.081539),Pivnice U Vency,,,,,pub,,,,,,,,,,,,,,no,,,,4
+Prague,node/13957063525,POINT (14.418487 50.069876),Hostinec U Jendy,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/13962639528,POINT (14.486083 50.036837),Bar Slavia,,,,,bar,,,,,,,,,,,,,Mo-Su 17:00-22:00,,,,,0
+Prague,node/13970692531,POINT (14.392525 50.080821),Sport Bar 7,,,,,pub,,,,,,,,,,https://www.facebook.com/SportBar7Strahov,,,,,,,,0
+Prague,node/13970692637,POINT (14.432133 50.104291),Ferdinand,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/13970692645,POINT (14.686387 50.097905),U Křížků,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/13970692910,POINT (14.500305 50.076836),Šatlava,,,,,pub,,,,various,,,,+420 702 147 086,,,,,Mo-Th 14:00-23:00; Fr-Sa 14:00-01:00; Su off,,,,,0
+Prague,node/13970692916,POINT (14.499023 50.020101),Spojovna,,,,,restaurant,,,,,,yes,https://pivovarspojovna.cz/,+420730154000,info@pivovarspojovna.cz,,,,Mo-Su 11:00-23:00,yes,,no,,2
+Prague,node/13970693014,POINT (14.561796 50.049424),Pivovar Hostivar H2,,,,,restaurant,,,,,,yes,https://www.pivovar-hostivar.cz/,+420702203143,h2@pivovar-hostivar.cz,,,,Mo-Fr 07:00-23:00; Sa-Su 08:00-23:00,,,no,,0
+Prague,node/13970693982,POINT (14.549378 50.046349),Pivovar Hostivar 1,,,,,restaurant,,,,,,yes,https://www.pivovar-hostivar.cz/,+420 702 202 903,info@pivovar-hostivar.cz,,,,Mo-Su 11:00-23:00,yes,yes,no,,0
+Prague,node/13970695376,POINT (14.514192 50.105913),Rugby Club Praga,,,,,pub,,,,,,,,,,,,,"""podle aktivitu""",,,,,2
+Prague,node/13970695515,POINT (14.364548 49.982294),U Ondřeje,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/13970696322,POINT (14.267035 50.065883),Na Hrázi by Prestigebrands,,,,,pub,,,,,,,,+420 603 373 868,,,,,Su-Th 11:00-22:00; Fr-Sa 11:00-23:00,,,yes,,0
+Prague,node/13970696681,POINT (14.487741 50.080912),U Kladiva,,,,,pub,,industrial,yes,,,,http://www.ukladiva.cz/,,,,,,,,,,,0
+Prague,node/13970696814,POINT (14.365666 50.065524),Klubová hospůdka na cibulkach,,,,,pub,,,,,,,,,,,,,,,,,,0
+Prague,node/13970697037,POINT (14.334844 50.085658),Libocká studna,,,,,pub,,,,,,,http://www.libockastudna.cz/,+420 774 673 964,,https://www.facebook.com/Libockastudna/,,,"Mo-Su 00:00-01:00,17:00-24:00; Fr,Sa 00:00-03:00,17:00-24:00",,,outside,,0
+Prague,node/13970697354,POINT (14.408437 50.103733),Na Slamníku,,,,,pub,,,,,,,https://www.na-slamniku.cz/,+420 233 322 594,,,,,Mo-Su 11:00-24:00,,,,,0

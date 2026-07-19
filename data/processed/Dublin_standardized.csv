@@ -1,0 +1,629 @@
+city,osm_id,geometry,name,street,house_number,postcode,address_city,amenity,bar,beer,beer_garden,brewery,drink_beer,microbrewery,website,phone,email,facebook,instagram,description,opening_hours,wheelchair,toilets_wheelchair,smoking,min_age,payment_methods_count
+Dublin,relation/3375611,POINT (-6.26148 53.344074),The Bank on College Green,College Green,20-22,D02 C868,Dublin,bar,,,,,,,https://www.bankoncollegegreen.com/,,,,,,,yes,,outside,,0
+Dublin,relation/13336522,POINT (-6.318999 53.365195),Cumiskey's,Blackhorse Avenue,,,Dublin,pub,,,,,,,,,,,,,,limited,yes,,,0
+Dublin,relation/14462907,POINT (-6.252886 53.338082),Doheny and Nesbitt,Baggot Street Lower,4;5,D02 F866,Dublin,pub,,,,,,,https://dohenyandnesbitts.ie/,,,https://www.facebook.com/dohenyandnesbitt/,,,,yes,,,,0
+Dublin,relation/14704472,POINT (-6.25872 53.341986),The Duke,Duke Street,8-9;9,D02 NR76,Dublin,pub,,,,,,,https://www.thedukedublin.com/,+35316799553,thedukedublin@gmail.com,https://www.facebook.com/TheDukeDublin,,,,yes,,,,3
+Dublin,relation/20011885,POINT (-6.300117 53.314648),The Four Provinces,Ravensdale Park,25,D12 X965,Dublin,pub,,,,Four_Provinces,,,,+35315524179,the4prov@gmail.com,the4prov,the4provinces,,,,,,,0
+Dublin,way/40617788,POINT (-6.252347 53.377508),,,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/42353315,POINT (-6.302281 53.374928),Portherouse Brewing Company,Ballyboggan Road,Unit 3-4,D11 AY91,Dublin,,,,,,,yes,https://porterhousebrewco.ie,+35318227415,info@porterhousebrewco.ie,PorterhouseBrewing,@porterhousebrewco,,,,,,,0
+Dublin,way/42422825,POINT (-6.188876 53.396513),Newtown House,Malahide Road,,D17 F796,Belcamp,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/47936694,POINT (-6.216396 53.366993),Harry Byrne’s,Howth Road,107-109,D03 KN97,Dublin,pub,,,,,,,https://harrybyrnes.ie,,info@harrybyrnes.ie,,,,,,,,,0
+Dublin,way/51767141,POINT (-6.271947 53.366822),O'Briens,Finglas Road,6,,Dublin,,,,,,,,http://www.sweeneyswines.ie/,,,,,,,,,,,0
+Dublin,way/52304330,POINT (-6.271351 53.364689),The Bernard Shaw,Cross Guns Bridge,,D09 XW44,Dublin,pub,,,,,,,https://thebernardshaw.com/,+353 1 906 0218,info@thebernardshaw.com,,,,,,,outside,,0
+Dublin,way/62152061,POINT (-6.262466 53.334458),Dtwo,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Dublin,way/80567253,POINT (-6.266917 53.348591),The Church,Mary Street,,D01 YX64,Dublin,pub,,,,,,,https://www.thechurch.ie/,+353 1 8280102,reservations@thechurch.ie,,,,"Mo-Th 10:30-23:00, Fr,Sa 10:30-02:30, Su 11:30-23:00",limited,,,,0
+Dublin,way/80580032,POINT (-6.242357 53.334608),The 51,Haddington Road,51,D04 FD83,Dublin,pub,,,,,,no,,,,,,,,,,,,0
+Dublin,way/84017579,POINT (-6.236737 53.336325),Ryan’s Beggar’s Bush,Haddington Road,112-115,D04 H328,Dublin,pub,,,,,,,https://beggarsbush.com/,,,,,,,yes,,,,0
+Dublin,way/84018113,POINT (-6.243097 53.333501),The Waterloo,Baggot Street Upper,36,D04 R6Y6,Dublin,pub,,,,,,,,,,,,,,yes,,,,0
+Dublin,way/84018119,POINT (-6.242819 53.333404),Searsons,Baggot Street Upper,42-44,D04 V210,Dublin,pub,,,,,,,https://searsonsbar.ie/,,,https://www.facebook.com/Searsons/,,,,yes,,,,0
+Dublin,way/96196917,POINT (-6.23216 53.337473),The Bath,Bath Avenue,26,D04 X7P8,Dublin,pub,,,,,,,https://thebathpub.ie/,+353892415804,info@thebathpub.ie,https://www.facebook.com/The-Bath-Pub-248019211955434,@bathpubdub,,,limited,no,,,0
+Dublin,way/96255051,POINT (-6.234235 53.337322),Slattery’s,Grand Canal Street Upper,62,D04 T295,Dublin,pub,,,,,,,https://slatterys.bar/,,,,,,,limited,,,,0
+Dublin,way/96255067,POINT (-6.23404 53.337041),The Cow,Shelbourne Road,2,,,pub,,,,,,,https://thechophouse.ie/,+353 1 660 2390,,,,,,limited,,,,0
+Dublin,way/97172993,POINT (-6.263973 53.335846),Dicey's Garden,Harcourt Street,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Dublin,way/102694943,POINT (-6.240702 53.346008),The Ferryman,Sir John Rogerson's Quay,35-36,D02E448,Dublin,pub,,,,,,,https://www.theferrymantownhouse.ie,+353 1 671 7053,reservation@ferrymanhotel.com,,,,,yes,yes,no,,0
+Dublin,way/105915571,POINT (-6.274806 53.312022),The Wine Corner,Terenure Road East,,,Dublin,,,,,,,,,,,,,,,,,,,0
+Dublin,way/105915585,POINT (-6.274988 53.312056),The Bottler’s Bank,Terenure Road East,6,D06 W3K0,Dublin,pub,,,,,,,,,,,the_bottlersbank,,,,,no,,0
+Dublin,way/106056173,POINT (-6.254892 53.308065),The Dropping Well,Milltown Road,,D06 YK38,Milltown,pub,,,,,,,https://droppingwell.com/,,info@droppingwell.com,,,,,,,,,3
+Dublin,way/109370672,POINT (-6.243468 53.334814),Smyth’s,Haddington Road,10,D04 FC63,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/111184730,POINT (-6.242093 53.339698),Becky Morgan's,Grand Canal Street Lower,9,,,pub,,,,,,,,,,,,,,yes,yes,,,0
+Dublin,way/115086421,POINT (-6.2375 53.338003),The Gasworks,Grand Canal Street Upper,,D04 X5X7,Dublin,pub,,,,galway_bay,,,https://www.galwaybaybrewery.com/gasworks/,+353 1 230 9634,gasworks@galwaybaybrewery.com,https://www.facebook.com/Thegasworksbar,,,,no,,outside,,0
+Dublin,way/115772293,POINT (-6.23881 53.314139),Farmer Brown’s,Clonskeagh Road,68,D06 EH93,Dublin,pub,,,,various,,,https://www.farmerbrowns.ie,,,,,,,,,outside,,0
+Dublin,way/128942373,POINT (-6.271931 53.369668),"John Kavanagh’s ""The Gravediggers""",Prospect Square,1-2,D09 CF72,Dublin,pub,,,,Guinness,,no,https://johnkavanagh-the-gravediggers.business.site/,,,https://www.facebook.com/JohnKavanaghTheGravediggers,gravediggers2,,,,,outside,,2
+Dublin,way/129750566,POINT (-6.296434 53.324472),Flood’s,Sundrive Road,140-142,D12 HE65,Dublin,pub,,,,,,,,+353 1 4542463,,,,,,,,,,0
+Dublin,way/129774681,POINT (-6.307559 53.341686),The Patriot’s Inn,South Circular Road,760,D08 HV0A,Dublin,pub,,,,,,,https://patriotsinn.ie,+35316799595,denisewhitecatering@gmail.com,https://www.facebook.com/PatriotsInnDublin,thepatriotsinn,,,no,,,,0
+Dublin,way/129924270,POINT (-6.214139 53.384437),Artane House,,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/130156802,POINT (-6.252762 53.350192),Le Monde Café Bar,Store Street,21,D01 T9R2,Dublin,pub,,,,,,,https://www.beresfordhotelifsc.com/en/bar/,+353 1 8134700,,,,,,no,,,,0
+Dublin,way/130774599,POINT (-6.272175 53.365213),The Brian Boru,Prospect Road,,D09 PP93,Dublin,pub,,,,,,,https://www.thebrianboru.com/,+353 1 830 4527,info@thebrianboru.ie,,,,,,,,,0
+Dublin,node/133193958,POINT (-6.260588 53.330551),The Barge,Charlemont Street,42,D02 R593,Dublin,pub,,,,,,,https://www.thebarge.ie/,,,https://www.facebook.com/thebargeinn,,,,limited,,,,0
+Dublin,way/154508544,POINT (-6.265819 53.33634),Ryan’s,Camden Street Lower,92,D02KT51,Dublin,pub,,,,,,,,,,,,,,no,,no,,0
+Dublin,way/154508547,POINT (-6.265875 53.336558),Whelan’s,Wexford Street,25,D02 H527,Dublin,pub,,,,,,,https://www.whelanslive.com,+35314780766,info@whelanslive.com,https://www.facebook.com/whelanslive,,,,,,outside,,0
+Dublin,way/154518581,POINT (-6.265528 53.335553),Devitt’s,Camden Street Lower,78,D02 C642,Dublin,pub,,,,,,,https://www.devittspub.ie/,,,,,,,limited,no,,,0
+Dublin,way/227764081,POINT (-6.259644 53.346642),Fitzgerald's,Aston Quay,22,D02 FH28,Dublin,pub,,,,,,,,,,,,,,yes,,,,0
+Dublin,way/227766040,POINT (-6.260286 53.34744),O’Connell’s,Bachelors Walk,30,D01 YP70,Dublin,pub,,,,,,,http://www.oconnellsbardublin.ie/,+353 1 874 5730,,,,,,yes,,,,0
+Dublin,way/228284413,POINT (-6.254782 53.347327),The Workshop,George's Quay,10,D02 YY95,Dublin,pub,,,,,,,,,,,,,,limited,,outside,,0
+Dublin,way/228284414,POINT (-6.255529 53.34696),Mulligan's,Poolbeg Street,8-9,D02 TK71,Dublin,pub,,,,various;guinness,,,,+353 1 6775582,,,,,,,,,,0
+Dublin,way/228286745,POINT (-6.257187 53.346212),Chaplin’s,Hawkins Street,2,D02 K590,Dublin,pub,,,,,,,,,,,,,"Fr-Su 16:00-02:00, Mo-Th 17:00-02:00",,,,,0
+Dublin,way/228287775,POINT (-6.258737 53.34636),Cassidy's,Westmoreland Street,27,D02 PX77,Dublin,pub,,,,guinness;erdinger;various,,,http://www.cassidysbar.ie/web/home.html,,,https://www.facebook.com/cassidyswestmorland/,,,,,,,,0
+Dublin,way/228290004,POINT (-6.257887 53.345807),Bowe’s,Fleet Street,31,D02 DF77,Dublin,pub,,,,,,,https://www.facebook.com/Boweswhiskeybar/,+353 1 671 4038,,,,,,,,,,0
+Dublin,way/228762044,POINT (-6.267794 53.346611),Panti Bar,Capel Street,7-8,,Dublin,bar,,,,,,,https://www.pantibar.com/,+353 1 874 0710,,,,,Mo-Th 16:00-23:30; Fr-Sa 16:00-00:30; Su 16:00-23:00,yes,,outside,,0
+Dublin,way/228762046,POINT (-6.268193 53.346383),Jack Nealon,Capel Street,165-166,D01 XD72,Dublin,pub,,,,,,,,,,,,,,no,,,,0
+Dublin,way/228968680,POINT (-6.263518 53.343824),The Stag's Head,Dame Court,1,D02 TW84,Dublin,pub,,,,Guinness;smithwick;heineken;Budweiser,,,https://stagshead.ie/,,,,https://www.instagram.com/stags_head_dublin/,,Mo-Sa 11:00-24:00; Su,no,,,,0
+Dublin,way/228968686,POINT (-6.262857 53.343763),4 Dame Lane,Dame Lane,4,D02 YD79,Dublin,pub,,,,,,,https://4damelane.ie,,,,,,,limited,,,,0
+Dublin,way/229061161,POINT (-6.268754 53.347763),J. McNeill,Capel Street,140,D01 F9R2,Dublin,pub,,,,,,,,,,,,,,no,yes,,,0
+Dublin,way/229061164,POINT (-6.268934 53.348274),Slattery’s,Capel Street,129-131,D01 YN83,Dublin,pub,,,,,,,,,,,,,Mo-Th 07:00-23:30; Fr-Sa 07:00-01:00; Su 12:30-23:30,limited,no,,,0
+Dublin,way/229061165,POINT (-6.268599 53.347374),The Boar’s Head,Capel Street,149,D01 T927,Dublin,pub,,,,,,,,,,,,,,limited,no,,,0
+Dublin,way/229316784,POINT (-6.262705 53.34224),J. Grogan's,William Street South,15,D02 H336,Dublin,pub,,,,various,,,https://www.groganspub.ie,,,https://www.facebook.com/groganscastlelounge/,,,,yes,no,outside,,0
+Dublin,way/229376152,POINT (-6.281709 53.343091),Arthur’s,Thomas Street,28,D08 VF83,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/229456566,POINT (-6.278943 53.342648),Dudley’s,Thomas Street,47-48,D08 C44P,Dublin,pub,,,,,,,,+35315472307,info@dudleys.ie,,@dudleyspub,,,yes,,,,0
+Dublin,way/230101445,POINT (-6.267927 53.344939),Lundy Foot’s,Essex Gate,13,D08 PN7C,Dublin,pub,,,,yes,,,https://www.lundyfoots.ie,+353 1 671 1535,,LundyFoots,LundyFootsDublin,,,yes,,no,,0
+Dublin,way/230133865,POINT (-6.267386 53.345138),The Porterhouse,Parliament Street,16-18,D02 VR94,Dublin,bar,,,,porterhouse,,,https://porterhousebrewco.ie/temple-bar/,+35316798847,phtemplebar@theporterhouse.ie,https://www.facebook.com/PorterhouseTempleBar,https://www.instagram.com/porterhousebrewco/,,Mo-We 11:30-24:00; Th 11:30-01:00; Fr-Sa 11:30-02:00; Su 12:00-24:00,yes,,,,2
+Dublin,way/230134472,POINT (-6.267058 53.344281),Thomas Reads,Parliament Street,1-3,D02 AN28,Dublin,pub,,,,galway_bay;brú,,,,+35316718267,,,@thomasreadsdublin,,,limited,no,,,4
+Dublin,way/230357177,POINT (-6.263217 53.340906),Peter's Pub,Johnson's Place,1,D02 HW58,Dublin,pub,,,,,,,http://peterspub.ie/,,,https://www.facebook.com/PetersPub/,,,,,,,,0
+Dublin,way/230566047,POINT (-6.261145 53.340691),Neary’s Bar & Lounge,Chatham Street,1,D02 EW93,Dublin,pub,,,,,,,https://www.nearys.ie,+353 1 677 8596,,,,,"Mo 11:30-22:30, Tu-Th 11:30-23:30, Fr,Sa 11:30-00:30, Su 12:30-22:00",yes,,,,0
+Dublin,way/230567953,POINT (-6.26243 53.341089),Bar Rua,Clarendon Street,32,D02 HX66,Dublin,pub,,,,brú;galway_bay,draught,,https://galwaybaybrewery.com/barrua/,+353 1 441 4425,barrua@galwaybaybrewery.com,https://www.facebook.com/barruadublin,@barruadublin,,,limited,no,outside,,0
+Dublin,way/230567954,POINT (-6.261765 53.34098),Sheehan’s,Chatham Street,17,D02 X923,Dublin,pub,,,,,,,https://sheehanspub.ie/,+353 1 677 1914,,https://www.facebook.com/sheehansbarchathamst/,,,,yes,,,,0
+Dublin,way/230613179,POINT (-6.259443 53.341238),Kehoe’s Pub,Anne Street South,9,D02 NY88,Dublin,pub,,,,,,,https://kehoesdublin.ie,,,,,,"10:00-23:00; Fr,Sa 10:00-01:00",limited,,outside,,0
+Dublin,way/230948516,POINT (-6.215153 53.36175),The Yacht,Clontarf Road,73,D03 EP93,Clontarf,pub,,,,,,,https://theyachtbar.ie/,,,,,,,yes,,,,0
+Dublin,way/231199022,POINT (-6.253772 53.338324),JL O'Neill,Merrion Row,1,D02 HY07,Dublin,pub,,,,,,,https://www.foleys.ie/,,,,,,,limited,no,,,0
+Dublin,way/231265715,POINT (-6.252515 53.342023),Lincoln’s Inn,Lincoln Place,18-19,D02 VA43,Dublin,pub,,,,,,,,,,,,,Mo-Th 12:00-22:00; Fr 12:00-22:30; Sa 12:00-21:00,limited,,,,0
+Dublin,way/233243884,POINT (-6.251159 53.338597),McGrattan’s Café Bar,Fitzwilliam Lane,76-77,D02 R206,Dublin,pub,,,,,,,,,,,,,Mo-Sa 10:30-23:30; Su 11:30-23:30,yes,yes,,,0
+Dublin,way/233506997,POINT (-6.196135 53.3599),O'Briens,Vernon Avenue,6-8,,,,,,,,,,,+353 1 818 6071,clontarf@obrienswine.ie,,,,,,,,,0
+Dublin,way/233507006,POINT (-6.195539 53.359192),Connolly’s,Clontarf Road,198,D03 Y974,Clontarf,pub,,,,,,,,,,,,,,limited,,,,0
+Dublin,way/233516827,POINT (-6.256527 53.349103),The Silver Penny,Abbey Street Lower,12A,D01 X593,Dublin,pub,,,,,,,https://www.jdwetherspoon.com/pubs/all-pubs/republic-of-ireland/county-dublin/the-silver-penny-dublin,,,,,,,,,,,0
+Dublin,way/233666288,POINT (-6.265962 53.347476),T.P. Smith’s,Jervis Street,9-10,D01 XV66,Dublin,pub,,,,,,,https://tpsmiths.ie/,+353 1 878 2067,tpsmithsjervisst@gmail.com,,,,,limited,no,,,0
+Dublin,way/233790935,POINT (-6.259188 53.348322),The Grand Central Bar,O'Connell Street Lower,10-11,D01 C1X4,Dublin,pub,,,,,,,https://grandcentral.ie/,,,,,,,no,,no,,0
+Dublin,way/233791356,POINT (-6.257999 53.348),Clifton Court Bar,Eden Quay,10,,Dublin,bar,,,,,,,,,,,,,,,,,,0
+Dublin,way/233791363,POINT (-6.257901 53.348022),Lanigan’s,Eden Quay,10-11,D01 V6F4,Dublin,bar,,,,,,,,,,https://www.facebook.com/Lanigans-Pub-Eden-Quay-118538598185238/,,,,,,outside,,0
+Dublin,way/233801731,POINT (-6.255966 53.348344),The Wiley Fox,Eden Quay,28,D01 DE44,Dublin,pub,,,,,,,https://thewileyfox.ie/,+35315440900,info@thewileyfox.ie,https://www.facebook.com/thewileyfox,,,,,,,,0
+Dublin,way/233804973,POINT (-6.263521 53.346856),The Grand Social,Liffey Street Lower,35,D01 C3N0,Dublin,pub,,,,,,,,,,,,,,limited,yes,outside,,0
+Dublin,way/234082876,POINT (-6.248703 53.336836),The Star Bar,Baggot Street Lower,43-44,D02 YC83,Dublin,pub,,,,,,,,,,,,,,yes,,,,0
+Dublin,way/239198137,POINT (-6.237115 53.315955),Ashtons,,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/244989701,POINT (-6.252399 53.344922),O’Neill’s of Pearse Street,Pearse Street,36-37,D02 VX62,Dublin,pub,,,,,,,https://www.oneillsdublin.com/oneills-pub,,,,,,,limited,,,,0
+Dublin,way/244989703,POINT (-6.252096 53.344875),Moss Lane,Pearse Street,37B,D02 N966,Dublin,pub,,,,various,,,,,,,@MossLaneDublin,,"Mo-Th 12:30-24:00,Fr-Sa 12:30-01:00",,,outside,,5
+Dublin,way/245124093,POINT (-6.257835 53.348842),The Flowing Tide,Abbey Street Lower,9,D01 H6P1,Dublin,pub,,,,Trouble Brewing;Kinnegar,,,,,,,,,,yes,,isolated,,0
+Dublin,way/249212894,POINT (-6.252485 53.337706),James Toner,Baggot Street Lower,139,D02 N231,Dublin,pub,,,,,,,,,,,,,,no,,,,0
+Dublin,way/249263084,POINT (-6.260845 53.341372),Bruxelles,Harry Street,7-8,D02 KX36,Dublin,pub,,,,,,,https://bruxelles.ie/,,,,,,,no,no,,,0
+Dublin,way/249268180,POINT (-6.262478 53.343964),The Bankers,Trinity Street,16,D02 FD26,Dublin,pub,,,,,,,,,,,,,,limited,,,,0
+Dublin,node/249426205,POINT (-6.228816 53.365756),Marino House (Kavanagh's),Malahide Road,16,,Dublin,pub,,,,Carlsberg;Bulmers;Heineken,,,,+353 1 8332786,,https://www.facebook.com/kavanaghsmarino,,,"Mo-Th 10:30-23:30, Fr-Sa 10:30-00:30, Su 12:30-23:00",,,,,0
+Dublin,way/250345931,POINT (-6.251591 53.336988),Matt the Thresher,Pembroke Street Lower,31-32,D02 Y523,Dublin,pub,,,,,,,https://matts.ie/,,,,,,,yes,,,,0
+Dublin,way/250501870,POINT (-6.262467 53.347936),W.Plunket,Middle Abbey Street,52,D01 W9H6,Dublin,pub,,,,,,,https://www.wplunket.ie/,,,https://www.facebook.com/w.plunket,,,,limited,,,,0
+Dublin,way/250501876,POINT (-6.263437 53.347769),The Gin Palace,Middle Abbey Street,42,D01 X015,Dublin,pub,,,,,,,https://ginpalace.ie/,,,,,,,no,,,,0
+Dublin,way/250504040,POINT (-6.260339 53.348454),The Oval,Middle Abbey Street,78,D01 RW24,Dublin,pub,,,,,,,https://www.theoval.ie/,,,,,,Su-Th 09:00-00:00; Fr-Sa 09:00-01:00,limited,no,,,0
+Dublin,way/251194993,POINT (-6.261982 53.344637),The Vat House,Anglesea Street,3,D02 FK84,Dublin,pub,,,,,,,http://www.vathouse.ie/,,,https://www.facebook.com/thevathousebar/,,,,no,,,,0
+Dublin,way/251523512,POINT (-6.261488 53.34201),L. Mulligan Whiskey Shop,Clarendon Street,13,,Dublin,,,,,,,,,+353 1 567 2256,,,,,Mo-Sa 11:00-19:00; Su 12:30-18:00,,,,,2
+Dublin,way/252713065,POINT (-6.261584 53.359022),The Auld Triangle,Dorset Street Lower,28,D01 TH93,Dublin,pub,,,,,,,,,,,,,,limited,,no,,0
+Dublin,way/252809417,POINT (-6.260165 53.353388),The Deer’s Head,Parnell Street,151-152,D01 V9Y6,Dublin,pub,,,,,,,,,,,,,,yes,,,,0
+Dublin,way/252812514,POINT (-6.260802 53.353048),Hophouse,Parnell Street,160,D01 Y4A7,Dublin,pub,,,,,,,,+353 1 872 8318,kimchi.hophouse@gmail.com,,,,,yes,,outside,,0
+Dublin,way/252812519,POINT (-6.260441 53.353224),Mema’s,Parnell Street,155,D01 N8C7,Dublin,bar,,,,,,,,+35318747637,memasdublin@gmail.com,,,,,,,,,0
+Dublin,way/254319894,POINT (-6.249005 53.349994),The Harbourmaster Pub,Custom House Docks,,D01 W0X8,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/255386982,POINT (-6.335696 53.342616),Sarsfield Racing Pigeon Club,,,,,bar,,,,,,,,,,,,,,,,,,0
+Dublin,way/255386983,POINT (-6.357511 53.341781),Ballyfermot Sports and Social Club,,,,,bar,,,,,,,,,,,,,,,,,,0
+Dublin,way/257772822,POINT (-6.249516 53.3419),The Ginger Man,Fenian Street,39-40,D02 KD51,Dublin,pub,,,,,,,,,,,,,Mo-Th 11:30-00:30; Fr-Sa 11:30-01:30; Su 16:00-23:00,yes,,isolated,,0
+Dublin,way/258651047,POINT (-6.252917 53.342701),The Pavilion,College Green,,D02 E8C0,Dublin,bar,,,,yes,,,,,,,,,Mo-Fr 10:00-21:00,,,outside,,0
+Dublin,way/260307464,POINT (-6.26181 53.343132),The International Bar,Wicklow Street,23,D02 VH59,Dublin,pub,,,,,,,,,,https://www.facebook.com/internationalbardublin/,,,,limited,,,,0
+Dublin,way/261269400,POINT (-6.259688 53.343453),O'Donoghue's,Suffolk Street,15,D02 C671,Dublin,pub,,,,,,,https://odonoghuesbar.ie/,,,,,,,,,outside,,0
+Dublin,way/261598465,POINT (-6.303302 53.328649),The Gate Bar,Crumlin Road,153-155,D12 HA27,Dublin,pub,,,,,,,http://pubsdirect.ie/thegatebar,+353 1 454 2157,,,,,Mo-Th 12:00-23:30; Fr-Sa 12:00-00:30; Su 12:00-23:00,,,outside,,0
+Dublin,way/263470974,POINT (-6.275482 53.332391),The Libertine,Clanbrassil Street Lower,57,D08 HC79,Dublin,pub,,,,various,,,https://thelibertinedublin.ie/,+35315320279,,,,,,,,outside,,0
+Dublin,way/264029838,POINT (-6.358943 53.342415),The 79 Inn,Ballyfermot Road,367,D10 EC53,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/264741791,POINT (-6.26382 53.341283),The Hairy Lemon,Stephen Street Lower,41-42,D02 NV08,Dublin,pub,,,,,,,https://thehairylemon.ie/,+353 1 671 8949,,https://www.facebook.com/thehairylemonbar,,,Mo-Th 10:00-23:30; Fr-Sa 10:00-01:30; Su 10:00-23:00,no,,,,0
+Dublin,way/266390284,POINT (-6.323342 53.366037),Hole in the Wall,Blackhorse Avenue,,D07 V663,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/268687348,POINT (-6.265266 53.343985),The Pawn Shop,Dame Street,15,D02 KD74,Dublin,pub,,,,,,,,,,,,,,,,,,3
+Dublin,way/268700611,POINT (-6.26389 53.343992),Mercantile,Dame Street,27-28,D02 ND77,Dublin,bar,,,,,,,https://www.mercantilehotel.ie/en/bar/,,,https://www.facebook.com/themercantiledublin,,,,limited,,no,,0
+Dublin,way/268843105,POINT (-6.258867 53.339757),Dawson Lounge,Dawson Street,25,D02 XT59,Dublin,bar,,,,,,,https://dawsonlounge.ie/,,,https://www.facebook.com/TheDawsonLounge/,,,Mo-Th 16:00-23:30; Fr-Sa 12:00-01:00; Su 12:30-23:00,no,,,,0
+Dublin,way/268843106,POINT (-6.258818 53.33994),Wines on the Green,Dawson Street,28,,Dublin,,,,,,,,https://www.celticwhiskeyshop.com/Wines-and-Champagnes-Home-Page,,,,,,,limited,,,,0
+Dublin,way/268843107,POINT (-6.258841 53.339888),Celtic Whiskey Shop,Dawson Street,27,,Dublin,,,,,,,,https://www.celticwhiskeyshop.com/,,,,,,,yes,,,,0
+Dublin,way/269759932,POINT (-6.259439 53.342025),The Bailey,Duke Street,1-4,D02 ET99,Dublin,pub,,,,,,,https://baileybarcafe.com/,,,,,,,yes,yes,,,0
+Dublin,way/269759933,POINT (-6.259352 53.342017),The Bailey,Duke Street,1-4,D02 ET99,Dublin,pub,,,,,,,https://baileybarcafe.com/,,,,,,,yes,,,,0
+Dublin,way/270805425,POINT (-6.251042 53.350136),The Brew Dock,Amiens Street,1,D01 FK19,Dublin,pub,,,,galway_bay,draught,,https://galwaybaybrewery.com/brewdock,+35318881842,brewdockp@galwaybaybrewery.com,https://facebook.com/thebrewdock,@thebrewdock,,,limited,no,,,0
+Dublin,way/270968057,POINT (-6.259362 53.341841),Davy Byrne’s,Duke Street,21,D02 K380,Dublin,pub,,,,,,,https://davybyrnes.com/,,,,,,,limited,,,,0
+Dublin,way/271055200,POINT (-6.259616 53.345909),The Palace Bar,Fleet Street,21,D02 H950,Dublin,pub,,,,,,,https://www.thepalacebardublin.com,+353 1 671 7388,,https://www.facebook.com/ThePalaceBar,https://www.instagram.com/thepalacebardublin/,,,limited,,outside,,0
+Dublin,way/271450113,POINT (-6.264611 53.326869),Blackbird,Rathmines Road Lower,82-84,D06 Y5Y8,Dublin,pub,,,,various,,,https://www.blackbirdrathmines.com/,,hello@blackbirdrathmines.com,https://www.facebook.com/BlackbirdRathmines/,,,,no,,outside,,0
+Dublin,way/271989540,POINT (-6.258935 53.34301),Tapped,Nassau Street,45-46,D02 RP20,Dublin,pub,,,,porterhouse,,,https://tappeddublin.com,+35316799204,lore@tappeddublin.com,https://www.facebook.com/tappeddublin,@tappeddublin,,,no,,outside,,0
+Dublin,way/273202992,POINT (-6.261001 53.341228),McDaid's,Harry Street,3,D02 NC42,Dublin,pub,,,,,,,,,,,,,,no,,,,0
+Dublin,way/273520544,POINT (-6.264645 53.343812),The George,George's Street Great South,89,D02 R220,Dublin,pub,,,,,,,https://thegeorge.ie,+353 1 6776943,info@thegeorge.ie,TheGeorgeBar,thegeorgedublin,,"Mo-Fr 14:00-02:30, Sa,Su 12:30-02:30",limited,,outside,,0
+Dublin,way/273646173,POINT (-6.261846 53.34288),Johnny Rush's,William Street South,65,D02 TH24,Dublin,bar,,,,,,,,,,https://www.facebook.com/johnnyrushsbar/,,,,yes,,,,0
+Dublin,way/273652089,POINT (-6.262938 53.342654),The Rag Trader,Drury Street,39-40,D02 XR91,Dublin,pub,,,,,,,,,,,,,,no,,,,0
+Dublin,way/273993937,POINT (-6.261666 53.345598),The Oliver St John Gogarty,Fleet Street,58-59,D02 N159,Dublin,pub,,,,,,,https://www.gogartys.ie/bar/,,,,,,,limited,,,,0
+Dublin,way/275159990,POINT (-6.262141 53.343147),The Old Stand,Exchequer Street,37,D02 VH59,Dublin,pub,,,,,,,https://theoldstandpub.com/,,,https://www.facebook.com/theoldstandpub/,https://www.instagram.com/theoldstand/,,Mo-Su 11:00-00:30,no,,,,0
+Dublin,way/275482802,POINT (-6.256853 53.33614),Madigans,Leeson Street Lower,104-105,D02 K710,,pub,,,,,,,,,,,,,"Mo-Th 12:00-23:30; Fr,Sa 12:00-00:30; Su off",,,,,0
+Dublin,way/275483127,POINT (-6.256587 53.335972),Hartigan’s,Leeson Street Lower,100,D02 W023,Dublin,pub,,,,,,,http://hartigans.eu/,+353 1 676 2280,,https://www.facebook.com/100063528429804/,,,,yes,yes,,,2
+Dublin,way/279140841,POINT (-6.254181 53.338156),O'Donoghue's,Merrion Row,15,D02 PF50,Dublin,pub,,,,,,,https://www.odonoghues.ie/,,,,,,,limited,,,,0
+Dublin,node/279464425,POINT (-6.265238 53.330686),The Lower Deck,Portobello Harbour,3,D08 KCH2,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/279915988,POINT (-6.260932 53.347252),Arlington Bar & Restaurant,Bachelors Walk,23-25,D01 E8P4,Dublin,pub,,,,,,,https://www.arlington.ie/dining/,,,,,,,,,,,0
+Dublin,node/280123269,POINT (-6.251268 53.367676),Bar@Tolka,,,,,bar,,,,,,,,,,,,,,,,,,0
+Dublin,node/280958210,POINT (-6.273376 53.338984),"John Fallon's ""The Capstan Bar""",The Coombe,129,D08 NP52,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/281005429,POINT (-6.2692 53.352346),The King’s Inn,Bolton Street,42,D01 EH56,Dublin,pub,,,,,,,,,,,,,"Mo-Th 13:00-23:30, Fr,Sa 13:00-00:30, Su 13:00-23:00",,,,,0
+Dublin,way/281046955,POINT (-6.254048 53.33797),Ely Wine Bar,Ely Place,22,D02 AH73,Dublin,bar,,,,,,,https://www.elywinebar.ie/,+353 1 676 8986,,,,,,no,,,,0
+Dublin,way/281357163,POINT (-6.264628 53.344695),The Mezz,Eustace Street,23-24,D02 YP77,Dublin,pub,,,,,,,,+353 1 611 1130,info@mezz.ie,,,,Mo-Su 12:00-03:00,,,,,0
+Dublin,way/281359242,POINT (-6.264738 53.345347),The Norseman,Essex Street East,28-29,D02 XH60,Dublin,pub,,,,,,,https://www.norseman.ie/,,,,https://www.instagram.com/thenorsemantemplebar/,,,limited,,,,0
+Dublin,way/281650312,POINT (-6.266918 53.344294),The Oak,Dame Street,81,D02 VW57,Dublin,pub,,,,various,,,,,,https://www.facebook.com/TheOakDublin,,,,yes,no,no,,4
+Dublin,way/281669751,POINT (-6.26346 53.344452),Foggy Dew,Fownes Street Upper,1,D02 PV20,Dublin,pub,,,,,,,https://www.thefoggydewpubdublin.com/,,,https://www.facebook.com/FoggyDewTemplebar/,https://www.instagram.com/foggydewdublin/,,,,no,,,0
+Dublin,way/281683058,POINT (-6.262818 53.345934),Merchant's Arch,Wellington Quay,48-49,D02 RC56,Dublin,pub,,,,,,,https://www.merchantsarch.ie/menus,,,https://www.facebook.com/Merchantsarch,https://www.instagram.com/merchantsarch/,,,no,,outside,,0
+Dublin,way/281685663,POINT (-6.263313 53.345866),Ha'penny Bridge Inn,Wellington Quay,42,D02 Y103,Dublin,bar,,,,,,,https://www.hapennybridgeinn.com,,,https://www.facebook.com/HaPennyBridgeInn/,https://www.instagram.com/hapennybridgeinn/,,,no,,,,0
+Dublin,way/281772553,POINT (-6.265544 53.339627),The Swan,York Street,57-58,D02 RW67,Dublin,pub,,,,,,,https://www.theswanbar.com/,+35314752722,info@theswanbar.com,https://www.facebook.com/The-Swan-Bar-216286108426166,,,,,,,,0
+Dublin,way/281772561,POINT (-6.265895 53.338483),John O’Dywer’s,Aungier Street,43,D02 E983,Dublin,pub,,,,,,,https://www.johnodwyer.ie/,+35315585302,,,,,,,,no,,0
+Dublin,node/282342105,POINT (-6.248348 53.345276),The Wind Jammer,Lombard Street East,18,,Dublin,pub,,,,,,,,,,https://www.facebook.com/TheWindjammerPub/,,,Mo-Su 07:00-24:00,limited,,outside,,0
+Dublin,way/283771391,POINT (-6.264726 53.333492),The Bleeding Horse,Camden Street Upper,24-25,D02 NP22,Dublin,pub,,,,,,,https://bleedinghorse.ie/,+35314752705,bookings@bleedinghorse.ie,https://www.facebook.com/thebleedinghorse,bleedinghorse,,,,,,,0
+Dublin,way/289743485,POINT (-6.297078 53.38744),Bottom of the Hill,Finglas Road,,,,pub,,,,,,,,,,,,,,,,outside,,0
+Dublin,way/291771732,POINT (-6.330108 53.342604),Ruby Finnegan's,,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/292185700,POINT (-6.255369 53.368917),Millmount House,Drumcondra Road Upper,11,D09 E9R3,Dublin,pub,,,,,,,,,,,,,,,,outside,,0
+Dublin,way/292185701,POINT (-6.25597 53.367468),Fagan’s,Drumcondra Road Lower,146,D09 YR83,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/292692332,POINT (-6.27331 53.343388),The Christchurch,High Street,13,D08 NRP3,Dublin,pub,,,,,,,,,,,https://www.instagram.com/thechristchurchdub/,,,limited,,,,0
+Dublin,way/294909021,POINT (-6.264591 53.326997),,Rathmines Road Lower,,,Dublin,biergarten,,,,,,,,,,,,,,limited,,,,0
+Dublin,way/294962764,POINT (-6.264072 53.345459),The Temple Bar,Temple Bar,47-48,D02 N725,Dublin,pub,,,,,,,https://thetemplebarpub.com,,,TheTempleBarPub,thetemplebarpub,,Mo-Th 09:30-23:30; Fr 09:30-20:00; Sa 09:30-19:00; Su 11:00-23:30,yes,,,,0
+Dublin,way/296152664,POINT (-6.299886 53.390356),Shamrock Lodge,Seamus Ennis Road,,D11 WF9F,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/296153007,POINT (-6.298668 53.389585),The Full Shilling,Jamestown Road,,,,pub,,,,various,,,,,,,,,,,,,,0
+Dublin,way/298356152,POINT (-6.331139 53.372445),Halfway House,Navan Road,399,D07 XR2H,Dublin,pub,,,,,,,https://halfwayhousedublin.com,,,,,,,limited,,,,0
+Dublin,node/298721803,POINT (-6.288525 53.342499),Harkin’s,Echlin Street,6,D08 HX3K,Dublin,pub,,,,,,,https://harkinsbar.ie,+35315169601,,,,,,,,,,2
+Dublin,node/299224403,POINT (-6.283245 53.310054),Vaughan’s Eagle House,Terenure Road North,105-107,D6W XN76,Dublin,pub,,,,,,,,,,,,,,no,,,,0
+Dublin,node/299225092,POINT (-6.284137 53.309805),Brady’s,Terenure Place,5-9,D6W TX40,Dublin,pub,,,,,,,,,,,,,,limited,,,,0
+Dublin,way/300187149,POINT (-6.249272 53.352666),Lloyd’s,Amiens Street,46,D01 WV02,Dublin,pub,,,,,,,,,,,,,,limited,,,,0
+Dublin,way/302342924,POINT (-6.288044 53.390659),Martin’s,Ballygall Road West,122,D11 TPN7,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/303968050,POINT (-6.244742 53.343349),Padraig Pearse,Pearse Street,81,,Dublin,pub,,,,,,,,,,https://www.facebook.com/PadraigPearsePub/,,,,no,,,,0
+Dublin,node/305312829,POINT (-6.269599 53.345976),Sin É,Ormond Quay Upper,14,D07 YK6A,Dublin,pub,,,,,,,,+353 1 555 4036,sinedublin1@gmail.com,https://www.facebook.com/Sin.E.Pub,,,"Mo-We 15:00-01:00, Th 15:00-02:30, Fr-Sa 15:00-15:30, Su 15:00-01:00",,,outside,,0
+Dublin,node/306276661,POINT (-6.254074 53.347097),O'Reilly's,George's Quay,,,Dublin,pub,,,,,,,,,,,,,,yes,,,,0
+Dublin,way/307149426,POINT (-6.250403 53.351247),J.J. Grainger,Talbot Street,51,D01 P6K1,Dublin,pub,,,,,,,,,,,,,,no,,,,0
+Dublin,way/307150002,POINT (-6.288762 53.357454),Graingers Hanlons Corner,North Circular Road,,,,pub,,,,various,,,,,,,,,,,,,,0
+Dublin,way/307175604,POINT (-6.28809 53.356008),Clarke's City Arms,,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/308099353,POINT (-6.285885 53.353372),Kavanagh’s,Aughrim Street,1-2,D07 V403,Dublin,pub,,,,,,,,,,https://www.facebook.com/kavanaghs.aughrimstreet,@kavanaghs_aughrimstreet,,,,,,,0
+Dublin,node/310408293,POINT (-6.26987 53.343457),The Bull & Castle Bar,Christchurch Place,5-7,D02 RH33,Dublin,bar,,,,various,,,https://www.thebuckleycollection.ie/bull-castle-steakhouse,,,https://www.facebook.com/TheBullandCastlebyF.X.Buckley/,,,,no,,outside,,0
+Dublin,way/310822756,POINT (-6.280086 53.33048),Ringside Bar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Dublin,node/311099928,POINT (-6.267469 53.350267),Woolshed Baa & Grill,Parnell Street,,D01 K5N8,Dublin,pub,,,,,,,https://www.woolshedbaa.com/dublin,+35318724325,,https://www.facebook.com/Woolshed.Dublin,,,Mo-Tu 12:00-23:30; We 12:00-02:30; Th 12:00-02:00; Fr-Sa 12:00-01:00; Su 12:00-23:00,limited,no,,,0
+Dublin,node/312565824,POINT (-6.227752 53.341667),Oarsman,Bridge Street,,D04 N294,Dublin,pub,,,,,,,,,,,,,,yes,no,,,0
+Dublin,node/312566081,POINT (-6.227584 53.341687),John Clarke and Sons,Bridge Street,12-14,D04 EH30,Dublin,pub,,,,,,,,,,,,,,yes,,,,0
+Dublin,node/312569767,POINT (-6.222932 53.338688),The Vintage Inn,Irishtown Road,74,D04 Y230,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/312569935,POINT (-6.2226 53.338584),The Merry Cobbler,Irishtown Road,78–82,D04 H6W7,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/312574900,POINT (-6.215278 53.332388),Sandymount House,Sandymount Green,1,D04 PD83,Sandymount,pub,,,,,,,,,,https://www.facebook.com/profile.php?id=100085808790710,,,,,,outside,,0
+Dublin,node/312574927,POINT (-6.215243 53.332825),O’Reilly’s,Seafort Avenue,5,D04 N840,Sandymount,pub,,,,,,,,,,,oreillyssandymount,,,,,,,0
+Dublin,node/312576602,POINT (-6.228928 53.32852),Horse Show House,Merrion Road,34-36,D04 C535,Dublin,pub,,,,,,,https://www.horseshowhouse.ie/,+35316689424,pubs@madigan.ie,,,,,yes,,,,3
+Dublin,node/312576639,POINT (-6.230281 53.329018),Paddy Cullen,Merrion Road,14,D04 Y0A9,Dublin,pub,,,,,,,https://www.paddycullens.com/,,,https://www.facebook.com/PaddyCullensPub,,,,limited,,,,0
+Dublin,node/312576904,POINT (-6.230373 53.329048),Mary Mac’s,Merrion Road,12,D04 T3Y7,Dublin,pub,,,,,,,https://www.paddycullens.com/,,,,,,,yes,,,,0
+Dublin,node/312577264,POINT (-6.23056 53.329108),Crowe’s,Merrion Road,10,D04 W6A0,Dublin,pub,,,,,,,http://crowespub.ie/,,,,,,,yes,,,,0
+Dublin,way/313703366,POINT (-6.209496 53.375458),The Ramble,Killester Avenue,145-147,D05 W827,Killester,pub,,,,,,,,,,https://www.facebook.com/TheRambleInnKillester/,,,,,,outside,,0
+Dublin,way/313827641,POINT (-6.177125 53.379789),The Watermill,Howth Road,411,D05 Y1E5,Raheny,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/313838456,POINT (-6.174772 53.380602),The Manhattan,Station Road,3-5,D05 T9K8,Raheny,pub,,,,,,,http://www.themanhattanraheny.ie,+35318329603,hello@themanhattanraheny.ie,https://www.facebook.com/themanhattanraheny,,,,yes,yes,,,0
+Dublin,way/313838460,POINT (-6.174122 53.379915),The Inn,Main Street,9,D05 E1W2,Raheny,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/314051081,POINT (-6.232264 53.364284),Martins Off License,Marino Mart,,,,,,,,,,,,,,,,,,yes,,,,0
+Dublin,way/314103949,POINT (-6.23579 53.363364),The Strand House,Fairview,12,D03 C998,Dublin,pub,,,,,,,https://strandhouse.ie,+353 1 559 1121,booking@strandhouse.ie,,,,,limited,,,,0
+Dublin,way/314131921,POINT (-6.23646 53.363048),Gaffney & Son,Fairview,5-6,D03 Y013,Dublin,pub,,,,,,,,,,,,,,limited,,,,0
+Dublin,node/315252689,POINT (-6.283055 53.311356),The Terenure Inn,Terenure Road North,94-96,D6W TY70,Dublin,pub,,,,,,,https://theterenureinn.ie/,+353 1 4907552,,,,,"Mo-Th 10:30-23:30, Fr-Sa 10:30-00:30, Su 12:30-23:00",yes,,,,0
+Dublin,way/316971228,POINT (-6.260702 53.351864),Toddy’s Bar & Brasserie,O'Connell Street Upper,20-23,D01 C3W7,Dublin,bar,,,,,,,,,,,,,,,,,,0
+Dublin,way/324346439,POINT (-6.206138 53.370699),The Beachcomber,Howth Road,179,D03 R892,Killester,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/325131328,POINT (-6.262011 53.352149),The Parnell Heritage Pub,Parnell Street,72-74,D01 ND00,Dublin,pub,,,,Guinness;various,,,https://parnellheritage.com,,,,,,,yes,,no,,0
+Dublin,node/335569489,POINT (-6.320806 53.33958),The Black Lion,Emmet Road,207A,D08 PN20,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/335980359,POINT (-6.318691 53.339562),The Saint,Emmet Road,,D08 WT0A,Dublin,pub,,,,,,,,,,https://www.facebook.com/The-Saint-Public-House-Inchicore-110645618401535,,,,,,,,0
+Dublin,way/350231324,POINT (-6.2488 53.357222),The Bridge Tavern,Summerhill Parade,6,D01YY62,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/350588958,POINT (-6.266037 53.336701),Opium,Wexford Street,26,D02 HX93,Dublin,bar,,,,,,,,,,,,,,,,,,0
+Dublin,way/351409390,POINT (-6.265332 53.341868),The Long Hall,South Great George's Street,51,D02 DV74,Dublin,pub,,,,Guinness;Beamish;Heineken;Pilsner Urquell;smithwick,,,,,,,,,Mo-Th 12:30-23:30; Fr 12:30-00:30; Sa 12:30-00:30; Su 12:30-23:00,,,,,0
+Dublin,way/356323694,POINT (-6.252173 53.372415),The Ivy House,Drumcondra Road Upper,114,D09 CX74,Dublin,pub,,,,,,,https://www.theivyhouse.ie,+353 1 837 5385,,,@theivyhoused9,,"Mo-We 12:00-23:30, Th-Sa 12:00-02:30, Su 12:30-23:00, PH 12:30+",,,isolated,,0
+Dublin,node/358543320,POINT (-6.290637 53.333764),Lowes Bar,Dolphin's Barn Street,27,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/358543587,POINT (-6.299192 53.336546),The Bird Flanagan,South Circular Road,471-477,D08 W56A,Dublin,pub,,,,,,,,,,,,,,yes,,,,0
+Dublin,way/362954595,POINT (-6.275358 53.342447),Drop Dead Twice,Francis Street,18/19,D08 EK06,Dublin,pub,,,,yes,,,https://www.dropdeadtwice.com,,,,,,Mo-Su 17:00- 23:30,,,,18,0
+Dublin,way/364532043,POINT (-6.279815 53.352146),Barbers Bar,Grangegorman Lower,19,D07 H583,Dublin,pub,,,,,,,https://www.thebarbers.ie,+353 1 677 0540,,https://www.facebook.com/barbersbar/,,Pub with residential over.,,,,,,0
+Dublin,node/367411336,POINT (-6.26461 53.341993),Hogan’s Bar,George's Street Great South,36,D02 AX50,Dublin,pub,,,,,,,,,,,,,,yes,,,,0
+Dublin,way/376511712,POINT (-6.259042 53.384971),,,,,,biergarten,,,,,,,,,,,,,,,,outside,,0
+Dublin,way/383974966,POINT (-6.281938 53.350856),The Glimmer Man,Stoneybatter,14-15,D07 RK37,Dublin,pub,,,,,,,,,,,@theglimmermand7,,,,,,,2
+Dublin,way/383974974,POINT (-6.28218 53.35103),L. Mulligan Grocer,Stoneybatter,18,D07 KN77,Dublin,pub,,,,,,,https://www.lmulligangrocer.com/,+35316709889,hello@lmulligangrocer.com,https://www.facebook.com/LMulliganGrocer,,,,limited,,,,0
+Dublin,way/383974977,POINT (-6.282283 53.351084),Tommy O’Gara,Stoneybatter,19,D07 C8KD,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/383992493,POINT (-6.282089 53.350406),The Belfry,Stoneybatter,37,D07 X029,Dublin,pub,,,,,,,,,,https://www.facebook.com/TheBelfryStoneybatter/,,,Mo-Th 16:00-23:30; Fr-Sa 16:00-00:30; Su 16:00-23:00,limited,,,,0
+Dublin,way/383996326,POINT (-6.281636 53.35038),J. Walsh & Co.,Stoneybatter,6-7,D07A382,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/384344469,POINT (-6.28026 53.34731),McGettigan’s,Queen Street,78,D07 PW67,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/407979343,POINT (-6.265014 53.336127),Flannery’s,Camden Street Lower,6-8,D02 TP83,Dublin,pub,,,,,,,,,,,,,,yes,,,,0
+Dublin,node/415802976,POINT (-6.279531 53.321699),McGarry’s Bar,Harold's Cross Road,238,D6W RF44,Dublin,pub,,,,,,,,,,,,,,yes,,,,0
+Dublin,node/415803254,POINT (-6.274806 53.312007),Coman's,Terenure Road East,,,Dublin,pub,,,,,,,https://comans.ie/,,,,,,,,,,,0
+Dublin,way/422874523,POINT (-6.280327 53.323221),McGowan’s of Harold's Cross,Harold's Cross Road,174,D6W XY61,Dublin,pub,,,,,,,,+353 1 497 8618,,,,,,yes,,,,0
+Dublin,node/434153487,POINT (-6.254844 53.342149),J P Mooneys,Nassau Street,1,,Dublin,bar,,,,,,,,,,,,,,no,,,,0
+Dublin,node/446783419,POINT (-6.264995 53.335323),Anseo,Camden Street Lower,18,D02 WK72,Dublin,pub,,,,,,,https://anseo.pub/,,,https://www.facebook.com/anseo.camdenstreet/,,,,,,,,0
+Dublin,node/446785628,POINT (-6.280292 53.347102),Fidelity,Queen Street,79,D07 DW3R,Dublin,pub,,,,,,,https://www.fidelitybar.ie/,,,,@fidelitydublin,,,,,,,0
+Dublin,node/446785642,POINT (-6.280049 53.347006),Frank Ryan’s,Queen Street,5,D07 T227,Dublin,pub,,,,,,,,,,,,,Mo-Th 16:00-23:30; Fr-Sa 16:00-00:30; Su 18:00-23:00,,,,,0
+Dublin,node/460836900,POINT (-6.267631 53.34481),Turk's Head,Parliament Street,27-30,D02 DP90,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/467744840,POINT (-6.26055 53.35142),Madigan’s,O'Connell Street Upper,19,D01 E796,Dublin,pub,,,,,,,,,,,,,,limited,,,,0
+Dublin,node/467744856,POINT (-6.254887 53.350573),The Celt,Talbot Street,81,D01 YK51,Dublin,pub,,,,Guinness;smithwick;Carlsberg;hop housse 13 lager;o'haras irish stout;o'haras irish red;Heineken,,,,,,,,,,,,,,0
+Dublin,node/467744860,POINT (-6.262675 53.345132),The Old Storehouse,Crown Alley,3,D02 CX67,Dublin,pub,,,,guinness;carlsberg;heineken;Smithwick's,,,https://theoldstorehouse.ie/,,,https://www.facebook.com/TheOldStoreHouse/,https://www.instagram.com/theoldstorehouse/,,"Mo-Fr 12:00-24:00, Fr,Sa 11:00-02:00, Su 11:00-24:00",no,,,,0
+Dublin,node/467744892,POINT (-6.259121 53.359118),Carolan's,,,,,,,,,,,,,,,,,,,yes,,,,0
+Dublin,node/470326939,POINT (-6.259416 53.353638),Bevvie's,Parnell Street,144,,Dublin,,,,,,,,,,,,,,,,,,,0
+Dublin,way/471666565,POINT (-6.206664 53.403342),Priorswood Inn,Clonshaugh Avenue,,D17 XV48,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/472767309,POINT (-6.245952 53.358953),The Vine Tree,Ballybough Road,82,,Dublin,,,,,,,,,,,,,,,,,,,0
+Dublin,node/475642367,POINT (-6.321341 53.339491),The Grattan,Grattan Crescent,,D08 V670,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/479092745,POINT (-6.240424 53.324433),McCloskeys,Morehampton Road,83-85,,Dublin,pub,,,,,,,https://mccloskeyspub.ie/,+353 1 268 9686,welcome@mccloskeyspub.ie,,,,Su-Th 08:00-23:30; Fr-Sa 08:00-00:30,yes,,,,0
+Dublin,node/491319647,POINT (-6.253083 53.372765),The Skylon Bar & Grill,Drumcondra Road Upper,27,D09 V1Y2,Dublin,bar,,,,,,,https://www.dublinskylonhotel.com/the-skylon-bar-and-grill.html,,,,,,,,,,,0
+Dublin,node/503224346,POINT (-6.265425 53.340586),Thomas Moore Inn,Aungier Street,12,D02 CR90,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/503224354,POINT (-6.265705 53.336959),The Jar,Wexford Street,31,D02 K232,Dublin,bar,,,,,,,https://thejar.ie/,+353 1 557 9688,reservations@thejar.ie,https://www.facebook.com/thejardublin,,,,yes,,,,3
+Dublin,node/516031805,POINT (-6.238178 53.344349),The South Strand,Hanover Quay,1,D02 E295,Dublin,pub,,,,,,,https://www.jdwetherspoon.com/pubs/all-pubs/republic-of-ireland/county-dublin/the-south-strand,,,,,,,yes,,,,0
+Dublin,way/517560263,POINT (-6.257948 53.349047),Piper’s Corner,Marlborough Street,105-106,D01 FD28,Dublin,pub,,,,,,,https://piperscorner.ie,+35318733503,info@piperscorner.ie,piperscornerdublin,@piperscornerdub,,Su-Th 16:00-23:30; Fr-Sa 16:00-00:30,yes,,no,,0
+Dublin,way/517592734,POINT (-6.261976 53.345567),The Auld Dubliner,Temple Bar,24-25,D02 DX09,Dublin,pub,,,,,,,https://aulddubliner.ie/,,,,https://www.instagram.com/theaulddublinerpub/,,,limited,,no,,0
+Dublin,way/525723347,POINT (-6.265869 53.335954),The 5 Lamps Brewery,Camden Street Lower,,,Dublin,,,,,,,,https://the5lampsbrewery.com,,,https://www.facebook.com/The-5-Lamps-Dublin-Brewery,@5lampsbrewery,,,,,,,0
+Dublin,way/530407774,POINT (-6.303759 53.341641),The Royal Oak,"High Road, Kilmainham Lane",11,D08 DK2K,Dublin,pub,,,,,,,,+353 1 671 3967,theoakd8@gmail.com,https://www.facebook.com/theoakd8,,,,limited,,,,0
+Dublin,way/530415760,POINT (-6.31069 53.340811),Donoghue’s,Emmet Road,29,D08 CK70,Dublin,pub,,,,,,,,+35314532038,,https://www.facebook.com/The-Glen-of-Aherlow-Donoghues-313220738221,,,,,,,,0
+Dublin,node/538103859,POINT (-6.272536 53.361008),The Hut,Phibsborough Road,159,D07 HA21,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/543384713,POINT (-6.250081 53.323301),R. McSorley’s,Sandford Road,1-5,D06 K8K7,Ranelagh,pub,,,,,,,https://mcsorleys.ie/,,,,,,,limited,,,,0
+Dublin,way/549576988,POINT (-6.264964 53.342482),Nolita,South Great George's Street,64-65,D02 YR20,Dublin,pub,,,,various,,,https://www.nolita.ie/,+353 1 478 1590,bookings@nolita.ie,,,,,no,,,,0
+Dublin,way/554939990,POINT (-6.27546 53.332142),Leonard’s Corner,South Circular Road,117,D08 PVF1,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/554988456,POINT (-6.235371 53.391234),Kilmardinny Inn,Lorcan Avenue,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/559485123,POINT (-6.263355 53.345643),The Quays Bar,Temple Bar Square,10-13,D02 EW63,Dublin,bar,,,,,,,https://quaysdublin.ie/,,,,https://www.instagram.com/quays_bar_temple_bar/,,,limited,,,,0
+Dublin,node/560602898,POINT (-6.26589 53.322154),Martin B. Slattery,Rathmines Road Lower,217-219,D06 XE36,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/561372021,POINT (-6.253192 53.37122),The Cat and Cage,Drumcondra Road Upper,74,D09 X620,Dublin,pub,,,,guinness;various,,,https://catandcage.ie,+35318573809,,https://www.facebook.com/catandcagebar,@thecatandcage,,,,,outside,,3
+Dublin,node/562072082,POINT (-6.252911 53.350879),74 Talbot,Talbot Street,74,D01 E4H9,Dublin,pub,,,,,,,,,,,,,,yes,no,,,0
+Dublin,node/564118831,POINT (-6.255467 53.325576),Redmonds,Ranelagh,,,Dublin,,,,,,,,https://www.redmonds.ie/,,,https://www.facebook.com/redmondsd6/,,,,yes,,,,0
+Dublin,node/564399648,POINT (-6.26167 53.327552),Corrigan’s,Mountpleasant Avenue Lower,27-28,D06 YA72,Rathmines,pub,,,,,,,,+35314445139,,https://www.facebook.com/Themountpleasantinncorrigans/,,,,,,,,0
+Dublin,node/564926473,POINT (-6.26542 53.316207),O'Briens,Rathmines Road Upper,149,,Dublin,,,,,,,,,,,,,,,,,,,0
+Dublin,node/565770327,POINT (-6.250339 53.32339),Birchall’s,Ranelagh,127-129,D06 W8X4,Ranelagh,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/583257143,POINT (-6.273453 53.336234),Peadar Browns,Clanbrassil Street Lower,1,D08 YK26,Dublin,pub,,,,,,,https://peadarbrowns.com,,,https://www.facebook.com/peadarbrowns,,,"Mo-Th 10:30-11:30, Fr-Sa 10:30-12:30, Su 12:30-11:00",,,,,0
+Dublin,node/583411333,POINT (-6.264156 53.341885),The Secret Bar / The Bar With No Name,Fade Street,3,,Dublin,pub,,,,,,,https://www.kellysdublin.com/food-and-drink/,,,,,,,no,,,,0
+Dublin,node/583412899,POINT (-6.270051 53.343119),The Lord Edward,Christchurch Place,23,D08 RK00,Dublin,pub,,,,,,,http://www.lordedward.ie,+35314542420,,https://www.facebook.com/profile.php?id=100057315165706,,,,limited,,,,0
+Dublin,node/592066036,POINT (-6.24322 53.338346),Oil Can Harry's,Mount Street Lower,31-32,,Dublin,pub,,,,,,,http://oilcanharrys.ie/,,,,,,,,,,,0
+Dublin,node/598161343,POINT (-6.161338 53.402245),Trinity Sports & Leisure Club & Bar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Dublin,way/606830451,POINT (-6.342268 53.348435),Mullingar House,Mullingar Terrace,,D20 P685,Dublin,pub,,,,,,,https://themullingarhouse.ie/,,,https://www.facebook.com/TheMullingarHouse1,,,,,,,,0
+Dublin,way/608742882,POINT (-6.344396 53.349676),The Villager,Main Street,31,D20 EP29,Dublin,pub,,,,,,,,,,https://www.facebook.com/villagerchapelizod,,,"Mo-Fr 16:00-21:00+; Sa,Su 12:30-09:00+",limited,,,,0
+Dublin,way/611618541,POINT (-6.267609 53.344509),Street 66,Parliament Street,33-34,D02 YP97,Dublin,bar,,,,,,,https://www.street66.bar/,+353 87 421 6759,,https://www.facebook.com/street66Dublin/,https://www.instagram.com/street66dublin/,,,limited,,,,0
+Dublin,node/612623532,POINT (-6.304945 53.328038),Birchall’s,Bangor Drive,1-5,D12 Y820,Dublin,pub,,,,,,,,+35314531381,,,,,,,,,,0
+Dublin,node/613230592,POINT (-6.263319 53.347384),The Lotts,Liffey Street Lower,9,D01 E3F9,Dublin,pub,,,,,,,,,,,,,,limited,yes,outside,,0
+Dublin,way/619879360,POINT (-6.270258 53.348156),The Hacienda,Little Mary Street,15,D07 W019,Dublin,pub,,,,,,,,,,https://www.facebook.com/profile.php?id=100057561065871,,,,no,,,,0
+Dublin,way/619884575,POINT (-6.266278 53.345201),Anne's Bar,Essex Street East,8,D02 RW53,Dublin,pub,,,,,,,https://annesbar.ie/,,,https://www.instagram.com/annesdublin,,,,yes,no,,,0
+Dublin,node/629750018,POINT (-6.286488 53.341902),Gravity Bar,,,,,bar,,,,,,,https://www.guinness-storehouse.com/,,,,,,Mo-Su 09:30-17:00,yes,,,,0
+Dublin,node/632666705,POINT (-6.2785 53.349806),Delaney’s,North King Street,83,D07 PF51,Dublin,pub,,,,whiplash;trouble_brewing,,,,+35318730824,,,,,,yes,,outside,,0
+Dublin,node/635273448,POINT (-6.270465 53.349262),Bar 1661,Green Street,1-6,D07 YT6H,Dublin,pub,,,,,,,https://bar1661.ie,,,,,,,no,,,,0
+Dublin,node/636958169,POINT (-6.249791 53.351411),Madigan's Bar & Grill,Amiens Street,,D01 V6V6,Dublin,pub,,,,,,,https://www.madigansconnollystation.com/,,,,,,,no,,no,,0
+Dublin,node/639829717,POINT (-6.297766 53.38989),,,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/639845339,POINT (-6.272606 53.363258),Fagan's,Phibsborough Road,99,,Dublin,,,,,,,,,,,,,,"Mo-Sa 10:30-22:00; Su, PH 12:30-22:00",,,,,0
+Dublin,way/645050835,POINT (-6.297912 53.336292),The Circular,South Circular Road,536-538,D08 W6A2,Dublin,pub,,,,whiplash;rascals,,,https://thecircular.ie,,,,,,,yes,,,,0
+Dublin,way/655447230,POINT (-6.23295 53.385828),Beaumont Off Licence,,,,Dublin,,,,,,,,,,,,,,,,,,,0
+Dublin,way/655447232,POINT (-6.23287 53.385678),Beaumont House,,,,Dublin,pub,,,,Guinness;various,,,,,,,,,,yes,yes,,,0
+Dublin,way/656057652,POINT (-6.242443 53.36096),Clonliffe House,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Dublin,way/656057654,POINT (-6.242574 53.361165),Clonliffe House,Ballybough Road,43-44,D03 VE24,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/657456424,POINT (-6.256436 53.349117),The Silver Penny,Abbey Street Lower,,,,bar,,,,various,,,https://www.jdwetherspoon.com/pubs/all-pubs/republic-of-ireland/county-dublin/the-silver-penny-dublin,+353 1 874 6884,,,,,08:00-23:30,yes,,,,0
+Dublin,way/657988244,POINT (-6.200989 53.389224),Cock & Bull,Main Street,,D05 AE73,Coolock,pub,,,,,,,https://thecockandbull.ie/,+353 1 867 1919,,https://www.facebook.com/thecockandbullcoolock/,,,,,,,,0
+Dublin,way/660054530,POINT (-6.283039 53.361238),Downey’s,Cabra Road,89,D07 A025,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/660641613,POINT (-6.164861 53.381237),The Cedar Lounge,Saint Assam's Park,76,D05 RX45,Raheny,pub,,,,hope,,,,,,,,,,limited,,,,0
+Dublin,node/660698794,POINT (-6.23603 53.322109),O'Briens,Donnybrook Road,,,Dublin,,,,,,,,https://www.obrienswine.ie/,,,,,,,yes,,,,0
+Dublin,way/661632319,POINT (-6.226848 53.367688),The 1884,Malahide Road,74,D03 XW54,,pub,,,,,,,,+353 1 224 8534,,,,,Su 09:00-23:00; We-Th 09:00-23:30; Fr-Sa 09:00-00:30; Tu 12:00-23:30; Mo 12:00-23:30,,,,,0
+Dublin,way/662919753,POINT (-6.273013 53.361026),The Bohemian,Phibsborough Road,66,D07 P592,Dublin,pub,,,,yes;various,,,,,,,,,,,,,,0
+Dublin,way/665875663,POINT (-6.274481 53.34129),Jackie’s,Francis Street,40,D08 W208,Dublin,pub,,,,,,,https://www.jackies.ie,+353 1 498 8868,hello@jackies.ie,,,"90's inspired boozer, with Vintage Arcade Games",Mo-Th 14:00-23:30; Fr-Su 12:00-24:00,,,,,0
+Dublin,way/665875674,POINT (-6.274716 53.341581),The Liberty Belle,Francis Street,33,D08 A9T3,Dublin,pub,,,,,,,,,,,,,,yes,,,,0
+Dublin,way/668344583,POINT (-6.26633 53.34437),Brogan's,Dame Street,75,D02 DX00,Dublin,pub,,,,,,,,,info@brogansbar.ie,BrogansBarDublin,,,,,,,,0
+Dublin,way/669319433,POINT (-6.264937 53.334062),Cassidy’s,Camden Street Lower,42,D02 YP57,Dublin,pub,,,,,,,https://www.cassidyshotel.com/,,,,,,,yes,no,,,0
+Dublin,node/677596888,POINT (-6.258402 53.346905),River Bar,Burgh Quay,,D02 X984,Dublin,bar,,,,,,,https://riverbar.ie/,,,,https://www.instagram.com/riverbardublin/,,,limited,yes,,,0
+Dublin,way/679432837,POINT (-6.252206 53.372337),Patrick Carthy & Sons,Drumcondra Road Upper,114,D09 CX74,Dublin,pub,,,,,,,,,,,,,"Mo-We 12:00-23:30, Th-Sa 12:00-02:30, Su 12:30-23:00, PH 12:30+",,,,,0
+Dublin,way/681374550,POINT (-6.255951 53.367109),Kennedy’s,Drumcondra Road Lower,132-134,D09 A4P8,Dublin,pub,,,,,,,,,,,,,,,,outside,,0
+Dublin,way/681866900,POINT (-6.27166 53.363962),The Bald Eagle,Phibsborough Road,114-115,D07 VX23,Dublin,pub,,,,,,,http://thebaldeagle.ie/,+353 1 860 3227,hello@thebaldeagle.ie,https://www.facebook.com/thebaldeagleD7,@thebaldeagled7,,"Su-We 12:00-24:00, Th 12:00-00:30, Fr,Sa 12:00-01:30",,,,,0
+Dublin,way/681866902,POINT (-6.27296 53.358519),The Back Page,Phibsborough Road,199,D07 A0X2,Dublin,pub,,,,,,,https://the-back-page.com/,+353 1 535 5941,info@the-back-page.com,,,,"Mo-Fr 12:00-01:00; Sa,Su 10:00-00:00; PH off",,,isolated,,0
+Dublin,way/682430066,POINT (-6.272406 53.360928),Doyle’s Corner,Phibsborough Road,160,D07 R26N,Dublin,pub,,,,,,,,+353 1 6991999,events@doylescorner.ie,https://www.facebook.com/DoylesCornerPhibs/,,,,,,,,0
+Dublin,way/683240615,POINT (-6.269094 53.349761),The Black Sheep,Capel Street,61-63,D01 N6E8,Dublin,pub,,,,galway_bay,,,https://galwaybaybrewery.com/blacksheep,+35318730013,blacksheep@galwaybaybrewery.com,https://www.facebook.com/theblacksheepdublin,@theblacksheepdub,,,yes,yes,,,2
+Dublin,way/696901395,POINT (-6.258441 53.35034),The Confession Box,Marlborough Street,88,D01 X267,Dublin,pub,,,,,,,https://c11407968.wixsite.com/ryan,,,,,,,,,,,0
+Dublin,way/696901397,POINT (-6.259347 53.350082),Madigan’s,North Earl Street,25,D01 KX67,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/696901399,POINT (-6.259651 53.350044),Dunnes Stores,North Earl Street,28,,Dublin,,,,,,,,https://www.dunnesstores.com/,,customerservice@dunnesstores.com,,,,,,,,,0
+Dublin,way/696901408,POINT (-6.259788 53.350386),Brannigan’s,Cathedral Street,9,D01 FH29,Dublin,pub,,,,,,,https://brannigansbar.ie/,,,,,,,,,,,0
+Dublin,way/696901432,POINT (-6.258165 53.349581),Briody’s,Marlborough Street,97,D01 PP92,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/697131606,POINT (-6.258886 53.348667),Mooney’s,Abbey Street Lower,4,D01 V0Y3,Dublin,pub,,,,,,,https://www.mooneysbar.ie/,,bookings@mooneysbar.ie,Mooneysabbeystreet,mooneysabbeystreet,,"Su,Mo-We 12:00-22:00; Th-Sa 12:00-23:30",,,,,0
+Dublin,way/697162488,POINT (-6.272265 53.346964),M Hughes,Chancery Street,19-20,,Dublin,,,,,,,,,,,,,,,,,,,0
+Dublin,node/698087515,POINT (-6.273424 53.358826),"Phibsborough House, Clarke's",Phibsborough Road,36,D07 VY01,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/725068375,POINT (-6.243072 53.349618),Token,Mayor Street Lower,,D01DE47,Dublin,bar,,,,,,,https://www.tokendublin.ie/,,,,,Bar with arcade-type games.,,yes,,,,0
+Dublin,node/738241020,POINT (-6.27947 53.331557),Next Door Off Licence,South Circular Road,184,,,,,,,,,,,,,,,,,,,,,0
+Dublin,node/739756772,POINT (-6.265476 53.336028),The Camden,Camden Street Lower,84-87,D02 DH36,Dublin,bar,,,,,,,,,,,,,,no,,,,0
+Dublin,node/739778204,POINT (-6.263564 53.335843),Krystle,Harcourt Street,21-25,D02 YF24,Dublin,pub,,,,,,,https://www.krystlenightclub.com/,,info@krystlenightclub.com,http://www.facebook.com/krystlenightclub,https://instagram.com/KrystleDublin,,Fr-Sa 23:00+,no,,,,0
+Dublin,way/741013943,POINT (-6.259032 53.36265),McGrath’s,Drumcondra Road Lower,22,D09 X5P6,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/759295279,POINT (-6.248024 53.349283),ely bar & brasserie,Custom House Quay,,,Dublin,bar,,,,,,,https://www.elywinebar.ie/,,,,,,,yes,,outside,,0
+Dublin,node/768231200,POINT (-6.264119 53.341096),Bartley’s Bar,Stephen Street Lower,31-32,D02 WV05,Dublin,bar,,,,,,,https://www.the-grafton-hotel.com/bartleys.html,+353 1 478 1190,,,,,Mo-We off; Th 17:00-11:30; Fr 17:00-01:00; Sa 12:00-01:00; Su off,,,outside,,0
+Dublin,node/768231201,POINT (-6.263866 53.34312),The Exchequer,Exchequer Street,5,D02 E044,Dublin,pub,,,,,,,,,,https://www.facebook.com/theexchequerdublin2/,,,,no,,no,,0
+Dublin,node/768231204,POINT (-6.261702 53.34009),Sinnott’s,King Street South,,D02 FN73,Dublin,pub,,,,,,,https://www.sinnotts.ie/,+353 1 478 4698,info@sinnotts.ie,https://www.facebook.com/Sinnotts/,,,,no,,,,0
+Dublin,node/768231205,POINT (-6.264291 53.341201),Caribou,Stephen Street Lower,28-30,D02 XY61,Dublin,pub,,,,,,,,,,,,,,limited,,,,0
+Dublin,node/768231918,POINT (-6.290563 53.343497),DV8 Bar & Venue,James Street,131,D08 HH96,Dublin,pub,,,,,,,,,,https://www.facebook.com/DV8BarD8,,,,,,,,0
+Dublin,node/768520263,POINT (-6.274695 53.350354),Bonobo,Church Street Upper,119-121,D07 E128,Dublin,pub,,,,,,,https://www.bonobodublin.com,,,,@bonobo_smithfield,,,yes,,,,0
+Dublin,node/775415430,POINT (-6.26293 53.334406),D-Two,Harcourt Street,,,Dublin,pub,,,,,,,,,,,,,,no,,,,0
+Dublin,node/778690166,POINT (-6.264772 53.333114),C Central,Camden Street Upper,34,D02 W086,Dublin,bar,,,,,,,https://www.camdencourthotel.com/,,,,,,,,,,,0
+Dublin,node/778699196,POINT (-6.264169 53.330645),J. O'Connell,Richmond Street South,29,D02 WV30,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/795671595,POINT (-6.328877 53.337794),Slatt’s,Tyrconnell Park,126A,D08 E296,Inchicore,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/811533577,POINT (-6.162501 53.395132),,Grange Road,,,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/830659393,POINT (-6.292447 53.346746),The Galway Hooker,Saint John's Road West,,D08E2CV,Dublin,pub,,,,,,,,+35316703463,,https://www.facebook.com/TheGalwayHooker,,,,limited,,,,0
+Dublin,way/870583665,POINT (-6.293462 53.348207),W. Ryan,Parkgate Street,28,D08 CH93,Dublin,pub,,,,,,,,,,,,,,limited,,,,0
+Dublin,way/870583668,POINT (-6.294028 53.348258),Nancy Hands,Parkgate Street,30-32,D08 W6X3,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/875254368,POINT (-6.276955 53.343094),The Thomas House,Thomas Street,86-87,D08 DDF1,Dublin,pub,,,,,,,,+353852039047,,https://www.facebook.com/thomashousedublin,,,,,,,,0
+Dublin,node/882292497,POINT (-6.292768 53.332225),The Barn House,,,,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/890854720,POINT (-6.249544 53.352336),J. & M. Cleary,Amiens Street,36,D01 H6Y6,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/893376289,POINT (-6.25416 53.325174),TapHouse,Ranelagh Village,60,D06 C9C6,Ranelagh,pub,,,,,,,https://www.taphouse.ie/,,,,@taphousedublin,,,limited,,,,0
+Dublin,node/907142997,POINT (-6.262304 53.342172),Pygmalion,William Street South,59,D02 YX77,Dublin,bar,,,,,,,https://pyg.ie/,,,https://www.facebook.com/PygmalionDublin/,https://www.instagram.com/pygmaliondublin/,,,limited,,,,0
+Dublin,node/911170200,POINT (-6.265903 53.337441),The Landmark,Wexford Street,40,D02 CH68,Dublin,pub,,,,,,,,,,,,,,yes,,,,0
+Dublin,way/912010121,POINT (-6.246134 53.388565),Carry Out,Swords Road,,,Dublin,,,,,,,,,,,,,,,limited,,,,0
+Dublin,way/916905416,POINT (-6.245902 53.380989),The Viscount,Swords Road,89,D09 E1T1,Dublin,pub,,,,,,,,,,,,,,,,no,,0
+Dublin,way/921876024,POINT (-6.239927 53.375784),Goose Tavern,Sion Hill Road,18-20,D09 H6D0,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/921876026,POINT (-6.239588 53.375716),The Goose Off-Licence,Sion Hill Road,24,,,,,,,,,,,,,,,,,,,,,0
+Dublin,way/928261032,POINT (-6.230821 53.344606),Brewdog Outpost,Capital Dock,,D02 K021,Dublin,pub,,,,,,,https://www.brewdog.com/uk/bars/global/outpostdublin,+35319203350,outpostdublin@brewdog.com,https://www.facebook.com/brewdogoutpostdublin,@BrewDogopdublin,,Mo-Su 11:30-23:30,,,,,0
+Dublin,way/931201803,POINT (-6.264753 53.319038),Murphy’s Lounge,Rathmines Road Upper,93-95,D06 H3E9,Dublin,pub,,,,,,,,,,,,,,yes,no,,,0
+Dublin,way/931386087,POINT (-6.265662 53.336125),Jimmy Rabbitte’s,Camden Street Lower,87,D02 DH36,Dublin,bar,,,,,,,https://www.thecamden.ie,+353 1 536 7300,info@thecamden.ie,,,,"Mo-We 12:00-24:00, Th-Sa 12:00-03:00, Su 12:00-24:00",yes,no,outside,,0
+Dublin,way/931712235,POINT (-6.299996 53.31476),Four Provinces Brewing Company,Ravensdale Park,25,D12 X965,Kimmage,,,,,,,yes,https://www.fourprovinces.ie/grudlann,+35315524179,info@fourprovinces.ie,fourprovincesbrew,fourprovincesbrewco,,,,,,,0
+Dublin,node/932249376,POINT (-6.265144 53.324285),The Dunmore,Rathmines Road Lower,196,D06 AY77,Dublin,pub,,,,various,,,https://www.thebowery.ie/,+353 85 726 7078,Bookings@thebowery.ie,https://www.facebook.com/thebowerydublin/,https://www.instagram.com/bowerydublin/,,"Mo-Th 17:00-24:00, Fr 15:00+, Sa-Su 12:30+",,,outside,,0
+Dublin,way/934923912,POINT (-6.252979 53.350268),Ryan’s,Store Street,19,D01 NY02,Dublin,pub,,,,,,,,,,,,,,no,,,,0
+Dublin,way/934991746,POINT (-6.254328 53.358512),Gill's Corner House,North Circular Road,555,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/935099879,POINT (-6.326496 53.324048),Black Forge Inn,Drimnagh Road,163,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/935099918,POINT (-6.325484 53.324149),Eleanora's,Drimnagh Road,149,D12 F6NY,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/935134063,POINT (-6.274533 53.312103),The Rathgar 108,Rathgar Road,108,D06 F6H9,Dublin,pub,,,,galway_bay,,,,+35314906044,,,,,"Mo-Th 15:00-23:30, Fr 15:00-00:30, Sa 12:00-00:30, Su 12:30-23:00",yes,,outside,,0
+Dublin,way/935738059,POINT (-6.3291 53.324209),The Castle Inn,Long Mile Road,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/938213574,POINT (-6.256339 53.398758),Darlings,,,,,,,,,,,,,,,,,,,,,,,0
+Dublin,way/942944691,POINT (-6.314666 53.340259),Tavey’s,Emmet Road,118,,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/943337716,POINT (-6.282229 53.314512),Green Man Wines,Terenure Road North,3,,Dublin,,,,,,,,https://greenmanwines.ie/,+353 1 559 4234,,,,,,,,,,0
+Dublin,node/943350476,POINT (-6.275613 53.330422),Board,Clanbrassil Street Upper,29,,Dublin,bar,,,,,,,,,,,,Alcohol-Free bar with board games,,,,,,0
+Dublin,node/943350478,POINT (-6.275203 53.330021),The Harold House,Clanbrassil Street Upper,34-35,,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/953840673,POINT (-6.250359 53.323337),,,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/963190830,POINT (-6.311314 53.395168),The Abbey Tavern,Barry Road,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/965395112,POINT (-6.287947 53.390696),Cheers Take Home,Grove Road,,,,,,,,,,,,,,,,,,,,,,0
+Dublin,way/965411032,POINT (-6.285556 53.393499),The Willows,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Dublin,way/965411035,POINT (-6.285937 53.393432),The Willows,,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/967072208,POINT (-6.240335 53.359662),Annesley House,North Strand Road,70,D03 K8P4,Dublin,pub,,,,,,,,+35318555121,theannesley@gmail.com,https://www.facebook.com/TheAnnesley,,,,,,,,0
+Dublin,way/967985039,POINT (-6.244855 53.359454),The Ref Pub,Ballybough Road,70,D03 F9P7,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/968532221,POINT (-6.242285 53.362819),Meagher's,Richmond Road,283-285,,Dublin,pub,,,,,,,,,,,,,,limited,,,,0
+Dublin,way/969321280,POINT (-6.242366 53.35745),Cusack’s,North Strand Road,145,D03 P043,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/971216022,POINT (-6.272619 53.363267),Fagan's,Phibsborough Road,99,,,,,,,,,,,,,,,,,,,,,0
+Dublin,way/971275798,POINT (-6.292845 53.367028),Buddies Off-Licence,Fassaugh Avenue,24,,Dublin,,,,,,,,,,,,,,,,,,,0
+Dublin,way/972279382,POINT (-6.301329 53.387579),The Village Store,Church Street,,,Dublin,,,,,,,,,,,,,,,,,,,0
+Dublin,way/972279383,POINT (-6.301242 53.3875),The Village Inn,Church Terrace,,,Dublin,pub,,,,,,,https://thevillageinnfinglas.ie/,+353 1 834 1180,info@thevillageinn.ie,,,,,,,,,0
+Dublin,way/973141966,POINT (-6.293306 53.36708),E. McGrath’s,Fassaugh Avenue,30,D07 PX98,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/974841015,POINT (-6.223164 53.376588),Kitty Kiernans Off Licence,Collins Avenue,61,,,,,,,,,,,,,,,,,,,,,0
+Dublin,way/974841016,POINT (-6.223337 53.376649),Kitty Kiernans,Collins Avenue,63,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/976106753,POINT (-6.248215 53.3575),Lowry’s,Summerhill Parade,16,D01Y751,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/976128650,POINT (-6.249396 53.357006),Summerhill Off-Licence,Summerhill Parade,1,,Dublin,,,,,,,,,,,,,,,,,,,0
+Dublin,node/976139864,POINT (-6.280377 53.34603),Off Licence,,,,Dublin,,,,,,,,,,,,,,,,,,,0
+Dublin,way/977365000,POINT (-6.290372 53.362584),The Homestead - Fitzgerald's,Quarry Road,50,D07 WD37,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/988809177,POINT (-6.313113 53.319592),Frehill's Tavern,Saint Agnes' Park,62a-64,,,pub,,,,,,,,,,,,,,,,no,,0
+Dublin,way/989064782,POINT (-6.323692 53.370716),Breffni Inn,Ashtown Grove,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/993326913,POINT (-6.270142 53.350909),Bar Anam,North King Street,199,D07 PR5X,Dublin,pub,,,,,draught,,,+35315344584,,,@baranamdublin,,,yes,,,,0
+Dublin,way/1008215352,POINT (-6.278449 53.341574),Lucky’s,Meath Street,78,D08 A318,Dublin,pub,,,,,,,,,,,,,Mo-Th 16:00-11:30,limited,,,18,0
+Dublin,way/1012900428,POINT (-6.223209 53.339951),The Irishtown House,Irishtown Road,60,D04 Y9P3,Dublin,pub,,,,,,,,,,https://www.facebook.com/theirishtownhouse/,,,,,,,,0
+Dublin,way/1022471493,POINT (-6.299542 53.389477),Riordan's,,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/1022471505,POINT (-6.299201 53.389532),The Full Shilling,,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/1022471506,POINT (-6.298854 53.38931),The Drake Inn,,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/1026167146,POINT (-6.286853 53.354254),Hynes',Prussia Street,79-80,D07 E1RD,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/1030106427,POINT (-6.265636 53.321812),Kodiak,Rathmines Road Lower,304,D06 W3Y1,Dublin,pub,,,,,,,,,,,@kodiak_rathmines,,,,,outside,,0
+Dublin,way/1031727094,POINT (-6.248802 53.35304),Burke's Bar (Closed),Amiens Street,,,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/1074353199,POINT (-6.259501 53.361088),Juno,Dorset Street Lower,57-58,D01 V0Y8,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/1075891893,POINT (-6.274 53.35663),McGowan’s,Phibsborough Road,18,D07 A562,Dublin,pub,,,,various,,,https://www.mcgowans.ie/,+353 1 830 6606,info@mcgowans.ie,,,,,,,outside,,0
+Dublin,way/1078043031,POINT (-6.25587 53.358421),The Hogan Stand,North Circular Road,514,,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/1080799552,POINT (-6.27921 53.342993),Love Tempo,Thomas Street,110,D08C2W7,Dublin,bar,,,,,,,https://www.lovetempo.ie/,,,,,,,,,,,0
+Dublin,node/1082061533,POINT (-6.264885 53.34566),,Wellington Quay,23-24,,Dublin,bar,,,,,,,,,,,,,,,,,,0
+Dublin,way/1084218455,POINT (-6.277876 53.349898),The Cobblestone,North King Street,77,D07 TP22,Dublin,pub,,,,,,,https://www.cobblestonepub.ie/,+35318721799,info@cobblestonepub.ie,https://www.facebook.com/thecobblestone,@cobblestonepubdublin,,Mo-Th 16:00-23:30; Fr-Sa 14:00-00:30; Su 13:00-23:00,yes,,no,,2
+Dublin,way/1084223124,POINT (-6.257214 53.355016),Hill 16,Gardiner Street Middle,30,D01 PK61,Dublin,pub,,,,,,,,,,https://www.facebook.com/Hill-16-Pub-102711119773287,,,,,,,,0
+Dublin,way/1084437112,POINT (-6.257015 53.359696),The Hideout,,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,way/1086239548,POINT (-6.24896 53.344206),The Lombard,Lombard Street East,1,,Dublin,bar,,,,,,,https://thelombard.ie/bar,,,,,,Mo-Th 09:00-23:30; Fr-Sa 09:30-01:30; Su 10:00-23:00,limited,yes,no,,0
+Dublin,node/1146292428,POINT (-6.265301 53.341293),The Capitol Lounge,Aungier Street,1-2,D02 HF72,Dublin,bar,,,,,,,https://www.capitol.ie/,+353 1 4757166,,,,,,,,,,0
+Dublin,node/1146292447,POINT (-6.265576 53.340259),Egans,Aungier Street,17-18,D02 XF38,Dublin,bar,,,,,,,https://www.egans.bar/,,,,,,,,,no,,0
+Dublin,way/1218481438,POINT (-6.25756 53.345782),Doyle’s,College Street,8,D02 PX75,Dublin,pub,,,,various;guinness,,,https://www.doylesintown.com/,+353 1 671 0616,bookings@www.doylesintown.com,,,,"Mo 12:00-24:00, Tu-We 12:00-02:00, Th-Sa 12:00-02:30, Su 15:00-24:00",limited,,,,0
+Dublin,node/1223267149,POINT (-6.238878 53.343386),Cafe Bar H,Grand Canal Square,1,,Dublin,bar,,,,,,,,+353 1 899 2216,info@cafeh.ie,,,,Mo-Sa 12:00-01:00; Su 17:00-01:00,yes,,,,0
+Dublin,node/1260538148,POINT (-6.291006 53.342939),The Malt,James Street,27,D08 EP89,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/1300613610,POINT (-6.263915 53.343821),Dame Tavern,Dame Court,18,D02 P897,Dublin,pub,,,,,,,,,,https://www.facebook.com/guinnessheaven/,https://www.instagram.com/dametavern/,,,no,no,,,0
+Dublin,node/1326700611,POINT (-6.283688 53.347095),The Mission,Ellis Street,32,,Dublin,pub,,,,,,,,+353 1 555 8820,,https://www.facebook.com/TheMissionDublin/,missionbardublin,,Th-Su 16:00-00:00,,,,,0
+Dublin,node/1326745943,POINT (-6.263468 53.337404),Magic Glasses,Cuffe Street,,,Dublin,bar,,,,,,,,,,,,,,,,,,0
+Dublin,node/1326745948,POINT (-6.268159 53.340834),The Dyflin Bar,Golden Lane,,,Dublin,bar,,,,,,,,+353 1 8982900,,,,,"Mo-Th 09:30-23:30, Fr-Sa 09:30-00:30, Su 11:00-23:00",yes,,,,0
+Dublin,node/1332272327,POINT (-6.290046 53.348047),The Millennium,Parkgate Street,4-5,D08K259,Dublin,pub,,,,,,,,,,,,,,,,outside,,0
+Dublin,node/1348370992,POINT (-6.261098 53.352516),Murray’s,O'Connell Street Upper,33-34,D01 E0W2,Dublin,pub,,,,,,,https://www.murraysbar.ie/,,,,,,,limited,,outside,,0
+Dublin,node/1348371058,POINT (-6.258789 53.346576),Pillar Bar,Westmoreland Street,23-25,D02 XP95,Dublin,bar,,,,carlsberg;guinness;heineken,,,,,,https://www.facebook.com/Pillarbardublin/,https://www.instagram.com/pillarbardublin,,,yes,,,,0
+Dublin,node/1349656251,POINT (-6.263712 53.357352),The Temple,Dorset Street Upper,71,D01 FK52,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/1361340484,POINT (-6.265003 53.335434),Porters,Camden Street Lower,16,D02 EA38,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/1373919801,POINT (-6.281082 53.343302),Swift,Thomas Street,131,D08 P8H3,Dublin,pub,,,,,,,,,,,@themagnetdublin,,,,,,,0
+Dublin,node/1373977813,POINT (-6.27815 53.340664),Lynott’s,Meath Street,61-63,D08 P4V2,Dublin,pub,,,,trouble_brewing,,,,,,,lynotts_d8,,,,,,,0
+Dublin,node/1373979474,POINT (-6.278088 53.339743),The Lamplighter,The Coombe,,,Dublin,pub,,,,,,,,,,,,,,no,,,,0
+Dublin,node/1374467378,POINT (-6.275259 53.341782),Molloy's Off Licence,,,,,,,,,,,,,,,,,,Mo-Sa 10:30-22:00; Su 12:30-22:00,yes,,,,0
+Dublin,node/1403120910,POINT (-6.277213 53.34274),Tom Kennedy’s,Thomas Street,65,D08 V0R1,Dublin,pub,,,,,,,,,,,,,,yes,,,,0
+Dublin,node/1404763943,POINT (-6.278673 53.341684),The Lark Inn,Meath Street,80-81,D08 A2C7,Dublin,pub,,,,,,,,,,,,,,limited,,,,0
+Dublin,node/1404772647,POINT (-6.280721 53.340064),The Pimlico Tavern,Pimlico,62,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/1416582578,POINT (-6.316822 53.340249),McDowell’s,Emmet Road,139,D08 V882,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/1423546555,POINT (-6.268964 53.3738),Tolka House,Glasnevin Hill,,D09 VH02,Glasnevin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/1423559526,POINT (-6.263679 53.344328),Trinity Bar & Venue,Dame Street,46-49,D02 X466,Dublin,pub,,,,,,,https://trinitybarvenue.ie/,,,https://www.facebook.com/TrinityBarVenue/,https://www.instagram.com/trinitybar_venue/,,,,,,,0
+Dublin,node/1423559556,POINT (-6.26599 53.345033),Bad Bob's,Essex Street East,35-37,D02 Y891,Dublin,pub,,,,,,,https://www.badbobs.ie/,+35316778860,bookings@badbobs.ie,,,,"Mo-Su,PH 00:00-02:00,10:00-24:00",yes,,,,0
+Dublin,node/1426048610,POINT (-6.264096 53.33035),The Portobello Bar,Richmond Street South,33,D02 CF40,Dublin,pub,,,,,,,https://theportobellobar.com/,+353 1 475 2715,,,the_portobello_bar,,Mo-Sa 11:00-02:30; Su 12:00-02:00,,,outside,,0
+Dublin,node/1426051344,POINT (-6.25838 53.326662),The Hill,Old Mountpleasant,1,D06 YT25,Ranelagh,pub,,,,,,,https://www.thehillpub.ie/,,thehill@murraypubgroup.com,https://www.facebook.com/TheHillRanelagh,@thehillranelagh,,,,,,,0
+Dublin,node/1426100403,POINT (-6.288371 53.336481),Next Door Off Licence,,,,,,,,,,,,,,,,,,,,,,,0
+Dublin,node/1426100409,POINT (-6.287695 53.336845),Morrissey's,,,,,pub,,,,,,,,,,,,,,yes,,,,0
+Dublin,node/1431043154,POINT (-6.265117 53.345471),Fitzsimon's,Wellington Quay,21-22,D02 YK79,Dublin,bar,,,,,,,https://www.fitzsimonsbar.ie/,,,https://www.facebook.com/Fitzsimonsbar/,https://www.instagram.com/fitzsimonsbar/,,,no,,,,0
+Dublin,node/1432780730,POINT (-6.183413 53.388262),Edenmore House,Edenmore Avenue,,,Raheny,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/1432780731,POINT (-6.180986 53.388899),The Concorde,Edenmore Avenue,,D05 A2A8,Raheny,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/1473508564,POINT (-6.278088 53.340571),Next Door,,,,,,,,,,,,,,,,,,,,,,,0
+Dublin,node/1484713985,POINT (-6.276725 53.382084),Quarry House,Ballygall Road East,68,D11 TY32,Dublin,pub,,,,,,,,,,,,,Mo-Th 11:00-23:00; Fr-Sa 11:00-00:30; Su 12:00-23:00,,,,,0
+Dublin,node/1484733482,POINT (-6.271221 53.389704),Autobahn Roadhouse,Glasnevin Avenue,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/1496722632,POINT (-6.265609 53.385324),The Slipper,Ballymun Road,125,D09 V275,Dublin,pub,,,,,,,,,,,,,"Mo-Sa 11:30-23:30, Su 12:30-23:00",,,isolated,,0
+Dublin,node/1496775243,POINT (-6.258922 53.38507),Nubar,,,,,pub,,,,,,,,,,,,,Mo-Fr 08:00-24:00,,,,,0
+Dublin,node/1496777115,POINT (-6.246031 53.388452),The Comet,Swords Road,243,D09 YW35,Dublin,pub,,,,,,,,,,,,,,limited,,,,0
+Dublin,node/1509385145,POINT (-6.241707 53.362573),The Strand,,,,,,,,,,,,,,,,,,,,,,,0
+Dublin,node/1509769787,POINT (-6.228708 53.362979),Barcode,,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/1521409481,POINT (-6.286878 53.340486),Brewery Bar,,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/1521570233,POINT (-6.226927 53.357281),EpiCenter,EastPoint Business Park,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/1521601306,POINT (-6.18968 53.359487),Pebble Beach,Conquer Hill Road,18,D03 DC97,Clontarf,pub,,,,,,,https://pebblebeachclontarf.ie/,+35318332762,pebblebeachclontarf@gmail.com,https://www.facebook.com/PebbleBeachClontarf/,@graingerspebblebeach,,,,,,,0
+Dublin,node/1521660943,POINT (-6.200861 53.388856),Kyle’s,Main Street,,D05 TN25,Coolock,pub,,,,,,,,+353 1 848 1972,,,,,,,,,,0
+Dublin,node/1529996763,POINT (-6.211595 53.386653),Ardlea Inn,Ardlea Road,,,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/1529996838,POINT (-6.206845 53.383917),The Roundabout,Ardcollum Avenue,2,D05 XW88,Artane,pub,,,,,,,,,,,theroundabout.pub,,,,,,,0
+Dublin,node/1530024649,POINT (-6.210093 53.380313),The Goblet,Malahide Road,,D05 HE20,Artane,pub,,,,,,,,,,,,,,yes,,,,0
+Dublin,node/1593209605,POINT (-6.272836 53.336354),Kavanagh’s,New Street South,35,D08 V972,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/1615384981,POINT (-6.311176 53.395102),An Cappagh Nua,Barry Road,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/1672788161,POINT (-6.240027 53.366575),Sweeney's D3,,,,,,,,,,,,,,,,,,,yes,,,,0
+Dublin,node/1676070460,POINT (-6.299287 53.361202),O'Briens,Navan Road,,,Dublin,,,,,,,,,,,,,,,limited,,,,0
+Dublin,node/1711807593,POINT (-6.228557 53.348754),Hemidemisemiquaver Bar,,,,Dublin,bar,,,,,,,,,,,,,,yes,,,,0
+Dublin,node/1712118211,POINT (-6.25427 53.350862),O’Shea’s,Talbot Street,19,D01 W303,Dublin,pub,,,,,,,https://osheasoftalbotstreet.com,+353 1 836 5670,osheashotel@eircom.net,https://www.facebook.com/OSheasoftalbotstreet,,,,,,isolated,,0
+Dublin,node/1858306079,POINT (-6.321378 53.325692),Better Value,Errigal Road,14,,,,,,,,,,,,,,,,,no,,,,0
+Dublin,node/2004412428,POINT (-6.328425 53.323818),The Halfway House,,,,,pub,,,,,,,,,,,,,,yes,,,,0
+Dublin,node/2004488756,POINT (-6.31204 53.335911),Marble Arch,Davitt Road,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/2004491253,POINT (-6.31626 53.320689),The Hub (The Shaw Arms),Saint Agnes Road,,,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/2004657419,POINT (-6.272154 53.345836),The Legal Eagle,Chancery Place,1-2,D07 HP40,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/2065157408,POINT (-6.229929 53.3498),The Green Room,Upper Sheriff Street,117-126,,,pub,,,,,,,https://www.thegreenroombar.ie/,,,,,,,limited,,,,0
+Dublin,node/2065167226,POINT (-6.229189 53.354888),Seabank House,,,,,pub,,,,,,,,,,,,,,,,,,3
+Dublin,node/2065197334,POINT (-6.292173 53.320644),The Stone Boat,Sundrive Road,35-37,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/2065207024,POINT (-6.296438 53.314197),K.C.R. House,Kimmage Road Lower,326,,Dublin,pub,,,,,,,,+35314902530,,,,,,,,,,0
+Dublin,node/2066250086,POINT (-6.306002 53.327394),The Old County,Old County Road,125,D12 WF21,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/2068246787,POINT (-6.244782 53.340843),The Square Ball,Hogan Place,45,,,pub,,,,,,,https://the-square-ball.com/,+353 1 662 4473,info@the-square-ball.com,,,,,limited,,,,0
+Dublin,node/2071381884,POINT (-6.246018 53.355003),The Strand House,North Strand Road,172,D01 HN36,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/2071381885,POINT (-6.249301 53.352579),Mullet’s,Amiens Street,45,D01 WV02,Dublin,pub,,,,,,,,,,,,,,yes,,,,0
+Dublin,node/2080832424,POINT (-6.155508 53.385975),Blackbanks Bar & Grill,Greendale Road,,D05 TW94,Kilbarrack,pub,,,,,,,https://blackbanks.ie/,,,https://www.facebook.com/blackbanksbarandgrill,blackbanksbarandgrill,,,,,,,0
+Dublin,node/2127757454,POINT (-6.252609 53.338756),Cellar Bar,,,,Dublin,bar,,,,,,,https://www.merrionhotel.com/dine/the-cellar-bar/,,,,,,,,,,,0
+Dublin,node/2131267850,POINT (-6.272006 53.354342),Cumiskey’s,Dominick Street Upper,41,D07 X923,Dublin,pub,,,,Guinness;Beamish,,,,,,,,,Mo-Sa 12:00-23:30; Su 12:30-23:00,yes,,,,0
+Dublin,node/2131267852,POINT (-6.267843 53.356157),The Berkeley,,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/2175861132,POINT (-6.266369 53.345402),Bison Bar,Wellington Quay,11,D02 XY28,Dublin,bar,,,,,,,https://bisonbar.ie,,,https://www.facebook.com/BisonDublin,https://www.instagram.com/bisondublin/,,,yes,yes,,,0
+Dublin,node/2349855098,POINT (-6.26997 53.343956),Darkey Kelly’s,Fishamble Street,,D08 PD8W,Dublin,pub,,,,,,,https://darkeykellys.ie,,darkeykellys@gmail.com,,,,,yes,yes,,,0
+Dublin,node/2365544967,POINT (-6.278524 53.348862),Oscars,Smithfield Market,"Unit 6, Block A",D07 WR63,Dublin,bar,,,,,,,,,,,,,,yes,,,,0
+Dublin,node/2372306728,POINT (-6.265965 53.355516),Glynn’s,Dorset Street Upper,100,D01 V6X5,Dublin,pub,,,,carlberg;various,,,,,,,,,,,,no,,0
+Dublin,node/2372309923,POINT (-6.265802 53.35563),Delahunty's,Dorset Street Lower,99,D01 F5Y8,Dublin,pub,,,,smithwick's;various,,,,,,,,,,,,no,,0
+Dublin,node/2372312459,POINT (-6.264586 53.356975),The Findlater,Dorset Street Upper,80,D01 FK52,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/2386542318,POINT (-6.265415 53.344273),Peadar Kearney's,Dame Street,64,D02 RT72,Dublin,pub,,,,,,,http://www.peadarkearneys.ie/,,,https://www.facebook.com/PeadarKearneys/,,,,,,,,0
+Dublin,node/2419698552,POINT (-6.260483 53.345838),Busker's Bar,Fleet Street,13-17,D02 WD51,Dublin,pub,,,,,,,https://www.buskersbar.com/,,,,https://www.instagram.com/buskers_bar/,,,yes,yes,outside,,0
+Dublin,node/2419699840,POINT (-6.262058 53.345717),,Temple Bar,,,Dublin,bar,,,,,,,,,,,,,,,,,,0
+Dublin,node/2573726983,POINT (-6.264164 53.357402),Eccles Townhouse,Dorset Street Upper,,,Dublin,bar,,,,,,,,,,,,,,,,,,0
+Dublin,node/2576258185,POINT (-6.261391 53.340766),The Corkscrew,Chatham Street,4,,Dublin,,,,,,,,https://www.thecorkscrew.ie,1850 211 879; +353 1 674 5731,sales@thecorkscrew.ie,,https://www.instagram.com/thecorkscrewwinemerchants/,,Mo-We 10:30-19:00; Th 10:30-20:00; Fr-Sa 10:30-19:00; Su 12:30-18:00,yes,,,,0
+Dublin,node/2612014312,POINT (-6.356777 53.341628),,,,,,,,,,,,,,,,,,,,,,,,0
+Dublin,node/2612014313,POINT (-6.356864 53.341649),Tim Young's,,,,,bar,,,,,,,,,,,,,,,,,,0
+Dublin,node/2681367476,POINT (-6.254831 53.342126),The Blarney Inn,,,,,pub,,,,,,,,,,https://www.facebook.com/310437025786688/,,,,no,,,,0
+Dublin,node/2689455361,POINT (-6.338032 53.343047),The Laurence Lounge,,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/2697063080,POINT (-6.357149 53.342336),Downey's,,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/2859655009,POINT (-6.260743 53.343834),O’Neill’s,Suffolk Street,2,D02 KX03,Dublin,pub,,,,,,,http://www.oneillspubdublin.com/,,,,,,,no,,isolated,,0
+Dublin,node/2860454401,POINT (-6.251334 53.35114),Molloy’s,Talbot Street,59,D01 K298,Dublin,pub,,,,,,,https://www.molloysdublin.com/,+353 1 547 8873,info@molloysdublin.com,http://www.facebook.com/molloysdublin,@molloysdublin,,,limited,,isolated,,0
+Dublin,node/2885369320,POINT (-6.266436 53.321814),Grace’s,Rathgar Road,2-5,D06 P5F1,Dublin,pub,,,,,,,,,,,,,,,,outside,,0
+Dublin,node/2893532903,POINT (-6.321361 53.341648),Cleary's,,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/2940313238,POINT (-6.264115 53.343143),The Library Bar,Exchequer Street,1,,Dublin,bar,,,,,,,,+353 1 671 9765,,,,,"Mo-Fr 08:30-19:30, Sa 10:00-18:30, Su 12:00-17:30",,,no,,0
+Dublin,node/2980368136,POINT (-6.265032 53.335905),Camden Bites & Brews,Camden Street Lower,9,D02 FX67,Dublin,bar,,,,,,,,,,,,,,yes,,,,0
+Dublin,node/2995285120,POINT (-6.316115 53.320092),The Horse Shoe,Saint Agnes Road,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/2997549697,POINT (-6.264435 53.342254),Chelsea Drugstore,South Great George's Street,25,,Dublin,bar,,,,various,,,https://thechelseadrugstore.ie/,+353 1 613 9093,hello@thechelseadrugstore.ie,https://www.facebook.com/1591948204357064/,http://www.instagram.com/thechelseadrugstore,,"Mo-We 16:00-24:00, Th-Su 16:00+",yes,,,,0
+Dublin,node/2998757813,POINT (-6.265077 53.335963),Huck’s,Camden Street Lower,8,D02 KV97,Dublin,bar,,,,,,,,,,https://www.facebook.com/huckleberrydublin/,,,,yes,,,,0
+Dublin,node/3001696161,POINT (-6.297886 53.389914),Molloy's Liquor Store,Ballygall Road West,,,Dublin,,,,,,,,https://molloys.ie/,+353 1 8640251,,,,,Mo-Sa 10:30-22:00; Su 12:30-10:00,,,,,0
+Dublin,node/3005899378,POINT (-6.278603 53.323714),D Six,Harold's Cross Road,,,Dublin,,,,,,,,,,,,,,,,,,,0
+Dublin,node/3005899379,POINT (-6.278506 53.323755),Peggy Kelly’s,Harold's Cross Road,159-163,D6W WN22,Dublin,pub,,,,,,,https://www.peggykellys.ie/,+353 1 4978935,info@peggykellys.ie,http://www.facebook.com/Peggykellys,,,,,,,,0
+Dublin,node/3028480445,POINT (-6.23527 53.321678),Arthur Mayne’s,Donnybrook Road,48-50,D04 TR26,Dublin,pub,,,,,,,,,,https://www.facebook.com/arthurmaynesdonnybrook/,,,,yes,,outside,,0
+Dublin,node/3039675542,POINT (-6.274273 53.312184),O'Briens,Rathgar Road,105,,Dublin,,,,,,,,https://www.obrienswine.ie/,+353 1 490 9366,,,,,Mo-Sa 10:30-22:00; Su 12:30-22:00; PH 10:30-22:00,no,,,,0
+Dublin,node/3039675544,POINT (-6.274092 53.312375),The Vintry,Rathgar Road,102,,Dublin,,,,,,,,https://www.vintry.ie/,+353 1 4905477,,,,,,,,,,0
+Dublin,node/3040092718,POINT (-6.265463 53.321125),Rody Boland’s,Rathmines Road Upper,12-14,D06 E1E8,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/3040139014,POINT (-6.265146 53.320781),Mother Reilly’s Bar & Restaurant,Rathmines Road Upper,26-30,D06 H5Y4,Dublin,pub,,,,,,,https://uppercrosshousehotel.com/bar/,+353 1 497 5486,,,,,,limited,,outside,,0
+Dublin,node/3061990892,POINT (-6.287848 53.390687),Cheers Take Home,Ballygall Road West,,,Dublin,,,,,,,,,,,,,,,,,,,0
+Dublin,node/3077675596,POINT (-6.321599 53.326023),Acheson's Off Licence,Errigal Road,20,,,,,,,,,,,,,,,,,,,,,0
+Dublin,node/3089037844,POINT (-6.289392 53.343251),Next Door,James Street,41,,Dublin,,,,,,,,https://www.nextdoor.ie/jamess-street.327.html,+353 1 4549274,,,,,,,,,,0
+Dublin,node/3106272136,POINT (-6.283265 53.31072),Cork's Off-licence,Terenure Road North,,,Dublin,,,,,,,,,,,,,,,,,,,0
+Dublin,node/3124957096,POINT (-6.294464 53.342433),Kenny’s,James's Street,174,D08 CY51,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/3125025423,POINT (-6.277522 53.342686),John's Bar & Haberdashery,Thomas Street,61,,Dublin,bar,,,,,,,,,,,,,,,,,,0
+Dublin,node/3137599783,POINT (-6.276663 53.400059),Quinn's Next Door Off-licence,Poppintree Parade,,,Dublin,,,,,,,,https://www.nextdoor.ie/ballymun.288.html,+353 1 8060840,,,,,,,,,,0
+Dublin,node/3158435067,POINT (-6.250775 53.356365),Cú Chulainn's at Croke Park,Summerhill,,,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/3163587327,POINT (-6.257582 53.344863),Senior Common Room,,,,,bar,,,,,,,,,,,,,,,,,,0
+Dublin,node/3224845421,POINT (-6.265789 53.344572),The Wild Duck,Sycamore Street,17-19,D02 FX33,Dublin,bar,,,,,,,,+35315356849,hello@thewildduck.ie,https://www.facebook.com/wildduckdublin/,https://www.instagram.com/thewildduckdublin/,,,,,,,0
+Dublin,node/3310969321,POINT (-6.206796 53.370686),SuperValu Off-licence,Howth Road,,,Dublin,,,,,,,,,,,,,,,yes,,,,0
+Dublin,node/3315487523,POINT (-6.269776 53.344135),Oscars Christchurch,Fishamble Street,16-18,,Dublin,bar,,,,,,,http://www.oscarschristchurch.com/,,,,,,,limited,yes,,,0
+Dublin,node/3466369329,POINT (-6.263394 53.344078),,Dame Street,33,D02 R763,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/3466369334,POINT (-6.264263 53.343716),J.T. Pims,George's Street Great South,4,D02 NR59,Dublin,bar,,,,,,,https://www.jtpims.ie/,+353 1 6724645,hello@jtpims.ie,https://www.instagram.com/j.t.pims/,,,"Mo-Th 12:00-23:30, Fr-Sa 12:00-01:00, Su 12:00-23:00",yes,yes,,,0
+Dublin,node/3470507586,POINT (-6.263475 53.344076),Mulligan and Haines,Dame Street,32,D02 EA24,Dublin,pub,,,,,,,,+353 1 882 4355,bookings@mulliganandhaines.ie,https://www.facebook.com/mulliganandhaines/,https://www.instagram.com/mulliganandhaines/,,,limited,,,,0
+Dublin,node/3567190069,POINT (-6.265433 53.335109),Camden Exchange,Camden Street Lower,72,D02 E092,Dublin,pub,,,,,,,,+353 1 5599028,info@camdenexchange.ie,https://www.facebook.com/CamdenExchange,,,Mo-Th 16:00-24:00; Fr-Su 12:00-24:00,,,no,,0
+Dublin,node/3579222572,POINT (-6.25291 53.351163),The Cellar,Talbot Street,,,Dublin,,,,,,,,,,,,,,,,,,,0
+Dublin,node/3676943504,POINT (-6.26426 53.344054),Hely's Bar,Dame Street,,,Dublin,bar,,,,,,,,,,,,,,,,,,0
+Dublin,node/3677080040,POINT (-6.244806 53.350755),,Sheriff Street Lower,,,Dublin,pub,,,,,,,,,,,,,,no,,,,0
+Dublin,node/3677094036,POINT (-6.24948 53.351361),The Vaults,Amiens Street,,D01 V6V6,Dublin,bar,,,,,,,,,,,,,,,,,,0
+Dublin,node/3739414065,POINT (-6.356669 53.342219),Molloy's Liquor Store,,,,,,,,,,,,,,,,,,,,,,,0
+Dublin,node/3803973848,POINT (-6.237697 53.347032),White Bar,North Wall Quay,,,Dublin,bar,,,,,,,https://www.mvcillairne.com/,+353 1 8178760,quay16@mvcillairne.com,,,,,yes,,,,0
+Dublin,node/3873256589,POINT (-6.283273 53.351538),Drinkstore,,,,,,,,,,,,https://www.drinkstore.ie/,,,,,,,,,,,0
+Dublin,node/4021198488,POINT (-6.291763 53.381972),Premier Bar,,,,Dublin,bar,,,,,,,,,,,,,,,,,,0
+Dublin,node/4078397589,POINT (-6.266939 53.345338),The Liquor Rooms,Wellington Quay,6-8,D02 HT44,Dublin,bar,,,,,,,,+353 87 3393688,hello@theliquorrooms.com,https://www.facebook.com/theliquorroomsdublin,https://www.instagram.com/theliquorrooms/,,Mo-Su 17:00+,no,,,,0
+Dublin,node/4223248090,POINT (-6.263144 53.356763),Pat Hanway,Hardwicke Street,,,,bar,,,,,,,,,,,,,,,,,,0
+Dublin,node/4249403390,POINT (-6.255157 53.334001),House Dublin,Leeson Street Lower,27,,Dublin,bar,,,,,,,https://www.housedublin.ie/,+353 1 9059090,welcome@housedublin.ie,,,,"Mo-We 10:00-24:00, Th-Fr 10:00-03:00, Sa 16:00-03:00",,,,,0
+Dublin,node/4329853451,POINT (-6.24128 53.332251),Den Bar,Pembroke Road,27-29,D04 X5W9,Dublin,bar,,,,,,,,,,,,,,no,,,,0
+Dublin,node/4337347089,POINT (-6.26356 53.335909),Dicey’s Garden,Harcourt Street,21-25,D02 YF24,Dublin,pub,,,,,,,https://www.russellcourthotel.ie/diceys-garden/,,,,,,,no,,,,0
+Dublin,node/4337941791,POINT (-6.254773 53.334176),Leggs pub,Leeson Street Lower,,,Dublin,pub,,,,,,,,,,https://www.facebook.com/100063782190243/,,,,,,,,0
+Dublin,node/4357798892,POINT (-6.259287 53.330948),Charlemont Bar & Bistro,Charlemont Place,,D02 A893,Dublin,bar,,,,,,,https://www.hilton.com/en/hotels/dubduhn-hilton-dublin/dining/,,,,,,,yes,,,,0
+Dublin,node/4383657305,POINT (-6.262892 53.34503),Vintage Cocktail Club,Crown Alley,,,Dublin,bar,,,,,,,https://vintagecocktailclub.com/,,,https://www.facebook.com/VintageCocktailClub/,,,,,,,,0
+Dublin,node/4396351895,POINT (-6.252793 53.337863),Xico,Baggot Street Lower,142-143,D02 PH39,Dublin,bar,,,,,,,https://xico.ie/,+353 1 661 8829,,https://www.facebook.com/XicoDublin,,,Mo-Sa 17:00-03:00; Su off,yes,,,23,0
+Dublin,node/4770224022,POINT (-6.251392 53.35136),Robert Reade Bar and Cafe,,,,,pub,,,,,,,,,,,,,,yes,,,,0
+Dublin,node/4799036110,POINT (-6.232 53.329291),The Bridge 1859,Ballsbridge Terrace,13,D04 C7K6,Dublin,pub,,,,,,,https://www.thebridge1859.ie,+353 1 660 2804,hello@thebridge1859.ie,https://www.facebook.com/thebridge1859,@thebridge1859,,,limited,,,,0
+Dublin,node/4806183922,POINT (-6.248569 53.336274),Olive Green,Baggot Street Lower,,,Dublin,bar,,,,,,,,,,,,,,,,,,0
+Dublin,node/4913827373,POINT (-6.329378 53.32414),,,,,,,,,,,,,,,,,,,,,,,,0
+Dublin,node/4998192522,POINT (-6.262153 53.348004),Wigwam,Middle Abbey Street,54,,Dublin,bar,,,,,,,https://wigwamdublin.com/,+353 1 873 4020,info@wigwamdublin.com,,,,Mo-Su 11:00-03:00,limited,yes,,,0
+Dublin,node/5044580221,POINT (-6.244184 53.349174),Drunken Fish,Mayor Street Lower,,,Dublin,bar,,,,,,,https://drunkenfish.ie/,,,,,,,no,,,,0
+Dublin,node/5044959521,POINT (-6.286961 53.343231),Open Gate Brewery,,,,,pub,,,,,,,https://www.guinnessopengate.com,,,,,,,yes,,,,0
+Dublin,node/5073432440,POINT (-6.248064 53.349117),Urban Brewing,Custom House Quay,,,Dublin,pub,,,,,,yes,https://www.urbanbrewing.ie/,+353 1 568 5989,,,,,,yes,,,,0
+Dublin,node/5155648422,POINT (-6.264036 53.342052),The Market Bar,Fade Street,14A,D02 A368,Dublin,bar,,,,,,,https://marketbar.ie/,,,,,,,yes,,,,0
+Dublin,node/5166614627,POINT (-6.256146 53.339235),The Saddle Room,St. Stephen's Green,,D02 K224,Dublin,bar,,,,,,,https://www.theshelbourne.com/dine-drink/the-saddle-room,,,https://www.facebook.com/theshelbournedublin/,,,Mo-Su 17:30-22:00,yes,yes,,,0
+Dublin,node/5245064896,POINT (-6.265841 53.322389),Stella Cocktail Club,Rathmines Road Lower,207-209,,,bar,,,,,,,https://stellatheatre.ie/stella-cocktail-club/,,,https://www.facebook.com/StellaCinemas/,https://www.instagram.com/stellacinemas/,,,no,,outside,,0
+Dublin,node/5301569915,POINT (-6.260512 53.352854),Fibber Magee’s,Parnell Street,80-81,D01 CK74,Dublin,pub,,,,,,,https://fibbermagees.ie/,,,,,,,,,,,0
+Dublin,node/5351684362,POINT (-6.277354 53.334068),Happy's News and Booze,,,,,,,,,,,,,,,,,,,,,,,0
+Dublin,node/5362108727,POINT (-6.265991 53.341461),The Snug Bar,Stephen Street Upper,15,D08 ADW4,Dublin,bar,,,,,,,,,,,,,,,,,,0
+Dublin,node/5367355656,POINT (-6.261532 53.346258),r.i.o.t.,Aston Quay,4,D02 C6R3,Dublin,bar,,,,,,,https://www.riotdublin.com/,,,https://www.facebook.com/riot.dublin/,https://www.instagram.com/riot.dublin/,,,,,,,0
+Dublin,node/5373194431,POINT (-6.250104 53.351692),The Place,Amiens Street,,D01 X6P6,Dublin,bar,,,,,,,https://www.theaddressconnolly.com/food/the-place/,,,,,,,,,,,0
+Dublin,node/5405915952,POINT (-6.263383 53.357655),Wasabi Market,Dorset Street Lower,,,Dublin,,,,,,,,,,,,,,,,,,,0
+Dublin,node/5543823597,POINT (-6.19582 53.364283),Kelly's Off Licence,Seafield Road West,,,Dublin,,,,,,,,,,,,,,,,,,,0
+Dublin,node/5585403333,POINT (-6.252459 53.351196),Maher's,Talbot Street,,,Dublin,,,,,,,,,,,,,,,limited,,,,0
+Dublin,node/5590594966,POINT (-6.278663 53.349632),Grain & Grill Bar,Smithfield Terrace,,D07 RF2Y,Dublin,bar,,,,yes;various;guinness;spirits;wine;cocktails,,,,+353 1 485 0900,info.smithfield@maldronhotels.com,,,,Mo-Su 17:00-23:30,yes,,,,0
+Dublin,node/5590642309,POINT (-6.243623 53.343532),Grain & Grill Bar,Pearse Street,,D02 RK37,Dublin,bar,,,,yes;various;guinness;wine;spirits;cocktails,,,https://www.maldronhotels.com/dining/grain-and-grill-restaurants/,+353 1 670 3666,reservations.pearsestreet@maldronhotels.com,,,,Mo-Su 12:00-22:00,,,,,0
+Dublin,node/5590669322,POINT (-6.262401 53.355013),Belvedere Bar,Great Denmark Street,,D01 P5W9,Dublin,bar,,,,yes;various;guinness;spirits;wine;cocktails,,,,,,,,,Mo-Su 11:00-21:30,,,,,0
+Dublin,node/5678239622,POINT (-6.264235 53.341902),The Bar With No Name,Fade Street,3,,Dublin,bar,,,,,,,https://www.noname.bar/,,meetme@noname.bar,https://www.facebook.com/nonamedublin,http://instagram.com/nonamebardublin,,,no,,,,0
+Dublin,node/5729185009,POINT (-6.262663 53.34174),53 South William,William Street South,,,Dublin,bar,,,,,,,,,,,,,,,,,,0
+Dublin,node/5759625992,POINT (-6.271756 53.338198),Grain & Grill,Kevin Street Upper,,,,bar,,,,,,,,,,,,,,,,,,0
+Dublin,node/5787220032,POINT (-6.286689 53.342004),Alfred's,,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/5838769296,POINT (-6.335407 53.341),Decies County,Decies Road,,,Ballyfermot,bar,,,,,,,,,,,,,,,,,,0
+Dublin,node/5866396179,POINT (-6.2723 53.338921),The Fourth Corner,Patrick Street,50,D08 AR29,Dublin,pub,,,,,,,https://www.fourthcorner.ie/,,,,,,,yes,,,,0
+Dublin,node/6064664277,POINT (-6.296712 53.335906),Fine Wines,Rialto Street,514,,,,,,,,,,,,,,,,,,,,,0
+Dublin,node/6077712298,POINT (-6.151932 53.402354),Carry Out,Main Street,9,,,,,,,,,,http://www.carryout.ie/,+353 1 828 5088,clongriffin@carryout.ie,,,,"Su-Th 12:30-22:00, Fr-Sa 12:00-22:00",,,,,0
+Dublin,node/6142453354,POINT (-6.324013 53.335999),Rascals Brewing Company,Tyrconnell Road,Unit 5,D08 HF68,Inchicore,,,,,,,yes,https://rascalsbrewing.com,+35315382051,venuemanager@rascalsbrewingco.com,rascalsbrewing,@rascalsbrewing,"Brewery, Shopping & retail, Pizza Place","We-Fr 16:00-22:00; Sa, Su 12:00-22:00",,,,,0
+Dublin,node/6245890989,POINT (-6.260375 53.342863),Mary’s Bar & Hardware Shop,Wicklow Street,8,D02 AX90,Dublin,pub,,,,,,,https://marysbar.ie/,+353 1 670 8629,info@marysbar.ie,https://www.facebook.com/marysbardublin,@marysbardublin,,,yes,,,,0
+Dublin,node/6248574948,POINT (-6.263712 53.396692),Metzo,Shangan Road,,D09 W8H7,Ballymun,bar,,,,various,,,,,,,,,,,,,,0
+Dublin,node/6302603646,POINT (-6.316743 53.320213),,,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/6551427836,POINT (-6.259771 53.340577),Zozimus Bar,Anne's Lane,,D02 AK30,Dublin,bar,,,,,,,https://www.zozimusbar.ie/,,,,https://www.instagram.com/zozimusbar/,,,no,,,,0
+Dublin,node/6659452185,POINT (-6.258902 53.345655),The Mint Bar,Westmoreland Street,35-39,D02 HR67,Dublin,bar,,,,,,,https://www.marriott.com/en-us/hotels/dubwi-the-westin-dublin/dining/,,,,,,,,,,,0
+Dublin,node/6659454386,POINT (-6.26433 53.345077),Crowbar,Temple Lane South,2,,Dublin,bar,,,,,,,,,,https://www.facebook.com/CrowbarDublin,,,,yes,,,,0
+Dublin,node/6666742585,POINT (-6.262168 53.34243),Farrier & Draper Bar & Restaurant,William Street South,59,D02 DC83,Dublin,bar,,,,,,,https://www.farrieranddraper.ie/,,,https://www.facebook.com/farrierdraper,https://www.instagram.com/farrierdraper/,,,limited,,,,0
+Dublin,node/6782589728,POINT (-6.26133 53.339524),The Well,St. Stephen's Green,130,D02 K597,Dublin,pub,,,,,,,https://thewelldublin.ie/,,,https://www.facebook.com/thewelldublin/,,,,yes,,,,0
+Dublin,node/6795621382,POINT (-6.312466 53.385248),,Cardiffsbridge Road,,,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/6937546349,POINT (-6.258882 53.362668),McGrath's,,,,,,,,,,,,,,,,,,,yes,,,,2
+Dublin,node/6969068085,POINT (-6.293224 53.348182),P. Duggan’s,Parkgate Street,25,D08 XR94,Dublin,pub,,,,,,,,+35316778448,,https://www.facebook.com/P.Duggans,,,,,,,,0
+Dublin,node/7017217477,POINT (-6.25922 53.353484),The Big Romance,Parnell Street,98,D01 T2T3,Dublin,pub,,,,whiplash;lervig;hopfully,,,https://www.thebigromance.ie,+35315595997,info@thebigromance.ie,https://www.facebook.com/TheBigRomanceBar,@thebigromance,,,,,,,0
+Dublin,node/7138761089,POINT (-6.263488 53.336256),Ohana Tiki Bar,Harcourt Street,17,D02 W963,Dublin,bar,,,,,,,https://www.ohanadublin.ie/,,,https://www.facebook.com/OhanaDublin/,https://www.instagram.com/ohanadublin/,,,yes,,,,0
+Dublin,node/8521097190,POINT (-6.356495 53.342682),Manhattan,,,,,bar,,,,,,,,,,,,,,,,,,0
+Dublin,node/8521097200,POINT (-6.353597 53.342475),Chasers,,,,,bar,,,,,,,,,,,,,,,,,,0
+Dublin,node/8626695175,POINT (-6.349944 53.331106),Third Barrel Brewing,Bluebell Avenue,Emerald House,D12 NPF9,Dublin,,,,,,,yes,https://thirdbarrel.com,,info@thirdbarrel.com,thirdbarrelbrew,@thirdbarrelbrewing,,,,,,,0
+Dublin,node/8638179434,POINT (-6.349899 53.331159),Third Circle Brewing,,,,,,,,,,,,http://www.thirdcircle.ie/index.html,,,,,,,,,,,0
+Dublin,node/8638179435,POINT (-6.349972 53.331186),Stone Barrel Brewing Company,,,,,,,,,,,,www.stonebarrelbrewing.ie,,,,,,,,,,,0
+Dublin,node/8952195603,POINT (-6.215985 53.332663),O'Briens,,,,,,,,,,,,,,,,,,,,,,,0
+Dublin,node/9122380611,POINT (-6.232552 53.347181),The Bottle Boy,North Wall Quay,,,Dublin,pub,,,,various,,,https://themayson.ie/taste/the-bottle-boy/,,,,,,Mo-Th 12:00-23:00; Fr-Sa 12:00-23:30; Su 12:30-23:00,yes,,outside,,0
+Dublin,node/9202222409,POINT (-6.260889 53.359834),The Big Tree,Dorset Street Lower,39-41,D01 F8K1,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/9238631400,POINT (-6.264142 53.342085),IdleWild,Fade Street,14,D02 HH33,Dublin,bar,,,,,,,https://idlewilddublin.com/,,,,,,"Mo-Th 17:00-24:00+; Fr 14:00-24:00+; Sa,Su 12:00-24:00+",yes,,,,0
+Dublin,node/9264108045,POINT (-6.245621 53.346428),Dockers,Sir John Rogerson's Quay,4-5,D02 Y773,Dublin,pub,,,,,,,https://www.dockerspub.ie,+353861034089,bookings@dockerspub.ie,https://www.facebook.com/dockerspub.ie,@dockerspub,,,,,,,0
+Dublin,node/9322108900,POINT (-6.324054 53.335967),Rascals HQ,Tyrconnell Road,Unit 5,D08 HF68,Dublin,pub,,,,rascals,,,https://rascalsbrewing.com,,,rascalsbrewing,@rascalsbrewing,,,,,,,0
+Dublin,node/9334710259,POINT (-6.287053 53.343218),Open Gate Taproom,James Street,53,D08 X20N,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/9352848206,POINT (-6.179117 53.378369),Raheny United Clubhouse Bar,All Saints Drive,,D05 FW31,Raheny,pub,,,,,,,https://www.rahenyunited.ie/clubhouse-lounge,,,https://www.facebook.com/RahenyUnitedBar,,,,,,,,0
+Dublin,node/9958947983,POINT (-6.147637 53.386803),McHughs,Kilbarrack Road,,,Dublin,,,,,,,,,,,,,,,,,,,0
+Dublin,node/9984256982,POINT (-6.285709 53.34389),Powerhouse Bar and Cocktail Village,James's Street,92,,Dublin,bar,,,,,,,https://www.roeandcowhiskey.com/,,,,https://www.instagram.com/roeandcowhiskey/,,,,,,,0
+Dublin,node/10004624748,POINT (-6.275255 53.337193),Tenters,Mill Street,1,D08 N726,Dublin,pub,,,,,,,https://www.tenterspub.ie/,,bookings@tenterspub.ie,,,,12:00-14:30; 17:00-21:30,,,,,0
+Dublin,node/10013398691,POINT (-6.276311 53.344937),The Brazen Head,Bridge Street Lower,19-20,D08 WC64,Dublin,pub,,,,,,,https://brazenhead.com/,+353 1 677 9549,info@brazenhead.com,brazenhead.dublin,brazenheaddublin,The oldest pub in Dublin,Mo-Th 10:30-23:30; Fr-Sa 10:30-00:30; Su 12:30-23:30,limited,,outside,,0
+Dublin,node/10016178636,POINT (-6.250752 53.342154),Kennedy's,Westland Row,30-32,D02 FR90,Dublin,pub,,,,,,,https://kennedyspub.ie,+353 1 679 9077,kennedysbar1850@gmail.com,kennedys1850,kennedys1850,,Mo-Th 10:30-23:30; Fr-Sa 10:30-00:30; Su 12:00-23:00,yes,,no,,0
+Dublin,node/10078115749,POINT (-6.265175 53.333469),Keavan's Port,Camden Street Upper,1,D02 TC61,Dublin,pub,,,,various,,,https://www.jdwetherspoon.com/pubs/all-pubs/republic-of-ireland/county-dublin/keavans-port,+353 1 405 4790,,,,,"Mo,Tu,We,Th 07:00-24:00; Fr,Sa 07:00-25:00; Su 07:00-23:30",yes,yes,,,3
+Dublin,node/10136276602,POINT (-6.227485 53.342053),The Yacht,Thorncastle Street,8,D04 DR50,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/10275525043,POINT (-6.261111 53.352539),Thomas Clarke’s,O'Connell Street Upper,35,D01 K2X5,Dublin,pub,,,,,,,https://www.murraysbar.ie/spaces,,,https://www.facebook.com/thomasclarkesdublin/,,,,,,,,0
+Dublin,node/10568217814,POINT (-6.25163 53.331314),M. O’Brien,Sussex Terrace,8-9,D04 KN82,Dublin,pub,,,,,,,https://www.mobrienspubdublin.com/,+353 1 676 2851,info@m-obriens.ie,https://www.facebook.com/100063633666114/,,,,limited,,outside,,0
+Dublin,node/10576430555,POINT (-6.255632 53.348393),Cois Life Bar,Eden Quay,,D01 X8X8,Dublin,bar,,,,,,,https://libertyhalltheatre.ie/cois-life-bar/,,,,,,,,,,,0
+Dublin,node/10601110758,POINT (-6.2586 53.340723),Café en Seine,Dawson Street,39-40,D02 X067,Dublin,bar,,,,,,,https://www.cafeenseine.ie/,+35316774567,,,,,,yes,yes,,,0
+Dublin,node/10765828306,POINT (-6.264017 53.346559),Zanzibar Locke Bar,Ormond Quay Lower,,,Dublin,bar,,,,,,,https://baraza.ie/,,,,,,,,,,,0
+Dublin,node/10775555715,POINT (-6.27611 53.349283),Hopkins & Hopkins Brewing Company,Bow Street,40-42,D07 X304,Dublin,,,,,,,yes,https://www.hopburgh.com/,,,,,,,,,,,0
+Dublin,node/10792357138,POINT (-6.229662 53.327464),Centurion Bar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Dublin,node/10994405522,POINT (-6.274493 53.340633),Molly's,Francis Street,101,D08 FHP9,Dublin,pub,,,,,,,https://galwaybaybrewery.com/mollysbar/,,,,,,,,,isolated,,0
+Dublin,node/11026623981,POINT (-6.25733 53.348436),The Abbey Bar,Abbey Street Lower,26,D01 K0F1,Dublin,bar,,,,,,,https://www.abbeytheatre.ie/your-visit/food-and-drink/,,,,,,,,,,,0
+Dublin,node/11030599280,POINT (-6.258149 53.347001),J.R. Mahon's,Burgh Quay,1-2,D02 F243,Dublin,bar,,,,Hopkins & Hopkins,,,https://www.jrmahons.ie/,+35316705777,info@jrmahons.ie,,https://www.instagram.com/jrmahons/,,,,,,,0
+Dublin,node/11038174107,POINT (-6.26422 53.345228),The Whiskey Reserve,Temple Lane South,,,Dublin,bar,,,,,,,https://thewhiskeyreserve.com/,,,https://www.facebook.com/thewhiskeyreserve/,,,"Mo-We 12:00-23:00, Th,Su 12:00-23:30, Fr,Sa 11:00-24:00",yes,,,,0
+Dublin,node/11384483172,POINT (-6.250847 53.341335),The Sin Bin,,,,,bar,,,,,,,,,,,,,,,,,18,0
+Dublin,node/11522240569,POINT (-6.263661 53.343668),Disndat,,,,,bar,,,,,,,,,,,,,"Mo-We 12:00-24:00+, Th-Sa 12:00-03:00, Su 12:00-24:00+",,,,,0
+Dublin,node/11621600199,POINT (-6.27323 53.342929),Tailor's Hall Tavern,High Street,,,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/12051815620,POINT (-6.246524 53.377449),The Croft,Swords Road,,D09 C7F8,Dublin,bar,,,,,,,https://www.bonningtondublin.com/dining/the-croft-bar/,,,,,,,,,,,0
+Dublin,node/12087084525,POINT (-6.263446 53.341932),Drury Buildings Bar,Drury Street,,,Dublin,bar,,,,,,,https://drurybuildings.com/bar-and-garden/,,,https://www.facebook.com/DruryBuildings/,,,,,,,,0
+Dublin,node/12101176582,POINT (-6.279259 53.342924),Love Tempo,Thomas Street,110,D08 C2W7,Dublin,bar,,,,,,,https://www.lovetempo.ie/,,,,,,,,,,,0
+Dublin,node/12165523255,POINT (-6.2759 53.344891),Ned O'Shea's,Bridge Street Lower,12,,Dublin,pub,,,,,,,https://www.nedosheas.ie/,,,,,,,,,,,0
+Dublin,node/12167965955,POINT (-6.258825 53.343025),Harty's bar,Nassau Street,,,Dublin,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/12170327422,POINT (-6.256231 53.339017),No. 27 Bar & Lounge,St. Stephen's Green,,,,bar,,,,,,,https://theshelbourne.com/dine-and-drink-at-the-shelbourne/no-27-the-shelbourne-bar/,,,,,,Mo-Th 10:30-23:30; Fr 10:30-00:30; Sa 12:00-00:30; Su 12:00-23:00,no,,,,3
+Dublin,node/12178058608,POINT (-6.206627 53.364874),Knights Bar,Castle Avenue,,D03 W5N0,Clontarf,bar,,,,,,,https://www.clontarfcastle.ie/dining/knights-bar/,,info@clontarfcastle.ie,,,,"Mo-Th 12:00-21:30; Fr,Sa 12:00-22:00; Su 12:30-21:30",,,,,0
+Dublin,node/12179155624,POINT (-6.291069 53.348067),Iveagh Bistro,Parkgate Street,10-13,D08 P38N,Dublin,bar,,,,,,,https://www.ashlinghotel.ie/bistro-bar,,info@ashlinghotel.ie,,,,,,,,,0
+Dublin,node/12246300601,POINT (-6.277787 53.348369),,,,,,pub,,,,,,,https://shuffleboardbars.com/dublin/,,dublin@shuffleboardbars.com,,,,Mo-Th 10:00-23:30; Fr-Sa 10:00-01:00; Su 11:00-23:00,,,,,0
+Dublin,node/12415312348,POINT (-6.293558 53.372422),Changing Times Brewery,Moyle Road,Unit 27A,D11 FHA2,Glasnevin,,,,,,,yes,https://www.changingtimesbrewery.com,,,https://www.facebook.com/changingtimesbrewery/,changingtimesbrewery,,,,,,,0
+Dublin,node/12416156738,POINT (-6.259131 53.341556),Lemon & Duke,Duke Lane Upper,1,D02 YK71,Dublin,bar,,,,,,,https://www.lemonandduke.ie,,,https://www.facebook.com/LemonandDuke/,lemonandduke,,,,,,,0
+Dublin,node/12543374557,POINT (-6.252288 53.324104),T. Humphrey’s,Ranelagh,79-81,D06 F8F8,Ranelagh,pub,,,,,,,,,,,humphreysranelagh,,,,,,,0
+Dublin,node/12543374558,POINT (-6.252349 53.324124),Smyth’s,Ranelagh,75-77,D06 E7Y0,Ranelagh,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/12584654956,POINT (-6.258292 53.345514),The Mint,,,,,bar,,,,,,,,,,,,,,no,,,,3
+Dublin,node/12601007283,POINT (-6.262738 53.351733),Point A Hotel Bar,Moore Lane,17-19,D01 H6K3,Dublin,bar,,,,,,,,,,,,,,,,,,0
+Dublin,node/12691947431,POINT (-6.296672 53.342514),Cooper’s Corner,Bow Bridge,1,D08 H1W6,Dublin,pub,,,,,,,,,,,cooperscornerd8,,,,,,,0
+Dublin,node/12710702758,POINT (-6.259333 53.341554),Hyde,,,,,bar,,,,,,,,,,,,,,,,,,0
+Dublin,node/12920142701,POINT (-6.255348 53.350724),The Morris Bar,Talbot Street,15,,,pub,,,,,,,https://themorrisbar.ie/,,,,,,,,,,,0
+Dublin,node/12953767282,POINT (-6.251594 53.330497),,Leeson Street Upper,,,Dublin,,,,,,,,,,,,,,,,,,,0
+Dublin,node/13059423001,POINT (-6.291157 53.31966),Le Petite Renard,Sundrive Road,2,D12 VN26,,bar,,,,,,,,,,,,,"We-Th 17:30-22:00; Fr 17:30-23:00; Su 10:00-15:00; Sa 10:00-15:00, 17:30-23:00",,,,,0
+Dublin,node/13103448936,POINT (-6.258056 53.363543),Quinn's,,,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/13294228736,POINT (-6.259246 53.334628),National Concert Hall Bar,,,,,bar,,,,,,,https://www.nch.ie/plan-your-visit/food-drink/bars-at-the-nch/,,,,,,,,,,,0
+Dublin,node/13356563701,POINT (-6.252479 53.337553),Toner's Yard,,,,,bar,,,,,,,,,,,,,,,,,,0
+Dublin,node/13603339777,POINT (-6.270428 53.349479),Cuckoo Lane,,,,,,,,,,,,,,,,,,,,,,,0
+Dublin,node/13700912801,POINT (-6.237017 53.342045),Daphni,Ringsend Road,,,,bar,,,,,,,,,,,daphni_dublin,,Mo-Th 16:00-23:30; Fr 16:00-00:30; Sa 15:00-00:30; Su 15:00-23:30,,,,,0
+Dublin,node/13724230918,POINT (-6.265473 53.337062),Barebone,Wexford Street,11,D02 HY84,Dublin,bar,,,,,,,https://barebone.ie/,+35314705100,marketing@barebone.ie,https://www.facebook.com/profile.php?id=61583865264064,barebonedublin,,,yes,,,,0
+Dublin,node/13800643958,POINT (-6.275289 53.337154),WXYZ Cocktails,Mill Street,1,D08 XK58,Dublin,bar,,,,,,,https://www.marriott.com/en-us/dining/restaurant-bar/dubal-aloft-dublin-city/6582557-wxyz-bar.mi,,,,,,Su-Th 12:00-23:30; Fr-Sa 12:00-00:30,,,no,,0
+Dublin,node/13892664101,POINT (-6.283252 53.310018),Dolly’s,Terenure Road North,105-107,,,bar,,,,,,,https://dollys.ie/,+353 1 699 1999,,,,,Tu-Th 15:00-23:30; Fr 15:00-00:30; Sa 13:00-00:30; Su 13:00-23:00,,,,,0
+Dublin,node/13910959935,POINT (-6.252108 53.344829),Pronto: Pizza & Pasta,Moss Lane,37B,,,pub,,,,,,,,,,,,,,,,,,0
+Dublin,node/13981435693,POINT (-6.259114 53.342792),Lost Lane,,,,,bar,,,,,,,,,,,,,,,,,,0

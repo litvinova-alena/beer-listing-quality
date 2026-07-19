@@ -1,0 +1,891 @@
+city,osm_id,geometry,name,street,house_number,postcode,address_city,amenity,bar,beer,beer_garden,brewery,drink_beer,microbrewery,website,phone,email,facebook,instagram,description,opening_hours,wheelchair,toilets_wheelchair,smoking,min_age,payment_methods_count
+Munich,relation/1583195,POINT (11.637837 48.110212),Georg-Brauchle-Haus,,,,,,,,,,,,https://www.mvv-muenchen.de/,,,,,,,,,,,0
+Munich,relation/1657606,POINT (11.618572 48.152951),Bayerisches Staatsministerium für Umwelt und Verbraucherschutz,Rosenkavalierplatz,2,81925,München,,,,,,,,https://www.stmuv.bayern.de/,+49 89 9214 00,,,,,,,,,,0
+Munich,relation/3502656,POINT (11.529047 48.177135),Georg-Brauchle-Ring,,,,,,,,,,,,https://www.mvv-muenchen.de/,,,,,,,,,,,0
+Munich,relation/3605813,POINT (11.517031 48.189282),Bus 175: Georg-Brauchle-Ring (U) => Ludwigsfeld (Campingplatz),,,,,,,,,,,,https://www.mvv-muenchen.de/,,,,,,,yes,,,,0
+Munich,relation/3605814,POINT (11.517031 48.189219),Bus 175: Ludwigsfeld (Campingplatz) => Georg-Brauchle-Ring (U),,,,,,,,,,,,https://www.mvv-muenchen.de/,,,,,,,yes,,,,0
+Munich,way/3707399,POINT (11.542336 48.176321),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/4009841,POINT (11.522128 48.17572),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/4020286,POINT (11.52881 48.176706),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/4066192,POINT (11.639876 48.172274),Isabella-Braun-Weg,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/4300523,POINT (11.558448 48.176139),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/4300524,POINT (11.558503 48.176062),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/4591433,POINT (11.536322 48.176336),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/4609516,POINT (11.511007 48.149455),Königlicher Hirschgarten,,,,,biergarten,,,,Augustiner Bräu München,,,https://hirschgarten.de/,,,,,Europas größter Biergarten und auch der größte der Welt (Stand 2024),Mo-Su 11:00-24:00,yes,yes,,,0
+Munich,way/4609522,POINT (11.551597 48.143534),Augustiner-Keller,Arnulfstraße,52,80335,München,biergarten,,,,Augustiner Bräu München,,,https://www.augustinerkeller.de/de,+49 89 594393,büro@augustiner-keller.de,,,,Mo-Su 11:30-24:00,limited,yes,outside,,0
+Munich,way/4857941,POINT (11.499513 48.117797),Barbierstraße,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,relation/5207448,POINT (11.529274 48.176798),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/5215288,POINT (11.545332 48.163878),Lily-Braun-Weg,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,relation/5518556,POINT (11.437146 48.175988),Paulaner Brauerei,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/5832888,POINT (11.502199 48.185019),Braunschweiger Straße,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/10073620,POINT (11.530941 48.176393),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,relation/15508366,POINT (11.78068 48.021392),"Ruftaxi 4900: Berganger, Braunautal => Neuperlach Süd (S/U)",,,,,,,,,,,,https://www.mvv-muenchen.de/mobilitaetsangebote/bedarfsverkehr/index.html,,,,,,,,,,,0
+Munich,relation/15508403,POINT (11.78068 48.021392),"Ruftaxi 4900: Neuperlach Süd (S/U) => Berganger, Braunautal",,,,,,,,,,,,https://www.mvv-muenchen.de/mobilitaetsangebote/bedarfsverkehr/index.html,,,,,,,,,,,0
+Munich,relation/17383261,POINT (11.447942 48.163288),Bus 159: Pasing Bahnhof (S/R) => Paulaner Brauerei,,,,,,,,,,,,https://www.mvv-muenchen.de/,,,,,,,,,,,0
+Munich,relation/17383262,POINT (11.448076 48.162666),Bus 159: Paulaner Brauerei => Pasing Bahnhof (S/R),,,,,,,,,,,,https://www.mvv-muenchen.de/,,,,,,,,,,,0
+Munich,way/18778395,POINT (11.449848 48.139914),Bierbaumstraße,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/19371758,POINT (11.550013 48.087852),Braunstraße,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/22560334,POINT (11.450688 48.19024),Hans-Bieringer-Weg,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/23411279,POINT (11.59205 48.125676),"Städtische Berufsschule für das Hotel, Gaststätten- und Braugewerbe",Simon-Knoll-Platz,3,81669,München,school,,,,,,,https://bsgastro.musin.de/,,,,,,,,,,,0
+Munich,way/23462952,POINT (11.557435 48.108533),Zum Flaucher - Biergarten,,,,,biergarten,,,,,,,https://www.zumflaucher.de/,,,,,,"""Betrieb im Sommer und bei schönen Wetter""",yes,,,,0
+Munich,way/24938989,POINT (11.660999 48.106418),Braunmillerweg,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/25383824,POINT (11.496242 48.160236),Bierführerweg,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/26756215,POINT (11.52273 48.175784),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/28078687,POINT (11.595067 48.149289),TIVO,Oettingenstraße,74,80538,München,bar,,,,,,,https://www.tivomunich.com/,,,,,,,,,,,0
+Munich,node/28238954,POINT (11.529059 48.177499),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,yes,,,,0
+Munich,way/30189672,POINT (11.627078 48.157978),Schlösselgarten,,,,,biergarten,,,,,,,https://schlösselgarten.com/,+49 89 915452,,,,,We-Sa 11:00-23:00; Su-Tu 11:00-22:00,limited,,,,0
+Munich,way/30720834,POINT (11.534129 48.176441),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/30909675,POINT (11.532214 48.176304),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/31661004,POINT (11.555544 48.221797),Heinrich-Braun-Weg,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/32925444,POINT (11.540374 48.123124),Tannengarten,,,,,biergarten,,,,,,,,,,,,,"Tu-Fr 16:00+; Sa,Su,PH 14:00+",,,,,0
+Munich,way/33646026,POINT (11.611743 48.209396),Braunaugenstraße,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/35955615,POINT (11.62035 48.185637),Aumeister,Sondermeierstraße,1,80939,München,biergarten,,,,Hofbräu München,,,https://www.aumeister.de/,+49 89 189 314 20,aumeister@aumeister.de,https://www.facebook.com/people/Restaurant-Biergarten-Aumeister-im-Englischen-Garten/100063974950532/,,,May-Sep: Mo-Fr 10:00-23:00; Sa-Su 09:30-23:00,yes,,yes,,5
+Munich,way/36965867,POINT (11.534791 48.104464),Augustiner Schützengarten,Zielstattstraße,6,81379,München,biergarten,,,,Augustiner,,,https://augustiner-schuetzengarten.de,+49 89 724 680 88,info@augustiner-schützengarten.de,,,,Mo-Su 11:00-23:00,limited,,outside,,3
+Munich,way/38281427,POINT (11.511568 48.149586),Weißbierschänke,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/39541244,POINT (11.592569 48.152506),Biergarten am Chinesischen Turm,Englischer Garten,3,80538,München,biergarten,,,,Hofbräu München,,,https://www.chinaturm.de/,+49 89 3838 7320,info@chinaturm.de,,,,Mo-Th 11:00-18:00; Fr 11:00-19:00; Sa 10:00-19:00; Su 10:00-18:00,yes,yes,,,0
+Munich,way/39690896,POINT (11.545467 48.082105),Gutshof Menterschwaige,Menterschwaigstraße,4,81545,München,biergarten,,,,,,,https://augustinermenterschwaige.de,+49 89 2488 1180,,,,,"Mo-Th 15:00-22:00; Fr-Su,PH 11:30-22:00",limited,,,,0
+Munich,way/44389898,POINT (11.533427 48.111499),Celtis,Konrad-Celtis-Straße,2,81369,München,pub,,,,,,,,,,,,,,no,,,,0
+Munich,way/55874199,POINT (11.4122 48.131116),Augustiner Brauerei,Dietmar-Keese-Bogen,20,81249,München,,,,,,,,,,,,,,,,,,,0
+Munich,way/64993843,POINT (11.553491 48.112603),Wirtshaus zum Isartal,Brudermühlstraße,2,81371,München,biergarten,,,,Augustiner,,,,+4989772121,,,,,Mo-Su 12:00-21:30,limited,,,,0
+Munich,way/72249868,POINT (11.607722 48.167006),Mini Hofbräuhaus,,,,,biergarten,,,,Hofbräu München,,,,+49 89 3610 0880,,https://www.facebook.com/minihb/,,,,,,,,3
+Munich,way/72272781,POINT (11.598131 48.160277),Seehaus,Kleinhesselohe,3,80802,München,biergarten,,,,Paulaner,,,,,,,,,,limited,yes,,,0
+Munich,way/72272787,POINT (11.602709 48.161814),Biergarten Hirschau,Gyßlingstraße,15,80805,München,restaurant,,,,Löwenbräu,,,https://www.hirschau-muenchen.de/,+49 89 36090490,,,,,10:00-23:00,yes,yes,,,0
+Munich,way/72273510,POINT (11.602465 48.162095),Hirschau,Gyßlingstraße,11,80805,München,biergarten,,,,Löwenbräu,,,https://www.hirschau-muenchen.de/,+49 89 3221 080,,https://www.facebook.com/BiergartenHirschau/,,,Mo-Fr 11:30-24:00; Sa-Su 10:00-24:00,yes,,,,0
+Munich,way/76376041,POINT (11.467052 48.149928),Der Klapotetz,Nusselstraße,55,81245,München,,,,,,,,,,,,,Steirische Weine und Spezialitäten,,,,,,0
+Munich,way/80539355,POINT (11.573104 48.155101),Ungewitter Bar,,,,,bar,,,,,,,https://www.ungewitter-bar.de/,+49 89 2715196,,,,,"Tu 20:00-03:00, We,Th 20:00-04:00, Fr,Sa,PH 20:00-05:30",,,,,0
+Munich,node/82772298,POINT (11.545647 48.139206),Augustiner Bräustuben,Landsberger Straße,19,80339,München,restaurant,,,,Augustiner Bräu München,,yes,https://www.braeustuben.de/,+49 89 507047,AUGUSTINERBRAUSTUBEN@T-ONLINE.DE,,,,Mo-Su 10:00-24:00,limited,no,,,3
+Munich,way/95800607,POINT (11.556251 48.17609),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/98478768,POINT (11.529152 48.176524),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/98481227,POINT (11.525863 48.176458),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/98481234,POINT (11.528818 48.176524),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/98855280,POINT (11.549772 48.136399),Ehemaliges Brausebad,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/105866094,POINT (11.637921 48.114908),Michaeligarten,Feichtstraße,10,81735,München,biergarten,,,,Löwenbräu,,,https://www.michaeligarten.de/,+49 89 43 55 24 24,info@michaeligarten.de,,,,"Mo-Fr 12:00-23:00; Sa,Su 11:00-23:00",yes,,yes,,0
+Munich,way/106923842,POINT (11.547844 48.176183),Hanns-Braun-Brücke,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/109862348,POINT (11.456057 48.195889),Zur Schießstätte,,,,,biergarten,,,,,,,,,,,,,,yes,no,,,0
+Munich,way/110780791,POINT (11.511802 48.153987),Weinhaus,Romanplatz,,,,,,,,,,,,,,,,,Mo-Fr 09:00-18:00; Sa 09:00-14:00,limited,,,,0
+Munich,way/110892783,POINT (11.67837 48.115057),Lindengarten Biergarten,Solalindenstraße,50,81825,München,biergarten,,,,,,,,,,,,,Mo-Sa 11:00-23:30; Su 11:00-22:00,yes,no,,,0
+Munich,way/116555850,POINT (11.594873 48.134508),Hofbräukeller,Innere Wiener Straße,19,81667,,biergarten,,,,Hofbräu München,,,,+49 89 4599250,,,,,Mo-Su 10:00-23:00,yes,yes,outside,,0
+Munich,way/116855194,POINT (11.574054 48.200349),Ziegelhaus,,,,,biergarten,,,,,,,,,,,,,"Mo-Fr 11:00-18:00+; Sa,Su,PH 16:00-18:00+",limited,no,,,0
+Munich,way/116856890,POINT (11.57639 48.19653),Wirtshaus am Hart,,,,,biergarten,,,,,,,,,,,,,,yes,,,,0
+Munich,way/119961926,POINT (11.582758 48.121299),Paulaner Garten,,,,,biergarten,,,,Paulaner,,yes,https://paulaner-nockherberg.com/,+49 89 4599130,info@nockherberg.com,,,,Mo-Th 16:00-23:00; Fr-Su 12:00-23:00; PH 12:00-23:00,yes,yes,separated,,10
+Munich,way/126131342,POINT (11.55937 48.126063),Paulaner Bräuhaus,Kapuzinerplatz,5,80337,München,biergarten,,,,Paulaner,,,,+49 89 54 46 11-0,,,,,Mo-Su 09:45-22:00,limited,,,,0
+Munich,way/135784226,POINT (11.534057 48.205919),Gaststätte & Biergarten Fasanerie See,Lerchenauer Straße,267,80995,München,restaurant,,,,,,,https://www.kleingartenanlage-fasaneriesee.de/gaststaette.html,+49 89 150 3154,,,,,Tu-Su 10:00-22:00,limited,no,outside,,0
+Munich,way/137540019,POINT (11.573606 48.144013),Bayrischer Brauerbund e.V.,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/144194201,POINT (11.509012 48.122136),Kulturbiergarten Rosengarten,Westendstraße,305,81377,München,biergarten,,,,,,,https://www.am-rosengarten.com/,+49 89 57869 300,,,,,09:00-24:00,yes,,,,0
+Munich,way/144515671,POINT (11.555172 48.221112),Kindertagesstätte Heinrich-Braun-Weg 5,Heinrich-Braun-Weg,5,80933,München,kindergarten,,,,,,,https://stadt.muenchen.de/service/info/heinrichbraunweg-5/1052535/,+49 89 309 053 770,,,,,Mo-Fr 07:30-17:00,yes,,,,0
+Munich,way/144941136,POINT (11.56292 48.192452),MAHAG Gebrauchtwagenzentrum,Detmoldstraße,3,80935,,,,,,,,,https://www.mahag.de/standorte/standortuebersicht/standort/mahag-nord,,,,,,Mo-Fr 08:00-18:00; Sa 09:00-16:00,no,,,,0
+Munich,way/145433978,POINT (11.551304 48.176253),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/145433979,POINT (11.546171 48.176171),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/146396400,POINT (11.556229 48.176184),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/152580795,POINT (11.499155 48.163377),Brauner-Weg,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/155254359,POINT (11.629512 48.127791),Berg-am-Laimer Biergarten,,,,,biergarten,,,,,,,,,,,,,,yes,yes,,,0
+Munich,way/157059204,POINT (11.569233 48.122033),Kiosk Isarwahn,Schyrenplatz,1,,,biergarten,,,,,,,,,,,,,,limited,no,,,0
+Munich,way/159426712,POINT (11.525171 48.125168),Gaststätte HLC Rot-Weiss,Grasweg,67a,81373,München,pub,,,,,,,https://www.rotweissmuenchen.de/,+49 89 7691516,hlcrwgastronomie@yahoo.de,,,,,,,,,0
+Munich,way/159426713,POINT (11.523155 48.125483),Gaststätte SC Armin,,,,,pub,,,,,,,,,,,,,,,,,,0
+Munich,way/159426779,POINT (11.526875 48.125592),Hopfengarten,Siegenburger Straße,43,81373,München,biergarten,,,,,,,https://www.hopfen-garten.de/,+49 89 7608846,,,,,Mo-Sa 12:00-19:00; Su 11:00-19:00,yes,,outside,,4
+Munich,way/172507240,POINT (11.537831 48.176371),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/172507241,POINT (11.536597 48.176283),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/181328634,POINT (11.574776 48.157236),Wintergarten,Nordendstraße,37,80796,München,pub,,,,Augustiner Bräu München,,,https://www.wintergarten-schwabing.de/,+49 89 27373134,,,,,Mo-Sa 10:00-24:00; Su 10:00-23:00,yes,,,,0
+Munich,way/188122766,POINT (11.478949 48.102972),Waldheim,,,,,biergarten,,,,,,,,+49 89 716065,info@waldheim.de,,,,11:30-22:00,limited,,,,3
+Munich,way/198990004,POINT (11.546291 48.164189),Kindertagesstätte Lily-Braun-Weg 14,Lily-Braun-Weg,14,80637,München,,,,,,,,https://stadt.muenchen.de/service/info/lilybraunweg-14/1052574/,,,,,,,,,,,0
+Munich,way/199406313,POINT (11.492419 48.141176),Laimers,,,,,biergarten,,,,,,,https://www.laimers.com/,+49 89 54 66 401,info@laimers.com,,,,"Mo-Fr 17:00-22:00; Sa,Su 10:00-22:00",limited,,,,0
+Munich,way/205459974,POINT (11.633043 48.118533),Kleines Brauhaus Dicker Mann,Heinrich-Wieland-Straße,11,81735,München,restaurant,,,,Ayinger,,,https://www.kleinesbrauhausdickermann.de/,+49 89 407898,info@dickermann.eu,,,Biergarten mit 300 Plätzen,"Mo-Sa 11:00-23:00; Su,PH 11:00-23:00",limited,,outside,,5
+Munich,way/205806197,POINT (11.558063 48.147987),Löwenbräukeller Biergarten,,,,,biergarten,,,,Löwenbräu,,,https://loewenbraeukeller.com/de/,,,,,,Mo-Su 10:00-00:00,yes,yes,yes,,0
+Munich,node/209147341,POINT (11.460937 48.151087),Cantina,August-Exter-Straße,1,81245,München,pub,,,,,,,https://www.cantina-pasing.de/,+49 89 55060365,,,,,Su-We 10:00-23:30; Th-Sa 10:00-01:00,yes,yes,,,0
+Munich,way/216170462,POINT (11.495141 48.084681),Biergarten Alter Wirt,,,,,biergarten,,,,,,,,,,,,,,yes,,,,0
+Munich,way/220362739,POINT (11.407104 48.17838),Eichen Schlössl,,,,,biergarten,,,,,,,,,,,,,,limited,no,,,0
+Munich,way/242878913,POINT (11.482726 48.122614),Hadernner Kleines Brauhaus - Bio-Restaurant und Biergarten,Großhaderner Straße,56a,81375,München,,,,,,,,,,,,,,,,,,,0
+Munich,node/243934064,POINT (11.562699 48.151457),Shaxe Bar,,,,,pub,,,,,,,,,,,,,Mo-Su 17:00-05:00,no,,,,0
+Munich,way/245172381,POINT (11.710467 48.110916),Biergarten Truderinger Waldwirtschaft,,,,,biergarten,,,,,,,,,,,,,Mo-Sa 11:00-24:00; Su 12:00-24:00,yes,,yes,,0
+Munich,way/248210286,POINT (11.529061 48.177273),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,Georg-Brauchle-Ring U1 Bahnsteig,,yes,,,,0
+Munich,way/250757645,POINT (11.57623 48.152436),Max Emanuel Brauerei Biergarten,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Munich,node/253247251,POINT (11.624758 48.094186),Forschungsbrauerei,Unterhachinger Straße,78,81737,München,restaurant,,,,,,yes,,,,,,,"Mo-Sa 11:00-23:00; Su, PH 10:00-22:00",limited,,,,0
+Munich,node/254951783,POINT (11.544358 48.199235),Pils-Pub Royal,,,,,pub,,,,Augustiner Bräu München,,,https://pilspubroyal.eatbu.com/?lang=de,+49 89 35 7472 32,,,,,"Mo 11:30-21:30; Tu,We 11:30-22:00; Th off; Fr 11:30-22:00; Sa 11:00-22:00; Su 11:30-18:00",yes,,outside,,0
+Munich,node/257005663,POINT (11.5837 48.197629),Pizza Manufaktur,Wenzelstraße,2,80937,München,pub,,,,,,,,,,,,,,,,,,0
+Munich,way/257145852,POINT (11.434888 48.176625),Paulaner Brauerei,Mälzereistraße,31,81249,München,,,,,,,,https://www.paulaner.de,,,,,,,,,,,0
+Munich,node/258189053,POINT (11.563009 48.207111),Caracciolastüberl,,,,,pub,,,,,,,,,,,,,Mo 10:00-00:00; Tu-Sa 10:00-01:00; Su 11:00-23:00,limited,,,,0
+Munich,node/258189085,POINT (11.551927 48.208131),Zum Kuckuck Nochmal,Weitlstraße,115,,,pub,,,,,,,https://zumkuckuck-nochmal.de/,,,,,,Mo-Sa 10:00-24:00; Su 10:00-22:00,yes,,outside,,0
+Munich,node/260431779,POINT (11.573636 48.094978),Zum Dachs,Säbener Straße,173,81547,München,pub,,,,Spatenbräu,,,,,,,,,Tu-Sa 11:00-21:00; Su 11:00-19:00,limited,,,,0
+Munich,node/260796705,POINT (11.607181 48.120427),Hendlglück Biergarten,Anzinger Straße,2,81671,München,biergarten,,,,,,,https://hendlglueck.de/,+49 89 400767,,,,,Mo-Su 11:00-22:00,yes,no,yes,,0
+Munich,node/261052322,POINT (11.5963 48.12387),Buon Gusto,,,,,pub,,,,,,,,,,,,,Mo-Su 09:30-02:00,limited,,,,0
+Munich,node/261052433,POINT (11.59604 48.123812),Auerfeld,,,,,pub,,,,,,,,,,,,,,limited,,,,0
+Munich,node/263879617,POINT (11.596674 48.129069),Metz 7,Metzstraße,7,,,pub,,,,,,,,,,,,,Mo-Fr 11:30-23:00; Sa 17:00-24:00; Su off,no,,,,0
+Munich,node/263892675,POINT (11.597859 48.12703),Monchalant,Pariser Straße,15,81667,München,bar,,,,,,,https://www.monchalant.de,,,,,,"We-Th 14:00-23:00; Fr,Sa 14:00-24:00; Su 14:00-22:00; Mo,Tu off",no,,,,0
+Munich,node/263895499,POINT (11.595415 48.126513),Bar Tapas Teatro,Balanstraße,23,81669,München,pub,,,,,,,https://www.teatro-bar-tapas.de/,,,,,,Mo-Sa 17:00-01:00,yes,,,,0
+Munich,node/264010830,POINT (11.62673 48.127016),Echardinger Gartenlaube,Echardinger Straße,10,81673,München,pub,,,,,,,https://echardingergartenlaube.de/,+49 89 45344311,,,,,"Tu-Su,PH 11:30-22:00; Mo off",,,,,0
+Munich,node/264527916,POINT (11.395971 48.173259),Waldwirtschaft Bienenheim,,,,,biergarten,,,,,,,,,,,,,,,,yes,,0
+Munich,node/264680687,POINT (11.604833 48.130614),EscoBar,Breisacher Straße,19,81667,München,pub,,,,,,,https://escobar-muenchen.de/,+49 89 485137,info@escobar-muenchen.de,,,,"Su-Fr 17:00-01:00, Sa 17:00-03:00",limited,,,,0
+Munich,node/264680692,POINT (11.60248 48.133478),Ortakahve,,,,,pub,,,,Hofbräu,,,,,,,,,,no,,,,0
+Munich,node/264745310,POINT (11.594504 48.130871),Molly Malone's,Kellerstraße,21,,,pub,,,,,,,http://www.molly-malones.org/,,,,,,"Mo-We 17:00-24:00, Th,Fr 17:00-01:00, Sa 14:00-01:00, Su 14:00-24:00",no,,,,0
+Munich,node/266698116,POINT (11.597415 48.130583),Negroni,Sedanstraße,9,81667,München,bar,,,,,,,https://negronibar.de/,+49 89 48950154,,,,,Fr-Sa 18:00-01:30; Tu-Th 18:00-01:00,no,,outside,,2
+Munich,node/266698138,POINT (11.597361 48.132543),La Bodeguita,,,,,pub,,,,,,,,+49 1521 4643271,,,,,Mo-Th 14:00-24:00; Fr-Su 14:00-02:00,limited,,,,0
+Munich,node/266698146,POINT (11.596842 48.131536),Bar Room München,,,,,bar,,,,,,,https://www.barroom-muenchen.de/,+49 89 44142762,info@barroom-muenchen.de,,,,Tu-Sa 20:00+,no,,,,0
+Munich,way/269170230,POINT (11.530079 48.176517),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/269945556,POINT (11.565046 48.154097),Alter Ofen,Zieblandstraße,41,80798,München,pub,,,,Spaten-Franziskaner München,,,http://www.alter-ofen.de,+49 89 527527,info@alter-ofen.de,,,,18:00-01:00,no,,,,0
+Munich,node/271236134,POINT (11.655011 48.107305),Bhima's Biergarten,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Munich,way/275820922,POINT (11.458209 48.167172),Weichandhof,,,,,biergarten,,,,,,,,,,,,,"Mo-Su,PH 11:00-22:00",,,,,0
+Munich,way/276604355,POINT (11.539848 48.176266),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/276604356,POINT (11.542861 48.176219),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/277253196,POINT (11.616898 48.122001),Isarflimmern,,,,,pub,,,,,,,,,,,,,,yes,,,,0
+Munich,node/278901866,POINT (11.417126 48.143627),Zur Aubinger Einkehr,Gößweinsteinplatz,7,81249,München,biergarten,,,,Augustiner Bräu München,,,https://zuraubingereinkehr.eatbu.com,+49 89 875581,,,,,Mo-Fr 16:00-22:00; Sa-Su 12:00-22:30,no,,,,0
+Munich,node/280151630,POINT (11.578618 48.143933),Schumann's,Odeonsplatz,7,80539,München,pub,,,,,,,https://schumanns.de/de/index.html,+49 89 229 060,,,,,"Mo-Fr 08:00-24:00, Sa-Su 18:00-24:00, Mo-Su 00:00-03:00; PH off",limited,,,,0
+Munich,node/283103746,POINT (11.560019 48.14248),Café Kosmos,Dachauer Straße,7,80335,München,pub,,,,Astra,,,https://www.cafe-kosmos.de/,,,,,,"Mo-Fr 12:00-01:00, Sa-Su 18:00-03:00",limited,no,outside,,0
+Munich,way/283204333,POINT (11.558121 48.10298),Isar Alm zum Gartl,Nithartstraße,8,81543,München,biergarten,,,,Hofbräu München,,,https://www.isaralm.de/,+49 89 6518154,,,,,"Apr-Oct: Mo-Su,PH 11:00-22:00; Nov-Dec: Fr-Su,PH 11:00-20:00",limited,,,,0
+Munich,way/283871243,POINT (11.547936 48.176152),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/283871244,POINT (11.55132 48.176115),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/283871245,POINT (11.547885 48.176288),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/283871246,POINT (11.546887 48.176298),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/290528084,POINT (11.640637 48.118657),Lucky,Sankt-Veit-Straße,68,81673,München,pub,,,,,,,https://www.lucky-bar.de/home/home_main.php,+49 89 18910347,mail@lucky-bar.de,,,,Tu-Su 11:00-00:00,,,,,0
+Munich,way/290579662,POINT (11.525065 48.176178),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/290579664,POINT (11.521869 48.175848),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/291103862,POINT (11.58502 48.141167),s'Zwölferl,Seitzstraße,12,80538,München,pub,,,,,,,,,,,,,Mo-Sa 11:00-23:00+,no,,,,0
+Munich,node/291364411,POINT (11.589236 48.139515),The Moon Bar Lehel,Thierschplatz,5,80538,München,bar,,,,,,,,+4915115974903,,,,,"Mo-Fr 11:30-14:30,18:00-24:00; Sa,Su 18:00-01:00",,,,,0
+Munich,node/291436154,POINT (11.518685 48.139708),Cafe San,,,,,pub,,,,,,,,,,,,,,,,,,0
+Munich,node/292910957,POINT (11.578596 48.14293),Tambosi Hofgarten,Odeonsplatz,18,80539,München,biergarten,,,,,,,,+49 89 23069360,,,,,Su-Th 07:00-01:00; Sa-Su 07:00-03:00,yes,no,,,0
+Munich,node/296394611,POINT (11.564252 48.136419),Kauz,,,,,bar,,,,,,,,,,,,,,no,,,,0
+Munich,node/296468209,POINT (11.566701 48.139794),Kubaschewski,,5,80335,München,bar,,,,,,,https://kubaschewski.bar/,,,,https://www.instagram.com/kubaschewski.bar/,Ehemals Rodman in der Rumfordstraße 2,Th-Sa 20:00+; Su-We off,,,,,0
+Munich,node/296957926,POINT (11.682056 48.140572),Gasthaus der Biermann,Riemer Straße,350,81829,München,restaurant,,,,,,yes,https://www.gasthausbiermann.de/,+49 89 94539-515,,,,,"Mo-Su 11:00-14:30, 17:00-23:00",yes,,,,0
+Munich,node/297922632,POINT (11.58386 48.134055),Graf Arco Stub'n,,,,,pub,,,,,,,,+49 89 29160770,,,,,"Mo-Fr 11:00-03:00, Sa,Su 18:00-03:00",no,,,,0
+Munich,node/299100564,POINT (11.583472 48.138898),Cohibar City,Herzog-Rudolf-Straße,2,80539,München,pub,,,,,,,,+49 89 22880289,,,,,We-Th 20:00-02:00; Fr-Sa 20:00-04:00,no,,,,0
+Munich,node/304009204,POINT (11.534732 48.198343),Café Soleil,Lassallestraße,101,80995,München,bar,,,,,,,,,,,,,Mo-Su 10:00-22:00,yes,yes,outside,,0
+Munich,way/304318752,POINT (11.507167 48.169594),Moosacher Paradies,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Munich,node/305258377,POINT (11.58758 48.100483),Devo's,Stadelheimer Straße,19,81549,München,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/306130881,POINT (11.594499 48.125897),Stüberl,Sankt-Wolfgangs-Platz,8b,,München,pub,,,,,,,,,,,,,"""Kirchliche Einrichtung, Private Veranstaltungen""",,,,,0
+Munich,node/307528347,POINT (11.558869 48.12634),Paulaner Bräuhaus,Kapuzinerplatz,5,80337,München,restaurant,,,,Paulaner,,yes,https://www.paulaner-brauhaus.de/,+49 89 544611-0,,,paulaner_brauhaus_muenchen,,"Mo-Th 11:00-23:00; Fr 11:00-24:00; Sa 09:00-24:00; Su,PH 09:00-23:00",limited,,,,0
+Munich,node/307757483,POINT (11.529142 48.218046),Strobl's Bierstuben,Pflaumstraße,10,80995,München,pub,,,,,,,,,,,,,,,,,,0
+Munich,node/309254674,POINT (11.546106 48.19689),ReMo's,Irisstraße,1,80935,,pub,,,,,,,,,,,,,Mo-Sa 11:00-22:00; Su 11:00-21:00,limited,,,,0
+Munich,node/309957440,POINT (11.587133 48.181066),"Egal Wie, Aber mit Herz - Restaurant & Biergarten (NO-26)",Leopoldstraße,244a,80807,München,restaurant,,,,,,,https://www.egalwieabermitherz.de/,+49 89 620 214 78,,,,,"Mo off; Tu-Su,PH 11:00-23:00",limited,,,,0
+Munich,node/313924815,POINT (11.574838 48.133179),Paradiso Tanzbar,Rumfordstraße,2,80469,München,pub,,,,,,,,,,,,,Fr-Sa 22:00-05:00,no,,,,0
+Munich,node/315915047,POINT (11.578589 48.143851),Filmcasino,Odeonsplatz,8,80539,München,pub,,,,,,,https://filmcasino.net/,,,,,,Tu-Th 12:00-01:00; Fr-Sa 12:00-05:00; Su 13:00-01:00,yes,,,,0
+Munich,node/315978292,POINT (11.628736 48.162398),Lohengrin's,Cosimastraße,97,81925,München,pub,,,,,,,https://www.lohengrins.de/,+49 89 95927424,info@lohengrins.de,,,,Mo-Su 11:30-23:00,limited,,outside,,2
+Munich,node/318294286,POINT (11.548148 48.120748),Bei Dagmars Herbi,,,,,pub,,,,,,,,+49 89 72069049,,,beidagmar,,,no,,,,0
+Munich,node/318625586,POINT (11.580433 48.098121),Gaststätte Gartenstadt Biergarten,Naupliastraße,2,,München,biergarten,,,,,,,,,,,,,Mo-Su 11:00-23:00,yes,,,,0
+Munich,node/318646779,POINT (11.575809 48.09588),Alessio,Naupliastraße,50b,81547,München,bar,,,,,,,,+49 173 2077777,,,,,,no,,,,0
+Munich,node/318715747,POINT (11.605599 48.104422),Palm Lounge,Ständlerstraße,42,81549,München,bar,,,,,,,,,,,,,,no,,yes,,0
+Munich,node/319513201,POINT (11.57897 48.114709),Schau ma moi,Tegernseer Landstraße,82,81539,München,bar,,,,,,,https://www.cafeschaumamoi.de/,,,,,,Mo-Fr 16:00-01:00; Sa 19:00-01:00; Su off,no,,,,0
+Munich,way/319829351,POINT (11.544175 48.163024),Lily-Braun-Weg,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/319829353,POINT (11.544269 48.163096),Lily-Braun-Weg,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/325104410,POINT (11.524786 48.088951),Ristorante Dolce Vita,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Munich,node/326725301,POINT (11.574121 48.163325),Zum Jennerwein,Belgradstraße,27,80796,München,pub,,,,,,,,+49 89 308 72 21,info@zumjennerwein.de,,https://www.instagram.com/zum_jennerwein/,,Dauerhaft geschlossen,no,,,,0
+Munich,node/329088197,POINT (11.576091 48.150131),Giesinger Stehausschank,Schellingstraße,27,80799,München,bar,,,,Giesinger,,,https://www.giesinger-braeu.de/,,,,,,"Tu-Sa 17:00+, Su 15:00",limited,,,,1
+Munich,node/329092753,POINT (11.573168 48.151206),Schelling-Salon,Schellingstraße,54,80799,München,pub,,,,"various;Schneider_Weisse,_Augustiner",,,https://www.schelling-salon.de/,+49 89 2720 788,,,,,"Mo 10:00-00:30; Th-Sa 10:00-01:00, Su 10:00-24:00; Jul 17-Sep 03 off ""Sommerpause""",limited,,outside,,0
+Munich,node/329125325,POINT (11.543713 48.131876),Wirtshaus am Bavariapark,,,,,biergarten,,,,Augustiner Bräu München,,,https://wirtshaus-am-bavariapark.com/,+49 89 45211695,info@wirtshaus-am-bavariapark.de,,,,"Su 11:00-24:00, Mo-Sa 12:00-24:00",yes,,outside,,3
+Munich,node/329278863,POINT (11.635872 48.173346),Pils-Pub,,,,,pub,,,,,,,,,,,,,Mo-Su 09:00-01:00,,,,,0
+Munich,node/329278871,POINT (11.635815 48.173378),La Cantina,,,,,pub,,,,,,,,+49 89 9570111,,,,,Mo-Su 09:00-01:00,,,,,0
+Munich,node/331359817,POINT (11.621725 48.130244),Juicy Shisha Lounge,Berg-am-Laim-Straße,91,,München,pub,,,,,,,,,,,,,,,,,,0
+Munich,node/331907823,POINT (11.574542 48.133751),Buena Vista,,,,,pub,,,,,,,,,,,,,Tu-Th 18:00-01:00; Fr-Sa 18:00-03:00,no,,,,0
+Munich,node/332790691,POINT (11.572137 48.149008),Die Kneipe 80,Theresienstraße,72,80333,München,pub,,,,,,,,+49 89 282349,,,https://www.instagram.com/kneipe.80/,,Mo-Fr 16:00-00:00; Sa 10:00-01:00; Su 10:00-00:00,no,,,,2
+Munich,node/332797650,POINT (11.589634 48.1313),Ver o Peso,,,,,pub,,,,,,,,,,,,,"Mo-Fr 12:00-22:30; Sa,Su 14:30-23:00",no,,,,0
+Munich,way/334355896,POINT (11.545092 48.139166),Augustiner Bräustüberl,,,,,biergarten,,,,,,yes,,,,,,,,,,,,0
+Munich,node/337484404,POINT (11.540149 48.134446),Giesinger Stehausschank,Ganghoferstraße,23,80339,München,pub,,,,Giesinger,,,,,,,,,Mo-Sa 16:00-22:00,limited,,,,3
+Munich,node/339408896,POINT (11.583066 48.155612),Tijuana,Leopoldstraße,13a,80802,München,bar,,,,,,,https://tijuanabar-munich.de/,+49 89 33040724,tijuana-muenchen@web.de,,,,"Su-Th 17:00-01:00, Fr-Sa 17:00-03:00",no,,,,2
+Munich,node/343096349,POINT (11.571797 48.208586),Paulanergarten,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Munich,node/343735120,POINT (11.576426 48.135276),Biergarten am Viktualienmarkt,Viktualienmarkt,,80331,München,biergarten,,,,"various, every 5-6 weeks changing",,,https://www.viktualienmarkt-muenchen.de/biergarten/,+49 89 297545,,,,"every 5-6 weeks beer is changing !; Augustiner, Hacker-Pschorr, Hofbräuhaus, Löwenbräu, Paulaner, Spaten","Mo-Sa 09:00-22:00; ""bei Schönem Wetter auch Sonntags""",limited,,yes,,0
+Munich,node/343739213,POINT (11.579829 48.133836),Graf Rumford,,,80469,,bar,,,,,,,https://www.graf-rumford.de/,,,,,,We-Sa 18:00-02:00,limited,,,,0
+Munich,node/344718970,POINT (11.510766 48.129708),Paalma,Burgkmairstraße,60,80686,München,pub,,,,,,,,,,,,,,,,,,0
+Munich,node/348146579,POINT (11.576184 48.150869),Alter Simpl,Türkenstraße,57,80799,München,pub,,,,,,,https://www.alter-simpl.de/,+49 89 2723083,,,,,Mo-We 11:00-00:00; Th-Sa 11:00-01:00; Su 11:00-22:00,yes,no,,,2
+Munich,way/351379239,POINT (11.562562 48.117667),Kiosk Braunauer Eisenbahnbrücke,,,,,,,,,Paulaner,,,,,,,,,,limited,,,,0
+Munich,way/351623044,POINT (11.564448 48.142086),Park Café Biergarten,,,,,biergarten,,,,Hofbräu München,,,https://www.frei-sitz.de/,,,,,,Mo-Th 11:00-01:00; Fr 11:00-02:00; Sa 10:00-02:00; Su 10:00-24:00,yes,,,,0
+Munich,way/359267033,POINT (11.590392 48.170186),Im Ungererbad,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Munich,way/360823809,POINT (11.561711 48.118326),Braunauer Eisenbahnbrücke,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/362100911,POINT (11.575737 48.153771),freebird Bar & Food,,,,,bar,,,,,,,http://www.freebird-munich.com/,+49 89 27374520,mail@freebird-munich.com,,,,18:00+,,,,,0
+Munich,node/362104193,POINT (11.574764 48.155424),Vega Bar,Georgenstraße,56,80799,München,bar,,,,,,,https://www.vega-bar.de/,,richard@vega-bar.de,,,,"Tu-Th 20:00-03:00, Fr,Sa 20:00-05:00",no,,,,0
+Munich,way/363600578,POINT (11.524046 48.167482),Wirtshaus Hexengarten,,,,,biergarten,,,,,,,,,,,,,Tu-Su 10:30+; PH 10:30+; Mo off,,,,,0
+Munich,node/364099686,POINT (11.462941 48.136114),Franzz,,,,,biergarten,,,,,,,,,,,,,,limited,,,,0
+Munich,node/364113254,POINT (11.566053 48.177994),Wirtshaus zum lustigen Bauern,,,,,pub,,,,,,,,,,,,,,limited,,,,0
+Munich,node/365949572,POINT (11.564198 48.179298),Arena,,,,,pub,,,,,,,,,,,,,,limited,,,,0
+Munich,node/365949573,POINT (11.565069 48.177466),Sport Cafe,Riesenfeldstraße,14,80809,München,pub,,,,,,,,,,,,,,,,,,0
+Munich,node/365949581,POINT (11.56452 48.178678),Bistro Playhouse Treff,,,,,pub,,,,,,,,,,,,,"Mo-Sa 09:00-03:00, Su,PH 11:00-03:00",limited,,,,0
+Munich,node/366569243,POINT (11.483318 48.180399),Herrnbräu-Stüberl,Allacher Straße,150,80997,München,pub,,,,,,,,,,,,,"Tu-Sa 16:00-01:00, Su 14:00-22:00, PH 16:00-01:00; Mo off",limited,,,,0
+Munich,way/368977873,POINT (11.603386 48.160539),Tivoli Pavillon,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Munich,way/369270037,POINT (11.587029 48.169731),Max & Moritz - Social Club,Leopoldstraße,150,80804,München,bar,,,,,,,,,,,,,Mo-Do 16:00-23:00 Fr 15:00-01:00 Sa 14:00-01:00 So closed,,,,,0
+Munich,node/369485135,POINT (11.630194 48.100599),Zum Fiaker,Josef-Beiser-Straße,25,81737,München,bar,,,,,,,,,,,,,"Mo-Fr 15:00-01:00, Sa 12:00-01:00",no,,yes,,0
+Munich,node/369504330,POINT (11.629276 48.112199),Hofangerstüberl,,,,,pub,,,,,,,,,,,,,Tu-Sa 16:00-22:00,no,,,,0
+Munich,node/369736079,POINT (11.47265 48.182582),Gambrinus Stüberl,,,,,pub,,,,,,,,,,,,,,,,,,0
+Munich,node/370745022,POINT (11.586825 48.159871),Fendstüberl,Fendstraße,4,80802,München,pub,,,,,,,,,,,,,,no,,,,0
+Munich,way/371630542,POINT (11.437127 48.175988),Paulaner Brauerei,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/373070857,POINT (11.548898 48.122797),"Kreisverwaltungsreferat (Gewerbeangelegenheiten, Verbraucherschutz, Fundbüro)",,,,,,,,,,,,,,,,,,"Mo 7:30 - 12:00; Tu 8:30 - 12:00, 14:00 - 18:00; We 7:30 - 12:00; Th 8:30 - 15:00; Fr 7:30 - 12:00; Sa, Su, PH off",,,,,0
+Munich,node/374133430,POINT (11.509322 48.17923),No 1,Baubergerstraße,19,80992,München,pub,,,,,,,,,,,,,,,,,,0
+Munich,way/375853338,POINT (11.529295 48.176866),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,yes,,,,0
+Munich,way/375853410,POINT (11.529663 48.177621),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/375853456,POINT (11.528306 48.17658),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,yes,,,,0
+Munich,way/375853470,POINT (11.52995 48.176593),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,yes,,,,0
+Munich,way/376479882,POINT (11.436553 48.17661),Paulaner Brauerei Gruppe GmbH & Co. KGaA,Mälzereistraße,31,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/377752587,POINT (11.574645 48.138777),Kilians,Frauenplatz,11,80331,München,pub,,,,Guinness,,,https://kiliansirishpub.de/,+49 89 2421 9899,,,,Irish Pub,"Mo-Th 11:00-01:00, Fr,Sa 11:00-02:00, Su,PH 12:00-01:00",no,,outside,,0
+Munich,way/379797718,POINT (11.636727 48.109584),KWA Georg-Brauchle-Haus,Staudingerstraße,58,81735,München,social_facility,,,,,,,https://www.kwa.de/standorte/bayern/kwa-georg-brauchle-haus/,+49 89 6793-0,georg-brauchle@kwa.de,,,,,yes,,,,0
+Munich,way/383636299,POINT (11.574205 48.133652),Wirtshaus Zum Straubinger,,,,,biergarten,,,,,,,,,,,,,Su-Th 11:30-23:30; Fr 11:30-24:00; Sa 11:00-24:00,yes,,,,0
+Munich,node/387472999,POINT (11.574839 48.107593),Gmiatliches Eck,Säbener Straße,7,81547,München,pub,,,,,,,,,,,,,Mo-Sa 10:00-22:00,no,,,,0
+Munich,node/388183268,POINT (11.588239 48.161551),Zum neuen Hut,Feilitzschstraße,11,80802,München,pub,,,,Herzoglich Bayerisches Brauhaus Tegernsee,,,https://zumneuenhut.de/,,info@zumneuenhut.de,,,,"Tu-Th 18:00-01:00; Fr,Sa 20:00-03:00",,,,,0
+Munich,node/388183917,POINT (11.590762 48.160961),Cocktailhouse,Feilitzschstraße,25,80802,München,bar,,,,Augustiner Bräu München,,,https://www.cocktailhouse-bar.de/,+49 89 398 019,info@cocktailhouse-bar.de,,,,"Su-Th 19:00-01:00, Fr,Sa 19:00-03:00",no,,yes,,0
+Munich,node/388183926,POINT (11.589859 48.161102),Este Bar,Feilitzschstraße,19,80802,München,pub,,,,Ayinger,,,,,,,,,,,,,,0
+Munich,node/388184135,POINT (11.589746 48.161123),Hopfendolde,Feilitzschstraße,17,80802,München,pub,,,,Herzoglich Bayerisches Brauhaus Tegernsee,,,http://www.hopfen-dolde.de/,+49 89 333622,Hopfendolde@freenet.de,160589950636791,hopfendolde,Sport und Karaoke-Lokal,Mo-Su 10:00-05:00,no,,,,0
+Munich,node/388184154,POINT (11.589524 48.161166),Schwabinger 7,Feilitzschstraße,15,80802,München,pub,,,,,,,http://www.schwabinger7.de,+49 89 348 470,info@schwabinger7.de,https://www.facebook.com/Schwabinger7/,schwabinger7,,Mo-Su 20:00-04:00,no,,,,3
+Munich,node/388184279,POINT (11.589037 48.161145),Rennbahn,Feilitzschstraße,12,80802,München,pub,,,,,,no,https://www.bar-rennbahn-schwabing.de/,,,,,,"Tu-We 19:00-01:00, Th 19:00-2:00, Fr-Sa 19:00-04:00",no,,no,,0
+Munich,node/388186669,POINT (11.576102 48.151913),Tumult,Blütenstraße,4,80799,München,bar,,,,,,,https://www.tumultmuc.de/,+49 89 28932343,tumultmuc@gmx.de,,,,"May-Oct: Mo-Th 21:00-01:00, May-Oct: Fr,Sa 21:00-03:00, Nov-Apr: Mo-Th 20:00-01:00, Nov-Apr: Fr,Sa 20:00-03:00",no,,,18,1
+Munich,node/390080594,POINT (11.576476 48.152714),Max-Emanuel-Brauerei,Adalbertstraße,33,80799,München,restaurant,,,,,,,https://max-emanuel.de/,+49 89 51818117,,,,,"Mo-Th 12:00-23:00; Fr 12:00-24:00; Sa 10:00-24:00; Su,PH 10:00-22:00",no,,,,0
+Munich,way/390216095,POINT (11.547868 48.176184),Hanns-Braun-Brücke,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/390288093,POINT (11.475791 48.16395),Zum grünen Baum,Verdistraße,47,81247,München,biergarten,,,,Augustiner Bräu München,,,http://www.gruenerbaum-muenchen.de/,,,,,,"PH,Mo-Su 15:00-23:00",yes,,,,0
+Munich,way/392862082,POINT (11.528593 48.176323),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/395241093,POINT (11.573457 48.151618),Fox Bar,Barer Straße,47,80799,München,bar,,,,,,,,+49 89 21897478,,,,,"Mo-We 19:00-02:00; Th 19:00-03:00; Fr,Sa 19:00-04:00",limited,,,,0
+Munich,node/403754448,POINT (11.589346 48.161831),Sprizzeria,Occamstraße,5,80802,München,pub,,,,,,,,,,,https://www.instagram.com/sprizzeria089/,,,no,,,,0
+Munich,node/403755400,POINT (11.589516 48.162056),Buccibar,Occamstraße,9,80802,München,bar,,,,,,,,,,,,,Tu-Sa 16:00-24:00,limited,,,,0
+Munich,node/403756479,POINT (11.589769 48.161938),Vereinsheim,,,,,pub,,,,,,,https://www.vereinsheim.net/,+49 89 344974,info@vereinsheim.net,,,,Mo-Su 18:00+,no,,,,2
+Munich,node/403756662,POINT (11.591659 48.160269),Fräulein Müller Kiosk,Gunezrainerstraße,6,80802,München,pub,,,,,,,,+49 89 3883 2424,,https://www.facebook.com/fraeuleinmuellerkiosk/,,,Tu-Su 09:00-18:00,limited,,outside,,0
+Munich,node/403757349,POINT (11.589464 48.162258),The Potting Shed,Occamstraße,11,80802,München,pub,,,,,,,https://www.the-potting-shed.de/,,,,,,Tu-Sa 18:00-00:00,no,,,,0
+Munich,node/409497598,POINT (11.5666 48.132247),Kr@ftwerk,Thalkirchner Straße,4,80337,München,bar,,,,,,,,+49 89 21588881,,,,,"Su-Th 10:00-01:00, Fr-Sa 10:00-03:00",limited,,,,0
+Munich,node/409497601,POINT (11.571487 48.131174),M. C. Mueller,Fraunhoferstraße,2,80469,München,bar,,,,,,,https://www.mcmueller.org/,+49 89 1891 0039,francis@mcmueller.org,,,,Mo-Sa 18:00+,limited,no,no,18,0
+Munich,node/409497606,POINT (11.570439 48.130135),Sax,Hans-Sachs-Straße,5,80469,München,pub,,,,,,,,+49 89 268835,,,,,"Su-Th 10:00-01:00, Fr-Sa 10:00-03:00",yes,no,no,,3
+Munich,node/409497613,POINT (11.56732 48.131759),Edelheiss,Pestalozzistraße,6,80469,München,bar,,,,Herrnbräu,,,,+49 89 265453,edelheiss@t-online.de,,,,"Su-Th 15:00-01:00, Fr-Sa 15:00-03:00",limited,,,,0
+Munich,node/409497615,POINT (11.570044 48.130502),NiL,Hans-Sachs-Straße,2,80469,München,bar,,,,,,,https://www.cafenil.com/,+49 89 2388 9595,nilgmbh@aol.com,,,,Mo-Su 15:00-03:00,limited,,,,5
+Munich,node/409497616,POINT (11.569632 48.129391),Auroom,Hans-Sachs-Straße,20,80469,München,bar,,,,,,,,+49 89 20 00 90 90,,,,,We-Sa 19:00+,no,,,,0
+Munich,node/409497626,POINT (11.568284 48.12881),Hey Luigi,Holzstraße,29,,,bar,,,,,,,https://www.heyluigi.de/,,,,,,"Mo-Th 17:00-24:00, Fr,Sa 17:00-01:00",limited,,no,,0
+Munich,node/409497629,POINT (11.567828 48.130141),München '72,Holzstraße,14,80469,München,pub,,,,,,,https://muenchen72.de/,+49 89 97343785,buero@muenchen72.de,,,"Die Räumlichkeiten gehören zum links benachbarten ""München '72"".",Mo-Th 17:00-01:00; Fr 17:00-02:00; Sa 09:00-02:00; Su 09:00-22:00,no,,outside,,3
+Munich,node/409497642,POINT (11.566594 48.132782),Senatore,Sendlinger-Tor-Platz,5,80336,München,bar,,,,,,,https://www.senatore.bar/,,,,,Pizza Bar,,no,,,,3
+Munich,node/410141502,POINT (11.5601 48.121383),Valentin stüberl,Dreimühlenstraße,28,80469,München,pub,,,,,,,https://www.valentinstueberl.com/,+49 89 7675 7058,post@valentinstueberl.com,,,,"Mo-Th 17:00-01:00, Fr,Sa 17:00-02:00",limited,,,,2
+Munich,node/412264599,POINT (11.57742 48.119228),Café Lord,Dollmannstraße,27,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/413494629,POINT (11.575763 48.110288),Cafe23,Grünwalder Straße,9,,,pub,,,,,,,,,,,,,"Mo-Fr 11:00-18:00+, Sa,Su,PH 12:00-18:00+",no,,,,0
+Munich,way/414695747,POINT (11.637417 48.110259),Georg-Brauchle-Haus,,,,,,,,,,,,,,,,,"Georg-Brauche_Haus, Bussteig 199 nach Michaelibad",,yes,,,,0
+Munich,way/414695748,POINT (11.638258 48.110162),Georg-Brauchle-Haus,,,,,,,,,,,,,,,,,"Georg-Brauche_Haus, Bussteig 199 nach Campeon West",,yes,,,,0
+Munich,node/416352945,POINT (11.569345 48.161274),Salve,Hohenzollernstraße,124,80796,München,bar,,,,,,,https://salve-muenchen.de,+49 89 2464 4224,,,,"Bar, Pizzeria, Heimservice",Mo-Fr 10:30-22:00,limited,,,,0
+Munich,node/416821855,POINT (11.569871 48.161152),Bodeguita,Hohenzollernstraße,120,80796,München,bar,,,,,,,https://www.bodeguita.bar/,+49 89 189 389 10,info@bodeguita.bar,,,,Tu-Sa 17:00-01:00,no,,,,0
+Munich,node/416821870,POINT (11.561194 48.153942),Stadion an der Schleißheimer Straße,Schleißheimer Straße,82,80797,München,pub,,,,,,,http://www.stadionanderschleissheimerstrasse.de,,,,,,"Mo,We 19:00+; Tu ""Keine freien Plätze""; Th 18:30+; Fr 18:00+; Sa 12:30+; Su 13:00+",limited,,,,0
+Munich,node/417325165,POINT (11.457921 48.168695),Zum Alten Wirt,Dorfstraße,39,81247,München,biergarten,,,,Augustiner Bräu München,,,https://zum-alten-wirt-von-obermenzing.metro.rest/,,,,,,,yes,no,,,0
+Munich,way/421240494,POINT (11.529179 48.176028),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,yes,,,,0
+Munich,way/421240495,POINT (11.52892 48.176029),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,yes,,,,0
+Munich,way/430034375,POINT (11.521999 48.144623),Terasse,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/432654033,POINT (11.575774 48.156509),Rheinpfalz,Kurfürstenstraße,35,80801,München,pub,,,,,,,https://rheinpfalz-schwabing.de/,+49 89 271 06 98,rheinpfalz71@web.de,,,,"Mo-Sa 18:00+; Su,PH off",no,,,,0
+Munich,node/433435680,POINT (11.549953 48.163245),Zum Biereder,Thusnelda-Lang-Brumann-Straße,14,80797,München,restaurant,,,,,,,https://fcteutonia.de/blog/gaststaette-zum-biereder/,,,,,,Mo off; Tu-Su 15:00-23:00; Sa 15:00-21:00,,,,,0
+Munich,node/433909594,POINT (11.570384 48.15567),Salon Irkutsk,Isabellastraße,4,80798,München,pub,,,,,,,https://www.salonirkutsk.com/,,,,,,Mo-Su 17:00-01:00; Sa 17:00-03:00,,,,,1
+Munich,node/433909605,POINT (11.563513 48.162104),Treffpunkt SportBar,Schleißheimer Straße,125,80797,München,bar,,,,,,,https://treffpunkt-sportsbar.de/,+49 89 3084538,,,,,So-Mi 10:00-00:00; Do-Sa 10:00 bis open ende,,,,,2
+Munich,node/433909640,POINT (11.562336 48.161573),Winz Bar,,,,,pub,,,,,,,,,,,,,"Mo-Sa 15:00-01:00; Su,PH off",no,,,,0
+Munich,node/433909642,POINT (11.562329 48.161456),Soleto,,,,,pub,,,,Hofbräu,,,,,,,,,"Mo-Fr 16:00-01:00, Sa,Su 13:00-02:00",no,,,,0
+Munich,node/433909665,POINT (11.561575 48.157213),Schorsch Bar,Georgenstraße,119,80797,München,pub,,,,,,,https://www.schorschbar.de/,,,,,,"We,Th 20:00+; Fr,Sa 21:00+",no,,,,0
+Munich,node/434362081,POINT (11.670368 48.109241),Franziskaner Garten,Friedenspromenade,45,,,biergarten,,,,,,,https://franziskanergarten.de/,,,,,,Mo-Su 11:00-22:30,no,no,separated,,0
+Munich,node/441305880,POINT (11.572555 48.130439),Szenedrinks,Fraunhoferstraße,12,80469,München,,,,,,,,https://www.szenedrinks.eu/,+49 89 5155 6590,order@szenedrink-shop.de,,,,Mo-Sa 11:00-20:00,no,,,,4
+Munich,node/442683436,POINT (11.575995 48.155148),Georg's,Georgenstraße,48,80799,München,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/442683448,POINT (11.577285 48.15042),"Horses, Cars & Stars",Schellingstraße,24c,80799,München,pub,,,,yes,,,,,,,,,,,,,,0
+Munich,way/442921335,POINT (11.515488 48.076396),Brauhaus Stub`n Solln,Herterichstraße,46,,München,restaurant,,,,,,,https://www.brauhaus-stubn-solln.de,+49 89 72447593,,,,,Tu-Su 10:30-23:00,limited,no,,,0
+Munich,node/445638988,POINT (11.572902 48.180784),Tony's EssBar,Georgenschwaigstraße,42,80807,München,pub,,,,,,,https://www.tonys-essbar.de,+49 89 85677896,,,,,Su-Th 11:00-23:00; Fr-Sa 11:00-00:00,no,,,,0
+Munich,node/445639013,POINT (11.572774 48.183174),Bogarts,,,,,pub,,,,,,,,,,,,,"PH,Mo-Su 11:00-18:00+",no,,,,0
+Munich,node/447786247,POINT (11.575655 48.138164),Ratskeller Weinstube,,,,München,pub,,,,,,,,,,,,,Mo-Sa 10:00-01:00; Su 10:00-00:00,yes,,,,0
+Munich,node/447786266,POINT (11.577824 48.136017),Le Clou,Heiliggeiststraße,1,80331,München,pub,,,,,,,,,,,,,Mo-Su 10:00-13:00,no,,,,0
+Munich,node/447786271,POINT (11.577663 48.13585),Heiliggeist 1 Bar,Heiliggeiststraße,1,80331,München,pub,,,,,,,https://heiliggeist1.de/,,,,,,Mo-Su 11:00-22:00,limited,,,,0
+Munich,node/450064799,POINT (11.573817 48.130207),Stehausschank Gärtnerplatz,Klenzestraße,47,,München,pub,,,,Giesinger,,,https://www.giesinger-braeu.de/,,,,,,"Mo-Th 16:00-01:00, Fr,Sa 14:00-02:00, Su 14:00-23:00",no,,outside,,0
+Munich,node/458228433,POINT (11.558351 48.134992),Yuleyna Brautmode House,,,,,,,,,,,,,,,,,,Mo-Fr 10:00-19:00; Sa 10:00-18:00,,,,,0
+Munich,node/471620048,POINT (11.571344 48.155018),Der kleine Kranich,Neureutherstraße,21,80799,München,bar,,,,Ayinger,,,https://derkleinekranich.de/,,,,,Bar & Restaurant,Th-Sa 18:00+; Su-We off,,,,,0
+Munich,way/478930108,POINT (11.461345 48.213604),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Munich,node/485905491,POINT (11.570835 48.184631),Irmgard Stüberl,Milbertshofener Straße,29,,München,pub,,,,,,,,,,,,,,,,,,0
+Munich,node/492756684,POINT (11.539324 48.155965),Zur Glocke,,,,,pub,,,,,,,,,,,,,"PH,Mo-Su 14:00-22:00",,,,,0
+Munich,way/494503945,POINT (11.587121 48.180975),Biergarten NO 26,,,,,biergarten,,,,,,,,,,,,,"Mo off; Tu-Su, PH 11:00-23:00",,,,,0
+Munich,node/495671948,POINT (11.573542 48.130008),Die Kneipe 80,Fraunhoferstraße,19,80469,München,pub,,,,,,,,,,,,,,,,,,0
+Munich,node/496923895,POINT (11.624968 48.094155),Forschungsbrauerei,Unterhachinger Straße,78,81737,München,biergarten,,,,,,,,,,,,,"Mo-Sa 11:00-23:00; Su,PH 11:00-22:00",limited,,yes,,0
+Munich,way/500796621,POINT (11.414298 48.197544),Biergarten Langwieder See,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/500796622,POINT (11.414257 48.19734),Hotel Langwieder See,Kreuzkapellenstraße,89,81249,München,biergarten,,,,,,,https://www.langwiedersee.de/genuss/biergarten/,+49 89 864 860,info@langwiedersee.de,,,,"Mo-Sa 11:00-22:00; Su,PH 10:00-22:00 ""nur bei gutem Wetter geöffnet; schließt je nach Wetter um 20 Uhr""",,,,,0
+Munich,way/502190647,POINT (11.5543 48.171142),Olympia-Alm,Martin-Luther-King-Weg,8,80809,München,biergarten,,,,Ayinger,,,https://www.olympiaalm.de/,+49 89 3009924,oly-alm@hotmail.com,,,,"10:00-22:00 ""Öffnungszeit nur ungefähre Zeiten. In lauen Sommernächten kann auch länger geöffnet sein.""",yes,,outside,,0
+Munich,way/503870502,POINT (11.551182 48.09404),Biergarten,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/508830396,POINT (11.538542 48.108859),Isarflimmern,Fallstraße,24,81369,München,pub,,,,,,,,,,,,,"PH,Tu-Su 14:00-01:00",no,,,,0
+Munich,node/523279142,POINT (11.571478 48.119198),Brandner Kaspar,Sommerstraße,39,81543,München,pub,,,,,,,http://www.brandnerkaspar.de/,+49 89 65 29 22,,,,,"Fr,Sa 20:00-24:00+",,,,,0
+Munich,way/528557404,POINT (11.671981 48.078873),Leiberheim,Nixenweg,9,81739,München,biergarten,,,,Brauerei Erharting,,,https://www.leiberheim.de/,+49 89 4300000,info@leiberheim.de,,,,,,,,,0
+Munich,node/541000590,POINT (11.653466 48.117693),Vinothek Munzert,Damaschkestraße,11,81825,München,,,,,,,,https://vinothek-munzert.de,,,,,,"""Geschäft schließt, nur gelegentlich geöffnet""",no,,,,0
+Munich,way/556496382,POINT (11.557298 48.095616),Harlachinger Einkehr,,,,,biergarten,,,,,,,,,,,,,Mo-Su 09:30-23:00,yes,,yes,,0
+Munich,node/560814433,POINT (11.583122 48.155714),Green Room,Leopoldstraße,13,80802,München,bar,,,,,,,https://greenroom-bar.de/,,,,,Shisha Bar,"Mo-Th 19:00-01:00, Fr-Sa 19:00+",,,,,0
+Munich,node/567540847,POINT (11.550675 48.12474),Substanz,Ruppertstraße,28,80337,München,bar,,,,Tegernseer,,,https://substanz-club.com/,,,,,,"Mo-Su 20:00-24:00, Su-Th 00:00-02:00, Fr,Sa 00:00-03:00",no,,outside,,0
+Munich,node/597752677,POINT (11.57738 48.132648),Niederlassung,Buttermelcherstraße,6,80469,München,pub,,,,Astra;Tannenzäpfle;Tegernseer,,,https://niederlassung.org/,+49 89 32600307,info@niederlassung.org,,,You can pay at this merchant with Bitcoin via a Lightning POS,"Te-Th 19:00-01:00, Fr-Sa 19:00-03:00",no,,no,,5
+Munich,node/615651642,POINT (11.616063 48.15189),Paulaner Biergarten,,,,,biergarten,,,,,,,,,,,,,"Mo-Fr 11:30-24:00; Sa,Su 17:00-24:00",,,,,0
+Munich,node/615651649,POINT (11.619864 48.151114),American Bar,,,,,bar,,,,,,,,,,,,,,yes,no,,,0
+Munich,node/624233275,POINT (11.537198 48.108427),Gaststätte Mittersendling,,,,,pub,,,,,,,,,,,,,"Mo-Sa 07:00-24:00, Su 09:00-24:00",no,,,,0
+Munich,node/633177917,POINT (11.550518 48.124812),bei Vaia,Ruppertstraße,30,80337,München,pub,,,,,,,,,,,,,"Mo-Fr 10:00-22:00+; Sa 11:00-22:00+; Su,PH 12:00-22:00+",no,,,,0
+Munich,node/639133117,POINT (11.585895 48.155381),The Old Irish,Giselastraße,11,80802,München,pub,,,,,,,https://www.irish-folk-pub.de/index.php/de/,+49 89 342446,oldirish@irish-folk-pub.de,,,,We-Su 18:00+,no,,,,0
+Munich,node/648549093,POINT (11.57649 48.135435),Münchner Bier,,,,,pub,,,,"various, every 5-6 weeks changing",,,https://www.viktualienmarkt-muenchen.de/biergarten/,,,,,"There is only beer here ! Reine Bierschankbetrieb, keine Speisen, kein Restaurant. every 5-6 weeks beer is changing !; Augustiner, Hacker-Pschorr, Hofbräuhaus, Löwenbräu, Paulaner, Spaten",,yes,no,,,0
+Munich,node/650021965,POINT (11.688107 48.117709),Kathi's Quelle,Wasserburger Landstraße,108,81827,München,pub,,,,,,,,,,,,,Mo-Sa 10:00-01:00; Su 11:00-20:00,no,,,,0
+Munich,node/650021966,POINT (11.688533 48.117695),Peppermint Lounge,Wasserburger Landstraße,108,81827,München,bar,,,,,,,https://www.peppermint-lounge.de,,,,,,Tu-Th 19:00-01:00; Fr-Sa 20:00-03:00,no,,,,0
+Munich,node/652857103,POINT (11.509207 48.15438),Kleine Rose,Gaßnerstraße,3,,,pub,,,,,,,,,,https://www.facebook.com/people/Kleine-Rose/100054400185842/,,,18:00-24:00,limited,,,,0
+Munich,node/656252888,POINT (11.574917 48.136397),Tara Spirits,Rindermarkt,16,80331,München,,,,,,,,https://store.tara-spirits.de/,+49 89 265118,,,,,Mo-Fr 10:00-19:00; Sa 10:00-18:00,yes,no,,,0
+Munich,node/656252925,POINT (11.573121 48.137),Stazione di Aperitivo,Kaufingerstraße,5,80331,München,bar,,,,,,,https://stazionediaperitivo.bar,,,,,,"Mo-Th 11:30-21:00; Fr,Sa 11:30-23:55; Su off",yes,,,,0
+Munich,node/656253064,POINT (11.580247 48.135246),Bier- und Oktoberfestmuseum,Sterneckerstraße,2,80331,München,,,,,,,,https://www.bier-und-oktoberfestmuseum.de/,+49 89 2424 3941,,,,,Tu-Sa 13:00-19:00,no,,,,0
+Munich,node/656646628,POINT (11.581506 48.121471),Crönlein,Am Nockherberg,8,81541,München,bar,,,,,,,,+49 89 2156 2990,info@croenlein.com,https://www.facebook.com/cafecroenlein/,https://www.instagram.com/croenlein_/,,"Th-Su 18:00-23:00 ""bei schönem Wetter""",limited,,,,0
+Munich,node/663545951,POINT (11.575238 48.148133),Cabane,Theresienstraße,40,80333,München,pub,,,,Augustiner Bräu München,,,http://www.cabanebar.de/,+49 89 283 134,,,,,Mo-Su 19:00-03:00,no,,,,0
+Munich,node/666304993,POINT (11.573508 48.143762),Bierbrunnen,,,,,fountain,,,,,,,,,,,,,,,,,,0
+Munich,node/673851010,POINT (11.572724 48.120412),Giasinga Schlümpfe,Humboldtstraße,12,,,pub,,,,,,,,,,,,,Mo-Sa 13:00-22:00,no,,,,0
+Munich,node/678060290,POINT (11.529597 48.215469),Route 51,,,,,pub,,,,,,,,,,,,,,,,,,0
+Munich,node/678070766,POINT (11.507523 48.152834),Nymphenburger Bistro,Wotanstraße,89,80639,München,bar,,,,,,,,,,,,,,limited,,outside,,0
+Munich,node/692760021,POINT (11.533821 48.11089),Orange,,,,,pub,,,,,,,,,,,,,Mo-Su 12:00-05:00,no,,no,,0
+Munich,node/694675719,POINT (11.594371 48.1838),Domagk-Garten,Domagkstraße,31,80807,München,biergarten,,,,,,,,,,,,,Mo-Sa 17:00-20:00+,,,,,0
+Munich,node/699797368,POINT (11.574647 48.138797),Ned Kelly's,Frauenplatz,11,80331,München,pub,,,,Guinness,,,https://nedkellysbar.de/,+49 89 2421 9899,,,,Australian Bar,"Su,PH 12:00-01:00, Mo-Fr 11:00-01:00, Sa 11:00-02:00",no,,no,,2
+Munich,node/700042712,POINT (11.566873 48.133983),Giesinger Stehausschank,Sendlinger-Tor-Platz,10,80336,München,pub,,,,,,,https://giesinger-braeu.de/pages/stehausschanke,+498959946908,servus@stehausschank.info,giesingerbraeu,giesingerbraeu,,Mo-Su 12:00+,no,,,,3
+Munich,way/701098863,POINT (11.532449 48.163101),Taxisgarten,,,,,biergarten,,,,Spaten,,,https://www.taxisgarten.de/,,,,,,"Mo-Sa 12:00-22:00 ""nur bei Biergartenwetter""; PH,Su 11:00-22:00 ""nur bei Biergartenwetter""",yes,,,,3
+Munich,node/701372398,POINT (11.568055 48.134293),Patolli,Sendlinger Straße,62,80331,München,bar,,,,,,,https://patolli.net/,+49 89 89058312,,,,,Mo-Tu 09:00-19:00; We-Sa 09:00-02:00,limited,,outside,,2
+Munich,node/703979503,POINT (11.578401 48.134553),Tini's,,,,,pub,,,,,,,,,,,,,Tu-Sa 19:00-03:00,limited,,,,0
+Munich,node/703979508,POINT (11.572521 48.139322),Schwarzwälder,,,,,,,,,,,,,,,,,,Mo-Fr 10:00-18:30; Sa 10:00-16:00,no,,,,0
+Munich,way/705288640,POINT (11.588964 48.132954),Biergarten an der Muffathalle,Zellstraße,4,81667,München,biergarten,,,,Hofbräu München,,,https://www.muffatwerk.de/de/gastronomie/biergarten,+49 89 458 750 10,,,,,"Mo,Tu 17:00+; We-Sa 12:00+; Su,PH 11:00+",yes,,,,0
+Munich,node/705581658,POINT (11.538614 48.128427),Cafe Bar Dalas,Ganghoferstraße,74,81373,München,pub,,,,,,,,,,,,,"Su-Th 10:00-22:00, Fr,Sa 10:00-01:00",no,,,,4
+Munich,node/712569526,POINT (11.588513 48.161904),Abseits,Marktstraße,3,80802,München,bar,,,,Löwenbräu;Franziskaner;Beck's,,,https://www.abseits-rockbar.de/,+49 89 341482,,,,,Mo-Th 17:00-01:00; Fr 17:00-02:30; Sa 14:30-02:30; Su 15:00-24:00,limited,,no,,0
+Munich,node/719808969,POINT (11.534584 48.170548),Pils- & Cocktailbar HappyCorner,Franz-Marc-Straße,10,80637,München,pub,,,,,,,,+49 89 155500,,,,,"Mo-Fr 16:30-24:00+, Sa 18:30-24:00+",limited,no,,,0
+Munich,node/729311202,POINT (11.560868 48.123709),Südstadt,Thalkirchner Straße,29,80337,München,pub,,,,,,,,+49 89 7250152,suedstadt-muc@gmx.de,,https://www.instagram.com/suedstadt_muenchen/,,Mo-Sa 18:00-22:00,limited,,,,0
+Munich,node/733568802,POINT (11.579681 48.136366),Late Nights,,,,,pub,,,,,,,,,,,,,Mo-Su 20:00-05:00,no,,,,0
+Munich,node/737889650,POINT (11.528274 48.173608),Svetlana Brautmode,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/741685984,POINT (11.5748 48.118251),Gans Woanders,Pilgersheimer Straße,13,81543,München,bar,,,,,yes,,https://www.ganswoanders.de/,,,,,,Tu-Th 10:00-22:00; Fr-Sa 10:00-24:00; Su 10:00-23:00,no,,,,2
+Munich,way/746633778,POINT (11.645926 48.122803),Himbier-Bar (Gartenhäuschen),,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/763468420,POINT (11.45765 48.149638),Volkhardts,Kaflerstraße,15,81241,München,,,,,,,,https://www.volkhardts.de/,,,,,,"Tu-Fr 11:00-13:30,14:00-19:00; Sa 09:00-14:00",yes,,,,0
+Munich,node/765644405,POINT (11.543974 48.132205),Kongressbar,Theresienhöhe,15,80339,München,bar,,,,,,,https://kongressbar.de/,+49 89 45211700,,,,,"Su,Mo off; Tu-Th 17:00-01:00, Fr-Sa 17:00-03:00",yes,yes,,,2
+Munich,node/766437745,POINT (11.566512 48.131832),Wedding Chapel,Thalkirchner Straße,12,80337,München,bar,,,,,,,,,,,,,,no,,,,0
+Munich,node/768669326,POINT (11.415034 48.15839),Sir John,Altostraße,13,81245,München,pub,,,,,,,,+49 89 8974 4975,,,,,Mo 16:00+; Tu-Sa 11:00+,no,,,,0
+Munich,node/773013666,POINT (11.528479 48.097764),Harry's,Hofmannstraße,43,,,pub,,,,,,,,,,,,,"Mo-Th 16:00-02:00, Fr 16:00-04:00, Sa 15:00-04:00, Su 12:00-02:00",limited,,,,0
+Munich,node/799737501,POINT (11.55579 48.120344),Zur Gruam,Thalkirchner Straße,114,81371,München,bar,,,,,,,,,,https://www.facebook.com/people/Zur-Gruam/100057080665678/,,,Th 20:00-04:30; Fr 22:00-06:00; Sa 22:00-06:00,,,,,0
+Munich,node/821285561,POINT (11.534753 48.121614),Miraggio,,,81373,,bar,,,,,,,,,,,,,,limited,,,,0
+Munich,way/821822141,POINT (11.571419 48.131006),M. C. Mueller,,,,,biergarten,,,,,,,,,,,,,,,,,18,0
+Munich,node/822815495,POINT (11.516975 48.118444),Romina´s,Garmischer Straße,236,81377,München,pub,,,,,,,https://www.rominas.de/,+49 89 718234,rominas@web.de,,,,"Mo-Fr 16:00-01:00, Sa,PH 18:00-01:00",,,,,3
+Munich,node/822997869,POINT (11.503948 48.142514),Bistro No.2,Fürstenrieder Straße,5,80687,München,pub,,,,,,,https://www.bistro-no2.de/,+49 89 5806677,reservierung@bistro-no2.de,,,,"Su-Th 18:00-01:00, Fr,Sa,PH 18:00-05:00",no,,,,0
+Munich,way/834106127,POINT (11.523913 48.166047),Zur Linde,,,,,biergarten,,,,,,,,,,,,,,yes,,yes,,0
+Munich,node/845394050,POINT (11.561126 48.129508),Flex,Ringseisstraße,11a,80337,München,pub,,,,Augustiner Bräu München;Tegernseer;Holzar;Beck's;Astra,,,https://www.flex-muenchen.de/,+49 89 99016788,info@flex-muenchen.de,,,,"Su-Tu 20:00-01:00, Fr-Sa 20:00-03:00",no,,,,1
+Munich,way/847576610,POINT (11.54034 48.08578),Biergarten Gasthof Hinterbrühl,,,,,biergarten,,,,,,,,,,,,,We-Su 11:45-18:00,yes,,,,0
+Munich,node/848601729,POINT (11.589726 48.133201),Muffatcafe,Zellstraße,4,81667,München,bar,,,,,,,,+49 89 45875073,,,,,,yes,yes,,,0
+Munich,node/885642813,POINT (11.63834 48.110209),Georg-Brauchle-Haus,,,,,,,,,,,,,,,,,"Georg-Brauche_Haus, Bushaltestelle 199 nach Campeon West",,,,,,0
+Munich,node/885642829,POINT (11.637324 48.110209),Georg-Brauchle-Haus,,,,,,,,,,,,,,,,,"Georg-Brauche_Haus, Bushaltestelle 199 nach Michaelibad",,,,,,0
+Munich,node/886089509,POINT (11.567866 48.131477),Ochsengarten,Müllerstraße,47,80469,München,bar,,,,Spatenbräu,,,https://ochsengarten.de/,+49 89 26 64 46,team10@ochsengarten.de,,,,"Mo-Th 22:00-03:00, Fr 22:00-04:00, Sa 22:00+",limited,,,18,0
+Munich,node/893397453,POINT (11.579027 48.183699),Riva Bar,Milbertshofener Straße,94,80807,München,pub,,,,Augustiner Bräu München,,,,+49 89 350 953 20,rivasfoods@gmail.com,,,,"Tu-Sa 11:30-14:30,16:30-21:30",,,,,0
+Munich,node/897050016,POINT (11.584972 48.139465),Lehel Bar Food Club,Karl-Scharnagl-Ring,6,80539,München,bar,,,,,,,https://www.lehel-bar.de/,+49 89 2111176,info@lehel-bar.de,,,,Mo-Sa 11:00-03:00,limited,,,,0
+Munich,node/900474236,POINT (11.556712 48.142643),Shakespeare,Seidlstraße,2a,80335,München,bar,,,,,,,https://www.shakespeare-muenchen.de,+49 89 997 457 70,info@cafe-bar-shakespeare.de,,,Täglich Happy Hour 19:00 - 21:00,"Su,Mo-Th 12:00-01:00; Fr-Sa 12:00-03:00",no,,,,0
+Munich,node/903668883,POINT (11.59773 48.127591),Vivo!,Lothringer Straße,11,81667,München,pub,,,,Augustiner Bräu München,,,https://www.vivo-muenchen.de,+49 89 4485035,,,,,"Su-We 18:00-01:00, Th-Sa 18:00-02:00",limited,,,,2
+Munich,node/939517977,POINT (11.500516 48.133255),Bierbauch,,,,,pub,,,,,,,,,,,,,Mo-Sa 11:00-22:00+,limited,,,,0
+Munich,node/944696815,POINT (11.569335 48.134054),Foyer,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,way/953756891,POINT (11.661005 48.106779),Braunmillerweg,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/953756892,POINT (11.661 48.107176),Braunmillerweg,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/954815310,POINT (11.570172 48.126192),Weinbar Garbo,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/965038459,POINT (11.575346 48.14811),Coeur,Theresienstraße,38,80333,München,bar,,,,Augustiner Bräu München,,,,+49 89 284168,,,,,We-Su 16:00-24:00,no,,,,0
+Munich,node/985008101,POINT (11.555565 48.128831),Mister B's,Herzog-Heinrich-Straße,38,80336,München,bar,,,,,,,https://mister-bs.bar/,,,,https://www.instagram.com/misterbs_,,Tu-Su 20:00-03:00,no,,,,0
+Munich,node/985011349,POINT (11.57651 48.128971),Zephyr Bar,,,,,bar,,,,,,,,,,,,,"Mo-Su,PH 20:00-01:00",no,,,,0
+Munich,node/1005405909,POINT (11.575366 48.150546),Suzy B.,Schellingstraße,32,80799,München,bar,,,,,,,,,,,,,We-Sa 18:00+,,,,,0
+Munich,node/1030513925,POINT (11.576075 48.13115),Holy Home,,,,,bar,,,,,,,,,,,,,,limited,,,,0
+Munich,way/1033419889,POINT (11.595484 48.102659),St. Benno Einkehr,Stadelheimer Straße,71,81549,München,biergarten,,,,,,,https://st-benno-einkehr.de/,+49 89 6900855,,,,,Tu-Su 10:00-23:00; Mo off,limited,no,,,0
+Munich,node/1054372529,POINT (11.53348 48.114253),Passauer Stüberl,Passauerstraße,24,81369,München,pub,,,,,,,,,,,,,Mo-We 16:00-24:00; Th off; Fr-Su 15:00-01:00,limited,,,,4
+Munich,way/1056522783,POINT (11.556921 48.191464),,,,,,biergarten,,,,,,,,,,,,,We-Sa 10:00-18:00,,,,,0
+Munich,node/1071489389,POINT (11.573158 48.129771),Frau Bartels,Klenzestraße,51,80469,München,bar,,,,,,,https://www.fraubartels.de/,,,,,,"Mo-Th 18:00-01:00, Fr,Sa 19:00-02:00",limited,,,,0
+Munich,node/1075266540,POINT (11.568493 48.136706),Favorit Bar,Damenstiftstraße,12,80331,München,bar,,,,,,,,,,,,,Mo-Su 20:30-02:00,limited,,no,,0
+Munich,node/1077024233,POINT (11.531709 48.13997),Café Inbar,Landsberger Straße,123,80339,München,pub,,,,,,,,,,,,,,no,,,,0
+Munich,node/1077024237,POINT (11.531101 48.139779),Cafe BALU,Astallerstraße,2,80339,München,pub,,,,,,,,,,,,,,no,,,,0
+Munich,node/1080040387,POINT (11.61931 48.137535),Insider,,,,,pub,,,,,,,,,,,,,,,,,,0
+Munich,way/1080826199,POINT (11.584018 48.122535),Clementine-von-Braunmühl-Weg,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/1083291551,POINT (11.570523 48.116314),World of Wine,Hans-Mielich-Platz,1,81543,München,,,,,,,,https://www.world-of-wine.de/,,,,,,Tu-Fr 10:00-19:00; Sa 10:00-14:00,no,,,,2
+Munich,way/1086932931,POINT (11.55264 48.180151),OlyLounge,,,,,bar,,,,,,,,,,,,,,,,no,,0
+Munich,way/1086932932,POINT (11.552847 48.180042),Bierstube,,,,,pub,,,,,,,https://www.oly-dorf.de/bierstube-ueberblick/,,,https://www.facebook.com/bierstube/,,,Mo-We 19:00-23:30; Th-Sa 19:00-00:30,yes,,no,,0
+Munich,way/1090351066,POINT (11.502314 48.167775),Café Biergarten im Hölzl,In den Kirschen,30,,,restaurant,,,,,,,https://the-tent.com/service,,,,,,"PH,Mo-Su 23:00-07:00",yes,,outside,,0
+Munich,node/1091830676,POINT (11.556511 48.127756),,Kapuzinerstraße,4,80337,München,pub,,,,,,,,,,,,,,,,,,0
+Munich,node/1092617225,POINT (11.564116 48.182494),Graf Konrad Stüberl,Graf-Konrad-Straße,20,,München,pub,,,,,,,,,,,,,,,,,,0
+Munich,node/1121257789,POINT (11.496299 48.188651),Club 29 (alkohoholfreier Biergarten),Weiherweg,6,80997,München,biergarten,,,,,,,https://club29ev.de/garten-am-weiherweg/,,,,,,,,,,,0
+Munich,node/1126123144,POINT (11.601804 48.127066),Bar Lounge 360,,,,,pub,,,,,,,,,,,,,"Su-Th 14:00-03:00, Fr,Sa 14:00-05:00",limited,,,,0
+Munich,node/1126123160,POINT (11.601033 48.127591),P. Bar - Das Provisorium,Gravelottestraße,7,81667,München,pub,,,,,,,,,,,,,"Mo-Fr 12:00-14:00, Mo-Th 18:00-01:00, Fr 18:00-02:00, Fr-Sa 18:00-03:00",no,,,,0
+Munich,node/1127028075,POINT (11.578231 48.11403),Bamboleo,Tegernseer Landstraße,96,81539,München,bar,,,,,,,,,,,,"Das Riffraff ist seit dem 07.10.2023 Geschichte. Aber liebe Sechziger, Anfang 2024 wird Euer Vereinslokal als Bamboleo wieder eröffnet. Quelle: https://sz.de/1.6273398","""Öffnet 2024""",yes,no,,,0
+Munich,node/1127919937,POINT (11.569262 48.187175),Spartans Dart Pub,Korbinianstraße,61,,,pub,,,,,,,,+49893545625,,,,,"Mo, Tu 10:00-22:00; We 10:00-00:00; Th 10:00-23:30; Fr, Sa 10:00-01:00; Su 09:00-23:30",no,no,,,0
+Munich,node/1134205431,POINT (11.575431 48.134504),Barissimo,Blumenstraße,1,80331,München,bar,,,,,,,https://www.barissimo-viktualienmarkt.de,+49 89 840 066 76,veranstaltung@barissimo-viktualienmarkt.de,,,,Mo-We 11:30-22:00; Th-Sa 11:30-24:00; Su off,,,,,0
+Munich,node/1135836139,POINT (11.547627 48.123563),Times,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/1135836146,POINT (11.546492 48.123342),Best Cafe Bar,Lindwurmstraße,96,80337,München,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/1139267395,POINT (11.478962 48.185897),Zur Angerlohe,Wiebekingstraße,2,80997,München,pub,,,,,,,,,,,,,"We 14:00-22:00; Fr,Sa 10:00-24:00; Th,Su-Tu 10:00-22:00",,,,,0
+Munich,node/1144035806,POINT (11.542379 48.137314),Bei Kula,,,,,pub,,,,,,,,,,,,,"Mo-Sa 14:00-22:00, Su,PH 15:00-22:00",,,,,0
+Munich,node/1144035833,POINT (11.542369 48.137371),Die kleine Kneipe,,,,,pub,,,,,,,,,,,,,,no,,,,0
+Munich,node/1144618770,POINT (11.495061 48.141083),Torbogenstüberl,,,,,pub,,,,,,,,,,,,,,no,,,,0
+Munich,node/1144741796,POINT (11.573822 48.140204),Palais-Keller,,,,,pub,,,,,,,https://www.bayerischerhof.de/de/erleben-geniessen/restaurants-bars/restaurants/palais-keller.html,,,,,,Su-Sa 11:00-01:00,,,,,0
+Munich,way/1149995645,POINT (11.531161 48.176504),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/1159815184,POINT (11.576198 48.134146),Di Bar,,,,,bar,,,,,,,,,,,,,Tu-Sa 15:00-01:00,,,,,0
+Munich,node/1160565499,POINT (11.586161 48.157634),Shamrock,Trautenwolfstraße,6,80802,München,pub,,,,various,,,,,,,,,"Mo 19:30-01:00, Tu 19:00-02:00, We 19:00-01:00, Th 19:00-01:00, Fr 18:00-03:00, Sa 18:00-03:00",no,,,,0
+Munich,way/1182609996,POINT (11.53772 48.176283),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/1189028534,POINT (11.531705 48.137947),Bruno's,Westendstraße,138,80339,München,pub,,,,,,,,,,,,,,no,,,,0
+Munich,node/1189028562,POINT (11.531934 48.137948),Café Bar bei Pedja,Westendstraße,136,80339,München,bar,,,,,,,,,,,,,,,,,,0
+Munich,way/1191402326,POINT (11.556554 48.119518),Biergarten Alte Utting,,,,,,,,,,,,https://alte-utting.de,,,,,,,,,,,0
+Munich,node/1193046539,POINT (11.5752 48.128751),Flaschenöffner,,,,,pub,,,,,,,,,,,,,Mo-Su 17:00-05:00,no,,,,0
+Munich,node/1217150947,POINT (11.597295 48.168805),Brunnwart,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Munich,node/1242139183,POINT (11.595227 48.126713),Balan,Balanstraße,21,81669,München,pub,,,,Maierbräu Altomünster,,,https://das-balan.de/,+49 89 55288342,,,,,Tu-Th 18:00-24:00; Fr-Sa 19:00-01:00,no,,,,0
+Munich,node/1286263641,POINT (11.541718 48.138409),San Paolo | Bar Café,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/1303825973,POINT (11.60116 48.127255),Taverna Omonoia,,,,,pub,,,,Spaten,,,,,,,,,Mo-Su 10:00-02:00,limited,,,,0
+Munich,node/1303938655,POINT (11.599701 48.127953),Paris36,Pariser Straße,36,81667,München,,,,,,,,https://www.paris36.de/,+49 89 447 05 38,info@paris36.de,,,"Weinhandlung, Essig und Öl",Mo 13:00-19:00; Tu-Fr 12:00-19:00; Sa 10:30-18:00,no,,,,0
+Munich,node/1304149223,POINT (11.603308 48.129777),Belfort 7,,,,,pub,,,,,,,,+49 89 326 542 73,info@belfort7.com,https://www.facebook.com/profile.php?id=100057661789701,,Musik-Cafe-Bar,,limited,,,,0
+Munich,way/1315121796,POINT (11.425322 48.162368),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Munich,way/1315305080,POINT (11.536704 48.176385),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/1321873902,POINT (11.524923 48.125199),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Munich,node/1329567304,POINT (11.640899 48.087439),La Locandiera,,,,,biergarten,,,,,,,,,,,,,"Mo-Su 11:30-15:00, 18:00-23:30",limited,,yes,,0
+Munich,node/1333964906,POINT (11.607124 48.133133),Walter Braun Matratzen Obermühle,,,,,,,,,,,,,,,,,,"Mo,We-Fr 10:00-13:00,15:00-18:00; Sa 10:00-14:00",,,,,0
+Munich,node/1334088643,POINT (11.601947 48.133594),WunderBar,Kirchenstraße,28,,München,pub,,,,Augustiner Bräu München,,,,,,,,,Mo-Sa 12:00-24:00,no,,,,0
+Munich,node/1338396731,POINT (11.594808 48.13373),Crêperie Bernard et Bernard,Innere Wiener Straße,32,81667,München,bar,,,,,,,https://www.creperie-bernard.de/,+49 89 4801173,creperie.bernard@gmail.com,,,,Tu-Sa 17:00-23:30,no,,,,0
+Munich,node/1342594684,POINT (11.57533 48.134049),Garçon,Utzschneiderstraße,4,80469,München,bar,,,,,,,https://bar-garcon.de/,,info@bar-garcon.de,,,,Mo-Sa 11:00-00:00; Su 11:00-17:00,no,,,,0
+Munich,node/1343582414,POINT (11.586545 48.16646),Bierbatterie,Leopoldstraße,118,80802,München,pub,,,,,,,,,,,,,,,,,,0
+Munich,node/1346898554,POINT (11.567382 48.132223),Rendezvous,Müllerstraße,54,80469,München,bar,,,,,,,,+49 89 2604125,,https://www.facebook.com/bar.rendezvous.96/,,,Mo-Sa 18:00+; Su 20:00+,limited,,no,,0
+Munich,node/1346916279,POINT (11.5648 48.131046),Camp,Reisingerstraße,15,80337,München,pub,,,,,,,https://camp-munich.de/,+49 89 2323 0830,,https://www.facebook.com/profile.php?id=61573710458584,https://www.instagram.com/camp_munich/,,"Su-Th 20:00-02:00, Fr-Sa 20:00-03:00",no,,,,0
+Munich,node/1346984915,POINT (11.575511 48.133923),Bum Bum,Utzschneiderstraße,8,80469,München,bar,,,,,,,,+49 89 2609393,,,,,,no,,,,0
+Munich,node/1346990840,POINT (11.569836 48.130006),Drei Glöcklein,Hans-Sachs-Straße,8,80469,München,bar,,,,,,,,+49 89 266175,,,,,"Mo-Fr 15:00-03:00, Sa-Su 11:00-03:00",no,,,,0
+Munich,node/1357982129,POINT (11.579317 48.121622),Brewsli,Taubenstraße,2,81541,,pub,,,,,,yes,https://brewsli.de/,,,,,,Tu-Th 17:00-24:00; Fr 17:00-00:00; Sa 16:00-00:00; Su 16:00-23:00,no,,outside,,0
+Munich,node/1358014327,POINT (11.578965 48.121748),Ösiwein,Falkenstraße,29,81541,,,,,,,,,https://www.oesiwein.de/,,,,,,"Th 14:00-17:00; Fr 14:00-19:00; Sa[1] 11:00-16:00 || ""und nach Vereinbarung""",no,,,,0
+Munich,node/1371548072,POINT (11.549928 48.163358),Zum Biereder,,,,,biergarten,,,,,,,,,,,,,,limited,,,,0
+Munich,way/1372513614,POINT (11.505596 48.155355),Schloss Biergarten,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Munich,node/1373748260,POINT (11.576581 48.131146),Bergwein,Corneliusstraße,18,80469,München,,,,,,,,https://www.bergwein-shop.com/,+49 89 20206808,post@bergwein.com,,,,Tu-Fr 12:00-20:00; Sa 10:00-18:00,no,,,,0
+Munich,node/1377864797,POINT (11.576573 48.186379),LIVE Sportsbar,Oberhofer Platz,4,80807,München,bar,,,,,,,,,,,,,Mo-Su 09:00-05:00,limited,,,,10
+Munich,node/1384676475,POINT (11.585123 48.154255),Alte Galerie,Kaulbachstraße,75,80802,München,bar,,,,,,,https://www.alte-galerie.de,+49 89 349887,info@alte-galerie.de,,,,"Fr,Sa,PH-1 day 20:00+",no,,,,0
+Munich,way/1390987592,POINT (11.51404 48.170844),Röth-Linde in Nederling,Nederlinger Straße,80,80636,München,biergarten,,,,yes;hofbräu_münchen,,,,+49 15561 832721,,,,,"29.04.2025-28.09.2025 Mo off; 29.04.2025-28.09.2025 Tu-Fr 12:00-21:30; 29.04.2025-28.09.2025 Sa,PH 11:00-22:00; 29.04.2025-28.09.2025 Su 11:00-21:00",,,,,3
+Munich,node/1395147784,POINT (11.580944 48.134505),Wirtshaus im Braunauer Hof,Frauenstraße,40,80469,München,restaurant,,,,Paulaner,,,https://braunauer-hof.com/,+49 89 223613,,,,,Mo-Sa 10:00-24:00; Su 10:00-23:00,,,,,0
+Munich,node/1396094605,POINT (11.585537 48.160268),LEO 49 Bar & Restaurant,Leopoldstraße,49,80802,München,bar,,,,,,,,,,,,,"Mo-Su,PH 11:30-23:00+",,,,,0
+Munich,node/1396097882,POINT (11.584508 48.158208),Orient Garden,Leopoldstraße,27,80802,München,bar,,,,,,,,,,https://de-de.facebook.com/orientgardenmuc,,,,no,,,,0
+Munich,node/1396114309,POINT (11.582544 48.154318),Bar Giornale,Leopoldstraße,7,80802,München,bar,,,,,,,https://www.bar-giornale.com/,,,,,,"Mo-Th 08:00-01:00, Fr,Sa 08:00-02:00, Su 09:00-24:00",limited,,,,0
+Munich,node/1398770956,POINT (11.559506 48.127044),Little Odessa,Tumblingerstraße,16,80337,München,pub,,,,,,,,,,,,,,,,,,0
+Munich,way/1402454157,POINT (11.614564 48.114712),Alter Wirt,Aribonenstraße,6,,München,biergarten,,,,,,,https://alterwirt-muenchen.de/,+49 89 6891862,,,,,Mo-Su 09:00-00:00,,,,,0
+Munich,node/1406092553,POINT (11.57549 48.155295),Pomp,Georgenstraße,50,80799,München,bar,,,,Löwenbräu,,,https://www.pomp-bar.de/,+49 89 89085456,,,,,Th-Sa 20:30-04:30,no,,,,0
+Munich,way/1411781346,POINT (11.498364 48.168312),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Munich,way/1420303677,POINT (11.535811 48.176289),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/1421993409,POINT (11.52769 48.176328),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/1423348445,POINT (11.522885 48.176263),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/1423348446,POINT (11.522293 48.176045),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,way/1423348449,POINT (11.522536 48.175902),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/1425994541,POINT (11.459371 48.14632),Cafe Noel,,,,,bar,,,,,,,,,,,,,Mo-Su 08:00-02:00,no,,,,0
+Munich,way/1446551154,POINT (11.499284 48.117021),Barbierstraße,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/1448159484,POINT (11.648595 48.139573),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Munich,way/1459471553,POINT (11.529489 48.176522),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/1488265584,POINT (11.612724 48.160018),Elisabeth Braun,Mauerkircherstraße,93,81925,München,,,,,,,,,+49 89 998 888 43,,,,,,,,,,0
+Munich,node/1492596484,POINT (11.626484 48.132122),La Cantinetta di Sergio Bolzan,Neumarkter Straße,77,81673,,cafe,,,,,,,https://www.bolzan.de/,,,,,,,limited,,,,0
+Munich,node/1505210640,POINT (11.539874 48.11645),Seven,Am Harras,2,81373,München,bar,,,,,,,,+49 172 8914065,,,,,Su-Fr 15:00-23:00,yes,,,,4
+Munich,node/1514847459,POINT (11.576943 48.129077),unhaltbar,Baaderstraße,49,80469,München,bar,,,,,,,http://www.unhaltbar.info/,,,,,,,no,,,,0
+Munich,way/1528680376,POINT (11.672332 48.133954),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Munich,way/1530005128,POINT (11.561981 48.142446),Das Buchberg,,,,,biergarten,yes,,,,,,,,,,,,Mo-Su 12:00-23:00,no,no,,,0
+Munich,node/1530317248,POINT (11.629086 48.174313),Freisinger Hof,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Munich,node/1553137289,POINT (11.581574 48.11759),Süß & Bierl - Küchen und Ambiente,Edelweißstraße,14,81541,München,,,,,,,,,,,,,,Mo-Fr 10:00-17:00,limited,,,,0
+Munich,node/1573753304,POINT (11.575879 48.150403),Soda,,,,,pub,,,,,,,,,,,,,Mo-Su 07:45-03:00,limited,,,,2
+Munich,node/1575080557,POINT (11.570517 48.118267),Sonnen Stüberl,Obere Weidenstraße,1,81543,München,pub,,,,,,,,,,,,,,,,,,0
+Munich,node/1576479379,POINT (11.653829 48.099221),BO12,Gerhart-Hauptmann-Ring,54,81737,München,bar,,,,,,,http://www.bo12.de,,,,,,"Su-Th 10:00-24:00, Fr,Sa 10:00-02:00",yes,,,,0
+Munich,node/1578283627,POINT (11.579526 48.131834),Pacific Times,Baaderstraße,28,80469,München,bar,,,,,,,http://pacific-times.de/pacific-times.de/HOME.html,+49 89 2023 9470,08920239470@t-online.de,,,,Mo-Th 18:00-01:00; Fr-Sa 18:00-02:00,no,,,,0
+Munich,node/1580665397,POINT (11.554256 48.222732),Kindergarten Heinrich-Braun-Weg 15,Heinrich-Braun-Weg,15,80933,München,kindergarten,,,,,,,https://stadt.muenchen.de/service/info/kindertagesstatte-heinrichbraunweg-15/1052537/,,,,,,Mo-Fr 07:30-17:00,,,,3,0
+Munich,node/1586862517,POINT (11.599982 48.128037),Polka,,,,,bar,,,,,,,,,,,,,"We 20:00-01:00, Th-Sa 20:00-03:00",no,,,,0
+Munich,node/1600591673,POINT (11.572412 48.197544),Galerie Stüberl,Knorrstraße,170,80937,München,pub,,,,Augustiner Bräu München,,,,,,,,,,,,,,0
+Munich,node/1609251470,POINT (11.530519 48.13785),West-Pol,Westendstraße,144,80339,München,bar,,,,,,,,+49 89 74367003,,,,,,,,,,0
+Munich,node/1611045331,POINT (11.530639 48.140044),Infinity,Landsberger Straße,133,80339,München,pub,,,,,,,,,,,,,,no,,,,0
+Munich,node/1647739702,POINT (11.583815 48.197624),Rubin Cafe,Wenzelstraße,2,80937,München,pub,,,,,,,,,,,,,,,,,,0
+Munich,node/1684867419,POINT (11.53446 48.134856),Dream,,,,,bar,,,,,,,,,,,,,"Mo-Su,PH 08:00-24:00",no,,,,0
+Munich,node/1706937739,POINT (11.491336 48.120204),Cafebar 007,Stiftsbogen,43,81375,München,bar,,,,,,,https://cafebar007.de/,,,,,,"Su-Th 09:30-23:00, Fr,Sa 09:30-01:00",yes,,,,0
+Munich,node/1712479524,POINT (11.541875 48.138195),minibar,Ligsalzstraße,2,80339,München,bar,,,,,,,https://www.minibarmuenchen.de/,,,,,,"Th 20:00+ || ""An Themenabenden geöffnet. Siehe: http://www.minibarmuenchen.de/index.php?article_id=4""",no,,,25,0
+Munich,node/1714858026,POINT (11.504765 48.112389),Zur Wald-Hütt'n,,,,,pub,,,,,,,,,,,,,"Tu-Su,PH 15:00-01:00",,,,,0
+Munich,node/1717777105,POINT (11.57762 48.130409),Bar Färber,Corneliusstraße,34,80469,München,bar,,,,,,,,+49 89 2018 0713,,,,,We-Th 20:00-2:00; Fr-Sa 20:00-3:00,no,,,,0
+Munich,node/1741402186,POINT (11.504175 48.082536),No-Limit,Drygalski-Allee,117,,München,pub,,,,,,,,,,,,,"Mo-Fr 14:00-05:00, Sa-Su 10:00-05:00",,,,,0
+Munich,node/1742702518,POINT (11.622883 48.145848),Bei Montis,,,,,biergarten,,,,,,,,,,,,,"Mo-Su 12:30-22:00; Mo off ""nur bei schlechtem Wetter""",limited,,,,0
+Munich,node/1744397055,POINT (11.482801 48.095159),Biergarten Einkehr zur Schweige,,,,,biergarten,,,,Spaten,,,,,,,,,"Mo-Fr 14:00-22:00; Sa,Su 11:00-22:00; PH 11:00-22:00",yes,,,,0
+Munich,node/1750914585,POINT (11.525983 48.076832),Barocco,Sollner Straße,50,81479,München,bar,,,,,,,https://barocco-munich.com/,,,,,,Tu-Sa 19:01-01:00,yes,,,,0
+Munich,node/1765873868,POINT (11.528354 48.099624),Pinte,Boschetsrieder Straße,79,81379,,pub,,,,,,,,,,,,,Mo-Su 10:00-23:00; PH 10:00-23:00,no,,,,0
+Munich,node/1774804579,POINT (11.614509 48.139486),Spontan Cocktail-Bar,,,,,pub,,,,,,,,,,,,,"Mo-Th 14:00-01:00, Fr,Sa 14:00-03:00, Su 14:00-24:00",,,,,0
+Munich,node/1777734201,POINT (11.40253 48.136991),Zum Gustl,,,,,biergarten,,,,,,,,,,,,,Tu-Fr 15:00-21:00; Sa-Su 11:00-21:00,,,,,0
+Munich,node/1781851351,POINT (11.61936 48.13772),Sailor's,,,,,pub,,,,,,,,,,,,,,no,,,,0
+Munich,node/1781851357,POINT (11.619142 48.137488),Soul,,,,,pub,,,,,,,,,,,,,,,,,,0
+Munich,node/1788450149,POINT (11.531016 48.099697),Pils pub B-fifty-Two,Boschetsrieder Straße,63,,,pub,,,,,,,,,,,,,"Mo-Sa 09:00-01:00, Su 09:00-01:00",limited,,,,0
+Munich,node/1813636685,POINT (11.562492 48.130357),La Claque,,,,,bar,,,,,,,,,,,,,,no,,,,0
+Munich,node/1813637581,POINT (11.560759 48.128864),Getränkefachmarkt,Waltherstraße,22,80337,München,,,,,,,,,,,,,,"Mo-Th 09:15-15:00; Fr 09:15-12:15,15:00-19:00; Sa 09:15-14:00; Su,PH off",no,,,,0
+Munich,node/1813638199,POINT (11.564729 48.151654),Giesinger Stehausschank,Augustenstraße,90,80798,München,bar,,,,Giesinger,,,https://www.giesinger-braeu.de/,,,,,,Tu-Sa 17:00-24:00,,,,,0
+Munich,node/1813638477,POINT (11.558545 48.128685),Zum Aloisius,Häberlstraße,3,80337,München,pub,,,,,,,,,,,,,Mo-Sa 10:00-22:00; Su 01:00-18:00+,limited,,,,0
+Munich,node/1813639167,POINT (11.534789 48.155414),Muffins 'n' More,,,,,pub,,,,,,,,,,,,,"We,Th 15:07-22:00; Fr,Sa 12:07-22:00; Su 12:07-20:00",yes,,,,0
+Munich,node/1813639260,POINT (11.568808 48.152197),Maxe Belle Spitz,Schellingstraße,91,80799,München,bar,,,,,,,https://maxebellespitz.bar/,,info@maxebellespitz.bar,,,,We-Th 20:00-01:00; Fr-Sa 20:00-03:00,,,,,0
+Munich,node/1813641328,POINT (11.575757 48.12876),Prince Pub,,,,,pub,,,,,,,,,,,,,Tu-Su 17:00-05:00,limited,,,,0
+Munich,node/1813641345,POINT (11.575904 48.129938),Hangman,Reichenbachstraße,37,80469,München,bar,,,,,,,,,,,,,,no,,,,0
+Munich,node/1813641351,POINT (11.575958 48.130171),Für Freunde,,,,,bar,,,,,,,,,,,,,"Mo-Th 18:00-01:00, Fr,Sa 17:00-02:00",no,,,,0
+Munich,node/1813648645,POINT (11.57716 48.147379),Aquitaine Vinothèque,Theresienstraße,19,80333,München,bar,,,,,,,https://aquitaine.de/,+49 89 284 028,service@aquitaine.de,,,,"We-Fr 15:00-20:00; Sa,Su,PH off",no,,,,0
+Munich,node/1813648932,POINT (11.596046 48.130581),Zum Roten Knopf,Steinstraße,63,81667,München,bar,,,,,,,https://zumrotenknopf.wordpress.com/,+49 89 9545 5938,,,,,"Tu-Th 18:00-02:00, Fr,Sa 18:00-03:00",no,,,,0
+Munich,node/1813652342,POINT (11.60713 48.130598),Meandros,,,,,pub,,,,,,,,,,,,,,limited,,,,0
+Munich,node/1823097248,POINT (11.576385 48.154292),Kurfürstenstüberl,Kurfürstenstraße,8,80799,München,pub,,,,,,,,,,,,,Mo-Sa 10:00-02:00; Su 10:00-00:00,limited,,,,0
+Munich,node/1832150831,POINT (11.576347 48.15514),Marx Brautmoden,Georgenstraße,46,80799,München,,,,,,,,,+49 89 34086573,,,,,Mo-Fr 10:00-19:00; Sa 10:00-13:00,no,,,,0
+Munich,node/1832289154,POINT (11.437222 48.17596),Paulaner Brauerei,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/1834349558,POINT (11.575078 48.158118),Weinhandlung Nordend-Quelle,Nordendstraße,54,80801,München,,,,,,,,https://www.nordendquelle.de/,+49 89 2710 350,nordendquelle@t-online.de,,,,"Mo-Fr 08:00-19:00, 09:00-18:00; Sa 08:00-13:30",limited,,,,0
+Munich,node/1836234731,POINT (11.599177 48.125235),Tap-House Munich,Rosenheimer Straße,108,81669,,bar,,,,,,,https://taphouse-münchen.de,+49 89 62231187,,,,,Mo-Th 18:00-00:00; Fr-Sa 18:00-01:00,limited,no,,,2
+Munich,node/1840355398,POINT (11.507748 48.180405),Schnulli's Bierstüberl,Bunzlauer Straße,14,80992,München,pub,,,,Löwenbräu,,,,,,,,,"Mo-Th 14:00-24:00; Fr 12:00-24:00; Sa 16:00-24:00; Su, PH off",no,,,,0
+Munich,node/1840387243,POINT (11.508702 48.180803),Poststüberl,Bunzlauer Straße,22,80992,München,pub,,,,,,,,+49 89 140 3376,,,,,,,,,,0
+Munich,node/1846539081,POINT (11.577692 48.135057),L'Aperitivo,Westenriederstraße,13,80331,München,bar,,,,,,,https://www.laperitivo.de/,+49 89 12306580,,,,,"Mo-Sa 10:00-23:00+; Su,PH 08:00-24:00 off ""Don’t cut off open end""",no,,,,0
+Munich,node/1890925368,POINT (11.574187 48.150658),gehölz,Schellingstraße,45,80799,München,bar,,,,,,,,,,,,,"Tu-Th 17:00-24:00, Fr-Su 17:00-03:00",,,,,0
+Munich,node/1906966303,POINT (11.582054 48.117735),70er,Tegernseer Landstraße,34,,,pub,,,,,,,,,,,,,,yes,,,,0
+Munich,node/1950504092,POINT (11.579942 48.138246),Enoteca Goldig,,,,,,,,,,,,,,,,,,,yes,,,,0
+Munich,node/1973760268,POINT (11.559635 48.149554),RAW,Schleißheimer Straße,28,80333,München,pub,,,,,,,,,,https://www.facebook.com/RAW.Munich/,,,We-Sa 20:00-01:00,yes,,,,0
+Munich,node/1997026129,POINT (11.56507 48.133832),Corleone,Sendlinger-Tor-Platz,7,80336,München,bar,,,,,,,https://www.corleone.cc/,,,,,,Mo 18:00-01:00; Tu-Th 17:00-01:00; Fr 17:00-03:00; Sa 20:00-03:00; Su off,,,,,0
+Munich,node/2015822730,POINT (11.542344 48.119471),Giesinger Stehausschank,Oberländerstraße,31,81371,München,bar,,,,Giesinger,,,,,,,,,Tu-Sa 16:00-24:00,no,,,,0
+Munich,node/2015833278,POINT (11.545563 48.120189),Kneipe A21,Aberlestraße,21,,,pub,,,,,,,,,,,,,,,,,,0
+Munich,node/2018095729,POINT (11.578489 48.113874),Altgiesing,Tegernseer Landstraße,93,81539,München,bar,,,,,,,,,,https://www.facebook.com/altgiesing,,,We-Th 19:00-00:00; Fr-Sa 19:00-03:00,yes,no,,,0
+Munich,node/2018137182,POINT (11.578734 48.115223),Die Kleine Kneipe,Silberhornstraße,8,,,pub,,,,,,,,,,,,,"Mo,Su off; Tu-Th 13:00-22:00; Fr-Sa 11:00-22:00",no,,,,0
+Munich,node/2098997762,POINT (11.556502 48.149758),barbarbar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/2143172409,POINT (11.581069 48.135354),Riva Bar,Tal,44,80331,München,pub,,,,,,,https://www.rivabar.de/,+49 89 220240,info@rivabar.de,,,,Mo-We 08:00-00:00; Th-Fr 08:00-01:00; Sa 09:00-01:00,no,,,,0
+Munich,node/2203236261,POINT (11.541617 48.137489),Zur Schwalbe Biergarten,,,,,biergarten,,,,,,,,,,,,,"Mo-Fr 15:00-23:00; Sa,Su 15:00-23:00",yes,,,,0
+Munich,node/2255941559,POINT (11.557618 48.132827),Bar Gabanyi,,,,,bar,,,,,,,http://www.bar-gabanyi.de,+49 89 5170 1805,mail@bar-gabanyi.de,,,,"We,Th 18:00-03:00, Fr,Sa 20:00-05:00, Su 20:00-01:00",no,,,,0
+Munich,node/2255943604,POINT (11.578165 48.132572),el Tato,Buttermelcherstraße,9,80469,München,bar,,,,,,,https://el-tato.bar/,,,,,,,,,,,0
+Munich,node/2268558020,POINT (11.461298 48.176411),Biergarten Insel Mühle,Von-Kahr-Straße,87,80999,München,biergarten,,,,,,,https://insel-muehle.com/,+49 89 810 10,,,,,Mo-Th 15:00-22:00; Fr-Su 11:00-22:00,limited,no,,,0
+Munich,node/2276022983,POINT (11.391103 48.199826),Fischessen am Forellenhof,,,,,biergarten,,,,,,,,,,,,,"May-Aug: Mo,Tu off; We-Fr 17:00-20:00",,,,,0
+Munich,node/2290921211,POINT (11.546115 48.164274),Kindergarten Lily-Braun-Weg 14,Lily-Braun-Weg,14,80637,München,kindergarten,,,,,,,https://kitafinder.muenchen.de/elternportal/de/einrichtungen/liste/ergebnisse/5710/details?standort=Lily-Braun-Weg&p=1,+49 89 15919301,kita.lilybraunweg.14@muenchen.de,,,,Mo-Th 07:30-17:00; Fr 07:30-16:00,,,,3,0
+Munich,node/2290921212,POINT (11.546206 48.164336),Kindergarten Lily-Braun-Weg 16,Lily-Braun-Weg,16,80637,München,kindergarten,,,,,,,https://kitafinder.muenchen.de/elternportal/de/einrichtungen/liste/ergebnisse/5711/details?standort=Lily-Braun-Weg&p=1,+49 89 15919300,kita.lilybraunweg.16@muenchen.de,,,,Mo-Th 07:30-17:00; Fr 07:30-16:00,,,,3,0
+Munich,node/2297885558,POINT (11.576618 48.147283),Bar Sehnsucht,Amalienstraße,26,80333,München,bar,,,,,,,,+49 89 28755088,,https://www.facebook.com/BarSehnsucht/,,,"Tu,We 18:00-01:00, Th 18:00-02:00, Fr,Sa 18:00-03:00, Su 18:00-01:00",no,,,,4
+Munich,node/2298170566,POINT (11.503207 48.082619),Bistro 118,,,,,pub,,,,,,,,,,,,,,yes,,,,0
+Munich,node/2305252691,POINT (11.579836 48.128646),Kulturstrand,,,,,bar,,,,,,,https://kulturstrand.org/,,,,,,closed,,,,,0
+Munich,node/2335043458,POINT (11.565626 48.153475),zum Jagerhansl,Augustenstraße,107,80798,München,bar,,,,,,,,,,,,,"Mo-Sa 10:30-02:00, Su 10:30-24:00",no,,,,0
+Munich,node/2335073940,POINT (11.562418 48.148574),Collector's Corner,Augustenstraße,45,80333,München,,,,,,,,,,,,,,"Mo-Th 07:00-23:00; Fr 07:00-24:00; Sa 08:00-24:00; PH,Su 09:00-23:00",limited,no,,,0
+Munich,node/2335083230,POINT (11.567683 48.130114),München '72,Holzstraße,16,80469,München,pub,,,,,,,https://muenchen72.de/,+49 89 97343785,buero@muenchen72.de,,,,Mo-Th 17:00-01:00; Fr 17:00-02:00; Sa 09:00-02:00; Su 09:00-22:00,no,,outside,,3
+Munich,node/2335083856,POINT (11.549878 48.119565),Landshuter Bräustüberl,,,,,bar,,,,,,,,,,,,,"Mo-Su,PH 11:00-22:00+",no,,,,0
+Munich,node/2338452429,POINT (11.465202 48.145684),Evelyn Braun,,,,,,,,,,,,,+49 89 881405,,,,,"Mo 13:00-18:00; Tu-Fr 08:30-18:00; Sa,PH off",,,,,0
+Munich,node/2367517746,POINT (11.623069 48.132693),furore & rotWEISSrot,Neumarkter Straße,55,81673,,,,,,,,,https://www.weinfurore.de/,,,,,,,,,,,0
+Munich,node/2405813690,POINT (11.523773 48.181279),Moosacher Weinkistl,Seydlitzstraße,23,80992,,,,,,,,,,,,,,,We-Fr 15:00-18:00; Sa 09:00-12:00,,,,,0
+Munich,node/2406260833,POINT (11.543666 48.103914),Stammtisch,,,,,pub,,,,,,,,+49 89 7233301,,,,,,,,,,0
+Munich,node/2431281938,POINT (11.560921 48.141941),Cucurucu,Elisenstraße,5,,,pub,,,,,,,,,,,,,,no,,,,0
+Munich,node/2431498613,POINT (11.54559 48.11826),Schwarzer Engel,Lindenschmitstraße,9,81371,München,pub,,,,,,,,,,,,,"Su-Th 12:00-01:00, Fr,Sa 12:00-03:00",,,,,0
+Munich,node/2446475787,POINT (11.483665 48.119168),Pavillon,,,,,pub,,,,,,,,,,,,,,,,,,0
+Munich,node/2463620244,POINT (11.567168 48.13047),Zum Wolf,Pestalozzistraße,22,80469,München,bar,,,,,,,https://zumwolf.com/,,wolfi@zumwolf.com,,,,Mo-Su 18:00+,yes,,,,3
+Munich,node/2490114811,POINT (11.577432 48.134738),Lupper-Bar,Westenriederstraße,6,,,bar,,,,,,,,,,,,,,no,,,,0
+Munich,node/2490249236,POINT (11.540872 48.085201),Seehaus Hinterbrühl,Hinterbrühl,1a,81479,München,biergarten,,,,Klosterbrauerei Reutberg,,,,,,,,,,,,,,0
+Munich,node/2504121762,POINT (11.566596 48.181668),Bierstüberl,,,,,pub,,,,,,,,,,,,,,,,,,0
+Munich,node/2504953885,POINT (11.649977 48.148542),Tantra (dauerhaft geschlossen),Ludwig-Brück-Straße,3,81929,München,pub,,,,,,,,,,,,,,limited,no,,,0
+Munich,node/2511968487,POINT (11.544277 48.135944),Kilombo,Gollierstraße,14a,,,bar,,,,,,,,+49 89 95455938,,,,,Mo-Su 19:00-02:00,no,,yes,,2
+Munich,node/2515246951,POINT (11.57767 48.133626),Jazzbar Vogler,Rumfordstraße,17,80469,München,bar,,,,,,,https://www.jazzbar-vogler.com/,+49 89 294 662,,,,,,limited,,,,0
+Munich,node/2550215948,POINT (11.599221 48.179202),Heidequelle,Dietersheimer Straße,17a,80805,München,pub,,,,,,,,,,,,,Mo-Th 16:00-22:00; Fr 15:00-24:00; Sa 12:30-24:00; Su 12:30-22:00,limited,,outside,,0
+Munich,node/2552515970,POINT (11.529148 48.177265),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,"Georg-Brauchle-Ring, Gleis 1",,,,,,0
+Munich,node/2552515971,POINT (11.528979 48.177261),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,"Georg-Brauchle-Ring, Gleis 2",,,,,,0
+Munich,node/2554337965,POINT (11.552753 48.181332),5 Rings Sportsbar,,,,,pub,,,,,,,,,,,,,Mo-Fr 16:00-01:00; Sa-Su 11:00-01:00,limited,,,,0
+Munich,node/2556259209,POINT (11.460104 48.147402),RG Bar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/2579537653,POINT (11.574382 48.143733),Lucky Who,Brienner Straße,14,80333,München,bar,,,,,,,https://luckywho.de/,,,,,,"Mo-We 19:30-01:00, Th-Sa 19:30-03:00",yes,,,,0
+Munich,node/2621681521,POINT (11.593983 48.203678),Grusonstüberl,,,,,pub,,,,,,,,,,,,,"Mo-Th 17:00-01:00, Fr-Su 15:00-01:00",,,,,0
+Munich,node/2642477075,POINT (11.608164 48.135852),m-wein,Einsteinstraße,102,81675,München,,,,,,,,https://m-wein.de,,,,,,"Tu-Fr 10:00-20:00; Sa 10:00-18:00; Su,Mo,PH off",yes,,,,0
+Munich,node/2682366791,POINT (11.572709 48.119322),Pilsbar Zic-Zac,Oefelestraße,15,81543,München,bar,,,,,,,,,,,,,,no,,,,0
+Munich,node/2682369429,POINT (11.57281 48.119264),Sportsbar Zic-Zac,Oefelestraße,15,81543,München,bar,,,,,,,,,,,,,Mo-Su 17:00-01:00,no,,,,0
+Munich,node/2694914842,POINT (11.572382 48.11978),Boazeria,Freibadstraße,1,81543,München,bar,,,,,,,,,,,,,Tu 18:00-01:00; Fr-Sa 18:00-02:00,,,,,0
+Munich,node/2717937047,POINT (11.538248 48.098704),Tölzer Stüberl,,,,,pub,,,,,,,,,,,,,Mo-Fr 11:30-00:00; Sa 12:00-20:00,limited,,,,2
+Munich,node/2733485916,POINT (11.530385 48.176514),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/2733485930,POINT (11.528198 48.176528),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/2733485939,POINT (11.529237 48.176933),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/2733485947,POINT (11.529778 48.177668),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/2752495129,POINT (11.506808 48.092656),drehbar Event Location,,,,,bar,,,,,,,https://drehbar-eventlocation.de/,,,,,,,,,,,0
+Munich,node/2819574501,POINT (11.461335 48.2135),,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/2819574705,POINT (11.461106 48.212797),Michi`s Stüberl,Zum Schwabenbächl,48d,80997,München,pub,,,,,,,,,,,,,,,,,,0
+Munich,node/2821267801,POINT (11.594567 48.131084),Lollo Schenke,Milchstraße,1,81667,München,pub,,,,,,,http://lollo-rosso.com/,+49 89 88 568 131,,,,,"Mo-Su,PH 17:00-01:00, Su,PH 23:30-01:00 off",no,,,,0
+Munich,node/2837492255,POINT (11.569302 48.094046),Vitigno,Aggensteinstraße,25,81545,München,bar,,,,,,,https://www.vitigno.de,,,,,,Mo-Sa 11:30-24:00,limited,,,,0
+Munich,node/2845112757,POINT (11.544852 48.138367),To Klidi,,,,,pub,,,,,,,,,,,,,,,,,,0
+Munich,node/2856785365,POINT (11.474838 48.145737),La Ruota,,,,,biergarten,,,,,,,https://www.la-ruota.de/,,,,,,Mo-Su 11:00-23:30,yes,,,,0
+Munich,node/2863874882,POINT (11.570593 48.129737),Lola,Ickstattstraße,2a,80469,München,bar,,,,,,,https://www.lola-bar.de/,,,,,,Tu-Sa 08:00-18:00,,,,,0
+Munich,node/2884314528,POINT (11.558151 48.135515),Karotte,Goethestraße,36,80336,München,pub,,,,,,,http://diekarotte.de,,,,,,Th 17:00-01:00,,,outside,,0
+Munich,node/2892588175,POINT (11.636775 48.109879),KWA Georg-Brauchle-Haus,Staudingerstraße,58,81735,München,,,,,,,,,,,,,,,,,,,0
+Munich,node/2899704596,POINT (11.563877 48.15958),La Cantina,Elisabethstraße,53,80796,München,,,,,,,,https://www.la-cantina-wein.de/,+49 89 12737135,brmarkus@yahoo.com,,,Wein und Spezialitäten aus Italien,"Mo-Fr 11:30-19:00, Sa 10:30-17:00",limited,,,,0
+Munich,node/2907073039,POINT (11.605512 48.100138),Zur Gartenlaube,Kopischstraße,1,81549,München,biergarten,,,,Spaten,,,,,,,,,"Mo, We-Sa 11:30-22:00; Su,PH 10:00-22:00",,,,,0
+Munich,node/2910991213,POINT (11.557788 48.143565),SAUNA,,,,,bar,,,,,,,,,,,,,,,,outside,,0
+Munich,node/2926343914,POINT (11.534239 48.157936),Brauseschwein,,,,,,,,,,,,,+49 89 13958112,,,,,"Mo-Fr 10:00-13:00,15:00-18:30; Sa 11:00-14:00",,,,,0
+Munich,node/2931838580,POINT (11.577827 48.138298),Dosage,Alter Hof,3,80331,,bar,,,,,,,https://off-events.com/quartiere/dosage-bar/,+49 89 709 500 86,,,,,,yes,yes,,,0
+Munich,node/3051676297,POINT (11.565675 48.124164),Geyerwally,Geyerstraße,17,80469,,pub,,,,,,,https://www.sueddeutsche.de/muenchen/die-zehn-schraegsten-kneipen-kult-kultiger-muenchen-1.1534254,,,,,,Mo-Th 19:00-03:00; Fr-Sa 19:00-03:00,no,,,,0
+Munich,node/3058939077,POINT (11.508354 48.152836),Haus der Braut,Hirschgartenallee,26,80639,München,,,,,,,,https://www.hausderbraut.de/,,,,https://www.instagram.com/hausderbrautinmuenchen/,,"""Nach Vereinbarung: https://www.hausderbraut.de/termin-in-m%C3%BCnchen""",,,,,0
+Munich,node/3104054355,POINT (11.571991 48.127254),Davide,Westermühlstraße,39,80469,,bar,,,,,,,,,ciao@bardavide.com,,,,Tu-Sa 16:00-22:00,,,outside,,0
+Munich,node/3147296793,POINT (11.568745 48.132187),Vertigo,Blumenstraße,43,80331,München,pub,,,,,,,https://vertigo.bar/,+49 89 23 96 19 88,,,,,Mo-Th 19:00-01:00; Fr-Sa 19:00-03:00,no,,,,0
+Munich,node/3164582599,POINT (11.55637 48.122999),Markt-Stüberl An der Viehwog,Zenettistraße,11,80337,München,pub,,,,Augustiner Bräu München,,,https://www.metzgerei-gassner.de/metzgerei-mit-mittagstisch-in-muenchen/,,,,,,"Mo-Fr 07:30-14:00; Sa,Su off",yes,,,,0
+Munich,node/3179914782,POINT (11.519047 48.071766),Chang Bistro & Catering,Wolfratshauser Straße,268,81479,München,bar,,,,,,,,,,,,,"Mo-Fr 12:00-15:00,18:00-22:00; Sa 18:00-22:00; Su off",yes,,no,,0
+Munich,node/3263444111,POINT (11.566909 48.124704),Rennsalon,Baldestraße,13,80469,München,pub,,,,Ayinger,,,http://www.rennsalon.de/,,,,,,"Tu-Th 20:00-01:30, Fr-Sa 20:00-03:00; Mo,Su off",no,,,,0
+Munich,node/3268117652,POINT (11.531888 48.154795),Der Weinladen Machacek,Volkartstraße,10,80634,München,,,,,,,,https://www.machacek.de,,,,,,Mo 15:00-20:00; Tu-Fr 12:00-19:00; Sa 10:00-16:00,limited,,,,0
+Munich,node/3307633814,POINT (11.553388 48.136535),Bahalo,,,,,pub,,,,,,,,,,,,,Mo-Sa 12:00-01:00,,,,,0
+Munich,node/3315140741,POINT (11.581009 48.134289),Braunauer Hof,,,,,biergarten,,,,,,,,,,,,,Mo-Sa 10:00-24:00; Su 10:00-22:00,,,,,0
+Munich,node/3324777931,POINT (11.57422 48.130443),Ferdings,Klenzestraße,43,80469,München,bar,,,,,,,https://www.ferdings.de/,+49 89 5484 7145,,,https://www.instagram.com/ferdings/,,"Tu-Th 17:00-01:00, Fr-Sa 17:00-03:00",no,,no,,0
+Munich,node/3383688167,POINT (11.463407 48.146344),Moon Bar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/3387987732,POINT (11.533936 48.139034),Bridge,Trappentreustraße,10,80339,München,bar,,,,,,,,,,,,,"Mo-Fr 00:00-03:00,10:00-24:00; Sa,Su 00:00-03:00,17:00-24:00",,,,,0
+Munich,node/3398575537,POINT (11.582525 48.117765),Ambar Bistro,,,,,bar,,,,,,,,+498995426658,,,,,Mo-Sa 18:00-23:00,limited,,,,0
+Munich,node/3405893303,POINT (11.615227 48.120494),Bei Mitzi,,,81671,,pub,,,,,,,,,,,,,Su-Fr 10:00-01:00; Sa 13:45-01:00,no,,,,0
+Munich,node/3405893357,POINT (11.610498 48.119443),Nachbarstüberl,,,,,pub,,,,,,,,,,,,,,no,,,,0
+Munich,node/3417063645,POINT (11.583465 48.116717),Cafe Bar 1,Alpenstraße,19,81541,München,bar,,,,,,,,,,,,,08:00-05:00,limited,no,,,0
+Munich,node/3417064730,POINT (11.590701 48.11683),il ghiottone WEINE et cetera,Eintrachtstraße,3,81541,München,,,,,,,,,,,,,,Mo-Th 17:00-20:00; Fr 15:00-20:00; Sa 10:00-14:00,no,,,,0
+Munich,node/3417939158,POINT (11.584124 48.117394),Restaurant Gufo,Zugspitzstraße,10,81541,München,bar,,,,,,,https://gufo-restaurant.de,,,,,,,,,,,0
+Munich,node/3455660744,POINT (11.501778 48.116448),Hangover,,,,,bar,,,,,,,,,,,,,,,,outside,,0
+Munich,node/3458827593,POINT (11.694361 48.115677),Paradoxx,Wasserburger Landstraße,178,81827,München,bar,,,,,,,,,,,,,"We-Mo,PH 14:00-23:00+",,,,,0
+Munich,node/3483635411,POINT (11.576499 48.115599),Giesinger Bräu Bräustüberl,Martin-Luther-Straße,2,81539,München,restaurant,,,,Giesinger,,yes,https://www.giesinger-braeu.de/,+49 89 55062184,wirt@giesinger-braeu.de,,,,Tu-Fr 16:00-23:00; Sa 11:00-23:00,yes,,,,2
+Munich,node/3594164603,POINT (11.561608 48.130816),Cocoon Pinsa & Bar,Lindwurmstraße,37,80337,München,bar,,,,,,,,,,,,,"Mo-Th,Su 16:00-24:00; Fr-Sa 16:00-01:00",,,,,1
+Munich,node/3626905156,POINT (11.549413 48.159265),BrauchBar Kostenlosladen,Dachauer Straße,114,80636,München,,,,,,,,,,,https://www.facebook.com/pages/BrauchBar-Kostenlosladen-in-M%C3%BCnchen/339838759524294?_fb_noscript=1,,,Mo 18:00-19:00; Sa 14:00-15:00,,,,,1
+Munich,node/3643387755,POINT (11.544291 48.137922),Bar Laguna,,,,,pub,,,,,,,,,,,,,Mo-Su 19:00-22:30,no,,,,0
+Munich,node/3643387757,POINT (11.54448 48.137932),Star Cafe,,,,,pub,,,,,,,,,,,,,"Mo-Su,PH 14:00-05:00",no,,,,0
+Munich,node/3643387762,POINT (11.544774 48.137946),Jiamas,,,,,pub,,,,,,,,,,,,,Mo-Su 12:00-24:00,no,,,,0
+Munich,node/3653986483,POINT (11.576836 48.132865),Déjà bu?,Buttermelcherstraße,2a,80469,München,bar,,,,,,,https://www.deja-bu.de/,,,,,Französische Weinbar,Mo 18:00+; Tu-Sa 18:00+,no,,,,0
+Munich,node/3709346493,POINT (11.534421 48.155524),Hide-Out 2,Volkartstraße,22,80634,München,pub,,,,Augustiner Bräu München,,,https://hideout-muenchen.de/,,,,,,Tu-Sa 20:00-03:00,,,,,0
+Munich,node/3739707094,POINT (11.552923 48.148869),Braun-Falco Galerie,Nymphenburger Straße,22,80335,München,,,,,,,,https://www.braunfalco.com/,+49 89 579497741,,,,,Tu-Fr 12:00-18:00; Sa 11:00-16:00,yes,,,,0
+Munich,node/3751088050,POINT (11.562293 48.156835),Schwabinger Bierstüberl,Schleißheimer Straße,,80797,München,pub,,,,,,,,,,,,,Mo-Sa 15:00-22:00,,,,,0
+Munich,node/3751943087,POINT (11.507215 48.108389),Gaststätte Libero,,,,,pub,,,,,,,,+49 8971090490,,,,,"Mo-Fr 16:00-23:30; Sa, Su 11:00-23:30",yes,,outside,,3
+Munich,node/3787711239,POINT (11.576106 48.137399),The Royal Dolores Munich Pub,Marienplatz,8,80331,München,bar,,,,Löwenbräu,,,https://www.ratskeller.com/ratskeller-muenchen-the-royal-dolores-munich-pub-bar.html,+49 89 21998942,info@ratskeller.com,,,,"Mo-Sa 15:00-01:00, Su 15:00-22:00",yes,yes,,,0
+Munich,node/3790681145,POINT (11.55343 48.137213),Jem & Flo,Sankt-Paul-Straße,1a,80336,München,bar,,,,,,,,,,,,,,no,,,,0
+Munich,node/3817959193,POINT (11.562628 48.186695),Cafe Bar Halligalli,Moosacher Straße,17,80809,München,pub,,,,,,,,,,,,,Mo-Th 15:00-14:00; Fr-Su 10:00-02:00,yes,,outside,,0
+Munich,node/3827495352,POINT (11.537833 48.136925),Gebrauchte Haushaltsgeräte Verkauf,,,,,,,,,,,,,,,,,,,no,,,,0
+Munich,node/3827607275,POINT (11.684228 48.117816),BrautPerle,,,,,,,,,,,,https://braut-perle-schneiderei.de,,,,,,Mo-Su 10:00-19:00,,,,,0
+Munich,node/3838023407,POINT (11.544373 48.135768),Trakya,Parkstraße,25,80339,München,pub,,,,Augustiner Bräu München,,,,,,,,,"Mo-Fr 03:00-12:00+,15:00-04:00; Sa,Su 12:00-04:00",no,,,,0
+Munich,node/3861507720,POINT (11.556075 48.136646),Lotus,,,,,bar,,,,,,,,,,,,,,limited,,,,0
+Munich,node/3888064848,POINT (11.559996 48.144107),Bei Erol - Café & Bar,Dachauer Straße,28,80335,München,bar,,,,heineken;desperados,,,,+4917622853415,,,,,Mo-Su 10:00-05:00,no,,,,3
+Munich,node/3888310376,POINT (11.544105 48.135144),Heir,Parkstraße,30,80339,München,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/3888314996,POINT (11.544291 48.135666),Barry's Boazn,Parkstraße,25,80339,München,pub,,,,Augustiner Bräu München,,,,,,,,,Tu-Su 13:00-18:00+,no,,,,2
+Munich,node/3893571128,POINT (11.579858 48.138014),Dubliner Irish Pub,Platzl,2,80331,München,pub,,,,,,,https://www.dubliner-irishpub.de/,+49 89 230 764 07,,,,,Mo-Su 11:00-05:00,limited,,outside,,0
+Munich,node/3893571156,POINT (11.580402 48.138556),Pusser's,Falkenturmstraße,9,80331,München,pub,,,,,,,https://www.pussersbar.de/welcome-to-pussers-bar.html,+49 89 220500,,,,,Su-We 18:00-01:00; Th-Sa 18:00-02:00,,,,,0
+Munich,node/3900500865,POINT (11.551687 48.2079),Bei Claus,Weitlstraße,115,80935,München,pub,,,,,,,,,,,,,,limited,no,,,0
+Munich,node/3916681674,POINT (11.568763 48.133095),Bar Polloi,,,,,bar,,,,,,,,,,,,,"We,Th 17:00-01:00, Fr,Sa 14:00-01:00",,,,,0
+Munich,node/3927438583,POINT (11.578711 48.114377),Yildiz,Tegernseer Landstraße,92,,,pub,,,,,,,,,,https://www.facebook.com/B%C3%A4%C3%A4%C3%A4m-Bar-669609433141480,,,,no,,,,0
+Munich,node/3927493834,POINT (11.583382 48.118552),Paulaner Krug,Tegernseer Landstraße,11,81541,München,pub,,,,,,,,,,,,,,no,,,,0
+Munich,node/3929291651,POINT (11.560094 48.142156),Verbraucher Service Bayern im KDFB e.V.,Dachauer Straße,5,80335,München,,,,,,,,https://www.verbraucherservice-bayern.de,+49 8951518743,info@verbraucherservice-bayern.de,,,,,,,,,0
+Munich,node/3937018776,POINT (11.542678 48.201677),Billy's Billard,Lerchenstraße,5,,,bar,,,,,,,https://billys-billard.de/,+49 89 3516000,,,,,"Sa, Su 15:00-00:00; Mo-Fr 17:00-00:00",,,,,0
+Munich,node/4010045493,POINT (11.580621 48.136744),Landhaus,,,,,bar,,,,,,,,+49 89 22 1444,,,,,Tu-Sa 15:00-01:00,no,,,,0
+Munich,node/4039019496,POINT (11.579741 48.136839),The Madam Bar,Ledererstraße,21,80331,München,bar,,,,,,,https://madamstripclub.com/,,,,,,Tu-Sa 21:00+,no,,,,0
+Munich,node/4058212522,POINT (11.442112 48.148501),Schiller's Bistro,,,,,pub,,,,,,,https://sites.google.com/view/schillers-bistro,+49 89 830833,schillersbistro@t-online.de,,,,"Mo-Th 11:00-23:00; Fr-Sa 11:00-00:00, Su,PH 12:00-23:00",yes,,,,0
+Munich,node/4121914926,POINT (11.55128 48.177546),BOB im Park,Kolehmainenweg,7,80809,München,bar,,,,,,,https://bobimpark.de/,+49 89 3796 1400,info@bob-im-park.de,,,,"Mo-Th 13:00-24:00; Fr 13:00-01:00, Sa 11:00-01:00, Su 11:00-22:00",no,,,,0
+Munich,node/4147173315,POINT (11.557467 48.139355),IsarBar,,,,,bar,,,,,,,https://www.sofitel-munich.com/de/bars-restaurants/isarbar-2/,,,,,,"Mo-Fr 08:00-01:00, Sa-Su 09:00-01:00",yes,,outside,,0
+Munich,node/4210342371,POINT (11.529048 48.175982),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/4210342372,POINT (11.529072 48.176092),Georg-Brauchle-Ring,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/4213118325,POINT (11.557035 48.150637),Black & White,,,,,bar,,,,,,,,,,,,,"""keine fixe Angabe an der Türe""",,,,,0
+Munich,node/4217534990,POINT (11.57489 48.139687),Schumanns Tagesbar,Maffeistraße,6,80333,München,bar,,,,,,,https://www.schumanns.de/de/schumanns-tagesbar.html,+49 89 242 177 00,info@schumanns.de,,,,Mo-Fr 09:00-21:00; Sa 09:00-19:00; su off,limited,no,outside,,0
+Munich,node/4217580489,POINT (11.563689 48.137267),shisha bar,,,,,bar,,,,,,,,,,,,,,yes,,,,0
+Munich,node/4242695881,POINT (11.569557 48.147029),Minna Thiel,Bernd-Eichinger-Platz,1,80333,München,bar,,,,,,,https://minnathiel.de/,+49 89 24596447,,,,,We 16:00-23:00; Th 16:00-00:00; Fr 16:00-02:00; Sa 14:00-02:00; Su 12:00-22:00; Mo 17:00-22:00; Tu 16:00-22:00,limited,limited,yes,,2
+Munich,node/4244064063,POINT (11.530391 48.14569),Richelbräu,Richelstraße,26,80634,München,,,,,,,yes,https://www.richelbraeu.de/,,,,,,,no,,,,0
+Munich,node/4244236682,POINT (11.57114 48.135038),Unter Deck,,,,,bar,,,,,,,https://unterdeck.de/unterdeck-muenchen/,,,,,,We-Sa 20:00-03:00,no,no,,,0
+Munich,node/4292908927,POINT (11.521723 48.144557),Tunnelbar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/4308403480,POINT (11.571972 48.115599),minibar,Winterstraße,4,81543,München,bar,,,,,,,https://www.minibar-muenchen.de/,,,,,,"""Terminanfragen über www.minibarmuenchen.de""",limited,no,,25,0
+Munich,node/4337590510,POINT (11.556642 48.150783),Agentur Brauer,Kreittmayrstraße,6,80335,München,,,,,,,,,,,,,,,,,,,0
+Munich,node/4355004594,POINT (11.598764 48.134942),La Dispensa,Schloßstraße,5,81675,München,,,,,,,,https://www.la-dispensa.de/,+49 89 41 35 35 55,,,,,Tu-Fr 11:00-18:30; Sa 10:00-14:00; Mo off,yes,,,,0
+Munich,node/4368493011,POINT (11.586502 48.166892),Pils-Doktor,Leopoldstraße,124,80802,München,bar,,,,,,,https://www.pils-doktor.de/,+49 89 334332,info@pils-doktor.de,,,,"Mo-Th 18:00-04:00, Fr,Sa,PH 18:00-06:00, Su 18:00-02:00",,,,,0
+Munich,node/4376044497,POINT (11.567257 48.135422),Jaded monkey,Herzog-Wilhelm-Straße,25,80331,München,bar,,,,,,,http://jadedmonkey.de,+49 89 2694 9401,mail@jadedmonkey.de,,,,Tu-Sa 20:00-03:00,yes,,,,0
+Munich,node/4393286808,POINT (11.488785 48.129807),Trinkhalle bei Hoki,,,,,pub,,,,,,,,,,,,,,,,,,0
+Munich,node/4450740123,POINT (11.534859 48.133529),"De ""KLOANE KNEIP""N Bei GISI",Heimeranstraße,63,80339,München,pub,,,,,,,,,,,,,Mo-Su 17:45-01:00,limited,,,,2
+Munich,node/4450785475,POINT (11.534316 48.133419),Toni's Bar,Heimeranplatz,3,80339,München,pub,,,,Spatenbräu München,,,,,,,,,Mo-Fr 17:00-02:00,no,,,,3
+Munich,node/4460487232,POINT (11.595748 48.193779),Music Club Munich Zentrum für Musiker,Margot-Kalinke-Straße,3,80939,München,bar,,,,,,,,,,,,Moderes Konzert und Veranstaltungs-Zentrum für Musiker mit Bar,,,,no,,0
+Munich,node/4462456589,POINT (11.558392 48.13821),Goethe Pub,Goethestraße,10,80336,München,pub,,,,,,,,,,,,,"Mo-Sa 09:00-03:00, PH,Su 11:00-03:00",,,outside,,0
+Munich,node/4471846445,POINT (11.532261 48.139941),Joker's Bar,,,,,pub,,,,,,,,,,,,,,limited,,,,0
+Munich,node/4471846446,POINT (11.532189 48.139945),Nascosto,,,,,pub,,,,,,,,,,,,,,no,,,,0
+Munich,node/4485865205,POINT (11.598717 48.125509),B.M. Gebrauchtmöbel,,,,,,,,,,,,https://www.bm-gebrauchtmoebel.de/,+49 89 44479651,,,,,"Mo-Fr 09:00-13:00,13:30-18:00; Sa 10:00-15:00",yes,,,,0
+Munich,node/4512077970,POINT (11.479293 48.153252),Halle 2 Gebrauchtwarenkaufhaus,Peter-Anders-Straße,15,81245,München,,,,,,,,https://www.awm-muenchen.de/vermeiden/halle-2,,,,,,Sa 09:00-14:00; Mo 14:00-18:00; Tu-Fr 10:00-18:00,,,,,0
+Munich,node/4515708776,POINT (11.534382 48.135315),Trappentreu-Stüber 5 Sterne Boazn,Trappentreustraße,31,80339,München,bar,,,,,,,,+49 174 444 46 42,,https://www.facebook.com/5-Sterne-Boazn-400803390046293/,,,Mo-Su 11:00-01:00,limited,,,,0
+Munich,node/4516165371,POINT (11.585485 48.158088),The Keg,Trautenwolfstraße,1,80802,München,bar,,,,,,,https://www.the-keg-bar-muenchen.de/,+49 89 38999950,thekegbarmunich@gmail.com,thekegbarmunich,thekegbar_munich,,Mo-Fr 18:00-24:00; Sa 13:00-24:00; Su 15:00-24:00,no,,,,0
+Munich,node/4534797825,POINT (11.56335 48.18276),Cafe Bar Silver,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/4535130991,POINT (11.575433 48.131944),Bukowski,,,,,bar,,,,,,,,,,,,,,limited,,,,0
+Munich,node/4561736356,POINT (11.575352 48.136105),The LOUIS Roof Terrace,,,,,bar,,,,,,,https://www.louis-hotel.com/restaurant-bar/louis-roof-terrace,+49 89 4111 90 8111,,,,,Th-Su 17:00-20:00,,,,,0
+Munich,node/4561737228,POINT (11.578713 48.143917),Les Fleurs Du Mal,,,,,bar,,,,,,,,,,https://www.facebook.com/Les-Fleurs-du-Mal-533048313404292/,,,Mo-Th 19:00-01:30; Fr-Sa 19:00-03:00,,,,,0
+Munich,node/4562672590,POINT (11.617892 48.128631),Isareck Stüberl,Dornbergstraße,17,81673,,pub,,,,,,,,+49 89 46149328,,,,,Mo-Su 11:00-01:00,,,,,0
+Munich,node/4563515522,POINT (11.567223 48.109914),S21,Schönstraße,21,81543,München,pub,,,,,,,,+49176 62166654,,,,,Mo-Su 09:00-22:00,,,,,0
+Munich,node/4633014993,POINT (11.455254 48.146961),Pasinger Nachtcafe bei Keko,Bodenseestraße,19,81241,München,bar,,,,,,,,+49 152 1474 1923,,,,,Mo-Su 14:00-05:00,,,,,0
+Munich,node/4677296694,POINT (11.547195 48.098709),"Biergarten ""Naturfreunde e.V."" Thalkirchen",Zentralländstraße,16,81379,München,biergarten,,,,Hacker-Pschorr,,,https://www.naturfreunde-bezirk-muenchen.de/home/,+49 89 2015777,alberchristian@gmx.net,,,,,,,,,0
+Munich,node/4705439597,POINT (11.637188 48.155318),toto's basement,,,,,bar,,,,,,,,,,,,,,no,,,,0
+Munich,node/4816312063,POINT (11.542475 48.134409),Snakes,Ligsalzstraße,33,80339,München,bar,,,,Hacker-Pschorr,,,,,,https://www.facebook.com/SnakesCocktailBar/,https://www.instagram.com/bar_snakes,,,no,,,,0
+Munich,node/4829347900,POINT (11.562217 48.13111),Machito's Bar,,,,,pub,,,,,,,,,,,,,Mo-Th 16:00-12:00; Fr-Su 16:00-03:00,,,,,0
+Munich,node/4835059917,POINT (11.583581 48.098811),Bar zur Hexe,,,,,pub,,,,,,,,,,,,,Mo-Sa 15:00-22:00,no,,,,0
+Munich,node/4851250425,POINT (11.575681 48.130333),Bierothek,Reichenbachstraße,22,80469,München,,,,,,,,https://bierothek.de/stores/muenchen,+49 89 901 558 89,muenchen@bierothek.de,https://fb.com/DieBierothek.Muenchen,,,Mo-Sa 12:00-19:00,no,,,,0
+Munich,node/4855132622,POINT (11.574688 48.128735),Bondi Bar,Fraunhoferstraße,32,80469,München,bar,,,,,,,,,,,,,,no,,,,0
+Munich,node/4855132722,POINT (11.57547 48.150516),James T. Hunt,Schellingstraße,32,80799,München,bar,,,,,,,https://jameshuntbar.com,,,,,,Mo-Su 17:30-02:00,no,,,,0
+Munich,node/4872713782,POINT (11.603898 48.161597),,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/4893812821,POINT (11.552898 48.182139),Emix,Helene-Mayer-Ring,14,80809,München,bar,,,,,,,,,,,,,Mo-Su 09:00-04:00,yes,,,,0
+Munich,node/4922574898,POINT (11.646886 48.169133),Dicke Sophie,Johanneskirchner Straße,146,81929,München,biergarten,,,,Ayinger,,,https://www.dicke-sophie.de/,+49 89 959 536 34,dickesophie@yahoo.de,,,,,no,,,,0
+Munich,node/4924116022,POINT (11.538732 48.127454),Kraft Burger & Bar,Ganghoferstraße,86b,81373,München,pub,,,,,,,,,,,,,,yes,,,,0
+Munich,node/4945999005,POINT (11.575996 48.130488),Kinky Slice,Reichenbachstraße,29,,,bar,,,,,,,,,,,,,We-Su 17:00-21:45,no,,,,0
+Munich,node/4958774357,POINT (11.58105 48.158614),Weine und Feines,,,,,,,,,,,,https://boteghin.de/,+49 89 38799710; +49 172 8643963,,,,,Mo-Fr 13:00-19:00; Sa 10:00-17:00,no,,,,0
+Munich,node/4960091087,POINT (11.557475 48.12588),Topbar30,,,,,pub,,,,,,,,,,,,,,,,,,0
+Munich,node/4987058802,POINT (11.514673 48.179616),Moccas 50,Dachauer Straße,258,80992,München,pub,,,,,,,,,,,,,Mo-Su 15:00-24:00,,,,,0
+Munich,node/5020723591,POINT (11.572119 48.118836),Bistro Harlekin,,,,,pub,,,,,,,,,,,,,"Mo-Th 15:00-01:00, Fr,Sa 14:00-03:00, Su 14:00-01:00",,,,,0
+Munich,node/5026732222,POINT (11.561113 48.136758),Schiller Bräu,Schillerstraße,23,80336,,restaurant,,,,,,yes,https://www.schiller-braeu.de/,+49 89 890584822,servus@schiller-braeu.de,,,,Mo-Su 16:00-24:00,no,,,,0
+Munich,node/5072190758,POINT (11.568335 48.131286),Beverly Kills Bar,Müllerstraße,43,80469,München,pub,,,,,,,,,,,,,Mo-Fr 08:00-18:00,,,,,0
+Munich,node/5127735021,POINT (11.581834 48.116467),Cafe-bar 7,,,,,pub,,,,,,,,,,,,,,no,,,,0
+Munich,node/5141084089,POINT (11.511042 48.134925),Laimer Jungs Bar Bistro,,,,,pub,,,,Augustiner,,,,,,,,,,,,,,0
+Munich,node/5216523921,POINT (11.583975 48.139466),Japa Tapa,Maximilianstraße,35,,,bar,,,,,,,,,,,,,"Mo-Fr 12:00-14:00, 18:00-23:00; Sa 18:00-23:00",no,,,,0
+Munich,node/5220254848,POINT (11.531989 48.14833),Gorilla Bar,Hirschbergstraße,23,80634,München,bar,,,,,,,https://gorilla-bar.com/,+49 89 97896310,,,,,"Mo 19:00-24:00; Tu-Sa 00:00-01:00,19:00-24:00; Su 00:00-02:00",no,,,,0
+Munich,node/5277877056,POINT (11.461518 48.146378),Fredy's Bar,,,,,bar,,,,,,,https://fredys-bar.eatbu.com/,+49 89 8204556,,,,,,no,,,,0
+Munich,node/5289814500,POINT (11.57908 48.133476),Mr. Mumble's,,,,,bar,,,,,,,,,,,,,"Tu-Th 19:00-01:00, Fr,Sa 19:00-02:00",no,,,,0
+Munich,node/5324672546,POINT (11.606089 48.124031),Gin City,Speicherstraße,20,81671,München,bar,,,,,,,https://www.gincity.de/,,,,,Gin bar,"Fr,Sa 19:00-03:00, Tu-Th 19:00-01:00",,,,,0
+Munich,node/5386493131,POINT (11.534737 48.148811),Hood the Bar,,,,,bar,,,,,,,,,,,,,"Tu-Th 19:00-01:00, Fr,Sa 19:00-02:00; Su,Mo off",,,,,0
+Munich,node/5394121414,POINT (11.588082 48.114385),Bistro&Bar Lama Lo,,,,,pub,,,,,,,,,,,,,"Mo-We,Fr,Sa 14:00-22:00; Su 12:00-20:00; Th off",,,,,0
+Munich,node/5398577132,POINT (11.578107 48.142919),Tambosi Bar,Odeonsplatz,18,80539,München,bar,,,,,,,https://tambosi-odeonsplatz.de/,+49 89 23069360,info@tambosi-odeonsplatz.de,,,,Su-Th 07:00-01:00; Fr-Sa 07:00-03:00,limited,,,,0
+Munich,node/5404244789,POINT (11.664139 48.125229),Lucky 7,,,,,pub,,,,,,,,,,,,,Mo-Su 13:00-05:00,yes,,,,0
+Munich,node/5414048583,POINT (11.58297 48.136074),Havana Club Cuban Bar,Herrnstraße,30,,,bar,,,,,,,https://havanaclub-muenchen.de/,+4989291884,,,,,"Mo-Th 18:00-01:00; Fr, Sa 18:00-03:00; Su 19:00-01:00",,,,,0
+Munich,node/5478865026,POINT (11.48854 48.141111),Löwenstüberl,,,,,pub,,,,,,,,,,,,,Mo-Sa 10:00-22:00,no,,,,0
+Munich,node/5611462760,POINT (11.592726 48.129882),Juliet Rose Bar,Rosenheimer Straße,15,81667,München,bar,,,,yes,,,https://www.julietrosebar.com,+49 89 48048717,cheers@julietrosebar.com,https://www.facebook.com/JulietRoseBar,https://www.instagram.com/julietrosebar,,"Su-Th 12:00-00:00, Fr-Sa 12:00-01:00",,,outside,,0
+Munich,node/5640320024,POINT (11.559032 48.122298),Frisches Bier,Thalkirchner Straße,53,80337,München,bar,,,,,,,https://www.frischesbier-muenchen.de/,,,,,,Fr-Sa 17:00-02:00; Mo-Th 17:00-01:00,,,,,0
+Munich,node/5690038507,POINT (11.59212 48.178037),PANORAMA BAR „Cloud One“,,,,,bar,,,,,,,https://www.motel-one.com/de/hotels/muenchen/hotel-muenchen-parkstadt-schwabing/,,,,,,Mo-Sa 18:00+,yes,,,,0
+Munich,node/5695460021,POINT (11.538794 48.156541),Bar du Port,Albrechtstraße,32,80636,,bar,,,,,,,,,,,,,Mo-Fr 18:00-24:00; Sa 20:00-24:00,,,,,0
+Munich,node/5711522545,POINT (11.605213 48.125474),Transit Rooftop & Bar,,,,,bar,,,,,,,https://off-events.com/transit-rooftop/,,jo@off-events.com,,,,,,,,,0
+Munich,node/5711522546,POINT (11.605471 48.124602),Kölsch Bar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/5740037548,POINT (11.572339 48.151404),Bar dell Osteria,Schellingstraße,60,80799,München,bar,,,,,,,https://www.bar-dell-osteria.de/,+49 89 286 736 70,nachricht@brutti-ma-buoni.de,,,,Mo-Th 11:00-20:00; Fr 12:00-20:00; Sa 11:00-18:00,,,outside,,0
+Munich,node/5771083654,POINT (11.596346 48.132837),Steinbeißer,Steinstraße,25,81667,München,,,,,,,,,+49 174 3117148,thartz@gmx.de,https://www.facebook.com/SteinbeisserLeckereien/,,,Mo-Sa 11:00-19:00,limited,,,,0
+Munich,node/5868109088,POINT (11.556459 48.124377),Zenetti,Zenettistraße,20,80337,München,pub,,,,,,,https://zenetti-muenchen.de,+49 89 18901124,,,,,Tu-Sa 18:00+,,,,,0
+Munich,node/5871996002,POINT (11.633261 48.118495),Biergarten Kleines Brauhaus Dicker Mann,Heinrich-Wieland-Straße,11,81735,München,biergarten,,,,Ayinger,,,https://www.kleinesbrauhausdickermann.de/,+49 89 407898,info@dickermann.eu,,,Biergarten mit 300 Plätzen,Mo-Su 11:00-23:00,limited,limited,outside,,5
+Munich,node/5884460235,POINT (11.55645 48.127808),Glamour African Cuisine,Kapuzinerstraße,4,80337,München,pub,,,,,,,,,,,,,,limited,,,,0
+Munich,node/5896767093,POINT (11.583973 48.116912),Bumsvoll Bar,Zugspitzstraße,19,81541,München,pub,,,,,,,,,,,,,Mo off; Tu-Th 18:00-03:00; Fr-Sa 18:00-05:00; Su19:00-01:00,no,,outside,,0
+Munich,node/5922379043,POINT (11.55208 48.130096),Altes Brauhaus,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/5952507345,POINT (11.556794 48.1428),Koli's Bar,Seidlstraße,2a,80335,München,bar,,,,Augustiner Bräu München,,,https://kolisbar.de/,+49 89 92658038,info@kolisbar.de,,,,Mo-Su 11:00-03:00,no,,outside,,4
+Munich,node/6016410373,POINT (11.59749 48.10355),Goodtimes,Schwanseestraße,81,81549,München,bar,,,,,,,,,,,,,"Mo-Th 17:00-23:00, Fr 17:00-02:00, Sa 10:00-02:00, Su 10:00-23:00",yes,,,,0
+Munich,node/6027907707,POINT (11.529678 48.138815),Konoba Tomislav,,,,,pub,,,,,,,,,,,,,,no,,,,0
+Munich,node/6027932035,POINT (11.529432 48.138815),New Chance,Guldeinstraße,48,80339,München,pub,,,,,,,,,,,,,,,,,,0
+Munich,node/6036813697,POINT (11.534259 48.137408),Timo Bierbaum Photography - Studio B²,Trappentreustraße,20,80339,München,,,,,,,,https://www.timobierbaum.com/,+49 175 1864695,,,,Photo Studio B² - Timo Bierbaum,Mo-Su 10:00-22:00,yes,,,,0
+Munich,node/6109939591,POINT (11.656366 48.123978),MaVie,Kreillerstraße,160a,81825,München,bar,,,,,,,,,,,,,"Su-Th,PH 15:00-01:00, Fr,Sa 15:00-03:00",,,,,0
+Munich,node/6131368295,POINT (11.589439 48.161508),Wallace Bar,Occamstraße,2,80802,München,bar,,,,,,,https://www.wallace-bar.de/,,info@wallace-bar.de,,,,Th-Sa 18:00+,,,,,0
+Munich,node/6169174562,POINT (11.535527 48.146491),Tony's Wirtshaus,Arnulfstraße,130,80634,München,pub,,,,Augustiner Bräu München,,,,,,,,,"Mo-Su,PH 17:00-01:30",,,,,0
+Munich,node/6281629892,POINT (11.568676 48.111342),Schön-Stüberl,Schönstraße,4,81543,München,pub,,,,,,,,,,,,,Tu-Su 11:00-22:00,,,,,0
+Munich,node/6281670071,POINT (11.567744 48.110096),GUV Bluesbar,Ludmillastraße,20a,81543,München,pub,,,,,,,,,,,,,"Tu-Fr 17:00-24:00, Sa,Su 16:00-24:00",,,,,0
+Munich,node/6288741585,POINT (11.614511 48.210245),Haidbräu Brauerei,,,,,,,,,,,,https://www.awo-muenchen.de/psychiatrie/awo-muenchen-conceptliving-gmbh/taetigkeitsfelder-und-standorte/haidbraeu/,+49 89856316712,,,,,24/7,,,,,0
+Munich,node/6289745516,POINT (11.571056 48.112302),Bierstüberl bei Ingrid,,,,,pub,,,,,,,,,,,ingridsbierstueberl1860,,Mo-Sa 13:00-22:00,,,,,0
+Munich,node/6289762485,POINT (11.571323 48.11289),Jay-R,Pilgersheimer Straße,70,81543,München,bar,,,,,,,https://www.jayr-bar.de/,+49 176 201 89035,info@jayr-bar.de,,,,Mo-Th 14:00-00:00; Fr-Sa 14:00-02:00,,,,,0
+Munich,node/6299448442,POINT (11.589739 48.116284),Erciyes,,,,,pub,,,,,,,,,,,,,,yes,,,,0
+Munich,node/6308708512,POINT (11.565634 48.125079),Kooks,Geyerstraße,18,80469,München,bar,,,,Augustiner,,,https://kooksbar.com/,,,,,,"Mo-Th 19:00-01:00; Fr,Sa 19:00-03:00",no,,,,0
+Munich,node/6308708513,POINT (11.565517 48.124714),Kompromiss,,,,,pub,,,,Augustiner,,,,,,,,,,,,,,0
+Munich,node/6326882351,POINT (11.540745 48.120429),Astron,Plinganserstraße,20,,,pub,,,,,,,,+49 89 767 59 359,,,,,Tu-Su 17:00-05:00,no,,,,0
+Munich,node/6359206404,POINT (11.511055 48.180056),Retro Time,Gubestraße,20,80992,München,bar,,,,augustiner;tegernseer;hofbräu;franziskaner;könig_ludwig;jever;desperados;gösser;hacker;reissdorf,,,https://retrotime-moosach.de,,,,,,Tu-Su 16:00-22:00,,,,,0
+Munich,node/6407360018,POINT (11.503141 48.129908),CBS,,,,,pub,,,,,,,,+49 89 2464 6385,,,,,Mo-Th 07:00-16:30; Fr 07:00-12:00,,,,,0
+Munich,node/6409611942,POINT (11.568646 48.131209),Trisoux,,,,,bar,,,,,,,https://www.trisoux.com/,,,,,,"Mo-Th 19:00-01:00; Fr,Sa 19:00-03:00; Su 19:00-24:00",,,,,0
+Munich,node/6409611946,POINT (11.58646 48.171497),M’Uniqo,Leopoldstraße,170,80804,München,bar,,,,,,,,+49 89 2620 2744 60,,,https://www.instagram.com/muniqo.bar,,"Mo-Su 00:00-02:00,17:00-24:00; Tu-Th 00:00-01:00,17:00-24:00",,,,,0
+Munich,node/6420324525,POINT (11.50778 48.180436),s'Krügerl,Bunzlauer Straße,14,80992,München,pub,,,,Augustiner Bräu München,,,,,,,,,,,,,,0
+Munich,node/6433211169,POINT (11.561344 48.12627),Ogidiga's Afro Bar,Maistraße,63,80337,München,bar,,,,,,,,,,https://facebook.com/Ogidigas-Afro-Bar-188677481738711,,,Mo off; Tu-Sa 14:00-05:00; Su 15:00-05:00,,,,,0
+Munich,node/6433211388,POINT (11.56108 48.128617),opops pak,Waltherstraße,15,80337,München,bar,,,,,,,,+49 171 5460231,,,,,Mo-Sa 16:00-01:00,,,,,0
+Munich,node/6433211410,POINT (11.55667 48.1298),Verbraucherzentrale,Mozartstraße,9,80336,München,,,,,,,,https://www.verbraucherzentrale.bayern/beratungsstellen/muenchen,+49 89 55 27 94-0,info@vzbayern.de,,,,"Mo,We,Th 09:30-12:30,13:30-17:00 ""Beratung nur nach Terminvereinbarung""; Tu off; Fr 09:30-12:30,13:30-15:00; Sa,Su,PH off",,,,,0
+Munich,node/6434143963,POINT (11.413433 48.158863),Aubinger Bräu,Ubostraße,22,81245,München,,,,,,,,,,,,,,"Tu-Th 09:00-12:00; Fr 09:00-12:00,15:00-18:00",yes,,,,0
+Munich,node/6434248066,POINT (11.55487 48.128074),Tscharlie's,,,,,pub,,,,,,,,,,,,,Tu-Th 18:00-00:00; Fr-Sa 18:00+,no,,,,0
+Munich,node/6436947618,POINT (11.578693 48.146963),Bar Mural,Theresienstraße,3,80333,München,bar,,,,,,,https://www.barmural.com/,+49 89 273 73380,,,,,"Tu-Sa 18:00-01:00; Mo,Su,PH off",yes,,outside,,0
+Munich,node/6515976256,POINT (11.590102 48.10488),Kohls Gebrauchtwagen,,,,,,,,,,,,https://home.mobile.de/HORST-KOHL#ses,,,,,,Mo-Fr 09:00-18:00; Sa 09:30-14:00,yes,,,,0
+Munich,node/6581936563,POINT (11.463003 48.146386),Zum Pasinger,,,,,bar,,,,Augustiner,,,,,,,,,,,,,,0
+Munich,node/6651379266,POINT (11.586123 48.157931),Flamenco Brautmoden,,,,,,,,,,,,,,,,,,Mo-Fr 10:30-19:30; Sa 10:00-18:00,limited,,,,0
+Munich,node/6651529156,POINT (11.586317 48.160591),Mon Ami,,,,,bar,,,,,,,,,,,,,"Su-Th 14:00-02:00, Fr,Sa 14:00-03:00",limited,,,,0
+Munich,node/6680033967,POINT (11.604079 48.106435),World of Wine,Balanstraße,182,81549,München,,,,,,,,https://www.world-of-wine.de/laden-ramersdorf.html,,,,,,Tu-Fr 15:00-19:30; Sa 10:00-16:00,yes,,,,0
+Munich,node/6735631388,POINT (11.531026 48.101887),Braun+Boris,Zielstattstraße,37,81379,München,,,,,,,,,+498978582291,trekcharly1@gmx.de,,,,Mo-Th 07:00-16:30; Fr 07:00-15:30,,,,,0
+Munich,node/6801879366,POINT (11.549118 48.197121),Kanzlei Braun,Waldmeisterstraße,42,80935,München,,,,,,,,https://kanzleibraun.com/,+49 89 740 771 96,braun@kanzleibraun.com,,,,"""nach Vereinbarung""",no,,,,0
+Munich,node/6812337966,POINT (11.55939 48.224235),,,,,,pub,,,,Augustiner Bräu München,,,,,,,,,,,,,,0
+Munich,node/6895515758,POINT (11.605426 48.124643),WerksBAR,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/6943376285,POINT (11.558592 48.147859),Löwenbräukeller,,,,,biergarten,,,,,,,,,,,,,"Mo-Th 11:00-23:00; Fr,Sa 11:00-24:00; Su 11:00-22:00",limited,,,,3
+Munich,node/6984984305,POINT (11.534074 48.15341),HNO-Praxis Dr. Peter Dünnbier,Nymphenburger Straße,164,80634,München,doctors,,,,,,,http://www.dr-duennbier.de,+49 89 165770,,,,,"Mo-Tu, Th 08:00-12:00, 14:00-17:00; We 08:00-11:00; Fr 08:00-12:00",,,,,0
+Munich,node/7027262421,POINT (11.577726 48.138909),NV Club,Residenzstraße,3,80333,München,bar,,,,,,,https://www.nvclub.net/,,,https://www.facebook.com/www.nvclub.net/,,,Su -Th 11:00-03:00; Fr-Sa 11:00-05:00,no,,outside,,0
+Munich,node/7039293515,POINT (11.594923 48.172798),Theos,,,,,bar,,,,,,,https://www.pullman-hotel-muenchen.de/bar/,,,,,,Mo-Su 11:30-24:00,,,,,0
+Munich,node/7154750054,POINT (11.576349 48.147334),Home Munich,Amalienstraße,23,80333,München,bar,,,,,,,https://home-munich.bar,+49 89 452 461 40,info@home-munich.bar,https://facebook.com/home.munich,,,"Tu,We 18:00-01:00, Th 18:00-02:00, Fr,Sa 18:00-03:00",,,,,0
+Munich,node/7161349985,POINT (11.579575 48.136482),Scholars Lounge Irish Pub,Hochbrückenstraße,3,80331,,pub,,,,,,,https://www.scholarsloungemunich.com/,+49 89 90166559,,,,,Mo-Fr 14:00-04:00; Sa-Su 12:30-04:00,no,,,,0
+Munich,node/7203655050,POINT (11.576841 48.113767),Kastaniengarten,Martin-Luther-Straße,11,81539,München,pub,,,,Spatenbräu München;Löwenbräu München,,,https://www.kastaniengarten-giesing.de,+49 89 321 301 22,kontakt@kastaniengarten-giesing.de,https://de-de.facebook.com/aufGiesingsHoehen/,,,We-Sa 16:00-24:00+,no,,,,0
+Munich,node/7401549420,POINT (11.574901 48.143269),Bar Alvino,Brienner Straße,10,80333,München,bar,,,,,,,https://baralvino.de/,+49 89 32742874,info@baralvino.de,,,,Mo-Sa 10:00-01:00; Su off,,,,,0
+Munich,node/7449417649,POINT (11.628862 48.164424),Sabine Brauer Photos,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/7476247251,POINT (11.541495 48.123307),Caprice,,,,,pub,,,,,,,,,,,,,"Mo-Th 17:00-05:00, Fr,Sa 15:00-05:00, Su 09:00-13:00,17:00-05:00",no,,,,0
+Munich,node/7554476548,POINT (11.583964 48.196467),Cafe Steherl Bar,Ingolstädter Straße,111a,80939,München,pub,,,,,,no,,,,,,,,,,,,0
+Munich,node/7605295324,POINT (11.590164 48.136007),,,,,,biergarten,,,,,,,https://www.bier-weingarten.de,,,,,,,,,,,0
+Munich,node/7608539632,POINT (11.556619 48.192028),Giesinger Biermanufaktur und Spezialitätenbraugesellschaft mbH,,,,,,,,,,,,https://www.giesinger-braeu.de,,,,,,,,,,,0
+Munich,node/7685434962,POINT (11.574703 48.135036),Giesinger Stehausschank,Prälat-Zistl-Straße,4,80331,München,pub,,,,Giesinger,,,https://giesinger-braeu.de/pages/stehausschanke,,,,,,Mo-Sa 11:00+,no,,outside,,0
+Munich,node/7820152959,POINT (11.581555 48.123295),Paulaner Brauerei Gruppe,Ohlmüllerstraße,42,81541,München,,,,,,,,https://www.paulaner-gruppe.de/,+49 89 48005-0,info@paulaner.de,,,,,,,,,0
+Munich,node/7973904886,POINT (11.615267 48.126826),CAFE 7GÜN,Gotteszeller Straße,2,81671,München,bar,,,,Paulaner,,,,,,,,,,no,,,,0
+Munich,node/8220741068,POINT (11.572903 48.132547),Distillers Bar,Theklastraße,1,80469,München,bar,,,,,,,https://www.munichdistillers.de/,,,,,,,,,,,0
+Munich,node/8262909767,POINT (11.572594 48.151336),Goldbraun,Schellingstraße,58,80799,München,,,,,,,,,,,,,,Tu-Fr 11:00-18:00; Sa 11:00-14:00,,,,,0
+Munich,node/8316079901,POINT (11.603905 48.1071),Lemon Lounge,Balanstraße,176,81549,München,bar,,,,,,,,+49 89 20080084,,,https://www.instagram.com/lemonloungemuc/,,"Mo-Th 13:00-01:00, Fr,Sa 13:00-02:00, Su 14:00-01:00",no,,yes,,0
+Munich,node/8390913761,POINT (11.640712 48.149207),Pils Hütt'n,Ostpreußenstraße,25,81927,München,pub,,,,,,,,+49 89 934814,,,,,Mo-Fr 12:00-24:00; Sa 11:00-24:00; Su 17:00-24:00,,,,,0
+Munich,node/8651614799,POINT (11.591074 48.139676),X,Sternstraße,20,80538,München,bar,,,,,,,https://x-bar-club.de,,,,,,Mo-Su 18:00-22:00,no,,,,0
+Munich,node/8696572888,POINT (11.458856 48.146346),MIANO Bar,,,,,bar,,,,,,,,,,,,,Mo-Su 07:00-24:00,,,,,0
+Munich,node/8831747630,POINT (11.436867 48.176357),Bieröffner Flasche,,,,,,,,,,,,,,,,,ca. 6m hohe Bügelverschlussflasche mit einer Haut aus 1000den Flaschenöffnern,,,,,,0
+Munich,node/8841562103,POINT (11.467853 48.145944),Cafe Sports Bar Koukou,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/8851230043,POINT (11.544551 48.137937),Diamonds 4-Ever,,,,,pub,,,,,,,,,,,,,,,,,,0
+Munich,node/8851246120,POINT (11.542728 48.137705),Franz von Fein,Schwanthalerstraße,141,80339,München,,,,,,,,https://www.franzvonfein.de/shop,,,,,,,,,,,0
+Munich,node/9047980483,POINT (11.574115 48.138091),Augustiner Stehausschank,Frauenplatz,9,80331,München,pub,,,,Augustiner Bräu München,,,https://www.bratwurst-gloeckl.de/,+49 89 2919450,info@bratwurst-gloeckl.de,,,,"Su-Th 11:00-22:00; Fr,Sa 10:00-22:00",limited,no,,,0
+Munich,node/9069654499,POINT (11.665264 48.08095),Wein Musketier,Eulenspiegelstraße,86,81739,München,,,,,,,,,,,,,,Mo-Th 15:00-19:00; Fr 13:00-19:00; Sa 10:00-16:00,yes,,,,0
+Munich,node/9130179904,POINT (11.559288 48.14859),Philoma Spielcenter,Schleißheimer Straße,12,80333,München,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/9130199918,POINT (11.559317 48.148686),Bar14,Schleißheimer Straße,14,80333,München,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/9136306017,POINT (11.575674 48.130262),Die Krake,Reichenbachstraße,22,80469,München,bar,,,,,,,,,,,,,"Th 19:00-01:00, Fr-Sa 19:00-03:00",,,outside,,0
+Munich,node/9162104672,POINT (11.554021 48.111782),GAiA Deli Cafe,,,,,bar,,,,,,,,,,,,,,yes,,,,0
+Munich,node/9166566165,POINT (11.588383 48.169789),Bar Tantris,Johann-Fichte-Straße,7,80805,München,bar,,,,,,,https://tantris.de/,+49 89 361 959-0,info@tantris.de,https://www.facebook.com/TantrisMaisonCulinaire,https://www.instagram.com/tantris_maison_culinaire/,,"Mo-Fr 00:00-01:00,19:00-24:00; Sa,Su 00:00-01:00,12:00-24:00",no,,,,0
+Munich,node/9235340558,POINT (11.605985 48.124662),Yokocho,Atelierstraße,14,81671,,bar,,,,,,,https://www.yokochokaraoke.de/,+49 162 8121611,info@yokochokaraoke.de,,,Karaoke Box und Bar,We 16:30-24:00; Th 16:30-01:30; Fr-Sa 16:30-02:00; Su 14:00-21:00,yes,,,,0
+Munich,node/9237837567,POINT (11.582043 48.135781),Simsalabim,Marienstraße,18,,München,bar,,,,,,,https://linktr.ee/Simsalabimbar,,,,,,,,,,,0
+Munich,node/9239333704,POINT (11.545971 48.158946),Gabi's Stüberl,Leonrodstraße,87,80636,München,bar,,,,Augustiner Bräu München,,,,,,,,,Mo-Sa 16:00-22:00,,,outside,,0
+Munich,node/9254773460,POINT (11.570841 48.136262),BRAUN BÜFFEL,,,,,,,,,,,,https://www.braun-bueffel.com/,,,,,,Mo-Sa 10:00-18:00,,,,,0
+Munich,node/9260412881,POINT (11.593024 48.161426),CALL SOUL,Biedersteiner Straße,6,80802,München,bar,,,,,,,https://www.callsoul-breakingbar.de/,,,,,,Mo-Th 18:00-23:00; Sa-Su 18:00-02:00,,,,,0
+Munich,node/9269857834,POINT (11.604891 48.12546),Liebeleih Brautmodenverleih,,,,,,,,,,,,https://www.liebeleih-brautmoden.de/,,info@liebeleih-brautmoden.de,,,Verleih von Second Hand- und Vintage-Brautmoden,"""Nach Vereinbarung""",no,,,,0
+Munich,node/9389051705,POINT (11.566595 48.201925),RamBar-ZamBar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/9394410992,POINT (11.578491 48.145243),Bar Uno,Ludwigstraße,11,80539,München,bar,,,,,,,,,,,,,Mo-Fr 07:30-00:00; Sa 16:00-24:00,no,,,,0
+Munich,node/9432304118,POINT (11.61812 48.111906),miXbar,Ottobrunner Straße,13,81737,München,bar,,,,Augustiner Bräu München;Franziskaner Weißbier,,,,,,,,,Mo-Th 16:00-02:00; Fr 16:00-05:00; Sa 09:00-05:00; Su 09:00-02:00,,,,,0
+Munich,node/9525021230,POINT (11.544869 48.158343),News,,,,,pub,,,,,,,,,,,,,,,,outside,,0
+Munich,node/9590332357,POINT (11.5599 48.142514),Bufet | Bier & Wurst,Dachauer Straße,7a,80335,München,pub,,,,Maxlrainer,,,https://www.bufet.de/,+49 89 552 759 65,info@bufet.de,,,,Mo-Sa 18:00-01:00,,,,,2
+Munich,node/9592086364,POINT (11.533036 48.144597),Braut,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/9664200755,POINT (11.673698 48.126145),Liesl's Biererlebnis,,,,,,,,,,,,https://www.lieslsbiererlebnis.de/,+49 176 20563841,,,,,"We-Fr 15:00-19:00; Sa 10:00-14:00; Su-Tu,PH off",,,,,0
+Munich,node/9718501332,POINT (11.556127 48.127857),Heubodenbar,,,,,bar,,,,,,,https://heubodenbar.de,,,,,,"Mo-Th 18:00-01:00; Fr, Sa 18:00-03:00",,,,,0
+Munich,node/9736943822,POINT (11.580244 48.137174),griabig,Bräuhausstraße,8,80331,München,bar,,,,,,,https://www.das-griabig.de/,+49 89 232 393 23,,,,Wine bar,Mo-Fr 17:00-23:30; Sa 14:00-23:30,,,,,0
+Munich,node/9750071741,POINT (11.562254 48.13981),Vinothek,,,,,bar,,,,,,,https://www.geisel-privathotels.de/vinothek,+49 89 55137 7140,,,,,"Tu,Sa 16:00-24:00; We-Fr 12:00-24:00",no,,,,0
+Munich,node/9823174797,POINT (11.54852 48.17438),Olympiapark Biergarten,Spiridon-Louis-Ring,7,80809,München,bar,,,,,,,https://www.biergarten-olympiapark.de/,+49 89 350 948-579,,,,,,yes,,,,0
+Munich,node/9823452849,POINT (11.571227 48.178604),Zum Deifi,Nietzschestraße,32,80807,München,pub,,,,,,,,,,,,,Mo-Su 14:00-03:00,no,,,,0
+Munich,node/9826448928,POINT (11.50888 48.179353),Cafe Moosach,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/9843785081,POINT (11.571303 48.18437),Burger Pub München,Milbertshofener Straße,34,80807,München,pub,,,,,,,,,,,,,,,,,,0
+Munich,node/9844332568,POINT (11.552337 48.147308),Higgins Tap Room,Karlstraße,122,80335,München,pub,,,,yes,,yes,https://higginsaleworks.com,,,,,,Tu-Th 17:00-23:00; Fr-Sa 16:00-23:30; Su 16:00-21:00,limited,,,,0
+Munich,node/9877427779,POINT (11.548053 48.123804),Cockpit,,,,,bar,,,,,,,,,,,,,"Mo-Th 09:00-23:00, Fr,Sa 09:00-03:00, Su 09:00-23:00",,,,,0
+Munich,node/9878414718,POINT (11.546172 48.122794),Peoples Lounge,Lindwurmstraße,185,80337,München,bar,,,,,,,,,,,,,Mo-Su 10:00-05:00,,,,,0
+Munich,node/9878414917,POINT (11.546048 48.122753),Bei Tina,Lindwurmstraße,185,80337,München,bar,,,,,,,,,,,,,Mo-Su 09:00-00:00,,,,,0
+Munich,node/9884608219,POINT (11.571847 48.163895),Juliets Stüberl,Clemensstraße,82,80796,München,bar,,,,Maierbräu Altomünster,,,,+49 89 3089 920,,,,,Mo-Su 15:30-23:00,,,,,1
+Munich,node/9906561568,POINT (11.579255 48.125788),Carlito's,Ohlmüllerstraße,11,81541,München,bar,,,,,,,,,,,,,We-Su 18:00-24:00,,,outside,,0
+Munich,node/9959635835,POINT (11.580235 48.106488),Q'UZINO,Waltramstraße,1,81547,München,bar,,,,,,,,,,,,,Mo-Su 10:00-05:00,,,,,0
+Munich,node/9964774236,POINT (11.606256 48.124211),Werksviertel Bräu,,,,,,,,,,,,https://werksviertelbräu.de/,+49 89 628344300,info@werksviertel-braeu.de,,,,Th 17:00-21:00,,,,,0
+Munich,node/10082408445,POINT (11.558287 48.12129),Casa Blanca,,,,,pub,,,,,,,,,,,,,,no,,,,0
+Munich,node/10104460839,POINT (11.57208 48.131103),The village café,,,,,bar,,,,,,,,,,,,,"Mo,Th,Fr 12:00-22:00; Sa 09:00-22:00; Su 09:00-18:00",no,,,,4
+Munich,node/10114666543,POINT (11.584989 48.112552),Espinoza,,,,,bar,,,,,,,,,,,,,"Mo-Fr 11:00-24:00; Sa,Su,PH 12:00-24:00",,,,,0
+Munich,node/10130877187,POINT (11.594136 48.11057),Cafè Montana,,,,,bar,,,,Augustiner Bräu München,,,,,,,,,,no,,,,0
+Munich,node/10166953968,POINT (11.618434 48.130675),Papa Schlumpf,,,,,bar,,,,,,,,,,,,,,no,,,,0
+Munich,node/10173512733,POINT (11.612755 48.182953),Egons Underground,Willi-Graf-Straße,15,80805,München,bar,,,,,,,,,,,egonsunderground,,"Tu 20:00-23:30;Th,Sa 21:00-01:00",no,,,,0
+Munich,node/10236089661,POINT (11.564979 48.171395),Baraki,Schleißheimer Straße,246,80809,München,bar,,,,yes,,,,,,,,,Mo-Th 16:00-03:00; Fr-Su 13:00-03:00,,,,,0
+Munich,node/10245676117,POINT (11.624786 48.094252),Brauerei Hopfenhäcker,,,,,,,,,,,,https://hopfenhaecker.de/,,info@hopfenhaecker.de,,,,,,,,,0
+Munich,node/10575369555,POINT (11.605807 48.135779),Einstein 99,,,,,bar,,,,,,,,,,,,,10:30-03:00,no,,,,0
+Munich,node/10633760378,POINT (11.630272 48.118316),ZAYA,Hofangerstraße,2,,,bar,,,,,,,https://zayaloungemunich.de/,,,,zaya_lounge_munich,,,yes,,,,0
+Munich,node/10665104378,POINT (11.574154 48.170667),Zum Holzwurm,Scheidplatz,1a,80804,München,pub,,,,,,,,,,,,,Mo-Sa 15:00-24:00,limited,,outside,,0
+Munich,node/10678950902,POINT (11.534704 48.150462),Taubenschlag Bar,Schulstraße,15,80634,München,pub,,,,,,,,+49 89 12027833,info@taubenschlag-bar.de,,,,,,,outside,,0
+Munich,node/10713212040,POINT (11.58763 48.131706),Boazn - Öffentliche Bedürfnisanstalt,Karl-Müller-Weg,2,81667,München,pub,,,,,,,https://boazn.de,+49 179 49 44 395,,,,,Mo-Th 15:00-01:00; Fr-Sa 12:00-03:00; Su 12:00-01:00,,,,,0
+Munich,node/10745005592,POINT (11.581946 48.12918),Frau im Mond,Museumsinsel,1,80538,München,bar,,,,,,,https://frauimmond.bar/,+49 89 89058457,,,,,Su-We 09:00-17:00; Th-Sa 09:00-23:00,yes,yes,no,,3
+Munich,node/10754113373,POINT (11.589383 48.161443),Rabbit,Occamstraße,2,80802,München,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/10756126169,POINT (11.552906 48.11248),Kristine Braun Baby- und Kindergesundheit,Brudermühlstraße,4,,,,,,,,,,https://www.gesundheitundberatung.de,+49 89 71056299,,,,,Nach Vereinbarung,,,,,0
+Munich,node/10876108413,POINT (11.606948 48.124916),Umadum Talstation,,,,,pub,,,,,,,,,,,,,,,,,,0
+Munich,node/10876553940,POINT (11.534284 48.146577),Papalapap,,,,,pub,,,,,,,,,,,,,"Tu-Sa 21:00-05:00; Su,Mo,PH off",,,,,0
+Munich,node/10907345038,POINT (11.559465 48.145988),Juwelier Thielbier,Dachauer Straße,44,80335,München,,,,,,,,https://juwelier-thielbier.de/,,info@juwelier-thielbier.de,,https://instagram.com/juwelier_thielbier,"Goldschmied & Juwelier, Auftragsarbeiten und Reparatur von Schmuck",Tu-Fr 13:00-18:00; PH off,,,,,0
+Munich,node/11014128339,POINT (11.567716 48.135412),Horn Brautmode,Kreuzstraße,14,,,,,,,,,,,,,,,,Mo 13:00-17:00; Tu-Fr 11:00-18:00; Sa 11:00-16:00,,,,,0
+Munich,node/11014448181,POINT (11.608576 48.127524),magari,,,,,bar,,,,,,,https://www.magari-werksviertel.de/,+49 89 14330323,info@magari-werksviertel.de,,,,"Mo-Fr 11:00-20:00; Sa,Su off",,,,,0
+Munich,node/11023472302,POINT (11.536355 48.149369),Neuhausener Treff,,,,,bar,,,,,,,,,,,,,,no,,,,0
+Munich,node/11029397582,POINT (11.576143 48.140815),Centro,Theatinerstraße,14,80333,München,bar,,,,,,,https://www.bravocentro.com,,,,,,,,,,,0
+Munich,node/11034519869,POINT (11.695983 48.114836),Volvo Premium-Gebrauchtwagen,,,,,,,,,,,,https://auto-eder.de/autohaus-muenchen/,+49 89 444537865,,,,,,,,,,0
+Munich,node/11043416562,POINT (11.482776 48.122613),Haderner Bräu,Großhaderner Straße,56a,81375,München,,,,,,,,https://www.haderner.de,,,,,,Mo-Fr10:00-18:00; Sa 10:00-16:00,,,,,0
+Munich,node/11061611985,POINT (11.556328 48.119666),Bla,,,,,bar,,,,,,,,,,,,,,,,,,2
+Munich,node/11063045616,POINT (11.543811 48.118002),Sonnenstüberl,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/11063970459,POINT (11.540871 48.120694),Boomerang,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/11064451605,POINT (11.555398 48.127922),Sava Bar,Lindwurmstraße,111,80337,,bar,,,,,,,https://sava-bar.de/,+49 174 4444847,,,,,Mo-Su 15:00-01:00,,,,,0
+Munich,node/11083520787,POINT (11.59158 48.130602),Dachgarten - auf dem Gasteig,Rosenheimer Straße,5,81667,München,bar,,,,no,,,https://www.kulturdachgarten.de,,,,,,Mo-Su 17:00-00:00,no,,,,2
+Munich,node/11085831474,POINT (11.57872 48.125895),Schwarzer Hahn,Ohlmüllerstraße,8,81541,München,pub,,,,Jever;Astra;Tannenzäpfle;Augustiner Bräu München;Tegernseer;Tillmanns,,,,,,https://www.facebook.com/people/Schwarzer-Hahn/100063761494838/,,,"Tu-Th 19:00-01:00, Fr,Sa 19:00-03:00",no,,outside,,0
+Munich,node/11099431991,POINT (11.561157 48.124061),Pigalle,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/11144717776,POINT (11.576202 48.154112),Legendary,Kurfürstenstraße,11,80799,München,pub,,,,,,,https://legendary.eatbu.com/,,,,,,,,,,,0
+Munich,node/11161870727,POINT (11.567231 48.131091),Curtain Call,Pestalozzistraße,14,80469,München,bar,,,,,,,https://www.curtaincall.bar/,,info@curtaincall.bar,,,,,no,,,,0
+Munich,node/11191789561,POINT (11.580029 48.138358),Valentin,Pfisterstraße,9,80331,München,bar,,,,,,,https://www.barvalentin.de/,,servus@barvalentin.de,,,,,,,,,0
+Munich,node/11222962400,POINT (11.606892 48.124192),Dilon & Sam - Die Barbiere,,,,,,,,,,,,,,,,,,Tu-Fr 10:00-19:00,yes,,,,0
+Munich,node/11295404513,POINT (11.577674 48.11052),ROJ Bistro Bar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/11341858169,POINT (11.581767 48.133399),Terra,Baaderstraße,1,80469,München,bar,,,,,,,https://terra-bar.de/,,,,,,,yes,,,,0
+Munich,node/11413630268,POINT (11.576399 48.132776),,,,,,bar,,,,,,,https://www.deutsche-eiche.de/dachterrasse/,,,,,Dachterrasse,,,,,,0
+Munich,node/11528998069,POINT (11.482792 48.122611),Haderner Bräu München - Münchens erste Bio-Brauerei,,,,,,,,,,,,,,,,,"Haderner Bräu ist eine unabhängige Münchner Craft-Brauerei, die traditionelle bayerische Braukunst mit modernen Bierstilen und regionalem Charakter verbindet.",,,,,,0
+Munich,node/11592234515,POINT (11.590565 48.116942),Eintrach - Cafe Bistro,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/11711881768,POINT (11.576241 48.132396),Dive Bar,,,,,pub,,,,,,,,,,,,,,,,,,0
+Munich,node/11794280470,POINT (11.57034 48.130456),Blue Libelle,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/11799609729,POINT (11.53863 48.128516),Fledermaus,Ganghoferstraße,74,,,bar,,,,,,,https://fledermaus.bar/,,,,,,,,,,,0
+Munich,node/11918044948,POINT (11.585553 48.171404),Le Jardin,Leopoldstraße,153,80804,München,bar,,,,,,,,,,,https://www.instagram.com/le_jardin153/,,"Mo-Th 11:00-23:00; Fr 11:00-24:00; Sa,Su 10:00-24:00",yes,,,,0
+Munich,node/11934581810,POINT (11.554756 48.122595),Tram-Bar,,,,,bar,,,,,,,,,,,,,,no,,,,0
+Munich,node/11947139838,POINT (11.575774 48.133117),Walter & Benjamin,,,,,,,,,,,,,,,,,,Tu-Fr 11:00-19:00; Sa 10:00-19:00,limited,,,,0
+Munich,node/11978774969,POINT (11.589406 48.136711),Isarflimmern München,Praterwehrbrücke,,,,bar,,,,,,,https://isarflimmern-muc.de/,,,,,,Tu-Fr 15:00-23:00; Sa-Su 13:00-23:00,,,,,0
+Munich,node/12209166164,POINT (11.577665 48.120752),Zum Doll-Eck,,,,,bar,,,,,,,,,,,,,"Mo-Th 15:00-01:00, Fr,Sa 15:00-03:00",,,,,0
+Munich,node/12248978502,POINT (11.550223 48.125247),Diba,,,,,bar,,,,,,,,,,,,,"Mo-We, Fr 08:00-00:00; Th 10:00-00:00; Sa 10:00-15:00",,,,,0
+Munich,node/12328518730,POINT (11.485215 48.168382),,,,,,bar,,,,,,,,,,,,,17:00-22:00,,,,,0
+Munich,node/12373154773,POINT (11.571261 48.115565),Liebeleih Brautmoden,Winterstraße,9,81543,München,,,,,,,,https://www.liebeleih-brautmoden.de/,,liebeleih.brautmoden@gmail.com,,,,"""Nur nach Termin""",,,,,0
+Munich,node/12437844577,POINT (11.574948 48.133238),KYAH,Rumfordstraße,2,80469,München,bar,,,,,,,https://kyah-club.com/,,,,,,Fr-Sa 23:00-05:00,,,,,0
+Munich,node/12468979121,POINT (11.483178 48.175184),David Brauns - Physio Therapie Praxis,,,,,,,,,,,,,,,,,,"""Nach Vereinbarung""",,,,,0
+Munich,node/12524311606,POINT (11.577735 48.153665),Arri Bar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/12619184901,POINT (11.568705 48.179107),La Casina - Vinoteca Bar Cucina,Frohschammerstraße,14,80807,,bar,,,,,,,https://www.la-casina.de/,+49 89 359 8320,la-casina@t-online.de,,,,"Mo-Sa 11:30-14:30,17:00-23:00",,,,,0
+Munich,node/12696263401,POINT (11.559366 48.14177),Kaminbar,Arnulfstraße,4,80335,,bar,,,,,,,https://www.eden-hotel-wolff.de/restaurant-muenchen/,,,,,,Mo-Su 10:00-01:00,,,,,0
+Munich,node/12758478808,POINT (11.56045 48.09983),Griechische Taverne am Siebenbrunn,Siebenbrunner Straße,5,,,biergarten,,,,,,,https://www.griechische-taverne-am-siebenbrunn.de/,+49 89 20985073,info@griechische-taverne-am-siebenbrunn.de,,,,Mo-Su 11:00-23:00,yes,,,,0
+Munich,node/12771983503,POINT (11.566993 48.166819),Kosmos unter Null,Hiltenspergerstraße,82,80796,München,biergarten,,,,,,,,,,,,,Mo-Su 14:00-22:00,limited,,,,0
+Munich,node/12827771952,POINT (11.648007 48.165401),Weinhandel Groiss,Rambaldistraße,27,,,,,,,,,,https://groiss-weine.de/,+49 89 95 99 88 40,,,,Ausgesuchte Österreichische Weine für Genussmenschen,,,,,,0
+Munich,node/12827797148,POINT (11.53396 48.117126),Verbraucherhilfe24,Albert-Roßhaupter-Straße,32,81369,,,,,,,,,https://verbraucherhilfe24.de/,+49 89 124147413,info@verbraucherhilfe24.com,,,,,yes,,,,0
+Munich,node/12869319401,POINT (11.641156 48.126249),Elephant Bar,Kreillerstraße,64,,,bar,,,,,,,,,,https://www.facebook.com/people/Elephant-Bar/100063753417257/,,,,,,,,0
+Munich,node/12886442458,POINT (11.611716 48.1206),,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Munich,node/12913994303,POINT (11.578162 48.132573),el Tato,Buttermelcherstraße,9,80469,,bar,,,,,,,https://el-tato.bar/,,,,,,,,,,,0
+Munich,node/12959416600,POINT (11.590914 48.12558),Anton Braun,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/12964624501,POINT (11.580783 48.137097),Ory Bar,Neuturmstraße,1,,,bar,,,,,,,https://ory.bar,+49 89 588 054 570,,ory.bar.muc,ory.bar,,Su-Th 17:00-01:00; Fr-Sa 17:00-02:00,,,,,0
+Munich,node/12964942201,POINT (11.581867 48.139051),Seasons Bar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/12994512301,POINT (11.556142 48.133496),MHBK Rechtsanwälte Müller-Heydenreich Bierbach & Kollegen,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/13033300938,POINT (11.53047 48.152142),Mini Bar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/13049841216,POINT (11.552846 48.148918),Dermatologie Zentrum Prof. BRAUN-FALCO,,,,,doctors,,,,,,,https://www.dermatologie-braunfalco.de/,,,,,,,,,,,0
+Munich,node/13059573814,POINT (11.613666 48.114291),Zar,Rosenheimer Straße,240,81669,München,pub,,,,,,,https://zar-bar.de/,+49 89 68096036,info@zar-bar.de,,,,Tu-Th 11:00-01:00; Fr 11:00-02:00; Sa 10:00-02:00; Su 10:00-00:00; Mo 11:00-00:00,yes,,,,0
+Munich,node/13059611801,POINT (11.561456 48.139834),The Boilerman Bar,Bahnhofplatz,1,80335,,bar,,,,,,,https://boilerman-muenchen.de/,,boilerman.royalbavarian@25hours-hotels.com,,,,Su-Th 18:00-01:00; Fr-Sa 18:00-02:00,yes,,,,0
+Munich,node/13064283861,POINT (11.575934 48.112202),Löwenbräu am Grünwalder,Tegernseer Landstraße,114,81539,München,bar,,,,,,,https://loewenbraeu-am-gruenwalder.de,+49 89 800 726 48,info@xn--lwenbru-am-grnwalder-gzb40b5e.de,,,,"Tu-Sa 11:30-23:00; Su,PH 10:30-22:00",,,,,0
+Munich,node/13107696201,POINT (11.574285 48.138062),Habe die Ehre,Thiereckstraße,2,80331,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/13108859309,POINT (11.695925 48.115532),An- und Verkauf gebrauchte Kfz,,,,,,,,,,,,,+49 171 4088250,,,,,,,,,,0
+Munich,node/13150294611,POINT (11.561703 48.130845),FreiSchwimmer,,,,,bar,,,,,,,,,,,,Rooftopbar im Hotel cocoon,,,,,,0
+Munich,node/13189641339,POINT (11.565797 48.136751),Bikini Mitte,Sonnenstraße,17,80331,München,bar,,,,,,,http://www.bikini-mitte.com/,,,,,,"Tu-Th 17:00-00:00; Fr, Sa 17:00-03:00",no,,,,0
+Munich,node/13246150125,POINT (11.528428 48.116861),Toros,Albert-Roßhaupter-Straße,78,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/13275195726,POINT (11.596842 48.156845),Schokobrauner Tauchkünstler,,,,,,,,,,,,,,,,,,,,,,,0
+Munich,node/13283561951,POINT (11.596277 48.127006),Sortie,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/13283610115,POINT (11.596877 48.126964),MetroPol,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/13288867151,POINT (11.602034 48.135553),Charlatan,Einsteinstraße,50,81675,,bar,,,,Löwenbräu München,,,,,hi@charlatan.bar,,charlatan_bar,,Tu-Th 18:00-01:00; Fr-Sa 18:00-02:00,,,,,0
+Munich,node/13358185823,POINT (11.581779 48.137676),Tam Tam Treppenbar,,,,,bar,,,,,,,https://tamtam-ok.de/die-bar,,,,,,Th-Sa 21:00+,,,,,0
+Munich,node/13360142101,POINT (11.574263 48.129181),FOS place,Fraunhoferstraße,24,80469,,bar,,,,,,,,,,,,,Tu-Fr 16:00-24:00; Sa 14:00-24:00,,,,,0
+Munich,node/13430475302,POINT (11.562642 48.186633),Cafe Bar Harmony,Riesenfeldstraße,96,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/13449044901,POINT (11.572972 48.132587),Spin Bar,Theklastraße,1,,,bar,,,,,,,http://www.spin-bar.de,,,,spin_bar_,,Th-Sa 19:00-00:00,,,,,0
+Munich,node/13585540807,POINT (11.558359 48.120597),Bierschuppen,Reifenstuelstraße,9,,,,,,,,,,,+49 89 7256718,,,,,,,,,,0
+Munich,node/13609015864,POINT (11.558336 48.120593),Bierschuppen,Reifenstuelstraße,9,,,pub,,,,,,,,+49 89 7256718,,,,,Mo-Fr 11:00-22:00; Sa 12:00-22:00,,,,,0
+Munich,node/13660723301,POINT (11.602251 48.135527),Bar Chalratan,,,,,bar,,,,,,,,,,,,,Tu-Th 18:00-13:00; Fr-Sa 18:00-02:00,,,,,0
+Munich,node/13661915706,POINT (11.622234 48.130149),Street Bar,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/13695503729,POINT (11.57167 48.132193),Herr Bartels,Blumenstraße,21a,80331,München,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/13707955502,POINT (11.575727 48.136224),Dorothy Daybar,Petersplatz,10,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/13713980524,POINT (11.574418 48.129046),Monokel,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/13739885967,POINT (11.552175 48.133615),Hofbräu Bierkarusell (Frühlingsfest),,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/13755435903,POINT (11.554293 48.171121),Olympia-Alm,,,,,biergarten,,,,,,,,,,,,,,,,,,0
+Munich,node/13895754111,POINT (11.620412 48.138409),Goldfinch DerBogen,,,,,bar,,,,,,,,,,,,,,,,,,0
+Munich,node/13911993033,POINT (11.578394 48.11057),Bacchus Stüberl,Tegernseer Landstraße,155,81539,,bar,,,,,,,,+49 172 8892970,,,,,,,,,,0
+Munich,node/13962998324,POINT (11.482629 48.122647),Haderner Kleines Brauhaus - Bio-Restaurant und Biergarten,Großhaderner Straße,56a,81375,München,restaurant,,,,haderner_bio-biere;brauereiführung_münchen_mit_bierverkotsung_und_essen_im_kleinen_brauhaus,,yes,https://www.haderner.de/,,,,,,Mi-Sa 10:00-22:00,,,,,0
+Munich,node/13962998325,POINT (11.482887 48.122655),Haderner Bräu - Münchens erste Bio-Brauerei,Großhaderner Straße,56a,81375,München,,,,,,,,https://www.haderner.de,,,,,,Mo-Su 10:00-18:00,,,,,0
