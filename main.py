@@ -30,20 +30,20 @@ def geojson_to_raw_csv(
     return df
 
 df_prague = geojson_to_raw_csv(
-        input_filepath="Prague.geojson",
-        output_filepath="Prague_raw.csv",
-        city="Prague",
-    )
+    input_filepath="data/raw/Prague.geojson",
+    output_filepath="data/raw/Prague_raw.csv",
+    city="Prague",
+)
 
 df_munich = geojson_to_raw_csv(
-        input_filepath="Munchen.geojson",
-        output_filepath="Munich_raw.csv",
+        input_filepath="data/raw/Munchen.geojson",
+        output_filepath="data/raw/Munich_raw.csv",
         city="Munich",
     )
 
 df_dublin = geojson_to_raw_csv(
-        input_filepath="Dublin.geojson",
-        output_filepath="Dublin_raw.csv",
+        input_filepath="data/raw/Dublin.geojson",
+        output_filepath="data/raw/Dublin_raw.csv",
         city="Dublin",
     )
 
@@ -308,11 +308,11 @@ else:
     print("Dublin: row count mismatch.")
 
 # save standardized datasets to CSVs
-df_prague_standardized.to_csv("Prague_standardized.csv", index=False, encoding="utf-8")
+df_prague_standardized.to_csv("data/processed/Prague_standardized.csv", index=False, encoding="utf-8")
 
-df_munich_standardized.to_csv("Munich_standardized.csv", index=False, encoding="utf-8")
+df_munich_standardized.to_csv("data/processed/Munich_standardized.csv", index=False, encoding="utf-8")
 
-df_dublin_standardized.to_csv("Dublin_standardized.csv", index=False, encoding="utf-8")
+df_dublin_standardized.to_csv("data/processed/Dublin_standardized.csv", index=False, encoding="utf-8")
 
 # concat into one file
 df_all_cities = pd.concat(
@@ -337,7 +337,7 @@ else:
     print("df_all_cities merge failed.")
 
 # save merged CSV
-df_all_cities.to_csv("All_cities_standardized.csv", index=False, encoding="utf-8",)
+df_all_cities.to_csv("data/processed/All_cities_standardized.csv", index=False, encoding="utf-8",)
 
 
 '''
