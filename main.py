@@ -346,41 +346,9 @@ else:
 df_all_cities.to_csv("All_cities_standardized.csv", index=False, encoding="utf-8",)
 
 
-'''
-next step: verify that a place is actually related to a beer drinking culture 
 
-- check amenity is among ['biergarten',  'bar', 'pub']
-pub: 1115
-bar: 927
-biergarten: 168;
+# verify that a place is actually related to a beer drinking culture
 
-- check bar is 'yes'
-yes: 3;
-
-- check beer category is not NA/NaN:
-industrial: 5
-craft_beer: 1
-Kácov: 1
-regional: 1
-draught: 1;
-
-- check beer_garden is 'yes'
-yes: 2;
-
-- check brewery is not Na/NaN
-114 brewery types;
-
-- check drink_beer is among ['yes', 'draught', 'served', 'bottled']
-yes: 21
-draught: 8
-served: 1
-bottled: 1;
-
-- check microbrewery is 'yes'
-yes: 58;
-
-- check if the name is beer-related;
-'''
 print(df_all_cities["amenity"].value_counts(dropna=False))
 print(df_all_cities["bar"].value_counts(dropna=False))
 print(df_all_cities["beer"].value_counts(dropna=False))
@@ -559,7 +527,7 @@ print(
     .sum()
 )
 
-# based on name & city combincation.
+# based on name & city combination.
 # output: we've got 40 records => check if the addresses match as well or it's just another branch
 duplicate_names = (
     df_beer_places[
@@ -626,10 +594,6 @@ Sportbar, - it's a bar chain
 Turnovská pivnice, - it's a bar chain
 U Sudu. - duplicate
 
-CURRENT ISSUES: 
-name validation issue - especially for Prague-based pubs. Street names like 'U Měšťanského pivovaru' got included. 
-look into the possible filter based on geometry data. 
-
 '''
 # duplicates confirmed by manual review. dict - duplicate: canonical
 canonical_mapping = {
@@ -676,8 +640,6 @@ print(f"Remaining duplicated osm_ids: {remaining_duplicates}")
 print(f"All OSM objects: {len(df_all_cities)}")
 print(f"Beer-related places: {len(df_beer_places)}")
 print(df_beer_places.groupby("city").size())
-
-print(df_beer_places.head())
 
 
 # add analysis and viz files
