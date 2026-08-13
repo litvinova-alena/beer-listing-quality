@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 import pandas as pd
-# visualization
 
 # the 1st viz combines 3 charts: 1. Average Listing Quality Score, 2. Average Discoverability Score,
 # and 3. Average Information Completeness Score
@@ -190,7 +189,7 @@ def create_visualizations(
     }).set_index("city")
 
     city_scores = city_scores.join(city_info)
-    print(city_scores)
+    #print(city_scores)
 
     plt.figure(figsize=(9,7))
 

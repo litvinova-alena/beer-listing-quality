@@ -1,6 +1,5 @@
 import pandas as pd
 
-
 ''''
 LISTING QUALITY SCORE
 
@@ -140,8 +139,8 @@ def calculate_city_scores(
     df_beer_places_scored: pd.DataFrame
     ) -> pd.DataFrame:
 
-    # ensure min and max values are within the expected range
-    print(df_beer_places_scored["listing_quality_score"].describe())
+    # ensure min and max values are within the expected range. outcome: all is valid
+    #print(df_beer_places_scored["listing_quality_score"].describe())
 
     city_scores = (
         df_beer_places_scored

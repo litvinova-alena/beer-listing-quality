@@ -1,5 +1,7 @@
 pandas
 geopandas
 matplotlib
+psycopg2-binary
+python-dotenv
 
 

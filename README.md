@@ -48,10 +48,12 @@ beer-listing-quality/
 │   ├── raw/
 │   └── processed/
 ├── main.py
-├── analysis.py
+├── eda.py
 ├── database.py
+├── analysis.py
 ├── visualization.py
 ├── requirements.txt
+├── .env
 └── README.md
 ```
 
