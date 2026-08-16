@@ -111,6 +111,18 @@ Install the required dependencies:
 pip install -r requirements.txt
 ```
 
+## Environment Variables
+
+Create a `.env` file in the project root with your PostgreSQL credentials:
+
+```env
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=beer_places
+DB_USER=your_user
+DB_PASSWORD=your_password
+```
+
 ## Running the Project
 
 Run the complete pipeline with:
@@ -121,22 +133,23 @@ python main.py
 
 ## Results
 
-Beyond the listing quality scores, it's useful to place each city's dataset
-in context using population and area as a baseline for the number of
-identified beer-related places:
+| City   | Places | Mean Score | Median Score | Min Score | Max Score | Mean Discoverability | Mean Completeness |
+|--------|-------:|-----------:|--------------:|----------:|----------:|-----------------------:|---------------------:|
+| Munich |    661 |      51.74 |          52.0 |      13.0 |      96.0 |                  21.45 |                30.29 |
+| Dublin |    548 |      48.94 |          48.0 |      12.0 |      91.0 |                  20.84 |                28.10 |
+| Prague |    972 |      43.61 |          40.0 |       0.0 |      90.5 |                  19.96 |                23.66 |
 
-- **Prague** leads in the total number of identified beer-related places,
-  giving it the largest dataset to evaluate for listing quality.
-- **Munich** combines a large population with a comparatively compact
-  geographical area, suggesting a denser concentration of venues per km².
-- **Dublin** has fewer establishments in absolute terms, but a high
-  concentration relative to its population.
+**Munich** has the highest average listing quality score (51.74), leading on
+both discoverability and information completeness. 
 
-This context matters for interpreting the listing quality results: a city
-with more identified places (e.g. Prague) offers a larger sample for
-assessing average completeness, while cities with fewer, more concentrated
-venues (e.g. Dublin) may be easier to fully document and therefore worth
-comparing against for best practices in listing maintenance.
+**Dublin** follows closely behind. 
+
+**Prague**, despite having the largest number of identified places
+(972), has the lowest average score — driven mainly by weaker information
+completeness (23.66 vs. 30.29 in Munich) — indicating that a large share of
+Prague listings are missing key details such as address, website, or opening
+hours. Prague's minimum score of 0.0 suggests at least one listing has almost
+no usable information beyond its beer-related classification.
 
 
 
