@@ -104,16 +104,14 @@ def upload_beer_places(df: pd.DataFrame) -> None:
 
     try:
         with connection.cursor() as cursor:
-            cursor.executemany(
-                insert_query,
-                records
-            )
-
+            cursor.executemany(insert_query, records)
         connection.commit()
 
         print(
             f"{len(records)} beer places uploaded to PostgreSQL."
         )
-
+    except Exception:
+        connection.rollback()
+        raise
     finally:
         connection.close()
