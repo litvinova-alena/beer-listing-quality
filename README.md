@@ -53,8 +53,39 @@ beer-listing-quality/
 ├── analysis.py
 ├── visualization.py
 ├── requirements.txt
+├── .gitignore
 ├── .env
 └── README.md
+```
+## Listing Quality Score
+
+Each beer-related place receives a Listing Quality Score from 0 to 100.
+
+### Discoverability — 30 points
+
+- Primary category (`amenity`) — 20 points
+- Additional beer-related classification — 10 points
+
+### Information Completeness — 70 points
+
+| Attribute | Points |
+|---|---:|
+| Address | 20 |
+| Website | 12 |
+| Opening hours | 12 |
+| Phone | 8 |
+| Description | 5 |
+| Accessibility | 5 |
+| Social media | 3 |
+| Email | 2 |
+| Other information | 3 |
+| **Total** | **70** |
+
+The final score is calculated as:
+
+```text
+Listing Quality Score =
+Discoverability Score + Information Completeness Score
 ```
 
 ## Data Quality Considerations
@@ -72,8 +103,19 @@ manually validating potential duplicate venues.
 These steps reduce obvious inconsistencies but do not guarantee that all
 relevant venues are present or correctly classified.
 
-## Results
-TBA
+## Requirements
 
-## Visualizations
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Running the Project
+
+Run the complete pipeline with:
+
+```bash
+python main.py
+```
 
