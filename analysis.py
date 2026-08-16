@@ -1,29 +1,5 @@
 import pandas as pd
 
-''''
-LISTING QUALITY SCORE
-
-DISCOVERABILITY: max 30 points
-
-Primary category (amenity)          20
-Additional beer-related tag     10
-
-
-INFORMATION COMPLETENESS: max 70 points
-
-Address                             20
-Website                             12
-Opening hours                       12
-Phone                                8
-Description                          5
-Accessibility                        5
-Social media                         3
-Email                                2
-Other information                    3
-
-TOTAL                              100
-'''
-
 def calculate_listing_score(df: pd.DataFrame) -> pd.DataFrame:
     df = df.copy()
     # 1. DISCOVERABILITY SCORE: max 30 points

@@ -119,3 +119,8 @@ Run the complete pipeline with:
 python main.py
 ```
 
+## Visualizations
+
+![City scores comparison](data/processed/plots/city_scores_comparison.png)
+![Population vs area](data/processed/plots/population_area_bubble.png)
+

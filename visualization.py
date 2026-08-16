@@ -1,12 +1,16 @@
 import matplotlib.pyplot as plt
 import pandas as pd
+import os
 
 # the 1st viz combines 3 charts: 1. Average Listing Quality Score, 2. Average Discoverability Score,
 # and 3. Average Information Completeness Score
 
 def create_visualizations(
-    city_scores: pd.DataFrame
+    city_scores: pd.DataFrame,
+        output_dir: str = "data/processed/visualizations",
 ) -> None:
+    os.makedirs(output_dir, exist_ok=True)
+
     fig, axes = plt.subplots(
         nrows=1,
         ncols=3,
@@ -177,6 +181,16 @@ def create_visualizations(
         w_pad=3
     )
 
+    scores_comparison_path = os.path.join(
+        output_dir, "city_scores_comparison.png"
+    )
+
+    fig.savefig(
+        scores_comparison_path,
+        dpi=150,
+        bbox_inches="tight"
+    )
+
     #plt.show()
 
     # the 2nd viz shows a scatter plot where x = population, y = area, bubble size = N of beer places
@@ -191,7 +205,7 @@ def create_visualizations(
     city_scores = city_scores.join(city_info)
     #print(city_scores)
 
-    plt.figure(figsize=(9,7))
+    bubble_fig = plt.figure(figsize=(9,7))
 
     bubble_size = city_scores["places"] * 3
 
@@ -241,6 +255,17 @@ def create_visualizations(
     ax.spines["right"].set_visible(False)
 
     plt.tight_layout()
+
+    bubble_path = os.path.join(
+        output_dir, "population_area_bubble.png"
+    )
+
+    bubble_fig.savefig(
+        bubble_path,
+        dpi=150,
+        bbox_inches="tight"
+    )
+
     plt.show()
 
 '''
