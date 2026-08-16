@@ -165,6 +165,9 @@ def inspect_beer_tags(
     print(df_all_cities["drink_beer"].value_counts(dropna=False))
     print(df_all_cities["microbrewery"].value_counts(dropna=False))
 
+# a tag is "positive" only if it's present AND not explicitly set to "no"
+def has_positive_tag(series: pd.Series) -> pd.Series:
+    return series.notna() & (series.astype(str).str.strip().str.lower() != "no")
 
 def inspect_name_only_matches(
     df_all_cities: pd.DataFrame
@@ -176,14 +179,14 @@ def inspect_name_only_matches(
 
     # EDA showed that for the rest we are interested in all values but NA
     beer_category_match = (
-            df_all_cities["bar"].notna()
-            | df_all_cities["beer"].notna()
-            | df_all_cities["beer_garden"].notna()
-            | df_all_cities["brewery"].notna()
-            | df_all_cities["drink_beer"].notna()
-            | df_all_cities["microbrewery"].notna()
+            has_positive_tag(df_all_cities["bar"])
+            | has_positive_tag(df_all_cities["beer"])
+            | has_positive_tag(df_all_cities["beer_garden"])
+            | has_positive_tag(df_all_cities["brewery"])
+            | has_positive_tag(df_all_cities["drink_beer"])
+            | has_positive_tag(df_all_cities["microbrewery"])
     )
-
+    
     # use the name as an additional signal to find potential beer-related places
     beer_name_pattern = (
         r"\bbeer\b"

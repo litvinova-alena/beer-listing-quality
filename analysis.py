@@ -23,11 +23,11 @@ def calculate_listing_score(df: pd.DataFrame) -> pd.DataFrame:
     ]
 
     df["score_beer_classification"] = (
-        df[beer_category_columns]
-        .notna()
-        .any(axis=1)
-        .astype(int)
-        * 10
+            df[beer_category_columns]
+            .apply(lambda col: col.notna() & (col.astype(str).str.lower() != "no"))
+            .any(axis=1)
+            .astype(int)
+            * 10
     )
 
     df["discoverability_score"] = (

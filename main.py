@@ -211,18 +211,22 @@ else:
 # save merged CSV
 df_all_cities.to_csv("data/processed/All_cities_standardized.csv", index=False, encoding="utf-8",)
 
+# a tag is "positive" only if it's present AND not explicitly set to "no"
+def has_positive_tag(series: pd.Series) -> pd.Series:
+    return series.notna() & (series.astype(str).str.strip().str.lower() != "no")
+
 amenity_match = (
     df_all_cities["amenity"]
     .isin(["biergarten", "bar", "pub"])
 )
 
 beer_category_match = (
-    df_all_cities["bar"].notna()
-    | df_all_cities["beer"].notna()
-    | df_all_cities["beer_garden"].notna()
-    | df_all_cities["brewery"].notna()
-    | df_all_cities["drink_beer"].notna()
-    | df_all_cities["microbrewery"].notna()
+    has_positive_tag(df_all_cities["bar"])
+    | has_positive_tag(df_all_cities["beer"])
+    | has_positive_tag(df_all_cities["beer_garden"])
+    | has_positive_tag(df_all_cities["brewery"])
+    | has_positive_tag(df_all_cities["drink_beer"])
+    | has_positive_tag(df_all_cities["microbrewery"])
 )
 
 
