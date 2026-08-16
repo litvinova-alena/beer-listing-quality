@@ -119,6 +119,27 @@ Run the complete pipeline with:
 python main.py
 ```
 
+## Results
+
+Beyond the listing quality scores, it's useful to place each city's dataset
+in context using population and area as a baseline for the number of
+identified beer-related places:
+
+- **Prague** leads in the total number of identified beer-related places,
+  giving it the largest dataset to evaluate for listing quality.
+- **Munich** combines a large population with a comparatively compact
+  geographical area, suggesting a denser concentration of venues per km².
+- **Dublin** has fewer establishments in absolute terms, but a high
+  concentration relative to its population.
+
+This context matters for interpreting the listing quality results: a city
+with more identified places (e.g. Prague) offers a larger sample for
+assessing average completeness, while cities with fewer, more concentrated
+venues (e.g. Dublin) may be easier to fully document and therefore worth
+comparing against for best practices in listing maintenance.
+
+
+
 ## Visualizations
 City scores comparison
 ![City scores comparison](data/processed/visualizations/city_scores_comparison.png)
