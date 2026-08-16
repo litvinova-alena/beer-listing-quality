@@ -1,5 +1,8 @@
 import geopandas as gpd
 import pandas as pd
+from analysis import calculate_listing_score, calculate_city_scores
+from visualization import create_visualizations
+from database import upload_beer_places
 
 pd.set_option("display.max_columns", None)
 pd.set_option("display.max_colwidth", None)
@@ -29,23 +32,6 @@ def geojson_to_raw_csv(
 
     return df
 
-df_prague = geojson_to_raw_csv(
-        input_filepath="data/raw/Prague.geojson",
-        output_filepath="data/raw/Prague_raw.csv",
-        city="Prague",
-    )
-
-df_munich = geojson_to_raw_csv(
-        input_filepath="data/raw/Munchen.geojson",
-        output_filepath="data/raw/Munich_raw.csv",
-        city="Munich",
-    )
-
-df_dublin = geojson_to_raw_csv(
-        input_filepath="data/raw/Dublin.geojson",
-        output_filepath="data/raw/Dublin_raw.csv",
-        city="Dublin",
-    )
 
 # due to language differences and specifics of local mapping, the value can be stored in one of multiple columns.
 # standardize the structure of city datasets before merging them
@@ -157,243 +143,263 @@ def standardize_city_df(df: pd.DataFrame) -> pd.DataFrame:
 
     return standardized
 
-# apply function to all 3 dfs
-df_prague_standardized = standardize_city_df(df_prague)
-df_munich_standardized = standardize_city_df(df_munich)
-df_dublin_standardized = standardize_city_df(df_dublin)
-
-# verify if all data has been processed successfully
-# check the df length for Prague
-if len(df_prague_standardized) == len(df_prague):
-    print("Prague: row count preserved.")
-else:
-    print("Prague: row count mismatch.")
-
-# check the df length for Munich
-if len(df_munich_standardized) == len(df_munich):
-    print("Munich: row count preserved.")
-else:
-    print("Munich: row count mismatch.")
-
-# check the df length for Dublin
-if len(df_dublin_standardized) == len(df_dublin):
-    print("Dublin: row count preserved.")
-else:
-    print("Dublin: row count mismatch.")
-
-# save standardized datasets to CSVs
-df_prague_standardized.to_csv("data/processed/Prague_standardized.csv", index=False, encoding="utf-8")
-df_munich_standardized.to_csv("data/processed/Munich_standardized.csv", index=False, encoding="utf-8")
-df_dublin_standardized.to_csv("data/processed/Dublin_standardized.csv", index=False, encoding="utf-8")
-
-# concat dfs into one file
-df_all_cities = pd.concat(
-    [
-        df_prague_standardized,
-        df_munich_standardized,
-        df_dublin_standardized,
-    ],
-    ignore_index=True,
-)
-
-# check if the merged CSV returns an expected number of rows
-rows_number_to_return = (
-    len(df_prague_standardized)
-    + len(df_munich_standardized)
-    + len(df_dublin_standardized)
-)
-
-if len(df_all_cities) == rows_number_to_return:
-    print("df_all_cities merge completed successfully.")
-else:
-    print("df_all_cities merge failed.")
-
-# save merged CSV
-df_all_cities.to_csv("data/processed/All_cities_standardized.csv", index=False, encoding="utf-8",)
-
 # a tag is "positive" only if it's present AND not explicitly set to "no"
 def has_positive_tag(series: pd.Series) -> pd.Series:
     return series.notna() & (series.astype(str).str.strip().str.lower() != "no")
 
-amenity_match = (
-    df_all_cities["amenity"]
-    .isin(["biergarten", "bar", "pub"])
-)
 
-beer_category_match = (
-    has_positive_tag(df_all_cities["bar"])
-    | has_positive_tag(df_all_cities["beer"])
-    | has_positive_tag(df_all_cities["beer_garden"])
-    | has_positive_tag(df_all_cities["brewery"])
-    | has_positive_tag(df_all_cities["drink_beer"])
-    | has_positive_tag(df_all_cities["microbrewery"])
-)
+def run_pipeline():
+    df_prague = geojson_to_raw_csv(
+            input_filepath="data/raw/Prague.geojson",
+            output_filepath="data/raw/Prague_raw.csv",
+            city="Prague",
+        )
 
+    df_munich = geojson_to_raw_csv(
+            input_filepath="data/raw/Munchen.geojson",
+            output_filepath="data/raw/Munich_raw.csv",
+            city="Munich",
+        )
 
-# manually validated beer-related places
-# for more info on validation check eda.py
-manual_include_osm_ids = {
-    "node/8638179435",
-    "way/525723347",
-    "node/8638179434",
-    "node/4243300486",
-    "node/13787014302",
-    "node/1722092770",
-    "node/8873226491",
-    "node/1946542433",
-    "node/11039851463",
-    "relation/14981653",
-    "node/330643006",
-    "node/12088464755",
-    "node/3620482763",
-    "node/13435036495",
-    "node/305079222",
-    "node/3761143840",
-    "node/3900293198",
-    "node/3393593685",
-    "node/3740683728",
-    "node/11936540091",
-    "node/3278080262",
-    "way/379800530",
-    "node/350569091",
-    "node/611414004",
-    "node/6622281477",
-    "node/3726743656",
-    "node/6924755785",
-    "node/296760797",
-    "way/62147117",
-    "node/13423839001",
-    "node/5996532329",
-    "node/585219608",
-    "node/296778915",
-    "node/1096063711",
-    "node/5116818696",
-}
-
-manual_include_match = (
-    df_all_cities["osm_id"]
-    .isin(manual_include_osm_ids)
-)
-
-# final beer-related filter
-beer_filter = (
-    amenity_match
-    | beer_category_match
-    | manual_include_match
-)
+    df_dublin = geojson_to_raw_csv(
+            input_filepath="data/raw/Dublin.geojson",
+            output_filepath="data/raw/Dublin_raw.csv",
+            city="Dublin",
+        )
 
 
-# save to one df
-df_beer_places = df_all_cities[beer_filter].copy()
 
-# check if the number of rows and amentiy distribution make sense
-# output: rows are ok, amenity returns 21 records with NaN. those were affected by the combination with other categories
-print("All places:", len(df_all_cities))
-print("Beer places (before deduplication):", len(df_beer_places))
 
-#print(df_beer_places["amenity"].value_counts(dropna=False))
+    # apply function to all 3 dfs
+    df_prague_standardized = standardize_city_df(df_prague)
+    df_munich_standardized = standardize_city_df(df_munich)
+    df_dublin_standardized = standardize_city_df(df_dublin)
 
-# make cross-check between amenity=restaurant and filtered_beer_places
-'''
-print(
-    df_beer_places.loc[
-        df_beer_places["amenity"] == "restaurant",
+    # verify if all data has been processed successfully
+    # check the df length for Prague
+    if len(df_prague_standardized) == len(df_prague):
+        print("Prague: row count preserved.")
+    else:
+        print("Prague: row count mismatch.")
+
+    # check the df length for Munich
+    if len(df_munich_standardized) == len(df_munich):
+        print("Munich: row count preserved.")
+    else:
+        print("Munich: row count mismatch.")
+
+    # check the df length for Dublin
+    if len(df_dublin_standardized) == len(df_dublin):
+        print("Dublin: row count preserved.")
+    else:
+        print("Dublin: row count mismatch.")
+
+    # save standardized datasets to CSVs
+    df_prague_standardized.to_csv("data/processed/Prague_standardized.csv", index=False, encoding="utf-8")
+    df_munich_standardized.to_csv("data/processed/Munich_standardized.csv", index=False, encoding="utf-8")
+    df_dublin_standardized.to_csv("data/processed/Dublin_standardized.csv", index=False, encoding="utf-8")
+
+    # concat dfs into one file
+    df_all_cities = pd.concat(
         [
-            "city",
-            "name",
-            "amenity",
-            "bar",
-            "beer",
-            "beer_garden",
-            "brewery",
-            "drink_beer",
-            "microbrewery",
-        ]
-    ].to_string(index=False)
-)
-'''
+            df_prague_standardized,
+            df_munich_standardized,
+            df_dublin_standardized,
+        ],
+        ignore_index=True,
+    )
 
-# remove records with missing or empty names
-df_beer_places = df_beer_places[
-    df_beer_places["name"].notna()
-    & (df_beer_places["name"].str.strip() != "")
-].copy()
+    # check if the merged CSV returns an expected number of rows
+    rows_number_to_return = (
+        len(df_prague_standardized)
+        + len(df_munich_standardized)
+        + len(df_dublin_standardized)
+    )
 
-print(f"Records after removing missing names: {len(df_beer_places)}")
+    if len(df_all_cities) == rows_number_to_return:
+        print("df_all_cities merge completed successfully.")
+    else:
+        print("df_all_cities merge failed.")
 
-# duplicates confirmed by manual review. dict - duplicate: canonical
-canonical_mapping = {
-    # Dublin
-    "way/1080799552": "node/12101176582",   # Love Tempo
-    "way/269759932": "way/269759933",       # The Bailey
-    "way/657456424": "way/233516827",       # The Silver Penny
-    "way/1022471505": "way/296153007",      # The Full Shilling
-
-    # Munich
-    "node/253247251": "node/496923895",     # Forschungsbrauerei
-    "node/409497629": "node/2335083230",    # München '72
-    "node/307528347": "way/126131342",      # Paulaner Bräuhaus
-    "node/2255943604": "node/12913994303",  # el Tato
-    "node/277253196": "node/508830396",     # Isarflimmern
-    "way/821822141": "node/409497601",      # M. C. Mueller
-    "node/13755435903": "way/502190647",    # Olympia-Alm
-
-    # Prague
-    "node/3247900661": "way/1084115534",    # KD Barikádníků
-    "node/7116196387": "node/13653818501",  # Bohemia Goose
-    "node/9726178174": "node/4958181423",   # Crazy Daisy
-    "node/7102061556": "node/13013839901",  # My People Bar
-    "node/1409474794": "node/13595671942",  # Na Hřišti
-    "node/5649349113": "node/3019724721",   # U Sudu
-}
-
-# remove manually confirmed duplicates
-df_beer_places = df_beer_places[
-    ~df_beer_places["osm_id"].isin(canonical_mapping.keys())
-].copy()
-
-print(f"Records after removing name&city duplicates: {len(df_beer_places)}")
-
-remaining_duplicates = (
-    df_beer_places["osm_id"]
-    .isin(canonical_mapping.keys())
-    .sum()
-)
-
-print(f"Remaining duplicated osm_ids: {remaining_duplicates}")
-
-# final check
-print(f"All OSM objects: {len(df_all_cities)}")
-print(f"Beer-related places: {len(df_beer_places)}")
-print(df_beer_places.groupby("city").size())
-
-# save df_beer_places to a csv
-df_beer_places.to_csv(
-    "data/processed/beer_places.csv",
-    index=False,
-    encoding="utf-8"
-)
+    # save merged CSV
+    df_all_cities.to_csv("data/processed/All_cities_standardized.csv", index=False, encoding="utf-8",)
 
 
+    amenity_match = (
+        df_all_cities["amenity"]
+        .isin(["biergarten", "bar", "pub"])
+    )
 
-from analysis import calculate_listing_score, calculate_city_scores
-from visualization import create_visualizations
-from database import upload_beer_places
+    beer_category_match = (
+        has_positive_tag(df_all_cities["bar"])
+        | has_positive_tag(df_all_cities["beer"])
+        | has_positive_tag(df_all_cities["beer_garden"])
+        | has_positive_tag(df_all_cities["brewery"])
+        | has_positive_tag(df_all_cities["drink_beer"])
+        | has_positive_tag(df_all_cities["microbrewery"])
+    )
 
 
-# upload final cleaned dataset to PostgreSQL
-upload_beer_places(df_beer_places)
+    # manually validated beer-related places
+    # for more info on validation check eda.py
+    manual_include_osm_ids = {
+        "node/8638179435",
+        "way/525723347",
+        "node/8638179434",
+        "node/4243300486",
+        "node/13787014302",
+        "node/1722092770",
+        "node/8873226491",
+        "node/1946542433",
+        "node/11039851463",
+        "relation/14981653",
+        "node/330643006",
+        "node/12088464755",
+        "node/3620482763",
+        "node/13435036495",
+        "node/305079222",
+        "node/3761143840",
+        "node/3900293198",
+        "node/3393593685",
+        "node/3740683728",
+        "node/11936540091",
+        "node/3278080262",
+        "way/379800530",
+        "node/350569091",
+        "node/611414004",
+        "node/6622281477",
+        "node/3726743656",
+        "node/6924755785",
+        "node/296760797",
+        "way/62147117",
+        "node/13423839001",
+        "node/5996532329",
+        "node/585219608",
+        "node/296778915",
+        "node/1096063711",
+        "node/5116818696",
+    }
 
-# run analysis
-df_beer_places_scored = calculate_listing_score(
-    df_beer_places
-)
+    manual_include_match = (
+        df_all_cities["osm_id"]
+        .isin(manual_include_osm_ids)
+    )
 
-city_scores = calculate_city_scores(
-    df_beer_places_scored
-)
+    # final beer-related filter
+    beer_filter = (
+        amenity_match
+        | beer_category_match
+        | manual_include_match
+    )
 
-# add visualizations
-create_visualizations(
-    city_scores
-)
+
+    # save to one df
+    df_beer_places = df_all_cities[beer_filter].copy()
+
+    # check if the number of rows and amentiy distribution make sense
+    print("All places:", len(df_all_cities))
+    print("Beer places (before deduplication):", len(df_beer_places))
+
+    #print(df_beer_places["amenity"].value_counts(dropna=False))
+
+    # make cross-check between amenity=restaurant and filtered_beer_places
+    '''
+    print(
+        df_beer_places.loc[
+            df_beer_places["amenity"] == "restaurant",
+            [
+                "city",
+                "name",
+                "amenity",
+                "bar",
+                "beer",
+                "beer_garden",
+                "brewery",
+                "drink_beer",
+                "microbrewery",
+            ]
+        ].to_string(index=False)
+    )
+    '''
+
+    # remove records with missing or empty names
+    df_beer_places = df_beer_places[
+        df_beer_places["name"].notna()
+        & (df_beer_places["name"].str.strip() != "")
+    ].copy()
+
+    print(f"Records after removing missing names: {len(df_beer_places)}")
+
+    # duplicates confirmed by manual review. dict - duplicate: canonical
+    canonical_mapping = {
+        # Dublin
+        "way/1080799552": "node/12101176582",   # Love Tempo
+        "way/269759932": "way/269759933",       # The Bailey
+        "way/657456424": "way/233516827",       # The Silver Penny
+        "way/1022471505": "way/296153007",      # The Full Shilling
+
+        # Munich
+        "node/253247251": "node/496923895",     # Forschungsbrauerei
+        "node/409497629": "node/2335083230",    # München '72
+        "node/307528347": "way/126131342",      # Paulaner Bräuhaus
+        "node/2255943604": "node/12913994303",  # el Tato
+        "node/277253196": "node/508830396",     # Isarflimmern
+        "way/821822141": "node/409497601",      # M. C. Mueller
+        "node/13755435903": "way/502190647",    # Olympia-Alm
+
+        # Prague
+        "node/3247900661": "way/1084115534",    # KD Barikádníků
+        "node/7116196387": "node/13653818501",  # Bohemia Goose
+        "node/9726178174": "node/4958181423",   # Crazy Daisy
+        "node/7102061556": "node/13013839901",  # My People Bar
+        "node/1409474794": "node/13595671942",  # Na Hřišti
+        "node/5649349113": "node/3019724721",   # U Sudu
+    }
+
+    # remove manually confirmed duplicates
+    df_beer_places = df_beer_places[
+        ~df_beer_places["osm_id"].isin(canonical_mapping.keys())
+    ].copy()
+
+    print(f"Records after removing name & city duplicates: {len(df_beer_places)}")
+
+    remaining_duplicates = (
+        df_beer_places["osm_id"]
+        .isin(canonical_mapping.keys())
+        .sum()
+    )
+
+    print(f"Remaining duplicated osm_ids: {remaining_duplicates}")
+
+    # final check
+    print(f"All OSM objects: {len(df_all_cities)}")
+    print(f"Beer-related places: {len(df_beer_places)}")
+    print(df_beer_places.groupby("city").size())
+
+    # save df_beer_places to a csv
+    df_beer_places.to_csv(
+        "data/processed/beer_places.csv",
+        index=False,
+        encoding="utf-8"
+    )
+
+
+    # upload final cleaned dataset to PostgreSQL
+    upload_beer_places(df_beer_places)
+
+    # run analysis
+    df_beer_places_scored = calculate_listing_score(
+        df_beer_places
+    )
+
+    city_scores = calculate_city_scores(
+        df_beer_places_scored
+    )
+
+    # add visualizations
+    create_visualizations(
+        city_scores
+    )
+
+if __name__ == "__main__":
+    run_pipeline()
